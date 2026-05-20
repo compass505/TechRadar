@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tech Radar 505</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <span class="brand-mark">N</span>
+          <div>
+            <strong>Tech Radar 505</strong>
+            <small>Yesterday, edited</small>
+          </div>
+        </div>
+
+        <nav id="primary-nav" class="nav"></nav>
+
+        <label class="edition-picker">
+          <span>表示日</span>
+          <select id="edition-select"></select>
+        </label>
+      </aside>
+
+      <main class="content">
+        <header class="page-header">
+          <div>
+            <p id="eyebrow" class="eyebrow"></p>
+            <h1 id="page-title"></h1>
+          </div>
+          <p id="page-meta" class="page-meta"></p>
+        </header>
+
+        <section id="page-content"></section>
+      </main>
+    </div>
+
+    <template id="story-card-template">
+      <article class="story-card">
+        <div class="story-topline">
+          <div class="badges"></div>
+          <button class="favorite-button" type="button" aria-label="お気に入りに追加">☆</button>
+        </div>
+        <h3></h3>
+        <div class="story-meta"></div>
+        <a class="story-link" target="_blank" rel="noreferrer">元記事を開く</a>
+      </article>
+    </template>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
