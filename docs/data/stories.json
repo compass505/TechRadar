@@ -24,26 +24,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "8661b8dc396b",
-    "title": "アップル次期CEOは「顔のデバイス」を完成させられるか？ ティム・クック氏が残した課題",
-    "published_date": "2026-05-04",
-    "importance_score": 1,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247121/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "fe94fd1d0566",
     "title": "シチズン アテッサ、スターウォーズ新作の限定コラボモデル",
     "published_date": "2026-05-04",
@@ -172,6 +152,26 @@
     "has_itmedia_article": false
   },
   {
+    "id": "4223ba2bc7ac",
+    "title": "アップル次期CEOは「顔のデバイス」を完成させられるか？ ティム・クック氏が残した課題",
+    "published_date": "2026-05-05",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247121/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
     "id": "636436d17cc4",
     "title": "小寺信良のIT大作戦：ポタ電で7年連続国内トップシェア、Jackeryの強みとは？",
     "published_date": "2026-05-05",
@@ -192,28 +192,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "b440715ee0c3",
-    "title": "AIエージェント搭載スマホ「Natural AI Phone」実機レビュー 将来性はあるのだろうが現状は…",
-    "published_date": "2026-05-06",
-    "importance_score": 1,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247206/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "fd11c8de559c",
     "title": "Amazon、物流サービスを外部に開放 「物流版AWS」",
     "published_date": "2026-05-06",
@@ -232,51 +210,6 @@
     "ai_relevance_score": 0,
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "b4c0f2528295",
-    "title": "Amazon、自社配送網を他社に開放 物流版AWS実現へ",
-    "published_date": "2026-05-06",
-    "importance_score": 1,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247192/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "81ad87d9ca35",
-    "title": "Anthropic、「Claude」の利用上限引き上げ Space XのGPU資源活用で",
-    "published_date": "2026-05-06",
-    "importance_score": 3,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247194/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
@@ -371,68 +304,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "ba5c263a617f",
-    "title": "「OpenAI製スマホ」、2028年までに3000万台出荷の予測",
-    "published_date": "2026-05-06",
-    "importance_score": 2,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247185/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "8b437fdf1355",
-    "title": "アップル、チップ不足でサムスン・インテルに接近か TSMC依存の脱却を模索",
-    "published_date": "2026-05-06",
-    "importance_score": 1,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247198/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "8681787b9efb",
-    "title": "アップル、一部のiPhone 16 / 15 Pro購入者に総額390億円を支払い",
-    "published_date": "2026-05-06",
-    "importance_score": 1,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247176/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "643ca16726ce",
     "title": "アンソロピック、Claudeに金融機関向け新機能 市場調査・月次決算など",
     "published_date": "2026-05-06",
@@ -451,110 +322,6 @@
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "9755400dd798",
-    "title": "グーグルDeepMind、宇宙MMO「EVE Online」でAIを訓練へ",
-    "published_date": "2026-05-06",
-    "importance_score": 1,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247222/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "9d7bda6e1094",
-    "title": "グーグル、Android特化のイベントを5月13日に開催へ 視聴方法はこちら",
-    "published_date": "2026-05-06",
-    "importance_score": 1,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247201/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "aa6d05c5759d",
-    "title": "グーグル「Chrome」、4GBのAIモデルを無断インストール 専門家が懸念",
-    "published_date": "2026-05-06",
-    "importance_score": 1,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247196/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "d9d6efae8c51",
-    "title": "ソニー、PS Store訴訟で約12億円を払い戻しへ 米国在住ユーザー限定",
-    "published_date": "2026-05-06",
-    "importance_score": 1,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247177/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "fdcfe1b9af2e",
-    "title": "マネーフォワードME、銀行連携の停止続く",
-    "published_date": "2026-05-06",
-    "importance_score": 1,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247175/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
     "utility_score": 0,
     "has_itmedia_article": false
   },
@@ -601,6 +368,28 @@
     "has_itmedia_article": true
   },
   {
+    "id": "5672b518b4b3",
+    "title": "AIエージェント搭載スマホ「Natural AI Phone」実機レビュー 将来性はあるのだろうが現状は…",
+    "published_date": "2026-05-07",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247206/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
     "id": "54091316fbd8",
     "title": "Amazon Photos刷新、思い出を見やすく表示 自然言語検索に対応",
     "published_date": "2026-05-07",
@@ -614,6 +403,51 @@
     "article_count": 1,
     "facets": [],
     "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "55bc9a811f45",
+    "title": "Amazon、自社配送網を他社に開放 物流版AWS実現へ",
+    "published_date": "2026-05-07",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247192/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a17885cbfaa6",
+    "title": "Anthropic、「Claude」の利用上限引き上げ Space XのGPU資源活用で",
+    "published_date": "2026-05-07",
+    "importance_score": 3,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247194/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
@@ -880,6 +714,28 @@
     "has_itmedia_article": true
   },
   {
+    "id": "e1dec7a39aba",
+    "title": "「OpenAI製スマホ」、2028年までに3000万台出荷の予測",
+    "published_date": "2026-05-07",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247185/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
     "id": "fe25dd9cfc81",
     "title": "「ウィザードリィ」の権利は「売却する意思」なし ドリコムが一部報道を否定する声明",
     "published_date": "2026-05-07",
@@ -985,6 +841,46 @@
     "has_itmedia_article": false
   },
   {
+    "id": "36b7a5e8ddbc",
+    "title": "アップル、チップ不足でサムスン・インテルに接近か TSMC依存の脱却を模索",
+    "published_date": "2026-05-07",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247198/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "e5857f933d1f",
+    "title": "アップル、一部のiPhone 16 / 15 Pro購入者に総額390億円を支払い",
+    "published_date": "2026-05-07",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247176/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
     "id": "06c817eef832",
     "title": "アンソロピック、SpaceXと契約して計算資源強化 Claude利用制限を緩和",
     "published_date": "2026-05-07",
@@ -1027,6 +923,48 @@
     "has_itmedia_article": false
   },
   {
+    "id": "f33e22652072",
+    "title": "グーグルDeepMind、宇宙MMO「EVE Online」でAIを訓練へ",
+    "published_date": "2026-05-07",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247222/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "fb45ebb678d1",
+    "title": "グーグル、Android特化のイベントを5月13日に開催へ 視聴方法はこちら",
+    "published_date": "2026-05-07",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247201/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
     "id": "859e627feb96",
     "title": "グーグル、Fitbitに変わる新健康アプリ「Google Health」 Geminiがコーチに",
     "published_date": "2026-05-07",
@@ -1057,6 +995,28 @@
     "representative_url": "https://www.watch.impress.co.jp/docs/news/2106949.html",
     "sources": [
       "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "207f48d238a1",
+    "title": "グーグル「Chrome」、4GBのAIモデルを無断インストール 専門家が懸念",
+    "published_date": "2026-05-07",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247196/",
+    "sources": [
+      "CNET Japan"
     ],
     "source_count": 1,
     "article_count": 1,
@@ -1115,6 +1075,26 @@
     "has_itmedia_article": false
   },
   {
+    "id": "a44083a4513d",
+    "title": "ソニー、PS Store訴訟で約12億円を払い戻しへ 米国在住ユーザー限定",
+    "published_date": "2026-05-07",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247177/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
     "id": "037a700c73f7",
     "title": "ドローン攻撃受けたAWS中東（UAE）リージョン、復旧には数カ月かかる見込み",
     "published_date": "2026-05-07",
@@ -1158,6 +1138,26 @@
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "603588223a86",
+    "title": "マネーフォワードME、銀行連携の停止続く",
+    "published_date": "2026-05-07",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247175/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
     "utility_score": 0,
     "has_itmedia_article": false
   },
@@ -2637,48 +2637,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "b993817e4c3c",
-    "title": "NTT、国内法人で「3倍の売上余地」開拓へ AIで人材リソース解放",
-    "published_date": "2026-05-09",
-    "importance_score": 1,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247282/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "9867d9f3cfa1",
-    "title": "「ドコモ・フィナンシャルグループ」7月始動 銀行・決済を一体運営する体制へ",
-    "published_date": "2026-05-09",
-    "importance_score": 1,
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35247283/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 2,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "096948af8dea",
     "title": "カシオ プロトレック、「八幡平ドラゴンアイ」を表現するブルーの新作",
     "published_date": "2026-05-09",
@@ -2785,6 +2743,48 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": true
+  },
+  {
+    "id": "fcf459e378ce",
+    "title": "NTT、国内法人で「3倍の売上余地」開拓へ AIで人材リソース解放",
+    "published_date": "2026-05-10",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247282/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "b404b25dd944",
+    "title": "「ドコモ・フィナンシャルグループ」7月始動 銀行・決済を一体運営する体制へ",
+    "published_date": "2026-05-10",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247283/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
   },
   {
     "id": "3bf311714c04",
@@ -9755,6 +9755,1444 @@
     "article_count": 1,
     "facets": [],
     "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "56a7b22a9b19",
+    "title": "AIで拡張するグーグル　Gemini 3.5やYouTubeと会話などエージェント新展開",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110234.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "47552c9cdd9f",
+    "title": "Appleが5年がかりで開発したセキュリティ対策を5日で突破　「Mythos」が見せつけた脆弱性攻撃の威力",
+    "published_date": "2026-05-20",
+    "importance_score": 5,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 2,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "acdc7284e5b3",
+    "title": "Appleのスポーツ速報アプリが日本上陸　iPhoneのロック画面やApple Watchにリアルタイム表示",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news129.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "2bd75ab48b1a",
+    "title": "Claude Mythosのヤバすぎる実力を検証　脆弱性を連結して攻撃経路を生成",
+    "published_date": "2026-05-20",
+    "importance_score": 5,
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news042.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "3a04fcdf0460",
+    "title": "Claude Mythosの登場に危機感　政府が新防衛構想「Project YATA-Shield」を始動",
+    "published_date": "2026-05-20",
+    "importance_score": 3,
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news051.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "69ea58b6d01b",
+    "title": "Geminiは「AIエージェント」に全振り、出遅れのコーディング分野でも挽回へ　Google I/O 2026",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247705/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2c545013ad6e",
+    "title": "GitHub、内部リポジトリへの不正アクセスを「調査中」　ハッカー集団「4000件窃取」と主張",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news085.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "558bee8eb709",
+    "title": "GitHub内部リポジトリへの不正アクセス、「悪意あるVS Code拡張機能」が関与と特定　約3800件流出か",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news137.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "3c277478d5e5",
+    "title": "Google Antigravity 2.0公開　AI StudioはAndroidアプリ構築に対応",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110200.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d364e24b4da5",
+    "title": "Google Antigravity、Androidアプリ開発に正式対応。AIエージェントのための「Android Knowledge Base」「Android Skills」も公開",
+    "published_date": "2026-05-20",
+    "importance_score": 4,
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/google_antigravityandroidaiandroid_knowledge_baseandroid_skills.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ed7ff1ab72ef",
+    "title": "Google I/Oで埋もれた重要発表　がん治療などの研究をAIで加速する「Gemini for Science」",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247762/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "95d9b3a54a21",
+    "title": "Google、AIが価格監視や決済最適化を自動で行う「Universal Cart」発表",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news102.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "edcc9c5462bd",
+    "title": "Google、AIグラス発売へ　オーディオグラスは26年秋、ディスプレイ内蔵タイプも投入予定",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news064.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "15f2975dae89",
+    "title": "Google、“動画版Nano Banana”こと「Gemini Omni」公開　会話で映像を生成・編集",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news063.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0913b58f6dc2",
+    "title": "Google、「Antigravity 2.0」発表。デモとしてゼロからOSを開発、Doomも実行可能に。効率性と高い開発能力をアピール",
+    "published_date": "2026-05-20",
+    "importance_score": 3,
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/googleantigravity_20osdoom.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "1b2866ae5750",
+    "title": "Google、しゃべるだけで「整った文章」を生成する新機能",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247702/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "e809b60eba30",
+    "title": "Google、パーソナルAIエージェント「Gemini Spark」発表――デバイスを閉じても自律で働く",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news068.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "828fce6d4478",
+    "title": "Google、マルチモーダルAI「Gemini Omni」発表　あらゆる入力から動画を生成する“世界モデル”",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247699/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "69f1006907dd",
+    "title": "Google、無休で働くAIエージェント「Gemini Spark」発表　PCを閉じても動作",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247698/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a2b4d568c915",
+    "title": "Googleが「Gemini 3.5」発表　まず軽量版のFlashから　Proは6月提供",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247704/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a46d6eb8e344",
+    "title": "Googleのスマートグラス、ついに正式発表　サムスンと共同開発　26年秋発売",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247701/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5f9963e14bcd",
+    "title": "Google検索が「AI検索」に──エージェント機能やマルチモーダル入力に対応",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news067.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1d4dc1ca1971",
+    "title": "Grok、「OpenClaw」と連携　サブスク加入者なら直接利用可能　メッセージアプリ経由で操作も",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news124.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "608b8d211743",
+    "title": "JR西日本、大阪環状線でホーム段差縮小　車いすでも乗降しやすく",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110236.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5df8893f557d",
+    "title": "JR西明石に新駅ビル「プリコ西明石 南館」6月26日開業　新改札・駅前広場も",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110349.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "55d526c4bde1",
+    "title": "Linux Foundation、AIエージェントをテーマにしたイベント「AGNTCon + MCPCon」を東京渋谷で開催。9月10日、11日の2日間",
+    "published_date": "2026-05-20",
+    "importance_score": 3,
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/linux_foundationaiagntcon_mcpcon910112.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "31ac277b1f22",
+    "title": "OpenAI、最大3年の「計算資源へのアクセス」を保証する新サービスを開始",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247716/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "8b4fea99a9c5",
+    "title": "PR： ネットワークのブラックボックス化が招く致命的な被害とは　有線・無線を一括制御して、トラブル復旧を速める秘策",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news003.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "12ddae36e751",
+    "title": "Slackが目指す「Agentic Work OS」　AIスキルやディープリサーチなど新機能",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110166.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "25d6c61b2841",
+    "title": "Surface Pro Business新モデル 1499ドルから  「MacBook Airより高性能」訴求",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110192.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "457d59ad0b94",
+    "title": "Twitch、視聴者参加の収益化機能を拡充　ハイプトレインも強化",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110335.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "cff9a3f8fa69",
+    "title": "Yahoo!ショッピング、AIが商品を「対戦」させ勝者を提案する新機能",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110295.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "8562ccc72b33",
+    "title": "macOSのキッティングは“なめるなキケン”　情シスが知るべきPC管理の本質",
+    "published_date": "2026-05-20",
+    "importance_score": 3,
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news007.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9265daa42c05",
+    "title": "「Google AI Ultra」大幅値下げ　月1万4500円から利用可能に　Geminiの最上位プラン",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247703/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d3ccdfd516bc",
+    "title": "「Google検索」をAIで大幅刷新　会話型UIや動的ウィジェット、エージェント機能を投入",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247700/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "854ab8115b64",
+    "title": "「PowerShell」がランサムウェア攻撃に悪用？　正規ツールを“凶器”にする手口と対策",
+    "published_date": "2026-05-20",
+    "importance_score": 5,
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news053.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0f1097cc0b39",
+    "title": "「なるほど、そういう動きか」――Adobe Premiereに追加された「カラーモード」で“カラグレ”を試す",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news078.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "3071b7b42c3f",
+    "title": "「データセンターの土地がない」なら浮けばいい、サーバはついに“移動式”の時代",
+    "published_date": "2026-05-20",
+    "importance_score": 3,
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news060.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "23419f7276cf",
+    "title": "「技術から離れる不安」を乗り越えたITエンジニア　約7割が「管理職になって良かった」と回答",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news056.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "97f543b15bb2",
+    "title": "「海に沈んだゴールデンゲートブリッジ」も探索可能に　グーグル「Project Genie」がストビュー連携",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247758/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5e92263b151a",
+    "title": "「無線のAIパラドックス」　8割の組織がWi-Fi投資増額の一方で明らかになった3つの課題",
+    "published_date": "2026-05-20",
+    "importance_score": 3,
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news055.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "4f033b1fe290",
+    "title": "「運用エンジニアは“燃え尽き予備軍”をやめるべし」　PagerDuty会長が語るインシデント対応“進化論”",
+    "published_date": "2026-05-20",
+    "importance_score": 3,
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news015.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ff1ed17f4881",
+    "title": "【5分でわかる】Google I/O 2026発表まとめ--Gemini 3.5やSparkエージェント、スマートグラスなど",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247706/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "e631a44df0c0",
+    "title": "【やさしいデータ分析】ベイズ統計入門 ～ 古典的な統計との違いと使い分け",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news006.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "564a8ff41597",
+    "title": "みずほ銀行と楽天銀行が戦略的提携　ネット銀行にメガバンクの法人基盤",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110362.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "115005ad829b",
+    "title": "アップル、AIでアクセシビリティを大幅強化　iPhoneやVision Proに革新的な新機能が到来",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247711/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "f86e0020c33a",
+    "title": "アップル、アクセシビリティ機能をApple Intelligenceで大幅強化",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110182.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "001fafbad14e",
+    "title": "アップル、日本でスポーツ速報アプリ「Apple Sports」開始",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110141.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "e053710b5a99",
+    "title": "グーグル、検索やGeminiでコンテンツ来歴記録対応を強化　OpenAIも",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110100.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "85ed6032dcaf",
+    "title": "コクヨキャンパス×Zoffコラボ　アイケアノートやメガネモチーフペンケース",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2108245.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2a23c583b395",
+    "title": "ファンティアの「修正・モザイク基準」改定にクリエイター悲鳴　「過去作も？」「時間なさすぎ」",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news087.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a3c7bf1a0cf8",
+    "title": "マネーフォワード、銀行連携の一時停止で補償発表　プレミアム利用者向けに購読期間を15日延長へ",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news136.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "619f9c6356ee",
+    "title": "リコールを乗り越えたcheeroの回答　安全性に全振りした「準固体電池」モバイルバッテリーの使い勝手は？",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news079.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "4c9a8254847d",
+    "title": "リベンジポルノやAIフェイクを48時間以内に削除義務化　米「Take It Down法」が全面施行",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247722/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0b5c5889137a",
+    "title": "宇宙から林野火災をどう見るか　光学衛星で読み解く大槌町火災",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/topic/2109063.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "7fafdb78f2e0",
+    "title": "山手線の車両を5Gの“ミリ波エリア化”　JR東とKDDIが初めて実証──ガラスアンテナで電波を車内に",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news130.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "845272a7cf75",
+    "title": "山手線の車内に1Gbpsのミリ波　KDDI・JR東が“引込み”に成功",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110275.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "62272d91784c",
+    "title": "山手線車内の97%を1Gbpsで通信できる「5Gミリ波エリア」に--JR東日本とKDDIが実証実験",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247742/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ca95687b384e",
+    "title": "帯広駅前に商業施設「ナンモナンモ帯広」　長崎屋跡地に28年春開業",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110205.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "03b162fb2118",
+    "title": "平均パスワード保有数が168件から120件に初の減少　その裏で起きていること",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news059.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0811c9993f40",
+    "title": "日立、フィジカルAIで社会を支える　“世界一の使い手”への取り組み",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110301.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "02beb00dd51d",
+    "title": "暗記のコツは「息を吐いている後半」に覚えること？　思い出す時も同じ呼吸タイミング　兵庫医科大などが研究発表",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news031.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e411807ebead",
+    "title": "札幌駅リニューアル　コンコース一新・エキナカ商業拡大",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110323.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a6f576f1cab7",
+    "title": "無料版Geminiを仕事で使い倒すための設定と注意点、Gmailやドライブ連携で差をつけろ",
+    "published_date": "2026-05-20",
+    "importance_score": 3,
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news014.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2179ca6e7c19",
+    "title": "現実世界を基に\"動き回れる\"仮想空間を生成　Googleの世界生成AI「Project Genie」にストリートビュー連携機能",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/20/news065.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c4606ce8a307",
+    "title": "缶を1/3まで圧縮減容する「アルミ缶回収機」　寺岡精工",
+    "published_date": "2026-05-20",
+    "importance_score": 1,
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2110137.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "f71cbe701cd9",
+    "title": "高齢者の転倒をAIが常時監視、オランダの実証実験が投げかける「プライバシー」の課題",
+    "published_date": "2026-05-20",
+    "importance_score": 2,
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247725/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
