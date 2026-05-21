@@ -104,21 +104,46 @@ def keyword_hits(title: str, keywords: set[str]) -> int:
     return sum(1 for keyword in keywords if keyword in normalized)
 
 
+def infer_category(title: str, source: str = "") -> str:
+    normalized_source = normalize_source(source)
+    normalized_title = normalize_title(title)
+    if keyword_hits(title, AI_KEYWORDS):
+        return "AI"
+    if keyword_hits(title, SECURITY_KEYWORDS):
+        return "セキュリティ"
+    if normalized_source == "Publickey" or keyword_hits(title, DEVELOPMENT_KEYWORDS):
+        return "開発"
+    if keyword_hits(title, CLOUD_KEYWORDS):
+        return "クラウド"
+    if normalized_source == "＠IT" or keyword_hits(title, ENTERPRISE_KEYWORDS):
+        return "企業IT"
+    if re.search(r"半導体|gpu|nvidia|tsmc|intel|amd", normalized_title):
+        return "半導体"
+    if re.search(r"スマホ|iphone|android|switch|pc|端末|ガジェット", normalized_title):
+        return "ガジェット"
+    if re.search(r"買収|提携|決算|売上|事業|企業|市場", normalized_title):
+        return "ビジネス"
+    if re.search(r"規制|法律|法|訴訟|個人情報|プライバシー", normalized_title):
+        return "法規制"
+    return "その他"
+
+
 def infer_facets(article: Article) -> list[str]:
     facets: set[str] = set()
     title = article.title
     source = normalize_source(article.source)
+    category = article.category or infer_category(title, source)
 
-    if keyword_hits(title, AI_KEYWORDS):
+    if category == "AI" or keyword_hits(title, AI_KEYWORDS):
         facets.add("ai")
-    if keyword_hits(title, SECURITY_KEYWORDS):
+    if category == "セキュリティ" or keyword_hits(title, SECURITY_KEYWORDS):
         facets.add("security")
         facets.add("enterprise_it")
-    if source == "＠IT" or keyword_hits(title, ENTERPRISE_KEYWORDS):
+    if category in {"企業IT", "ビジネス"} or source == "＠IT" or keyword_hits(title, ENTERPRISE_KEYWORDS):
         facets.add("enterprise_it")
-    if source == "Publickey" or keyword_hits(title, DEVELOPMENT_KEYWORDS):
+    if category == "開発" or source == "Publickey" or keyword_hits(title, DEVELOPMENT_KEYWORDS):
         facets.add("development")
-    if keyword_hits(title, CLOUD_KEYWORDS):
+    if category == "クラウド" or keyword_hits(title, CLOUD_KEYWORDS):
         facets.add("cloud")
         facets.add("development")
 
@@ -146,11 +171,16 @@ def article_to_story(article: Article) -> Story:
         id=story_id,
         title=article.title,
         published_date=article.published_date,
-        importance_score=article.score,
+        importance_score=article.importance,
         representative_source=source,
         representative_url=article.url,
         sources=[source],
         facets=facets,
+        category=article.category or infer_category(article.title, source),
+        summary=article.summary,
+        reason=article.reason,
+        published_at=article.published_at,
+        created_at=article.created_at,
         ai_relevance_score=keyword_hits(article.title, AI_KEYWORDS),
         practical_impact_score=(
             keyword_hits(article.title, SECURITY_KEYWORDS)
@@ -183,11 +213,16 @@ def merge_article(story: Story, article: Article) -> Story:
             title=article.title,
             representative_source=source,
             representative_url=article.url,
+            category=article.category or infer_category(article.title, source),
+            summary=article.summary,
+            reason=article.reason,
+            published_at=article.published_at,
+            created_at=article.created_at,
         )
 
     return replace(
         representative,
-        importance_score=max(story.importance_score, article.score),
+        importance_score=max(story.importance_score, article.importance),
         sources=sources,
         article_count=story.article_count + 1,
         facets=facets,
@@ -375,4 +410,3 @@ def group_by_facet(stories: Iterable[Story]) -> dict[str, list[Story]]:
         for facet in story.facets:
             grouped[facet].append(story)
     return grouped
-

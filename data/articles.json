@@ -1,3691 +1,2521 @@
 [
   {
-    "source": "?IT",
-    "date": "2026-05-04",
-    "title": "GWにもう一度読みたい「提言」ニュースシリーズ：コーディングは速くなった、だが「週7時間がムダ」に GitLabが指摘する「AIパラドックス」の正体",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/04/news024.html",
-    "score": 2
-  },
-  {
     "source": "ITmedia NEWS",
-    "date": "2026-05-04",
-    "title": "漫画「15日後、データセンター業務のリアルを知るヤマダくん」：【全話まとめ】漫画「15日後、データセンター業務のリアルを知るヤマダくん」",
-    "url": "https://www.itmedia.co.jp/news/articles/2604/07/news013.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-04",
-    "title": "荻窪圭のデジカメレビュープラス：「insta360 GO Ultra」は夜にも強かった 画質とウェアラブル性のバランスがいいアクションカムを試す",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/04/news032.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-04",
-    "title": "シチズン アテッサ、スターウォーズ新作の限定コラボモデル",
-    "url": "https://www.watch.impress.co.jp/docs/news/2105050.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-04",
-    "title": "ミズノ「MXR」のサンダル「MXR SANDAL」 13200円",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106323.html",
-    "score": 1
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-05",
-    "title": "GWにもう一度読みたい「提言」ニュースシリーズ：「勝手に再起動してはいけない」――VPN侵害、ランサムウェア感染時の禁止事項",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/05/news020.html",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-05",
-    "title": "アップル次期CEOは「顔のデバイス」を完成させられるか？ ティム・クック氏が残した課題",
-    "url": "https://japan.cnet.com/article/35247121/",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-05",
-    "title": "Anthropic、Blackstoneらと新会社設立へ 中小企業へのClaude導入を加速",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/05/news023.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-05",
-    "title": "小寺信良のIT大作戦：ポタ電で7年連続国内トップシェア、Jackeryの強みとは？",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/05/news022.html",
-    "score": 1
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-06",
-    "title": "GWにもう一度読みたい「提言」ニュースシリーズ：ランサムウェア攻撃が相次ぐ今、100兆件超の兆候を分析したMicrosoftが10のセキュリティ対策を提言",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/06/news014.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-06",
-    "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-06",
-    "title": "Meta、AIで13歳未満を自動検出 InstagramとFacebookで導入拡大",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/06/news033.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-06",
-    "title": "荻窪圭のデジカメレビュープラス：去年の2倍以上！ SDカード“高騰”時代だから知っておきたい無駄のない製品の選び方",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/06/news019.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-06",
-    "title": "Amazon、物流サービスを外部に開放 「物流版AWS」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106557.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-06",
-    "title": "ChatGPT、“正確性”を向上した新デフォルトモデル「GPT-5.5 Instant」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106577.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-06",
-    "title": "アンソロピック、Claudeに金融機関向け新機能 市場調査・月次決算など",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106565.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-06",
-    "title": "米国政府、最新AIモデルを事前チェック Google DeepMind、xAI、MS",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106609.html",
-    "score": 1
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-07",
-    "title": "DESIGN.mdで再利用もできる：「人手のUI設計では低品質」 AIエージェントと喋る「バイブデザイン」で成果物の品質向上へ",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/07/news045.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-07",
-    "title": "GPUクラスタからLLM層まで：従来セキュリティの“盲点”「AIインフラ」の脅威をどう防ぐか？ Check Pointが公表した設計指針",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/07/news035.html",
-    "score": 3
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-07",
-    "title": "「チェックリストの丸付け」は“戦略”ではない：「入り口をふさぐ」だけではもう古い 企業の心臓を死守する「逆算型セキュリティ」の本質",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/01/news007.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-07",
-    "title": "コーディングエージェントがスキャン：AIで「うっかりコミット」による機密情報漏えいを防ぐ GitHub MCPの新機能",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/07/news033.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-07",
-    "title": "ランサムウェア被害企業の89％でバックアップが暗号化：NASでもテープでもない、ランサムウェア時代の「バックアップ保存先」トップは？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/07/news029.html",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-07",
-    "title": "AIエージェント搭載スマホ「Natural AI Phone」実機レビュー 将来性はあるのだろうが現状は…",
-    "url": "https://japan.cnet.com/article/35247206/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-07",
-    "title": "Amazon、自社配送網を他社に開放 物流版AWS実現へ",
-    "url": "https://japan.cnet.com/article/35247192/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-07",
-    "title": "Anthropic、「Claude」の利用上限引き上げ Space XのGPU資源活用で",
-    "url": "https://japan.cnet.com/article/35247194/",
-    "score": 3
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-07",
-    "title": "「OpenAI製スマホ」、2028年までに3000万台出荷の予測",
-    "url": "https://japan.cnet.com/article/35247185/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-07",
-    "title": "アップル、チップ不足でサムスン・インテルに接近か TSMC依存の脱却を模索",
-    "url": "https://japan.cnet.com/article/35247198/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-07",
-    "title": "アップル、一部のiPhone 16 / 15 Pro購入者に総額390億円を支払い",
-    "url": "https://japan.cnet.com/article/35247176/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-07",
-    "title": "グーグルDeepMind、宇宙MMO「EVE Online」でAIを訓練へ",
-    "url": "https://japan.cnet.com/article/35247222/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-07",
-    "title": "グーグル、Android特化のイベントを5月13日に開催へ 視聴方法はこちら",
-    "url": "https://japan.cnet.com/article/35247201/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-07",
-    "title": "グーグル「Chrome」、4GBのAIモデルを無断インストール 専門家が懸念",
-    "url": "https://japan.cnet.com/article/35247196/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-07",
-    "title": "ソニー、PS Store訴訟で約12億円を払い戻しへ 米国在住ユーザー限定",
-    "url": "https://japan.cnet.com/article/35247177/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-07",
-    "title": "マネーフォワードME、銀行連携の停止続く",
-    "url": "https://japan.cnet.com/article/35247175/",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "Anthropic、マスク氏のSpaceXと契約 GPU22万基超を確保し「Claude」の利用制限を緩和",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news048.html",
-    "score": 3
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "Apple、一部Macで「大容量メモリ構成」削除 世界的なメモリ不足で Mac Studioは最大96GBに制限",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news104.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "Google検索のAI機能が進化、Redditなどの「体験談」を回答に集約 リンク配置も改善",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news054.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "Innovative Tech：“腹筋”がポンプとなり脳内のゴミを洗い流す？ 腹部収縮による脳内体液の循環システムをマウスで確認、Nature系列で掲載",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news018.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "SusHi Tech Tokyo 2026：車から人型へ50秒で変形、全長4.7mの乗用ロボ「SR-01」に乗ってきた まるでトランスフォーマー？",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news012.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "iPS細胞の特許延長、京大申請へ 再生医療等製品の条件付き承認受け",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news114.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "xAIはSpaceXのAI部門「SpaceXAI」に イーロン・マスク氏がXで明らかに",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news049.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "「ウィザードリィ」の権利は「売却する意思」なし ドリコムが一部報道を否定する声明",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news093.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "「セーラームーンに似ている」 生成AIを使った化粧品の広告が物議 メーカーは謝罪と広告の撤去を発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news075.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "ちょっと昔のInnovative Tech：“白髪”はがんから体を守った印？ 急な黒髪復活は要注意、頭皮活性化に警鐘──東大などがNature系列で2025年に発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/04/news015.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "ドローン攻撃受けたAWS中東（UAE）リージョン、復旧には数カ月かかる見込み",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news052.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "マネーフォワード、銀行連携の停止続く 不正アクセスから約1週間 再開は「安全性の確認が完了次第」",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news096.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "商品選びから決済までをAIでお助け──MUFGがGoogleとタッグで実現目指す Google Cloud上にインフラ構築",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news110.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "大人向けビデオ通話「Kyuun」などで約4万件のユーザー情報漏えいか 11のアプリも対象",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news117.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "大気が存在する太陽系外縁天体、国立天文台など発見 冥王星以外では初",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news061.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-07",
-    "title": "富士通、予備自衛官の管理業務をデジタル化 招集や教育も効率化、災害救助にも一役",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news072.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "Amazon Photos刷新、思い出を見やすく表示 自然言語検索に対応",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106740.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "Google検索、AI回答で“リンク先”表示を改善 「探索を助ける」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106761.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "Grok、外部アプリを操作できる「コネクタ」 GmailやNotionなど対応",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106860.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "MUFGとグーグル、金融AIエージェントで戦略提携 「エムット」は\"非金融”強化",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106771.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "なんば・千日前「味園ビル」跡地にホテル・商業複合施設",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106774.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "アンソロピック、SpaceXと契約して計算資源強化 Claude利用制限を緩和",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106627.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "イオン「そよら」都内初出店 赤羽駅西側の桐ケ丘団地に28年春オープン",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106789.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "グーグル、Fitbitに変わる新健康アプリ「Google Health」 Geminiがコーチに",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106930.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "グーグル、“画面レス”健康トラッカー「Fitbit Air」 16800円",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106949.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "セブンイレブン、50%以上増量「感謝盛り」 5月12日から",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106802.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "マイクロソフト「Copilot Cowork」、スマホからの指示・操作に対応",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106580.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "吉野家、高級牛丼「絶品牛重」 1200円",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106722.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "楽天カードアプリ、カード番号表示でiPhoneマイナ対応",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106903.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-07",
-    "title": "都内全域の「NewDays」でフードロス削減アプリ対応 パンが50%オフ",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106737.html",
-    "score": 1
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-08",
-    "title": "AI時代の「見えない義務」への耐え方：「説明できない企業は取引で負ける」 名和氏が明かす「90日で成果を出す」データガバナンス実装術",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/08/news008.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-08",
-    "title": "Armとしては初めての量産半導体：「x86では処理し切れない」 ArmとMeta、AIインフラ向け「CPU」を開発",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/08/news037.html",
-    "score": 3
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-08",
-    "title": "Claudeが“司令塔”となってメキシコ公共機関をサイバー攻撃 1万7000行のツールで攻撃の全プロセスを自動化",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/08/news107.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-08",
-    "title": "Gemini搭載アプリの開発を支援：もうAIに「古いコード」は書かせない 「知識のギャップ」を埋めるスキルをGoogleが公開",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/08/news045.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-08",
-    "title": "Microsoftは「仕様」と回答：Edge、保存済みパスワードをメモリ内に平文保持していると判明",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/08/news039.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-08",
-    "title": "Tech TIPS：SSD高騰時代の救世主？ Windows 11「NTFS圧縮」でファイルを消さずに容量を稼ぐ裏ワザ",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/08/news011.html",
-    "score": 0
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-08",
-    "title": "ツール、チーム、インフラをまたいだ統制を実現：AI駆動開発の「ブラックボックス化」をどう防ぐ？ JetBrainsのエージェント統合管理",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/08/news047.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-08",
-    "title": "フレームワーク別案件数は「React」が最多、単価1位は「Next.js」：Pythonよりも実は稼げる「TypeScript」 平均年収952万円、Javaより95万円高い",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/08/news038.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-08",
-    "title": "最新版へのアップデートを：Apache HTTP Serverに任意コード実行を含む複数の脆弱性 広範囲の影響懸念",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/08/news040.html",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "Google、画面のない最小トラッカー「Fitbit Air」発表 5月26日発売、1万6800円",
-    "url": "https://japan.cnet.com/article/35247230/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "JR東日本、気仙沼線BRTで「自動運転レベル4」走行 国内バス最速60km/h・最長15.5km",
-    "url": "https://japan.cnet.com/article/35247265/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "JR東日本、自律ロボットで線路点検 カメラやLiDAR搭載",
-    "url": "https://japan.cnet.com/article/35247264/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "NASAの火星探査車に「岩がくっつく」珍事、6日かけてようやく解放",
-    "url": "https://japan.cnet.com/article/35247245/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "NTTドコモ社長、既存プランの料金値上げ 「考えなければ」",
-    "url": "https://japan.cnet.com/article/35247278/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "「AIが医師を名乗るのは違法」と開発企業を提訴 米ペンシルベニア州",
-    "url": "https://japan.cnet.com/article/35247241/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "「冥王星以外の太陽系外縁天体」で初の大気発見 国立天文台が発表",
-    "url": "https://japan.cnet.com/article/35247225/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "「楽天キャッシュ」の総称を「楽天ペイ残高」へ名称変更 ただし楽天キャッシュも存続",
-    "url": "https://japan.cnet.com/article/35247244/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "クアルコムが「Snapdragon 4／6 Gen 5」発表 廉価スマホもWi-Fi 7対応へ",
-    "url": "https://japan.cnet.com/article/35247235/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "セブン、カフェラテの新型マシンを1万1000店へ拡大 何が変わる？",
-    "url": "https://japan.cnet.com/article/35247273/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "ソニーCEO「AIはクリエイターを代替しない」 ヒトの創造性が中心と強調",
-    "url": "https://japan.cnet.com/article/35247276/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "ソニーとTSMC、次世代イメージセンサーで戦略的提携--合弁設立も視野",
-    "url": "https://japan.cnet.com/article/35247271/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "ネットの求人詐欺が急増中 AIで「安く速く簡単に」",
-    "url": "https://japan.cnet.com/article/35247259/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "ファーウェイの新型タブレット「MatePad Pro Max」登場、iPad Proより薄い4.7mmを実現",
-    "url": "https://japan.cnet.com/article/35247237/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "メルカリ、マクドナルドが5月15日に発売するハッピーセット玩具を出品禁止に",
-    "url": "https://japan.cnet.com/article/35247258/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "ルンバの次はロボットペット iRobot共同創業者が新製品を発表",
-    "url": "https://japan.cnet.com/article/35247266/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "上場した「PayPay」が初の決算発表 その中身は",
-    "url": "https://japan.cnet.com/article/35247232/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-08",
-    "title": "都内の「パーキングメーター」地図、警視庁がウェブ公開を再開",
-    "url": "https://japan.cnet.com/article/35247257/",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "Apple、390億円の和解金支払いで合意 AI機能の開発遅れに関する集団訴訟で",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news100.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "Fitbitアプリは「Google Health」に Googlがフィットネスアプリ統合 既存ユーザーも順次移行",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news113.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "Google、画面がないフィットネストラッカー「Fitbit Air」発表 Geminiが“専任コーチ”に",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news050.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "IT大喜利：IT大喜利「エンタープライズ版BeReal.にありそうなこと」【結果発表】",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news058.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "Innovative Tech：「脳内のゴミ掃除機能」壊す新たな一因を特定 抗体で狙い撃ち→マウスのアルツハイマー症状が改善",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news020.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "Innovative Tech：脳のオン/オフ切り替えは鍛えられる──イメトレで実際の運動能力向上に成功、慶應大がPNASで発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news018.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "Spotify、AI生成の音声コンテンツを保存できるCLIツール「Save to Spotify」公開",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news059.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "「ChatGPT」に緊急連絡先機能「Trusted Contact」登場 自殺リスク検知で通知",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news054.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "「FILCO」のダイヤテックが破産──東京商工リサーチ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news077.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "「Switch 2」値上げへ 1万円アップの5万9980円に",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news101.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "はてな、約11億円の資金流出で特別調査委員会を設置 外部の専門家で構成",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news079.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "メルカリ、「ちいかわ」のハッピーセット出品禁止へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news072.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "メローニ伊首相がAI生成とみられる自身の下着姿投稿 捏造画像通し「危険なツール」と警告",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news086.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "ヤフオクも「ちいかわ」ハッピーセット出品一時禁止へ メルカリに続き",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news096.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-08",
-    "title": "小寺信良のIT大作戦：「イルカいないの？」って言ったヤツちょっと来い 蘇るトラウマ、「Copilot Keyboard」正式リリース",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news062.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "ChatGPTに自傷・自殺懸念時の緊急連絡機能「Trusted Contact」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107097.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "Claude Mythos、Firefoxの271件のバグを修正 20年前のバグも",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107200.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "Claude for Excel・Word・PowerPointが正式版に Outlookはベータ版",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107038.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "JR東、気仙沼線BRTで自動運転 運転士監視不要のレベル4",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107216.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "JR東日本、自律走行ロボットで線路点検 熊リスクも低減",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107295.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "LINEヤフー、AIエージェント化を推進 広告や新AIプランなど",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107294.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "Meta、ティーンアカウントを13歳以上映画基準に変更",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106780.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "Nintendo Switch2値上げ 49980円→59980円 Switch Onlineも7月改定",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107227.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "OpenAI、新音声モデル「GPT-Realtime-2」 即時翻訳や低遅延文字起こしも",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107115.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "「ちいかわ」ハッピーセット、メルカリやYahoo!オークションが出品禁止",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107118.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "セブンイレブン、カフェラテ新型マシンを前倒しで拡大 1割省エネ",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107148.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "ソニーとTSMC、次世代イメージセンサーの開発・製造で提携へ",
-    "url": "https://av.watch.impress.co.jp/docs/news/2107253.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "ドコモ、「金融」で成長へ 通信料金値上げは「否定できない」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107331.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "ローソン、フードロス削減アプリで食品半額 「Too Good To Go」と「TABETE」導入",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107083.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "広島電鉄、WAONで乗車可能に 交通系ICの利便性も向上",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107175.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "東京～有楽町で自動運転バス運行 予約不要・運賃無料",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107071.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "楽天、「楽天キャッシュ」残高の“総称”を「楽天ペイ残高」に",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107080.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-08",
-    "title": "駅直結「淀屋橋ゲートタワー」7月9日オープン 商業ゾーンや屋上庭園",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106947.html",
-    "score": 1
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-09",
-    "title": "今週の「＠IT」よく読まれた記事“10選”：「もうPython一択ではなくなった」「IaCコードを書くのは古い」、AIで変わるエンジニアの常識",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/09/news014.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-09",
-    "title": "ソニーセミコンとTSMC、次世代イメージセンサーで提携 フィジカルAI分野に照準",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/09/news027.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-09",
-    "title": "防衛装備庁、国産ドローン300台を1.1億円で導入へ 日本企業と契約",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/09/news024.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-09",
-    "title": "ChatGPT、日本でも「広告」導入へ 無料プランなど",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107354.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-09",
-    "title": "カシオ プロトレック、「八幡平ドラゴンアイ」を表現するブルーの新作",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107273.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-09",
-    "title": "土屋鞄 objcts.io、キャンバス×レザーのトートバッグ",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107310.html",
-    "score": 1
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-10",
-    "title": "「自社のクラウドは“無計画の産物”」と日本企業の約6割が回答：クラウドが当たり前なのに、なぜかオンプレミス回帰が起こる“矛盾”の正体",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/10/news002.html",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-10",
-    "title": "NTT、国内法人で「3倍の売上余地」開拓へ AIで人材リソース解放",
-    "url": "https://japan.cnet.com/article/35247282/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-10",
-    "title": "「ドコモ・フィナンシャルグループ」7月始動 銀行・決済を一体運営する体制へ",
-    "url": "https://japan.cnet.com/article/35247283/",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-10",
-    "title": "サダタローのゆるっとマンガ劇場：中国産ソシャゲ「NTE」をプレイしたマンガ家が思う「アニメ調オープンワールド大作」を日本が作らなくてもいい理由",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/10/news014.html",
-    "score": 1
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-11",
-    "title": "Figma MCPの新機能、利用方法は？：AIエージェントが「Figma」でデザインを作成・編集可能に “意図しないUI生成”を防ぐ仕組みとは",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/11/news041.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-11",
-    "title": "KubernetesをAIインフラに最適化：AI推論を本番インフラへ オープン標準を担う分散推論フレームワーク「llm-d」、CNCFが採択",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/11/news042.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-11",
-    "title": "Tech TIPS：【Claude in Chrome】ブラウザのClaude（クロード）拡張で仕事はどう変わるのか？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/11/news016.html",
-    "score": 0
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-11",
-    "title": "ミス発生時に「自力解決」を図る従業員は意外といる：セキュリティ「ついやってしまった」理由ランキング 3位「無理解」、2位「油断」を超えた1位は？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/11/news048.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-11",
-    "title": "大手医療機器メーカーのサイバー攻撃被害事案を受け：「単独の管理者に任せないで」 米CISAが警告、エンドポイント管理システムの設定強化を呼び掛け",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/11/news044.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-11",
-    "title": "狙われる開発環境：GitHub侵害で銀行連携停止 マネーフォワード事案が突き付ける開発リスク",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/11/news026.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-11",
-    "title": "開発未経験から、自社サービス開発のスペシャリストへ：元警察官が語る、AI時代のエンジニア生存戦略",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/11/news004.html",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "AI依存が招く「思考停止」の罠 10分の利用で自力での解決能力が低下",
-    "url": "https://japan.cnet.com/article/35247336/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "ChatGPTの会話から自殺リスクを検知、親しい人に通知する新機能が登場",
-    "url": "https://japan.cnet.com/article/35247330/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "Claude開発元、SpaceXと「予想外」のデータセンター契約 マスク氏と対立していたのに何故？",
-    "url": "https://japan.cnet.com/article/35247315/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "Instagram、E2E暗号化DMの提供を終了 利用率の低さが理由",
-    "url": "https://japan.cnet.com/article/35247326/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "クレカタッチやQR乗車の拡大で「Suica」はいつまで使えるのか（鈴木淳也）",
-    "url": "https://japan.cnet.com/article/35247312/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "ソフトバンク、AIデータセンター事業を本格展開 堺・苫小牧で「ネオクラウド」戦略",
-    "url": "https://japan.cnet.com/article/35247357/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "ソフトバンク、LINEMOの値上げは「今のところ考えていない」 主力2ブランドの値上げと一線",
-    "url": "https://japan.cnet.com/article/35247356/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "ソフトバンク、「国産蓄電池」を27年度量産開始 年間ギガワット時規模 AI電力需要に対応",
-    "url": "https://japan.cnet.com/article/35247334/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "ソフトバンクはなぜ電池メーカーになるのか 宮川社長が語る「内需脱却」の狙い",
-    "url": "https://japan.cnet.com/article/35247354/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "マネフォ、銀行連携停止の補償「現在検討中」--再開日時は後日公表",
-    "url": "https://japan.cnet.com/article/35247348/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "ローソン、消費期限間近の商品をアプリで半額販売",
-    "url": "https://japan.cnet.com/article/35247314/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "任天堂、「スイッチ2」を5月25日から1万円値上げ 4万9980円→5万9980円",
-    "url": "https://japan.cnet.com/article/35247309/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "広島電鉄、交通系ICに加えて「WAON」でも乗降可能に 7月1日から",
-    "url": "https://japan.cnet.com/article/35247311/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "米政府、UFOの資料を大量公開 「宇宙人の証拠」は見つかったのか",
-    "url": "https://japan.cnet.com/article/35247308/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "経営陣は「AI活用しろ」と言いつつ「お手本」を示せていない マイクロソフト報告書",
-    "url": "https://japan.cnet.com/article/35247352/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-11",
-    "title": "防衛装備庁、国産ドローン300セットを調達 約1.15億円でテラドローンから",
-    "url": "https://japan.cnet.com/article/35247355/",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "1人で続ける“漏えいしないBeReal” 友達ゼロでも楽しい理由",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news076.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "AIの「倫理的に不適切な選択」はSF作品の暴走AIを模倣していた──Anthropicが解決手法を公開",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news080.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "Innovative Tech：“ChatGPT以後”に公開のWebサイト、35％がAI生成に？ 米スタンフォード大などが調査 広まる「不自然に明るい文章」",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news027.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "LINE、トーク内の「今日」「明日」を青文字リンク化の対象外に カレンダーへの登録機能を修正",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news123.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "SusHi Tech TOKYO 2026：「まるで一反もめん」と話題の“人型重機” JRも活用する技術を市販ロボに 国産スタートアップ人機一体",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/08/news061.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "Switch 2「2年目失速」予想を嫌気 任天堂株、一時7000円割る",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news110.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "「My Nintendo Store」から「My」が消滅へ 27日に名称変更",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news116.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "「OPENREC.tv」が“無料配信”終了へ 「苦渋の判断」 7月からファンコミュニティ中心の新サービスに",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news127.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "「タコピーの原罪」元アシスタント開発の進捗管理アプリが話題に 作業可能時間から執筆ペースを自動算出",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news081.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "この頃、セキュリティ界隈で：AI生成の「ゴミ報告」が殺到、対応追い付かず疲弊……脆弱性発見の懸賞金制度に異変",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news021.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "ソニーが打ち出した「AIによる成長」と“ただし書き”の中身 26年度経営方針説明会",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news089.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "ソフトバンク、ギガワット規模の「国産バッテリー」事業開始 シャープ堺工場跡地で27年度製造へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news099.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "バクラク、契約業務の自動化を支援する新サービスを今夏提供予定 27年度以降適用の「新リース会計基準」の判定にも対応",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news114.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "マネーフォワード、ユーザー補償は「検討中」 本番DBの侵害は「なし」",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news106.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "マネーフォワード「なぜGitHubに個人情報が含まれていたか」を説明",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news059.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-11",
-    "title": "マネーフォワードの銀行連携、10日経っても再開せず ユーザーに不満、解約した人も",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news056.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "AOKI、疲労回復ウェア「リカバリーケアプラス」ディズニーモデル",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107694.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "JR新大阪駅に「GO」アプリ専用タクシー乗り場設置",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107537.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "NEC、インフラ点検をリモート化できる3Dデータの軽量変換技術",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107490.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "Our Ring 4に新機能 女性の「更年期」「避妊」の影響を分析・サポート",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107641.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "dカード、「スキップ払い」導入 最大6カ月遅らせて一括払い",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107454.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "ことら送金が寄付に対応 災害ボランティアや赤い羽根福祉基金に",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107594.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "イオン、食品3500品目「価格凍結」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107530.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "カシオ、機械式エディフィスに新型 日本製ムーブメントに",
-    "url": "https://www.watch.impress.co.jp/docs/news/2105446.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "ソフトバンク、AI時代の電力インフラの構築に向けた国産バッテリー事業",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107531.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "タイミー、スポット型BPOサービス開始",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107637.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "フィルムを使わない「パソコンポ」 段ボール主体の「NX デバイスコンポEco」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107479.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "マネーフォワード、銀行口座連携の再開について現状報告 補償は「検討中」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107604.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "吉田カバン、外装に多彩なポケット装備「POTR DISSECTION」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107131.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-11",
-    "title": "貝印、なでるように剃るカミソリ「なでそり」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107496.html",
-    "score": 1
-  },
-  {
-    "source": "Publickey",
-    "date": "2026-05-11",
-    "title": "NutanixとAWSが語る。既存システムを圧倒的なスピードと低コストでAWSに移行する方法［PR］",
-    "url": "https://www.publickey1.jp/blog/26/nutanixawsawspr.html",
-    "score": 2
-  },
-  {
-    "source": "Publickey",
-    "date": "2026-05-11",
-    "title": "企業向けストレージベンダのCEO、半導体部品の調達コストが4倍から10倍に急騰していると説明。製品価格を70％値上げ、今後さらなる値上げも",
-    "url": "https://www.publickey1.jp/blog/26/ceo41070.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-12",
-    "title": "2030年に登場するLLMの推論コスト 2つのシナリオで予測：AIの推論コストは90％下落も、企業の予算を圧迫か Gartnerが警告",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/12/news024.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-12",
-    "title": "Deep Insider Brief ― 技術の“今”にひと言コメント：GPT-5.5は最高性能ではないのに、なぜエンジニアが熱狂？ カギは“最後まで自走する力”",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/12/news009.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-12",
-    "title": "Docker、アップデートと回避策を呼び掛け：Docker Engine「認可バイパスの危険」が再浮上、過去の“不完全な修正”に起因",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/12/news032.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-12",
-    "title": "PagerDutyが開催、狙いを聞いた：仮想CTOが怒号、疑似SNSで炎上 インシデント対応を「eSports」に？ 企業対抗でバトル",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/11/news011.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-12",
-    "title": "npmマルウェアアドバイザリ数が記録的水準に：もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/12/news049.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-12",
-    "title": "及川卓也からエージェント時代の開発者たちへ（8）：Cracked Engineerは成立する？ AIエージェントの時代でも「仲間」が必要な理由",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/12/news001.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-12",
-    "title": "就活は“まず自己分析”から“取りあえずインターン”へ：任天堂に次ぐ2位は“老舗の国産IT企業” エンジニア志望学生が選ぶインターン人気企業は？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/12/news035.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-12",
-    "title": "未知の脆弱性をAIが暴き出す Googleが警告する「完全自律型サイバー攻撃時代」の幕開け",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/12/news055.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-12",
-    "title": "高い攻撃成功率に注意：Linux主要配布版にroot権限奪取の恐れ ゼロデイ脆弱性「Dirty Frag」公開",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/12/news043.html",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "50歳未満の米成人の半数が「健康情報をインフルエンサーから入手」--Pew調査",
-    "url": "https://japan.cnet.com/article/35247409/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "ChatGPT、日本でも広告を表示開始「数週間以内に」",
-    "url": "https://japan.cnet.com/article/35247364/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "JR東日本も実証へ、なぜ「タッチレス」改札機が注目を集めるのか（鈴木淳也）",
-    "url": "https://japan.cnet.com/article/35247313/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "LINE生みの親、慎CPOインタビュー 「AIはLINE立ち上げ期と酷似している」",
-    "url": "https://japan.cnet.com/article/35247361/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "NTT、触れずに「柔らかさ」「粘り気」を遠隔で伝える世界初の手法開発",
-    "url": "https://japan.cnet.com/article/35247374/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "Windows 11の次期アプデで「動作の大幅な高速化」が実現する可能性",
-    "url": "https://japan.cnet.com/article/35247358/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "iPhoneとAndroid間のメッセージがより安全に 「iOS 26.5」で暗号化RCSに対応",
-    "url": "https://japan.cnet.com/article/35247372/",
-    "score": 3
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "「Netflixがユーザーデータを無断収集」とテキサス州が提訴",
-    "url": "https://japan.cnet.com/article/35247381/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "「iPhone 17」シリーズ、世界販売トップ3を独占 1-3月期スマホランキング",
-    "url": "https://japan.cnet.com/article/35247400/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "ふるさと納税、ポータルサイト事業者に掲載委託料など1379億円--総務省",
-    "url": "https://japan.cnet.com/article/35247380/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "アップル次期「Vision Pro」は2028年以降？AIペンダントやARグラスに注力か",
-    "url": "https://japan.cnet.com/article/35247389/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "タイミー、オフィスワークに本格参入 業務プロセスごと受託し「即戦力」をアサイン",
-    "url": "https://japan.cnet.com/article/35247362/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "マクドナルド、あの「ちいかわ」ハッピーセット発売で厳戒態勢--その中身とは",
-    "url": "https://japan.cnet.com/article/35247359/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "マネーフォワード、三井住友銀行との連携を再開 他行も順次",
-    "url": "https://japan.cnet.com/article/35247392/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "メルペイ、残高不足でも支払える新機能 不足分は与信枠から充当",
-    "url": "https://japan.cnet.com/article/35247406/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "人気歌手がサムスンを提訴、テレビ外箱に肖像を「無断で利用」",
-    "url": "https://japan.cnet.com/article/35247375/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-12",
-    "title": "太陽が2つある「スターウォーズ」のような惑星、一気に27個も発見か 科学者ら",
-    "url": "https://japan.cnet.com/article/35247401/",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "DeNA、南場智子氏が社長兼CEOに復帰へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news142.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "Google検索が利用しづらい状態に 「サーバー エラー」で",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news105.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "Innovative Tech：“ゲーム依存”と”趣味ゲーマー”、同じ長時間プレイでも脳への影響に差 100人以上で調査した研究結果",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news021.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "Innovative Tech：マウスのアルツハイマー病改善に寄与、脳を若返らせる「iPaD」の効果 理研などがCell系列誌で研究発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news018.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "KDDI、コインチェックと業務提携 約102億円出資 新会社も設立",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news132.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "KDDI、子会社の不適切取引受けガバナンス体制を刷新 CFO直轄の本部新設やAI活用も",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news136.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "OpenAI、企業向けAI導入支援を本格展開 「Deployment Company」設立",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news053.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "Z世代の新入社員、研修の切り札はAI パソコン相手に接客特訓、システム開発 リスクは",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news111.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "iPhoneとAndroid間のRCSがエンドツーエンド暗号化に対応 iOS 26.5より",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news073.html",
-    "score": 3
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "「2026年度下半期の人事評価と昇進者リストを先行公開します」 いやらし～いフィッシングメールが来た話",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/11/news073.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "「くら寿司 公式アプリ」に脆弱性、起動時の強制アップデートで対応 JVN報告",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news048.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "「イオン大宮」の土地に10万円から投資 三井物産子会社、日本初の“底地”デジタル証券を公開",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news119.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "「ラブライブ！」アクア公式ファンクラブのドメイン、第三者が購入できる状態に→入札額950億円？ ファンから悪用を懸念する声も",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news148.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "「住民税の納付」装う詐欺メール拡散 PayPayで送金迫る手口、フィッシング対策協議会が警戒呼び掛け",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news143.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "「半導体部品の調達コストが4倍から10倍に急騰している」と米ストレージベンダーCEO 製品価格への転嫁進む",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news061.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "ふるさと納税、仲介サイトへの支払い1379億円 総務省が実態調査 手数料引き下げを要請",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news067.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "アイリスオーヤマ、コメ生産に参入 長期目標1000ha、ドローン活用も",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news137.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "カルビー、14商品のモノクロパッケージ化を正式発表 「当面の対応策」として25日から ナフサ不足の影響か",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news131.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "マネーフォワード、銀行連携を一部再開 三井住友系列から",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news075.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "ランサム攻撃で個人情報3万件流出か 貿易貨物の検査機関・新日本検定協会",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news104.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "中国ロボット企業、人が搭乗できる量産可能な変形ロボット「GD01」公開",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news133.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "任天堂、Switch 2値上げの理由を説明 「購入のハードル上がる」と古川社長",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news072.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "小寺信良のIT大作戦：「BeReal」──若者特有の同調心理を巧みに刺激する“自己露出型サービス”の功罪",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news123.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-12",
-    "title": "漫画「パトレイバー」完全新作読切、「週刊スピリッツ」次号に掲載へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news056.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "AIが攻撃者の\"補助ツール\"に グーグルが対策と最新脅威を報告",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107850.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "KDDI、1.2兆円投資の日本列島「デジタルベルト構想」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108010.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "KDDI、「暗号資産ウォレット」を今夏開始 コインチェックと提携",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107994.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "OpenAI、FDE特化の新会社 エンタープライズAI導入を本格支援",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107725.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "OpenAI、サイバー防衛向けフロンティアAIサービス「Daybreak」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107840.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "Wiseデビットカード、Apple Payに対応",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107917.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "iPhoneとAndroidで暗号化された「RCS」メッセージの相互利用に対応 iOS 26.5",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107736.html",
-    "score": 3
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "はなまる、肉特化のうどん店「肉店」を赤坂にオープン",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107826.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "イオンレイクタウンに新エリア「レイクサイド ダイニング/パーク」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107984.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "カラーになった新「Kindle Scribe」 GoogleドライブやOneDrive連携",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107895.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "セブン、店内で焼き上げる新食感クロワッサン発売",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108004.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "ソニー、-2℃進化した着るクーラー 新デザインの「REON POCKET 6」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107745.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "マネーフォワード、銀行口座連携を再開",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107852.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "メルペイ、店頭で残高不足時に自動充当する新機能",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107955.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-12",
-    "title": "人とAIエージェント協働は企業業務もソフトウェアと同パターンに MS調査",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107697.html",
-    "score": 1
-  },
-  {
-    "source": "Publickey",
-    "date": "2026-05-12",
-    "title": "AIとの共同作業に最適化したコードエディタ「Zed 1.0」登場。Atomエディタの開発者らがRustで最初から作り直した理由とは",
-    "url": "https://www.publickey1.jp/blog/26/aized_10atomrust.html",
-    "score": 2
-  },
-  {
-    "source": "Publickey",
-    "date": "2026-05-12",
-    "title": "JavaScriptランタイムのBun、Claudeを使って開発言語をZigからRustへ移行中",
-    "url": "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "AI開発競争の弊害：Claude拡張機能に深刻な脆弱性 無権限でAI操作を乗っ取り可能",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news037.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "Deep Insider AI Practice：【独自調査】日本語でAIを使うと「約1.5倍」高く付く？ AI利用のコスパを左右する“トークン効率”を比較",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news011.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "Google Cloudが学生開発者のAI活用動向を調査：AI依存が招く「認知的負債」をどう防ぐ？ 次世代の開発者は「あえて使わない」",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news058.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "Microsoft調査から読み解く最新脅威動向：パスワード、放置VPN、休眠ID……“初歩的な隙”ばかり？ 重要インフラへの攻撃パターンとその対策",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news065.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "Tech News：Windows 11が軽快に？ 2026年5月パッチ「KB5089549」でCPU性能向上と低遅延モードが追加",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news071.html",
-    "score": 3
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "Tech TIPS：【PowerToys】ウィンドウをどこでも自由に「つかんで移動」機能など、最新版強化ポイントまとめ",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news016.html",
-    "score": 0
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "「22秒で破壊、400日間の潜伏」 攻撃者の行動が二極化：「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news056.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "エージェント型AIによる意思決定の約7割は「人が検証」：まだ信用されていない「AIエージェントによる意思決定」 “人の目”による主な検証方法とは",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news054.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "バズったOSSに潜む死角：「OpenAI公式」だと思ったら…… 24万DLを突破した“人気AIコード”の正体",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news045.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "多くの企業が“出たとこ勝負”：訓練なし、検証なし、責任者不明 サイバーBCPの危うい実態",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news053.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "悪用確認済みのため要注意：PAN-OSに深刻な脆弱性「CVE-2026-0300」発覚 root権限奪取の恐れ",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news034.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "現場で役立つ「AIインフラ」の基礎と運用：【第1章】（3）：「GPUを遊ばせない」「ストレージで失速させない」――AI処理を高速化するインフラ設計の基本とは",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news014.html",
-    "score": 3
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-13",
-    "title": "辻伸弘の「投げます。一石、」（3）：多要素認証でも守れない 「インフォスティーラー」を“正しく”恐れよ",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/22/news009.html",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "9000以上の教育機関を狙ったCanvas攻撃、ハッカー集団が「データ削除」に合意",
-    "url": "https://japan.cnet.com/article/35247462/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "Amazon、手書きできる「Kindle Scribe」を刷新 初のカラーモデル追加 価格は？",
-    "url": "https://japan.cnet.com/article/35247414/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "Android 17は「富裕層」を熱狂させるだろう しかし私たち庶民はどうだろうか",
-    "url": "https://japan.cnet.com/article/35247433/",
-    "score": 3
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "Android 17登場 Geminiがすべての中心に ユーザーの操作まで代行 スマホ新時代の幕開け",
-    "url": "https://japan.cnet.com/article/35247417/",
-    "score": 3
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "JR東日本とソニーが全力投球する「第2のSuica」の正体--UWB改札の実装が具現化へ（鈴木淳也）",
-    "url": "https://japan.cnet.com/article/35247463/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "KDDI、auフィナンシャルホールディングスの株式上場検討を開始",
-    "url": "https://japan.cnet.com/article/35247447/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "KDDI、コインチェックと資本提携",
-    "url": "https://japan.cnet.com/article/35247437/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "KDDI、コンシューマー向けAIエージェントを6月にも発表へ",
-    "url": "https://japan.cnet.com/article/35247457/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "iPhoneのカメラアプリがもっと使いやすくなる？「iOS 27」で自由なカスタマイズが可能か",
-    "url": "https://japan.cnet.com/article/35247468/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "「ChatGPTの助言で過剰摂取」19歳死亡で遺族らがOpenAIを提訴",
-    "url": "https://japan.cnet.com/article/35247434/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "アマゾンの爆速サービス「Amazon Now」体験記、30分配送のはずが16分で届いた",
-    "url": "https://japan.cnet.com/article/35247473/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "グーグルの次世代AIノートPC「Googlebook」発表 今秋発売へ",
-    "url": "https://japan.cnet.com/article/35247415/",
-    "score": 3
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "ドコモ、SMS後継「RCS」を26年夏提供開始 写真・動画・グループチャットに対応",
-    "url": "https://japan.cnet.com/article/35247438/",
-    "score": 3
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-13",
-    "title": "任天堂、スイッチ2値上げを前に「本体＋ゲーム」のお買い得セットを米国で発表",
-    "url": "https://japan.cnet.com/article/35247441/",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "Claude Mythosがもたらすセキュリティビジネス激変の可能性 二極化していく“業界のこれから”",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news077.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "Claudeに法律業務特化の拡張機能 DocuSignなどと連携、12種の新プラグインも",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news129.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "DeNAアカウント、メールの乗っ取りに注意喚起 登録情報の書き替えやDeNA Payで金銭被害のおそれも",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news137.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "Geminiがスマホを“自動操縦” Google、Android向けAIエージェント「Gemini Intelligence」発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news136.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "Google、AI特化の次世代ノートPC「Googlebook」発表 26年後半に投入へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news104.html",
-    "score": 3
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "Innovative Tech：“酒を飲むと顔が赤くなる”体質は収入を左右する？ 日本男性含む3000人を調査 東大などが2023年に学術誌で発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news066.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "TikTok動画から旅行予約「TikTok GO」日本で利用拡大 半年で270％増",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news079.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "キヤノン、動画特化の新フルサイズ「EOS R6 V」投入 “ワンオペ撮影”も強力サポート 約36万円",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news135.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "ソニー、6680万画素のフルサイズミラーレス「α7R VI」発表 R初の積層型センサー 約74万円",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news065.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "パナソニック、高性能コンデジ「DC-L10」発表 GH7と同じ4/3センサー搭載 21万円前後",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news115.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "マツダ、電動化投資を3000億円減額 需要縮小で自社開発EV投入を2年程度延期",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news076.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "撮影時にAIがレンズやボケ表現を提案するスマホ ソニー「Xperia 1 VIII」発売",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news103.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "自民党、生成AIを悪用したディープフェイク広告に対策案 罰則含めた法整備求める",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news097.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-13",
-    "title": "西友とトライアル、モノクロのカルビー商品が店頭に並ぶ画像に注意喚起 「現時点で販売の事実なし」",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news126.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "Claude Cowork、法務対応を強化する拡張機能 業務別プラグインなど",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108449.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "Googlebook誕生 Geminiを前提とした新しいノートPCが今秋発売",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107723.html",
-    "score": 3
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "JR東日本が「遠足チケット」 小学生・園児の団体移動用",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108323.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "TikTokからホテル・観光地を予約 「TikTok GO」本格展開",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108067.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "「Gemini Intelligence」登場 “意図”を理解するAndroidがノートPCにも拡大",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107319.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "たまプラーザ駅、北口バスターミナルをリニューアル 27年竣工",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108382.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "エース、アウトドアバッグ参入 26年秋冬モデル",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107944.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "オーデマ ピゲ×スウォッチ登場 あのロイヤルオークがポップな懐中時計に",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108422.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "カカクコム、欧州のファンドが買収 非公開化でAI時代に対応",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108381.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "カルビー、原材料調達不安定化で白黒パッケージを導入",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108181.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "ジェットストリームプライム、シックなメタリックの新色",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108267.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "セイコー 5スポーツから新型フィールドウォッチ 簡易方位計を搭載",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106808.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "ドコモ、「RCS」に26年夏から対応開始",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108108.html",
-    "score": 3
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "大阪・なんばのクボタ本社跡地に1万人収容アリーナ・ホテル・商業",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108154.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "蓄電池置いて電気代3000円引き「auでんち」 設置無料で停電対策も",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108277.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-13",
-    "title": "電動ワークチェア「LiberNovo」、ベンチレーション機能搭載の最上位モデル",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108190.html",
-    "score": 1
-  },
-  {
-    "source": "Publickey",
-    "date": "2026-05-13",
-    "title": "AnthropicがAWS上で提供する「Claude Platform on AWS」正式リリース。Claudeの新機能を含むフルセットをAWSで提供",
-    "url": "https://www.publickey1.jp/blog/26/anthropicawsclaude_platform_on_awsclaudeaws.html",
-    "score": 2
-  },
-  {
-    "source": "Publickey",
-    "date": "2026-05-13",
-    "title": "クラウドインフラのシェア、AWSが28％、Azureは21％で変わらずも、市場全体が年35％の急成長に。2026年第1四半期、Synergy Research",
-    "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-14",
-    "title": "4月の利用状況レポートを参考に：GitHub Copilot「使い放題」終了でどうなる？ 6月から従量課金制に、月額100ドルの「Max」プラン追加も",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news053.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-14",
-    "title": "AIエージェント活用開発の広がりで負荷増大、個人向けプランを見直し：GitHub Copilotが“使われ過ぎて”ついに制限 何ができなくなるのか？ 対処法は？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news046.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-14",
-    "title": "EDRやAIでも検知不可：99％のファイルを数分で封鎖 暗号化不要の準ランサム攻撃「GhostLock」とは？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news041.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-14",
-    "title": "New Relic CEOに聞いた、これからのSREと可観測性：AIが書いたコードの「未知のリスク」にどう向き合う？――鍵は「エンジニアの能力を拡張できるか」",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news017.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-14",
-    "title": "Python、Java、TypeScript、Goのマルチ言語エコシステムに成長：JavaでAIエージェントを制御する方法とは？ Google「ADK for Java 1.0.0」の全容",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news064.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-14",
-    "title": "復旧支援まで備わった現実的な選択肢：ランサムウェア、サーバ調達難、慢性的な人材不足――難局に直面する企業は「サーバ更新」をどう見直すべきか",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/22/news002.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-14",
-    "title": "操作履歴や設定変更を監査ログとして取得：「シャドーClaude」対策が可能に Anthropicが「Compliance API」公開",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news059.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-14",
-    "title": "暗号化PC、実は開け放題？：BitLockerをすり抜ける Windows 11に浮上した“不穏な仕様”",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news048.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-14",
-    "title": "追加要望1000項目超、賠償金額14億円 そのときベンダーは何ができたのか――「旭川医大の惨劇」徹底解説【動画あり】",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news003.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-14",
-    "title": "＠IT Techブログ PickUp（TISインテックグループ編）：AIが知り得ない「暗黙知」にこそ価値がある 6000人の知恵を社外に公開する狙い",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/22/news004.html",
-    "score": 0
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-14",
-    "title": "＠IT Techブログ PickUp（TISインテックグループ編）：AI駆動開発×GitLab：チームを強くする「共有・自動化・分析」のリアル",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/11/news007.html",
-    "score": 0
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "AndroidとChromeOSを統合した「Aluminum OS」とは--現時点でわかっていること",
-    "url": "https://japan.cnet.com/article/35247526/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "AndroidとChromeOS統合の「Googlebook」、参入5社に「あの会社」が含まれない違和感",
-    "url": "https://japan.cnet.com/article/35247498/",
-    "score": 3
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "Androidスマホは「AIファースト」へ進化 Geminiがアプリを操作 iPhoneもSiriで追従なるか",
-    "url": "https://japan.cnet.com/article/35247527/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "Google、AIで再発明したマウスポインター「Magic Pointer」披露 年内「Googlebook」搭載へ",
-    "url": "https://japan.cnet.com/article/35247486/",
-    "score": 3
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "Instagramの新機能「Instants」登場、BeReal風の「消える写真」共有",
-    "url": "https://japan.cnet.com/article/35247513/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "アマゾン、買い物AIアシスタント「Rufus」を終了 「Alexa for Shopping」に刷新",
-    "url": "https://japan.cnet.com/article/35247505/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "シスコ、好決算でも人員削減へ 規模は「4000人未満」",
-    "url": "https://japan.cnet.com/article/35247540/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "シャオミ、「見やすい有機EL」搭載で1万円台のスマートウォッチ「REDMI Watch 6」発売",
-    "url": "https://japan.cnet.com/article/35247503/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "スマホの電池は良くなっているのに、なぜ「足りない」と感じる？ 次の本命「シリコンカーボン」とは",
-    "url": "https://japan.cnet.com/article/35247487/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "楽天グループ、第1四半期としてMNO参入後初の営業黒字 モバイル1036万回線に",
-    "url": "https://japan.cnet.com/article/35247529/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "楽天モバイル、「値上げしない」とは明言せず 三木谷氏 昨年からトーンダウン",
-    "url": "https://japan.cnet.com/article/35247534/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "無料の蓄電池を設置すれば、電気代が毎月3000円オフに--「auでんち」東京都で始動",
-    "url": "https://japan.cnet.com/article/35247488/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "落とすと「あの叫び声」、新型Steamコントローラーの隠し機能は傑作だ",
-    "url": "https://japan.cnet.com/article/35247520/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-14",
-    "title": "金色のトランプ・スマホ、ついに今週出荷へ",
-    "url": "https://japan.cnet.com/article/35247497/",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "AIブームでクラウドインフラ市場が年35％の急成長 上位3社のシェアには変動なし 2026年第1四半期、Synergy Research調査",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news077.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "AI防衛技術のAndurilが50億ドル調達 トランプ政権下の軍近代化加速",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news070.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "Amazon、ショッピングAI「Rufus」を「Alexa for Shopping」に刷新 「Alexa+」と統合し外部サイト購入にも対応",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news089.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "ChatGPTの医療アドバイスで薬を過剰摂取、米国で19歳大学生が死亡 遺族がOpenAI提訴",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news054.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "Innovative Tech：コーヒーは腸を介して認知機能に影響する？ アイルランドでの調査結果、Nature系列誌で研究発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news024.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "Instagram、素の日常を共有できる新機能「Instants」リリース 写真は友達の閲覧後に自動消去",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news087.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "KADOKAWA、早期退職募集 通期大幅減益、「アニメ・実写」は赤字転落",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news127.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "SusHi Tech Tokyo 2026：“人型ロボ完全国産化”目指すベンチャーから身長約130cmの小型モデル 中国機ベースも、近く国産化ロードマップ発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news045.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "iPS医療製品、年内にも実用化 アムシェプリ開発の住友ファーマが挑むコスト回収の壁",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news081.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "「Android 17」に複数の新機能 銀行を装った詐欺電話の自動切断や“10秒待機”でアプリの使いすぎ防止も",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news101.html",
-    "score": 3
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "「Chromebookは継続」 Googleが10年間のアップデートを改めて約束 「Googlebook」発表を受け",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news109.html",
-    "score": 3
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "「『妖怪ウォッチ2』Unityで作り直した」非公式リメイク報告、海外で拡散 レベルファイブ「厳正に対処」",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news100.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "「【機密】昇進リスト先行公開、VPNでアクセスを」巧妙な詐欺メールが拡散中 「給与改定」「交通費改定」版も",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news111.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "「ホロアース」終了へ ホロライブ発のメタバースサービス 開始から約1年で",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news140.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "「世界サーバ投げ選手権」2026年のチャンピオンはSAP従業員",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news117.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "「食べログ」運営のカカクコム買収、LINEヤフー陣営が再提案 1株3232円に引き上げ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news155.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "くら寿司、万博店を再現した“メモリアル店“オープン 回転ベルトなど移設、世界70カ国の料理も",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news084.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "カバー、特別損失32億円を計上 「ホロアース」サービス終了にともない",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news133.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "トヨタから免許なしで乗れる電動1人乗り「ランドホッパー」 27年春以降に発売へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news150.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "リコージャパン、社内基幹システムに障害 通信回線破損で 「サイバー攻撃ではない」",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news072.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "津田塾大学が個人情報漏えいで謝罪、別件で逮捕された元職員が“匿名掲示板”に投稿 システム権限の設定ミスも",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news119.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "米中首脳会談の代表団にイーロン・マスク氏、ジェンスン・フアン氏、ティム・クック氏など17人の企業幹部が参加",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news068.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "荻窪圭のデジカメレビュープラス：ソニー「α7R VI」は積層型センサーで描写力に加えて機動力も向上した",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news151.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "選挙時のSNS規制、与野党が偽誤情報対策で今国会で法改正目指す方針で一致",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news137.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-14",
-    "title": "高市首相、“研究費実質倍増”を表明 産総研拡充も 「新技術立国」へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news079.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "Amazon、買い物支援AI「Alexa for Shopping」 購入手続きの代行や商品相談",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108701.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "GREEN×EXPOに\"大屋根リング\"活用の木造建築「KAJIMA TREE」 1/100模型公開",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108628.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "LINEヤフー、カカクコムに買収を再提案 1株3232円に引き上げ",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108658.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "Meta、“完全非公開”のAI会話機能「Incognito Chat」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108551.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "SSK、ウルトラマンコラボの野球グラブ",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108796.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "インスタグラム、閲覧後に消える写真共有機能「Instants」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108547.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "グーグル、3D絵文字「Noto 3D」 Pixelシリーズなどに展開",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108787.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "シャオミ、明るい大画面で24日間使える「REDMI Watch 6」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108370.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "スモールビジネス向けClaudeが登場 営業施策・請求対応など支援",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108633.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "セイコー アストロンに新型 ワンボタンでバンド交換可能",
-    "url": "https://www.watch.impress.co.jp/docs/news/2107880.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "セールスフォース、Slackを全顧客に標準提供 Slackbotも連携",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108757.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "デジタルガレージ、中小企業の実務負担削減へ向けた「DG Bank」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108686.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "トヨタ、新型車「ランドクルーザー“FJ”」発売 450万100円",
-    "url": "https://car.watch.impress.co.jp/docs/news/2108624.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "存在感を増すGenspark、日本で2500社以上に導入「誰でもAIを使えるように」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108355.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "帯広駅前再開発、ホテル棟着工 マンション・商業も一体開発",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108556.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "新型スターシップ、5月19日に打上げ 大幅に再設計した第3世代",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108751.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "東武カード、家族カードもGoogle Payタッチ決済対応",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108614.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "楽天、Q1はモバイル後初の黒字 AIとエコシステムで今期「大きな収益増」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108788.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "次世代Suicaの本命 タッチ不要のUWBウォークスルー改札を体験",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108597.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "海老名のダイエーがイオンに 鴨居ではフードスタイル→イオンスタイル",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108712.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "西川、ファン付き敷きパッド 送風で冷却・除湿",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108596.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "西川創業460年 超デジタル×超アナログで日本“不眠大国”問題に挑む",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108436.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-14",
-    "title": "門真に図書館と文化会館の複合施設「KADOMADO」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108569.html",
-    "score": 1
-  },
-  {
-    "source": "Publickey",
-    "date": "2026-05-14",
-    "title": "AIを高速にするPythonライクな新言語「Mojo」、ベータ版に到達",
-    "url": "https://www.publickey1.jp/blog/26/aipythonmojo.html",
-    "score": 2
-  },
-  {
-    "source": "Publickey",
-    "date": "2026-05-14",
-    "title": "Node.js、Dateに代わる日時処理「Temporal」がデフォルト有効化。TemporalはChrome/Edge/Firefox/Node.jsで利用可能に",
-    "url": "https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-15",
-    "title": "48％が1分未満で解析可能：NVIDIA製「RTX5090」登場で記憶認証は崩壊？ GPU進化に負けないパスワードを作るコツ",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news041.html",
-    "score": 3
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-15",
-    "title": "6.0の「非推奨」は7.0では全く使えない：「さらばJavaScript」 橋渡し的リリース「TypeScript 6.0」で何が変わった？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news052.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-15",
-    "title": "Gartner Insights Pickup（446）：セキュリティ投資の空振りを防ぐ「サイバーセキュリティBI」とは",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news003.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-15",
-    "title": "HPかわさきの研究ノート：Python 3.15 β1がリリースされたので新機能や変更点をまとめてみた",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news016.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-15",
-    "title": "Tech TIPS：【Googleスプレッドシート時短術】行や列を一発で選択するなど、スプレッドシートの操作を極める5つのショートカット",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news014.html",
-    "score": 0
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-15",
-    "title": "「HTTPリクエスト1発」で悪用可能：NGINXのrewrite機能に「緊急」の脆弱性 “見落とし設定”がRCEの入り口に",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news043.html",
-    "score": 4
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-15",
-    "title": "「ゼロタッチデプロイ」にも対応：無料の「Apple Business」 Appleデバイス、独自ドメイン管理機能を統合",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news059.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-15",
-    "title": "「データマネジメント試験」「プロフェッショナルデジタルスキル試験」を新設：“応用情報が消える”ってどういうこと？ 「情報処理技術者試験」はこう変わる",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news044.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-15",
-    "title": "ゼロデイ脆弱性「Dirty Frag」の亜種：Linuxカーネルに新たな脆弱性「Fragnesia」 ローカル権限昇格が可能",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news048.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-15",
-    "title": "中小規模の製品開発者が対象：IPAが無料提供する「1000万円相当」のPSIRT構築・運用、支援先募集",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news047.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-15",
-    "title": "思考性能を備えたマルチモーダルLLM：「テキスト検索では限界」 リコーLMMは図表も扱える、“大型商用モデル並み”の実力",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news038.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-15",
-    "title": "情シスのためのMicrosoft 365／Copilot活用の基本ワザ（3）：Teams会議のCopilot議事メモが微妙……その“笑えない原因”と改善策とは？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news005.html",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-15",
-    "title": "JCB、「クレカ乗車」でポイント10%還元 5月16日利用分から1年間",
-    "url": "https://japan.cnet.com/article/35247579/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-15",
-    "title": "Microsoftの「Copilot」、Edgeブラウザのタブを読んでユーザーを学習へ",
-    "url": "https://japan.cnet.com/article/35247542/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-15",
-    "title": "PASMO、16日（土）夜9時〜終電までチャージできず 早めの残高確認を",
-    "url": "https://japan.cnet.com/article/35247585/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-15",
-    "title": "Pigeon、ベビーカー生産を年内終了 サイベックス台頭でシェア低下",
-    "url": "https://japan.cnet.com/article/35247576/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-15",
-    "title": "「Google I/O」20日午前2時開幕 注目ポイントまとめ Gemini 4は登場する？",
-    "url": "https://japan.cnet.com/article/35247544/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-15",
-    "title": "サムスン、初のスマートグラス「Galaxy Glasses」を7月発表へ その機能とは",
-    "url": "https://japan.cnet.com/article/35247543/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-15",
-    "title": "落とし物の本人確認、スマホのマイナカードでも可能に 警察庁が規則改正案",
-    "url": "https://japan.cnet.com/article/35247547/",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "AIデータセンター建設に米国民の7割が反対──Gallup調べ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news066.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "AI事業者が争う姿勢 朝日、日経の記事無断使用巡り",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news068.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "Anthropicとゲイツ財団が提携 AIによる社会貢献に2億ドル拠出",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news064.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "Innovative Tech：日本人の頭蓋骨、100年間で大きく変化 “短頭化”し男女差も拡大 東大や科警研などが研究発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news028.html",
-    "score": 0
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "OpenAI、サプライチェーン攻撃で従業員2人の端末が侵害 macOSユーザーは6月12日までにアプリ更新を",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news075.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "Spotify、Appleの「HLS」対応で動画ポッドキャストのクロスプラットフォーム配信を実現へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news077.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "“ベビーヨーダ”型ロボがレッドカーペットに スター・ウォーズのエンタメロボットがまたも話題",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news102.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "「Xperia」の新AI機能を紹介したポストが海外で「最高の反AI広告だ」と物議 ソニーの説明は？",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news111.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "「Xで学生監視」大学職員かたる虚偽投稿 新潟大「そのような職員は存在しない」",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news065.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "「なろう・異世界系に偏重していた」 KADOKAWA、出版事業で大幅減益 構造改革急ぐ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news107.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "「超かぐや姫！」のブルーレイ「特装限定版」、売り切れ続出で増産を検討中 「転売と思われる高額な出品を確認した」",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news114.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "オフィス業務にスポットワーカーを タイミーが「Timee BPO」始動、キモは業務設計込みの“丸ごと受託”",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news070.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "マネーフォワードが銀行連携の再開を拡大、東京スター銀など メガバンクはすでに復旧",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news092.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "ワコム社長が西新宿オフィスの一角を私物化、ダンススペースとして娘に提供か “物言う株主”が解任提案",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news109.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "大阪メトロ、万博EVバス損失67億円 車両トラブル続発で無価値に",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news056.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "実物大ユニコーンガンダム立像、展示終了へ 17年の公開から9年弱",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news120.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-15",
-    "title": "小寺信良の「プロフェッショナル×DX」：「衛星放送」終焉の序章か――「BS4K」民放5社撤退のインパクト",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news105.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "AIモデルの利用状況とコストを可視化 バクラクビジネスカード新機能",
-    "url": "https://www.watch.impress.co.jp/docs/news/2109013.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "ChatGPTスマホアプリから「Codex」を操作可能に",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108939.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "JCB、クレカ乗車で10%ポイント還元",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108972.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "PASMO、5月16日夜はチャージ停止",
-    "url": "https://www.watch.impress.co.jp/docs/news/2109156.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "PayPay、サービス未払い・公金未納を騙るフィッシングに注意喚起",
-    "url": "https://www.watch.impress.co.jp/docs/news/2109216.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "シチズン、エコ・ドライブ50周年でブラック×ゴールドの7モデル",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108613.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "シャープ、AIキャラ「ポケとも」に会話無制限プラン 月3300円",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108958.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "シャープ、テレビにAIキャラ搭載 会話やおすすめ番組の相談",
-    "url": "https://www.watch.impress.co.jp/docs/news/2109168.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "トヨタ、オフロード特化の特定原付「ランドホッパー」 27年以降発売",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108976.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "ピジョン、ベビーカー販売終了へ 2026年内",
-    "url": "https://www.watch.impress.co.jp/docs/news/2109011.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "プロント、釜めしと抹茶の新業態「紬」 関空の出国エリアに",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108798.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "動画AIのRunway、日本市場進出 4000万ドル投資",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108960.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "相模大野 伊勢丹跡地のタワマン「プラウドタワー」で“まちへの愛着”醸成",
-    "url": "https://www.watch.impress.co.jp/docs/news/2109176.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-15",
-    "title": "親指カメラがレトロに進化 Insta360 GO 3S「レトロキット」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2109154.html",
-    "score": 1
-  },
-  {
-    "source": "Publickey",
-    "date": "2026-05-15",
-    "title": "VS Code、複数AIエージェントでの開発を容易にする新機能「Agent window」プレビュー公開",
-    "url": "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
-    "score": 2
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-16",
-    "title": "今週の「＠IT」よく読まれた記事“10選”：「光ファイバーの次」を見据えるMicrosoft 著名開発者が下した「GitHub離れ」の決断",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/16/news023.html",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-16",
-    "title": "ソニーの新フラッグシップスマホ「Xperia 1 VIII」の実機に触れた",
-    "url": "https://japan.cnet.com/article/35247590/",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-16",
-    "title": "OpenAI、「ChatGPT」に個人向け資産管理機能 金融口座と連携",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-16",
-    "title": "ちょっと昔のInnovative Tech：「涼宮ハルヒの憂鬱」の視聴順を巡る4chan匿名ユーザーの投稿→うっかり数学の未解決問題で歴史的発見 2021年に論文化",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/16/news003.html",
-    "score": 0
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-16",
-    "title": "ChatGPTに「家計・資産管理」機能 サブスク見直しや住宅ローン計算",
-    "url": "https://www.watch.impress.co.jp/docs/news/2109258.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-16",
-    "title": "G-SHOCK マッドマスター、“マグマ”がテーマのレッド×ゴールド",
-    "url": "https://www.watch.impress.co.jp/docs/news/2106894.html",
-    "score": 0
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-16",
-    "title": "スノーピーク、初の冷感アパレル ファン付きベストなど4種展開",
-    "url": "https://www.watch.impress.co.jp/docs/news/2109151.html",
-    "score": 1
-  },
-  {
-    "source": "?IT",
-    "date": "2026-05-17",
-    "title": "自律化するほど必要なガバナンス：「AIエージェントが侵入経路」「レビューが追い付かない」 運用設計が問われる段階に",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/17/news003.html",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-17",
-    "title": "Amazon、麻布台ヒルズに新オフィス 34〜44階に入居",
-    "url": "https://japan.cnet.com/article/35247630/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-17",
-    "title": "ChatGPTに「マネフォ」のような家計簿機能 米国で先行提供",
-    "url": "https://japan.cnet.com/article/35247617/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-17",
-    "title": "Gmailの無料容量、新規アカウントは15GB→5GBに縮小か グーグルがテスト中",
-    "url": "https://japan.cnet.com/article/35247616/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-17",
-    "title": "「Android 16」に新たな脆弱性か VPNを迂回してIPアドレスを漏えいさせる恐れ",
-    "url": "https://japan.cnet.com/article/35247615/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-17",
-    "title": "「PayPay引落未完」などのSMSに要注意 記載URLを絶対にクリックしないで",
-    "url": "https://japan.cnet.com/article/35247618/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-17",
-    "title": "モトローラ折りたたみスマホ「Razr Fold」レビュー サムスンとGoogleを脅かす実力あり",
-    "url": "https://japan.cnet.com/article/35247587/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-17",
-    "title": "名門プリンストン大学が133年守り続けた伝統を廃止、AIカンニング横行で",
-    "url": "https://japan.cnet.com/article/35247619/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-17",
-    "title": "手ぶらで玄関解錠、SwitchBot新型スマートロックは顔認証と静脈認証に対応",
-    "url": "https://japan.cnet.com/article/35247623/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-17",
-    "title": "災害時に被災地へモバイルバッテリーを供給へ 携帯4社らとメーカー7社がタッグ",
-    "url": "https://japan.cnet.com/article/35247633/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-17",
-    "title": "画面なしトラッカー「Fitbit Air」がグーグル新型スマートグラスの強力な武器になる理由",
-    "url": "https://japan.cnet.com/article/35247632/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-17",
-    "title": "部屋中どこでも「あなたがいる方」へ風を送る扇風機、ダイソンから登場",
-    "url": "https://japan.cnet.com/article/35247645/",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-17",
-    "title": "サダタローのゆるっとマンガ劇場：「Switch 2」値上げ！ 持っている人も今のうちにやっておきたいことをゲーム好きマンガ家が解説",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/17/news015.html",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "Geminiは「AIエージェント」に全振り、出遅れのコーディング分野でも挽回へ　Google I/O 2026",
-    "url": "https://japan.cnet.com/article/35247705/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "Google I/Oで埋もれた重要発表　がん治療などの研究をAIで加速する「Gemini for Science」",
-    "url": "https://japan.cnet.com/article/35247762/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "Google、しゃべるだけで「整った文章」を生成する新機能",
-    "url": "https://japan.cnet.com/article/35247702/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "Google、マルチモーダルAI「Gemini Omni」発表　あらゆる入力から動画を生成する“世界モデル”",
-    "url": "https://japan.cnet.com/article/35247699/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "Google、無休で働くAIエージェント「Gemini Spark」発表　PCを閉じても動作",
-    "url": "https://japan.cnet.com/article/35247698/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "Googleが「Gemini 3.5」発表　まず軽量版のFlashから　Proは6月提供",
-    "url": "https://japan.cnet.com/article/35247704/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "Googleのスマートグラス、ついに正式発表　サムスンと共同開発　26年秋発売",
-    "url": "https://japan.cnet.com/article/35247701/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "OpenAI、最大3年の「計算資源へのアクセス」を保証する新サービスを開始",
-    "url": "https://japan.cnet.com/article/35247716/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "「Google AI Ultra」大幅値下げ　月1万4500円から利用可能に　Geminiの最上位プラン",
-    "url": "https://japan.cnet.com/article/35247703/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "「Google検索」をAIで大幅刷新　会話型UIや動的ウィジェット、エージェント機能を投入",
-    "url": "https://japan.cnet.com/article/35247700/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "「海に沈んだゴールデンゲートブリッジ」も探索可能に　グーグル「Project Genie」がストビュー連携",
-    "url": "https://japan.cnet.com/article/35247758/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "【5分でわかる】Google I/O 2026発表まとめ--Gemini 3.5やSparkエージェント、スマートグラスなど",
-    "url": "https://japan.cnet.com/article/35247706/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "アップル、AIでアクセシビリティを大幅強化　iPhoneやVision Proに革新的な新機能が到来",
-    "url": "https://japan.cnet.com/article/35247711/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "リベンジポルノやAIフェイクを48時間以内に削除義務化　米「Take It Down法」が全面施行",
-    "url": "https://japan.cnet.com/article/35247722/",
-    "score": 2
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "山手線車内の97%を1Gbpsで通信できる「5Gミリ波エリア」に--JR東日本とKDDIが実証実験",
-    "url": "https://japan.cnet.com/article/35247742/",
-    "score": 1
-  },
-  {
-    "source": "CNET Japan",
-    "date": "2026-05-20",
-    "title": "高齢者の転倒をAIが常時監視、オランダの実証実験が投げかける「プライバシー」の課題",
-    "url": "https://japan.cnet.com/article/35247725/",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
     "title": "Appleが5年がかりで開発したセキュリティ対策を5日で突破　「Mythos」が見せつけた脆弱性攻撃の威力",
     "url": "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
-    "score": 5
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "Appleのスポーツ速報アプリが日本上陸　iPhoneのロック画面やApple Watchにリアルタイム表示",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news129.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "GitHub、内部リポジトリへの不正アクセスを「調査中」　ハッカー集団「4000件窃取」と主張",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news085.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "GitHub内部リポジトリへの不正アクセス、「悪意あるVS Code拡張機能」が関与と特定　約3800件流出か",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news137.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "Google、AIが価格監視や決済最適化を自動で行う「Universal Cart」発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news102.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "Google、AIグラス発売へ　オーディオグラスは26年秋、ディスプレイ内蔵タイプも投入予定",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news064.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "Google、“動画版Nano Banana”こと「Gemini Omni」公開　会話で映像を生成・編集",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news063.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "Google、パーソナルAIエージェント「Gemini Spark」発表――デバイスを閉じても自律で働く",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news068.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "Google検索が「AI検索」に──エージェント機能やマルチモーダル入力に対応",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news067.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "Grok、「OpenClaw」と連携　サブスク加入者なら直接利用可能　メッセージアプリ経由で操作も",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news124.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "「なるほど、そういう動きか」――Adobe Premiereに追加された「カラーモード」で“カラグレ”を試す",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news078.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "ファンティアの「修正・モザイク基準」改定にクリエイター悲鳴　「過去作も？」「時間なさすぎ」",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news087.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "マネーフォワード、銀行連携の一時停止で補償発表　プレミアム利用者向けに購読期間を15日延長へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news136.html",
-    "score": 2
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "リコールを乗り越えたcheeroの回答　安全性に全振りした「準固体電池」モバイルバッテリーの使い勝手は？",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news079.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "山手線の車両を5Gの“ミリ波エリア化”　JR東とKDDIが初めて実証──ガラスアンテナで電波を車内に",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news130.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "暗記のコツは「息を吐いている後半」に覚えること？　思い出す時も同じ呼吸タイミング　兵庫医科大などが研究発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news031.html",
-    "score": 1
-  },
-  {
-    "source": "ITmedia NEWS",
-    "date": "2026-05-20",
-    "title": "現実世界を基に\"動き回れる\"仮想空間を生成　Googleの世界生成AI「Project Genie」にストリートビュー連携機能",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news065.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "AIで拡張するグーグル　Gemini 3.5やYouTubeと会話などエージェント新展開",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110234.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "Google Antigravity 2.0公開　AI StudioはAndroidアプリ構築に対応",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110200.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "JR西日本、大阪環状線でホーム段差縮小　車いすでも乗降しやすく",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110236.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "JR西明石に新駅ビル「プリコ西明石 南館」6月26日開業　新改札・駅前広場も",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110349.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "Slackが目指す「Agentic Work OS」　AIスキルやディープリサーチなど新機能",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110166.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "Surface Pro Business新モデル 1499ドルから  「MacBook Airより高性能」訴求",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110192.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "Twitch、視聴者参加の収益化機能を拡充　ハイプトレインも強化",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110335.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "Yahoo!ショッピング、AIが商品を「対戦」させ勝者を提案する新機能",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110295.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "みずほ銀行と楽天銀行が戦略的提携　ネット銀行にメガバンクの法人基盤",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110362.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "アップル、アクセシビリティ機能をApple Intelligenceで大幅強化",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110182.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "アップル、日本でスポーツ速報アプリ「Apple Sports」開始",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110141.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "グーグル、検索やGeminiでコンテンツ来歴記録対応を強化　OpenAIも",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110100.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "コクヨキャンパス×Zoffコラボ　アイケアノートやメガネモチーフペンケース",
-    "url": "https://www.watch.impress.co.jp/docs/news/2108245.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "宇宙から林野火災をどう見るか　光学衛星で読み解く大槌町火災",
-    "url": "https://www.watch.impress.co.jp/docs/topic/2109063.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "山手線の車内に1Gbpsのミリ波　KDDI・JR東が“引込み”に成功",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110275.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "帯広駅前に商業施設「ナンモナンモ帯広」　長崎屋跡地に28年春開業",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110205.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "日立、フィジカルAIで社会を支える　“世界一の使い手”への取り組み",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110301.html",
-    "score": 2
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "札幌駅リニューアル　コンコース一新・エキナカ商業拡大",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110323.html",
-    "score": 1
-  },
-  {
-    "source": "Impress Watch",
-    "date": "2026-05-20",
-    "title": "缶を1/3まで圧縮減容する「アルミ缶回収機」　寺岡精工",
-    "url": "https://www.watch.impress.co.jp/docs/news/2110137.html",
-    "score": 1
-  },
-  {
-    "source": "Publickey",
-    "date": "2026-05-20",
-    "title": "Google Antigravity、Androidアプリ開発に正式対応。AIエージェントのための「Android Knowledge Base」「Android Skills」も公開",
-    "url": "https://www.publickey1.jp/blog/26/google_antigravityandroidaiandroid_knowledge_baseandroid_skills.html",
-    "score": 4
-  },
-  {
-    "source": "Publickey",
-    "date": "2026-05-20",
-    "title": "Google、「Antigravity 2.0」発表。デモとしてゼロからOSを開発、Doomも実行可能に。効率性と高い開発能力をアピール",
-    "url": "https://www.publickey1.jp/blog/26/googleantigravity_20osdoom.html",
-    "score": 3
-  },
-  {
-    "source": "Publickey",
-    "date": "2026-05-20",
-    "title": "Linux Foundation、AIエージェントをテーマにしたイベント「AGNTCon + MCPCon」を東京渋谷で開催。9月10日、11日の2日間",
-    "url": "https://www.publickey1.jp/blog/26/linux_foundationaiagntcon_mcpcon910112.html",
-    "score": 3
+    "summary": "",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
   },
   {
     "source": "＠IT",
-    "date": "2026-05-20",
     "title": "Claude Mythosのヤバすぎる実力を検証　脆弱性を連結して攻撃経路を生成",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news042.html",
-    "score": 5
+    "summary": "",
+    "importance": 5,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
   },
   {
     "source": "＠IT",
-    "date": "2026-05-20",
-    "title": "Claude Mythosの登場に危機感　政府が新防衛構想「Project YATA-Shield」を始動",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news051.html",
-    "score": 3
-  },
-  {
-    "source": "＠IT",
-    "date": "2026-05-20",
-    "title": "PR： ネットワークのブラックボックス化が招く致命的な被害とは　有線・無線を一括制御して、トラブル復旧を速める秘策",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news003.html",
-    "score": 2
-  },
-  {
-    "source": "＠IT",
-    "date": "2026-05-20",
-    "title": "macOSのキッティングは“なめるなキケン”　情シスが知るべきPC管理の本質",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news007.html",
-    "score": 3
-  },
-  {
-    "source": "＠IT",
-    "date": "2026-05-20",
     "title": "「PowerShell」がランサムウェア攻撃に悪用？　正規ツールを“凶器”にする手口と対策",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news053.html",
-    "score": 5
+    "summary": "",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Publickey",
+    "title": "Google Antigravity、Androidアプリ開発に正式対応。AIエージェントのための「Android Knowledge Base」「Android Skills」も公開",
+    "url": "https://www.publickey1.jp/blog/26/google_antigravityandroidaiandroid_knowledge_baseandroid_skills.html",
+    "summary": "",
+    "importance": 4,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Publickey",
+    "title": "Google、「Antigravity 2.0」発表。デモとしてゼロからOSを開発、Doomも実行可能に。効率性と高い開発能力をアピール",
+    "url": "https://www.publickey1.jp/blog/26/googleantigravity_20osdoom.html",
+    "summary": "",
+    "importance": 3,
+    "category": "開発",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Publickey",
+    "title": "Linux Foundation、AIエージェントをテーマにしたイベント「AGNTCon + MCPCon」を東京渋谷で開催。9月10日、11日の2日間",
+    "url": "https://www.publickey1.jp/blog/26/linux_foundationaiagntcon_mcpcon910112.html",
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
   },
   {
     "source": "＠IT",
-    "date": "2026-05-20",
+    "title": "Claude Mythosの登場に危機感　政府が新防衛構想「Project YATA-Shield」を始動",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news051.html",
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "macOSのキッティングは“なめるなキケン”　情シスが知るべきPC管理の本質",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news007.html",
+    "summary": "",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
     "title": "「データセンターの土地がない」なら浮けばいい、サーバはついに“移動式”の時代",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news060.html",
-    "score": 3
+    "summary": "",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
   },
   {
     "source": "＠IT",
-    "date": "2026-05-20",
-    "title": "「技術から離れる不安」を乗り越えたITエンジニア　約7割が「管理職になって良かった」と回答",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news056.html",
-    "score": 2
-  },
-  {
-    "source": "＠IT",
-    "date": "2026-05-20",
     "title": "「無線のAIパラドックス」　8割の組織がWi-Fi投資増額の一方で明らかになった3つの課題",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news055.html",
-    "score": 3
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
   },
   {
     "source": "＠IT",
-    "date": "2026-05-20",
     "title": "「運用エンジニアは“燃え尽き予備軍”をやめるべし」　PagerDuty会長が語るインシデント対応“進化論”",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news015.html",
-    "score": 3
+    "summary": "",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
   },
   {
     "source": "＠IT",
-    "date": "2026-05-20",
-    "title": "【やさしいデータ分析】ベイズ統計入門 ～ 古典的な統計との違いと使い分け",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news006.html",
-    "score": 2
-  },
-  {
-    "source": "＠IT",
-    "date": "2026-05-20",
-    "title": "平均パスワード保有数が168件から120件に初の減少　その裏で起きていること",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news059.html",
-    "score": 2
-  },
-  {
-    "source": "＠IT",
-    "date": "2026-05-20",
     "title": "無料版Geminiを仕事で使い倒すための設定と注意点、Gmailやドライブ連携で差をつけろ",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news014.html",
-    "score": 3
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Geminiは「AIエージェント」に全振り、出遅れのコーディング分野でも挽回へ　Google I/O 2026",
+    "url": "https://japan.cnet.com/article/35247705/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Google I/Oで埋もれた重要発表　がん治療などの研究をAIで加速する「Gemini for Science」",
+    "url": "https://japan.cnet.com/article/35247762/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Google、マルチモーダルAI「Gemini Omni」発表　あらゆる入力から動画を生成する“世界モデル”",
+    "url": "https://japan.cnet.com/article/35247699/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Google、無休で働くAIエージェント「Gemini Spark」発表　PCを閉じても動作",
+    "url": "https://japan.cnet.com/article/35247698/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Googleが「Gemini 3.5」発表　まず軽量版のFlashから　Proは6月提供",
+    "url": "https://japan.cnet.com/article/35247704/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Googleのスマートグラス、ついに正式発表　サムスンと共同開発　26年秋発売",
+    "url": "https://japan.cnet.com/article/35247701/",
+    "summary": "",
+    "importance": 2,
+    "category": "開発",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "OpenAI、最大3年の「計算資源へのアクセス」を保証する新サービスを開始",
+    "url": "https://japan.cnet.com/article/35247716/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "「Google AI Ultra」大幅値下げ　月1万4500円から利用可能に　Geminiの最上位プラン",
+    "url": "https://japan.cnet.com/article/35247703/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "「Google検索」をAIで大幅刷新　会話型UIや動的ウィジェット、エージェント機能を投入",
+    "url": "https://japan.cnet.com/article/35247700/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "【5分でわかる】Google I/O 2026発表まとめ--Gemini 3.5やSparkエージェント、スマートグラスなど",
+    "url": "https://japan.cnet.com/article/35247706/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "アップル、AIでアクセシビリティを大幅強化　iPhoneやVision Proに革新的な新機能が到来",
+    "url": "https://japan.cnet.com/article/35247711/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "リベンジポルノやAIフェイクを48時間以内に削除義務化　米「Take It Down法」が全面施行",
+    "url": "https://japan.cnet.com/article/35247722/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "高齢者の転倒をAIが常時監視、オランダの実証実験が投げかける「プライバシー」の課題",
+    "url": "https://japan.cnet.com/article/35247725/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "GitHub、内部リポジトリへの不正アクセスを「調査中」　ハッカー集団「4000件窃取」と主張",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news085.html",
+    "summary": "",
+    "importance": 2,
+    "category": "開発",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "GitHub内部リポジトリへの不正アクセス、「悪意あるVS Code拡張機能」が関与と特定　約3800件流出か",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news137.html",
+    "summary": "",
+    "importance": 2,
+    "category": "開発",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、AIが価格監視や決済最適化を自動で行う「Universal Cart」発表",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news102.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、AIグラス発売へ　オーディオグラスは26年秋、ディスプレイ内蔵タイプも投入予定",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news064.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、“動画版Nano Banana”こと「Gemini Omni」公開　会話で映像を生成・編集",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news063.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、パーソナルAIエージェント「Gemini Spark」発表――デバイスを閉じても自律で働く",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news068.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google検索が「AI検索」に──エージェント機能やマルチモーダル入力に対応",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news067.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "マネーフォワード、銀行連携の一時停止で補償発表　プレミアム利用者向けに購読期間を15日延長へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news136.html",
+    "summary": "",
+    "importance": 2,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "現実世界を基に\"動き回れる\"仮想空間を生成　Googleの世界生成AI「Project Genie」にストリートビュー連携機能",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news065.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "AIで拡張するグーグル　Gemini 3.5やYouTubeと会話などエージェント新展開",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110234.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Google Antigravity 2.0公開　AI StudioはAndroidアプリ構築に対応",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110200.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Slackが目指す「Agentic Work OS」　AIスキルやディープリサーチなど新機能",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110166.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Surface Pro Business新モデル 1499ドルから  「MacBook Airより高性能」訴求",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110192.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Yahoo!ショッピング、AIが商品を「対戦」させ勝者を提案する新機能",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110295.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "グーグル、検索やGeminiでコンテンツ来歴記録対応を強化　OpenAIも",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110100.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "日立、フィジカルAIで社会を支える　“世界一の使い手”への取り組み",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110301.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "PR： ネットワークのブラックボックス化が招く致命的な被害とは　有線・無線を一括制御して、トラブル復旧を速める秘策",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news003.html",
+    "summary": "",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "「技術から離れる不安」を乗り越えたITエンジニア　約7割が「管理職になって良かった」と回答",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news056.html",
+    "summary": "",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "【やさしいデータ分析】ベイズ統計入門 ～ 古典的な統計との違いと使い分け",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news006.html",
+    "summary": "",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "平均パスワード保有数が168件から120件に初の減少　その裏で起きていること",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/20/news059.html",
+    "summary": "",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Google、しゃべるだけで「整った文章」を生成する新機能",
+    "url": "https://japan.cnet.com/article/35247702/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "「海に沈んだゴールデンゲートブリッジ」も探索可能に　グーグル「Project Genie」がストビュー連携",
+    "url": "https://japan.cnet.com/article/35247758/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "山手線車内の97%を1Gbpsで通信できる「5Gミリ波エリア」に--JR東日本とKDDIが実証実験",
+    "url": "https://japan.cnet.com/article/35247742/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Appleのスポーツ速報アプリが日本上陸　iPhoneのロック画面やApple Watchにリアルタイム表示",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news129.html",
+    "summary": "",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Grok、「OpenClaw」と連携　サブスク加入者なら直接利用可能　メッセージアプリ経由で操作も",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news124.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「なるほど、そういう動きか」――Adobe Premiereに追加された「カラーモード」で“カラグレ”を試す",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news078.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ファンティアの「修正・モザイク基準」改定にクリエイター悲鳴　「過去作も？」「時間なさすぎ」",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news087.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "リコールを乗り越えたcheeroの回答　安全性に全振りした「準固体電池」モバイルバッテリーの使い勝手は？",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news079.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "山手線の車両を5Gの“ミリ波エリア化”　JR東とKDDIが初めて実証──ガラスアンテナで電波を車内に",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news130.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "暗記のコツは「息を吐いている後半」に覚えること？　思い出す時も同じ呼吸タイミング　兵庫医科大などが研究発表",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news031.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "JR西日本、大阪環状線でホーム段差縮小　車いすでも乗降しやすく",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110236.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "JR西明石に新駅ビル「プリコ西明石 南館」6月26日開業　新改札・駅前広場も",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110349.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Twitch、視聴者参加の収益化機能を拡充　ハイプトレインも強化",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110335.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "みずほ銀行と楽天銀行が戦略的提携　ネット銀行にメガバンクの法人基盤",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110362.html",
+    "summary": "",
+    "importance": 1,
+    "category": "ビジネス",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "アップル、アクセシビリティ機能をApple Intelligenceで大幅強化",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110182.html",
+    "summary": "",
+    "importance": 1,
+    "category": "半導体",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "アップル、日本でスポーツ速報アプリ「Apple Sports」開始",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110141.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "コクヨキャンパス×Zoffコラボ　アイケアノートやメガネモチーフペンケース",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108245.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "宇宙から林野火災をどう見るか　光学衛星で読み解く大槌町火災",
+    "url": "https://www.watch.impress.co.jp/docs/topic/2109063.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "山手線の車内に1Gbpsのミリ波　KDDI・JR東が“引込み”に成功",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110275.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "帯広駅前に商業施設「ナンモナンモ帯広」　長崎屋跡地に28年春開業",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110205.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "札幌駅リニューアル　コンコース一新・エキナカ商業拡大",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110323.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "缶を1/3まで圧縮減容する「アルミ缶回収機」　寺岡精工",
+    "url": "https://www.watch.impress.co.jp/docs/news/2110137.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-20 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "自律化するほど必要なガバナンス：「AIエージェントが侵入経路」「レビューが追い付かない」 運用設計が問われる段階に",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/17/news003.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Amazon、麻布台ヒルズに新オフィス 34〜44階に入居",
+    "url": "https://japan.cnet.com/article/35247630/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "ChatGPTに「マネフォ」のような家計簿機能 米国で先行提供",
+    "url": "https://japan.cnet.com/article/35247617/",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Gmailの無料容量、新規アカウントは15GB→5GBに縮小か グーグルがテスト中",
+    "url": "https://japan.cnet.com/article/35247616/",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "「Android 16」に新たな脆弱性か VPNを迂回してIPアドレスを漏えいさせる恐れ",
+    "url": "https://japan.cnet.com/article/35247615/",
+    "summary": "",
+    "importance": 1,
+    "category": "セキュリティ",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "「PayPay引落未完」などのSMSに要注意 記載URLを絶対にクリックしないで",
+    "url": "https://japan.cnet.com/article/35247618/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "モトローラ折りたたみスマホ「Razr Fold」レビュー サムスンとGoogleを脅かす実力あり",
+    "url": "https://japan.cnet.com/article/35247587/",
+    "summary": "",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "名門プリンストン大学が133年守り続けた伝統を廃止、AIカンニング横行で",
+    "url": "https://japan.cnet.com/article/35247619/",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "手ぶらで玄関解錠、SwitchBot新型スマートロックは顔認証と静脈認証に対応",
+    "url": "https://japan.cnet.com/article/35247623/",
+    "summary": "",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "災害時に被災地へモバイルバッテリーを供給へ 携帯4社らとメーカー7社がタッグ",
+    "url": "https://japan.cnet.com/article/35247633/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "画面なしトラッカー「Fitbit Air」がグーグル新型スマートグラスの強力な武器になる理由",
+    "url": "https://japan.cnet.com/article/35247632/",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "部屋中どこでも「あなたがいる方」へ風を送る扇風機、ダイソンから登場",
+    "url": "https://japan.cnet.com/article/35247645/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "サダタローのゆるっとマンガ劇場：「Switch 2」値上げ！ 持っている人も今のうちにやっておきたいことをゲーム好きマンガ家が解説",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/17/news015.html",
+    "summary": "",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-17 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "今週の「＠IT」よく読まれた記事“10選”：「光ファイバーの次」を見据えるMicrosoft 著名開発者が下した「GitHub離れ」の決断",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/16/news023.html",
+    "summary": "",
+    "importance": 2,
+    "category": "開発",
+    "reason": "",
+    "published_at": "2026-05-16 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、「ChatGPT」に個人向け資産管理機能 金融口座と連携",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-16 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "ソニーの新フラッグシップスマホ「Xperia 1 VIII」の実機に触れた",
+    "url": "https://japan.cnet.com/article/35247590/",
+    "summary": "",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-16 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "ChatGPTに「家計・資産管理」機能 サブスク見直しや住宅ローン計算",
+    "url": "https://www.watch.impress.co.jp/docs/news/2109258.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-16 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "スノーピーク、初の冷感アパレル ファン付きベストなど4種展開",
+    "url": "https://www.watch.impress.co.jp/docs/news/2109151.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-16 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ちょっと昔のInnovative Tech：「涼宮ハルヒの憂鬱」の視聴順を巡る4chan匿名ユーザーの投稿→うっかり数学の未解決問題で歴史的発見 2021年に論文化",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/16/news003.html",
+    "summary": "",
+    "importance": 0,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-16 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "G-SHOCK マッドマスター、“マグマ”がテーマのレッド×ゴールド",
+    "url": "https://www.watch.impress.co.jp/docs/news/2106894.html",
+    "summary": "",
+    "importance": 0,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-16 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "「HTTPリクエスト1発」で悪用可能：NGINXのrewrite機能に「緊急」の脆弱性 “見落とし設定”がRCEの入り口に",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news043.html",
+    "summary": "",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "48％が1分未満で解析可能：NVIDIA製「RTX5090」登場で記憶認証は崩壊？ GPU進化に負けないパスワードを作るコツ",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news041.html",
+    "summary": "",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "6.0の「非推奨」は7.0では全く使えない：「さらばJavaScript」 橋渡し的リリース「TypeScript 6.0」で何が変わった？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news052.html",
+    "summary": "",
+    "importance": 2,
+    "category": "開発",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "Gartner Insights Pickup（446）：セキュリティ投資の空振りを防ぐ「サイバーセキュリティBI」とは",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news003.html",
+    "summary": "",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "HPかわさきの研究ノート：Python 3.15 β1がリリースされたので新機能や変更点をまとめてみた",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news016.html",
+    "summary": "",
+    "importance": 2,
+    "category": "開発",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "「ゼロタッチデプロイ」にも対応：無料の「Apple Business」 Appleデバイス、独自ドメイン管理機能を統合",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news059.html",
+    "summary": "",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "「データマネジメント試験」「プロフェッショナルデジタルスキル試験」を新設：“応用情報が消える”ってどういうこと？ 「情報処理技術者試験」はこう変わる",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news044.html",
+    "summary": "",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "ゼロデイ脆弱性「Dirty Frag」の亜種：Linuxカーネルに新たな脆弱性「Fragnesia」 ローカル権限昇格が可能",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news048.html",
+    "summary": "",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "中小規模の製品開発者が対象：IPAが無料提供する「1000万円相当」のPSIRT構築・運用、支援先募集",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news047.html",
+    "summary": "",
+    "importance": 2,
+    "category": "開発",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "思考性能を備えたマルチモーダルLLM：「テキスト検索では限界」 リコーLMMは図表も扱える、“大型商用モデル並み”の実力",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news038.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "情シスのためのMicrosoft 365／Copilot活用の基本ワザ（3）：Teams会議のCopilot議事メモが微妙……その“笑えない原因”と改善策とは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news005.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "JCB、「クレカ乗車」でポイント10%還元 5月16日利用分から1年間",
+    "url": "https://japan.cnet.com/article/35247579/",
+    "summary": "",
+    "importance": 2,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Microsoftの「Copilot」、Edgeブラウザのタブを読んでユーザーを学習へ",
+    "url": "https://japan.cnet.com/article/35247542/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "PASMO、16日（土）夜9時〜終電までチャージできず 早めの残高確認を",
+    "url": "https://japan.cnet.com/article/35247585/",
+    "summary": "",
+    "importance": 2,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "「Google I/O」20日午前2時開幕 注目ポイントまとめ Gemini 4は登場する？",
+    "url": "https://japan.cnet.com/article/35247544/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropicとゲイツ財団が提携 AIによる社会貢献に2億ドル拠出",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news064.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、サプライチェーン攻撃で従業員2人の端末が侵害 macOSユーザーは6月12日までにアプリ更新を",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news075.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "JCB、クレカ乗車で10%ポイント還元",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108972.html",
+    "summary": "",
+    "importance": 2,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "PASMO、5月16日夜はチャージ停止",
+    "url": "https://www.watch.impress.co.jp/docs/news/2109156.html",
+    "summary": "",
+    "importance": 2,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Publickey",
+    "title": "VS Code、複数AIエージェントでの開発を容易にする新機能「Agent window」プレビュー公開",
+    "url": "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Pigeon、ベビーカー生産を年内終了 サイベックス台頭でシェア低下",
+    "url": "https://japan.cnet.com/article/35247576/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "サムスン、初のスマートグラス「Galaxy Glasses」を7月発表へ その機能とは",
+    "url": "https://japan.cnet.com/article/35247543/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "落とし物の本人確認、スマホのマイナカードでも可能に 警察庁が規則改正案",
+    "url": "https://japan.cnet.com/article/35247547/",
+    "summary": "",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AIデータセンター建設に米国民の7割が反対──Gallup調べ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news066.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AI事業者が争う姿勢 朝日、日経の記事無断使用巡り",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news068.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Spotify、Appleの「HLS」対応で動画ポッドキャストのクロスプラットフォーム配信を実現へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news077.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "“ベビーヨーダ”型ロボがレッドカーペットに スター・ウォーズのエンタメロボットがまたも話題",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news102.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Xperia」の新AI機能を紹介したポストが海外で「最高の反AI広告だ」と物議 ソニーの説明は？",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news111.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Xで学生監視」大学職員かたる虚偽投稿 新潟大「そのような職員は存在しない」",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news065.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「なろう・異世界系に偏重していた」 KADOKAWA、出版事業で大幅減益 構造改革急ぐ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news107.html",
+    "summary": "",
+    "importance": 1,
+    "category": "ビジネス",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「超かぐや姫！」のブルーレイ「特装限定版」、売り切れ続出で増産を検討中 「転売と思われる高額な出品を確認した」",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news114.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "オフィス業務にスポットワーカーを タイミーが「Timee BPO」始動、キモは業務設計込みの“丸ごと受託”",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news070.html",
+    "summary": "",
+    "importance": 1,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "マネーフォワードが銀行連携の再開を拡大、東京スター銀など メガバンクはすでに復旧",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news092.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ワコム社長が西新宿オフィスの一角を私物化、ダンススペースとして娘に提供か “物言う株主”が解任提案",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news109.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "大阪メトロ、万博EVバス損失67億円 車両トラブル続発で無価値に",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news056.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "実物大ユニコーンガンダム立像、展示終了へ 17年の公開から9年弱",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news120.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "小寺信良の「プロフェッショナル×DX」：「衛星放送」終焉の序章か――「BS4K」民放5社撤退のインパクト",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news105.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "AIモデルの利用状況とコストを可視化 バクラクビジネスカード新機能",
+    "url": "https://www.watch.impress.co.jp/docs/news/2109013.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "ChatGPTスマホアプリから「Codex」を操作可能に",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108939.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "PayPay、サービス未払い・公金未納を騙るフィッシングに注意喚起",
+    "url": "https://www.watch.impress.co.jp/docs/news/2109216.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "シチズン、エコ・ドライブ50周年でブラック×ゴールドの7モデル",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108613.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "シャープ、AIキャラ「ポケとも」に会話無制限プラン 月3300円",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108958.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "シャープ、テレビにAIキャラ搭載 会話やおすすめ番組の相談",
+    "url": "https://www.watch.impress.co.jp/docs/news/2109168.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "トヨタ、オフロード特化の特定原付「ランドホッパー」 27年以降発売",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108976.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "ピジョン、ベビーカー販売終了へ 2026年内",
+    "url": "https://www.watch.impress.co.jp/docs/news/2109011.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "プロント、釜めしと抹茶の新業態「紬」 関空の出国エリアに",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108798.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "動画AIのRunway、日本市場進出 4000万ドル投資",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108960.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "相模大野 伊勢丹跡地のタワマン「プラウドタワー」で“まちへの愛着”醸成",
+    "url": "https://www.watch.impress.co.jp/docs/news/2109176.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "親指カメラがレトロに進化 Insta360 GO 3S「レトロキット」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2109154.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "Tech TIPS：【Googleスプレッドシート時短術】行や列を一発で選択するなど、スプレッドシートの操作を極める5つのショートカット",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/15/news014.html",
+    "summary": "",
+    "importance": 0,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Innovative Tech：日本人の頭蓋骨、100年間で大きく変化 “短頭化”し男女差も拡大 東大や科警研などが研究発表",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news028.html",
+    "summary": "",
+    "importance": 0,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-15 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "AndroidとChromeOS統合の「Googlebook」、参入5社に「あの会社」が含まれない違和感",
+    "url": "https://japan.cnet.com/article/35247498/",
+    "summary": "",
+    "importance": 3,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Google、AIで再発明したマウスポインター「Magic Pointer」披露 年内「Googlebook」搭載へ",
+    "url": "https://japan.cnet.com/article/35247486/",
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Android 17」に複数の新機能 銀行を装った詐欺電話の自動切断や“10秒待機”でアプリの使いすぎ防止も",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news101.html",
+    "summary": "",
+    "importance": 3,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Chromebookは継続」 Googleが10年間のアップデートを改めて約束 「Googlebook」発表を受け",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news109.html",
+    "summary": "",
+    "importance": 3,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "4月の利用状況レポートを参考に：GitHub Copilot「使い放題」終了でどうなる？ 6月から従量課金制に、月額100ドルの「Max」プラン追加も",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news053.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "AIエージェント活用開発の広がりで負荷増大、個人向けプランを見直し：GitHub Copilotが“使われ過ぎて”ついに制限 何ができなくなるのか？ 対処法は？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news046.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "EDRやAIでも検知不可：99％のファイルを数分で封鎖 暗号化不要の準ランサム攻撃「GhostLock」とは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news041.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "New Relic CEOに聞いた、これからのSREと可観測性：AIが書いたコードの「未知のリスク」にどう向き合う？――鍵は「エンジニアの能力を拡張できるか」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news017.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "Python、Java、TypeScript、Goのマルチ言語エコシステムに成長：JavaでAIエージェントを制御する方法とは？ Google「ADK for Java 1.0.0」の全容",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news064.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "復旧支援まで備わった現実的な選択肢：ランサムウェア、サーバ調達難、慢性的な人材不足――難局に直面する企業は「サーバ更新」をどう見直すべきか",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/22/news002.html",
+    "summary": "",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "操作履歴や設定変更を監査ログとして取得：「シャドーClaude」対策が可能に Anthropicが「Compliance API」公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news059.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "暗号化PC、実は開け放題？：BitLockerをすり抜ける Windows 11に浮上した“不穏な仕様”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news048.html",
+    "summary": "",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "追加要望1000項目超、賠償金額14億円 そのときベンダーは何ができたのか――「旭川医大の惨劇」徹底解説【動画あり】",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/14/news003.html",
+    "summary": "",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Androidスマホは「AIファースト」へ進化 Geminiがアプリを操作 iPhoneもSiriで追従なるか",
+    "url": "https://japan.cnet.com/article/35247527/",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ChatGPTの医療アドバイスで薬を過剰摂取、米国で19歳大学生が死亡 遺族がOpenAI提訴",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news054.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "スモールビジネス向けClaudeが登場 営業施策・請求対応など支援",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108633.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "東武カード、家族カードもGoogle Payタッチ決済対応",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108614.html",
+    "summary": "",
+    "importance": 2,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Publickey",
+    "title": "AIを高速にするPythonライクな新言語「Mojo」、ベータ版に到達",
+    "url": "https://www.publickey1.jp/blog/26/aipythonmojo.html",
+    "summary": "",
+    "importance": 2,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Publickey",
+    "title": "Node.js、Dateに代わる日時処理「Temporal」がデフォルト有効化。TemporalはChrome/Edge/Firefox/Node.jsで利用可能に",
+    "url": "https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html",
+    "summary": "",
+    "importance": 2,
+    "category": "開発",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "AndroidとChromeOSを統合した「Aluminum OS」とは--現時点でわかっていること",
+    "url": "https://japan.cnet.com/article/35247526/",
+    "summary": "",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Instagramの新機能「Instants」登場、BeReal風の「消える写真」共有",
+    "url": "https://japan.cnet.com/article/35247513/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "アマゾン、買い物AIアシスタント「Rufus」を終了 「Alexa for Shopping」に刷新",
+    "url": "https://japan.cnet.com/article/35247505/",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "シスコ、好決算でも人員削減へ 規模は「4000人未満」",
+    "url": "https://japan.cnet.com/article/35247540/",
+    "summary": "",
+    "importance": 1,
+    "category": "ビジネス",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "シャオミ、「見やすい有機EL」搭載で1万円台のスマートウォッチ「REDMI Watch 6」発売",
+    "url": "https://japan.cnet.com/article/35247503/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "スマホの電池は良くなっているのに、なぜ「足りない」と感じる？ 次の本命「シリコンカーボン」とは",
+    "url": "https://japan.cnet.com/article/35247487/",
+    "summary": "",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "楽天グループ、第1四半期としてMNO参入後初の営業黒字 モバイル1036万回線に",
+    "url": "https://japan.cnet.com/article/35247529/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "楽天モバイル、「値上げしない」とは明言せず 三木谷氏 昨年からトーンダウン",
+    "url": "https://japan.cnet.com/article/35247534/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "無料の蓄電池を設置すれば、電気代が毎月3000円オフに--「auでんち」東京都で始動",
+    "url": "https://japan.cnet.com/article/35247488/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "落とすと「あの叫び声」、新型Steamコントローラーの隠し機能は傑作だ",
+    "url": "https://japan.cnet.com/article/35247520/",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "金色のトランプ・スマホ、ついに今週出荷へ",
+    "url": "https://japan.cnet.com/article/35247497/",
+    "summary": "",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AIブームでクラウドインフラ市場が年35％の急成長 上位3社のシェアには変動なし 2026年第1四半期、Synergy Research調査",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news077.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AI防衛技術のAndurilが50億ドル調達 トランプ政権下の軍近代化加速",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news070.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Amazon、ショッピングAI「Rufus」を「Alexa for Shopping」に刷新 「Alexa+」と統合し外部サイト購入にも対応",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news089.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Instagram、素の日常を共有できる新機能「Instants」リリース 写真は友達の閲覧後に自動消去",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news087.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "KADOKAWA、早期退職募集 通期大幅減益、「アニメ・実写」は赤字転落",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news127.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "iPS医療製品、年内にも実用化 アムシェプリ開発の住友ファーマが挑むコスト回収の壁",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news081.html",
+    "summary": "",
+    "importance": 1,
+    "category": "開発",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「『妖怪ウォッチ2』Unityで作り直した」非公式リメイク報告、海外で拡散 レベルファイブ「厳正に対処」",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news100.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「【機密】昇進リスト先行公開、VPNでアクセスを」巧妙な詐欺メールが拡散中 「給与改定」「交通費改定」版も",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news111.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「ホロアース」終了へ ホロライブ発のメタバースサービス 開始から約1年で",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news140.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「世界サーバ投げ選手権」2026年のチャンピオンはSAP従業員",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news117.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「食べログ」運営のカカクコム買収、LINEヤフー陣営が再提案 1株3232円に引き上げ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news155.html",
+    "summary": "",
+    "importance": 1,
+    "category": "ビジネス",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "くら寿司、万博店を再現した“メモリアル店“オープン 回転ベルトなど移設、世界70カ国の料理も",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news084.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "カバー、特別損失32億円を計上 「ホロアース」サービス終了にともない",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news133.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "トヨタから免許なしで乗れる電動1人乗り「ランドホッパー」 27年春以降に発売へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news150.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "リコージャパン、社内基幹システムに障害 通信回線破損で 「サイバー攻撃ではない」",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news072.html",
+    "summary": "",
+    "importance": 1,
+    "category": "セキュリティ",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "津田塾大学が個人情報漏えいで謝罪、別件で逮捕された元職員が“匿名掲示板”に投稿 システム権限の設定ミスも",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news119.html",
+    "summary": "",
+    "importance": 1,
+    "category": "法規制",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "米中首脳会談の代表団にイーロン・マスク氏、ジェンスン・フアン氏、ティム・クック氏など17人の企業幹部が参加",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news068.html",
+    "summary": "",
+    "importance": 1,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "荻窪圭のデジカメレビュープラス：ソニー「α7R VI」は積層型センサーで描写力に加えて機動力も向上した",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news151.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "選挙時のSNS規制、与野党が偽誤情報対策で今国会で法改正目指す方針で一致",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news137.html",
+    "summary": "",
+    "importance": 1,
+    "category": "法規制",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "高市首相、“研究費実質倍増”を表明 産総研拡充も 「新技術立国」へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news079.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Amazon、買い物支援AI「Alexa for Shopping」 購入手続きの代行や商品相談",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108701.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "GREEN×EXPOに\"大屋根リング\"活用の木造建築「KAJIMA TREE」 1/100模型公開",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108628.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "LINEヤフー、カカクコムに買収を再提案 1株3232円に引き上げ",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108658.html",
+    "summary": "",
+    "importance": 1,
+    "category": "ビジネス",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Meta、“完全非公開”のAI会話機能「Incognito Chat」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108551.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "SSK、ウルトラマンコラボの野球グラブ",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108796.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "インスタグラム、閲覧後に消える写真共有機能「Instants」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108547.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "グーグル、3D絵文字「Noto 3D」 Pixelシリーズなどに展開",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108787.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "シャオミ、明るい大画面で24日間使える「REDMI Watch 6」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108370.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "セイコー アストロンに新型 ワンボタンでバンド交換可能",
+    "url": "https://www.watch.impress.co.jp/docs/news/2107880.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "セールスフォース、Slackを全顧客に標準提供 Slackbotも連携",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108757.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "デジタルガレージ、中小企業の実務負担削減へ向けた「DG Bank」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108686.html",
+    "summary": "",
+    "importance": 1,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "トヨタ、新型車「ランドクルーザー“FJ”」発売 450万100円",
+    "url": "https://car.watch.impress.co.jp/docs/news/2108624.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "存在感を増すGenspark、日本で2500社以上に導入「誰でもAIを使えるように」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108355.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "帯広駅前再開発、ホテル棟着工 マンション・商業も一体開発",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108556.html",
+    "summary": "",
+    "importance": 1,
+    "category": "開発",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "新型スターシップ、5月19日に打上げ 大幅に再設計した第3世代",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108751.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "楽天、Q1はモバイル後初の黒字 AIとエコシステムで今期「大きな収益増」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108788.html",
+    "summary": "",
+    "importance": 1,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "次世代Suicaの本命 タッチ不要のUWBウォークスルー改札を体験",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108597.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "海老名のダイエーがイオンに 鴨居ではフードスタイル→イオンスタイル",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108712.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "西川、ファン付き敷きパッド 送風で冷却・除湿",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108596.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "西川創業460年 超デジタル×超アナログで日本“不眠大国”問題に挑む",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108436.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "門真に図書館と文化会館の複合施設「KADOMADO」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108569.html",
+    "summary": "",
+    "importance": 1,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "＠IT Techブログ PickUp（TISインテックグループ編）：AIが知り得ない「暗黙知」にこそ価値がある 6000人の知恵を社外に公開する狙い",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/22/news004.html",
+    "summary": "",
+    "importance": 0,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "＠IT Techブログ PickUp（TISインテックグループ編）：AI駆動開発×GitLab：チームを強くする「共有・自動化・分析」のリアル",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/11/news007.html",
+    "summary": "",
+    "importance": 0,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Innovative Tech：コーヒーは腸を介して認知機能に影響する？ アイルランドでの調査結果、Nature系列誌で研究発表",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news024.html",
+    "summary": "",
+    "importance": 0,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SusHi Tech Tokyo 2026：“人型ロボ完全国産化”目指すベンチャーから身長約130cmの小型モデル 中国機ベースも、近く国産化ロードマップ発表",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news045.html",
+    "summary": "",
+    "importance": 0,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-14 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "Tech News：Windows 11が軽快に？ 2026年5月パッチ「KB5089549」でCPU性能向上と低遅延モードが追加",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news071.html",
+    "summary": "",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "",
+    "published_at": "2026-05-13 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "現場で役立つ「AIインフラ」の基礎と運用：【第1章】（3）：「GPUを遊ばせない」「ストレージで失速させない」――AI処理を高速化するインフラ設計の基本とは",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news014.html",
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-13 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Android 17は「富裕層」を熱狂させるだろう しかし私たち庶民はどうだろうか",
+    "url": "https://japan.cnet.com/article/35247433/",
+    "summary": "",
+    "importance": 3,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-13 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Android 17登場 Geminiがすべての中心に ユーザーの操作まで代行 スマホ新時代の幕開け",
+    "url": "https://japan.cnet.com/article/35247417/",
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-13 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "グーグルの次世代AIノートPC「Googlebook」発表 今秋発売へ",
+    "url": "https://japan.cnet.com/article/35247415/",
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-13 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "ドコモ、SMS後継「RCS」を26年夏提供開始 写真・動画・グループチャットに対応",
+    "url": "https://japan.cnet.com/article/35247438/",
+    "summary": "",
+    "importance": 3,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-13 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、AI特化の次世代ノートPC「Googlebook」発表 26年後半に投入へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news104.html",
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-13 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Googlebook誕生 Geminiを前提とした新しいノートPCが今秋発売",
+    "url": "https://www.watch.impress.co.jp/docs/news/2107723.html",
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-13 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "ドコモ、「RCS」に26年夏から対応開始",
+    "url": "https://www.watch.impress.co.jp/docs/news/2108108.html",
+    "summary": "",
+    "importance": 3,
+    "category": "その他",
+    "reason": "",
+    "published_at": "2026-05-13 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "iPhoneとAndroid間のメッセージがより安全に 「iOS 26.5」で暗号化RCSに対応",
+    "url": "https://japan.cnet.com/article/35247372/",
+    "summary": "",
+    "importance": 3,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-12 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "iPhoneとAndroid間のRCSがエンドツーエンド暗号化に対応 iOS 26.5より",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/12/news073.html",
+    "summary": "",
+    "importance": 3,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-12 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "iPhoneとAndroidで暗号化された「RCS」メッセージの相互利用に対応 iOS 26.5",
+    "url": "https://www.watch.impress.co.jp/docs/news/2107736.html",
+    "summary": "",
+    "importance": 3,
+    "category": "ガジェット",
+    "reason": "",
+    "published_at": "2026-05-12 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "Armとしては初めての量産半導体：「x86では処理し切れない」 ArmとMeta、AIインフラ向け「CPU」を開発",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/08/news037.html",
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-08 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "GPUクラスタからLLM層まで：従来セキュリティの“盲点”「AIインフラ」の脅威をどう防ぐか？ Check Pointが公表した設計指針",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/07/news035.html",
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-07 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Anthropic、「Claude」の利用上限引き上げ Space XのGPU資源活用で",
+    "url": "https://japan.cnet.com/article/35247194/",
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-07 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、マスク氏のSpaceXと契約 GPU22万基超を確保し「Claude」の利用制限を緩和",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/07/news048.html",
+    "summary": "",
+    "importance": 3,
+    "category": "AI",
+    "reason": "",
+    "published_at": "2026-05-07 00:00:00",
+    "created_at": "2026-05-21 22:10:06"
   }
 ]

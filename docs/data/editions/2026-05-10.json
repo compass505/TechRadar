@@ -3,12 +3,8 @@
   "surfaces": {
     "top_yesterday": [],
     "recent_important": [],
-    "yesterday_ai": [
-      "64928b477fee"
-    ],
+    "yesterday_ai": [],
     "yesterday_enterprise_it": [],
-    "yesterday_development": [
-      "64928b477fee"
-    ]
+    "yesterday_development": []
   }
 }

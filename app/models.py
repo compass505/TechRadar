@@ -11,7 +11,17 @@ class Article:
     published_date: date
     title: str
     url: str
-    score: int
+    importance: int
+    category: str = "その他"
+    summary: str = ""
+    reason: str = ""
+    published_at: str = ""
+    created_at: str = ""
+
+    @property
+    def score(self) -> int:
+        """Backward-compatible alias for the first MVP scoring field."""
+        return self.importance
 
 
 @dataclass
@@ -25,6 +35,11 @@ class Story:
     sources: list[str] = field(default_factory=list)
     article_count: int = 1
     facets: list[str] = field(default_factory=list)
+    category: str = "その他"
+    summary: str = ""
+    reason: str = ""
+    published_at: str = ""
+    created_at: str = ""
     ai_relevance_score: int = 0
     practical_impact_score: int = 0
     dev_cloud_relevance_score: int = 0
@@ -45,6 +60,11 @@ class Story:
             "title": self.title,
             "published_date": self.published_date.isoformat(),
             "importance_score": self.importance_score,
+            "category": self.category,
+            "summary": self.summary,
+            "reason": self.reason,
+            "published_at": self.published_at,
+            "created_at": self.created_at,
             "representative_source": self.representative_source,
             "representative_url": self.representative_url,
             "sources": self.sources,
@@ -62,4 +82,3 @@ class Story:
 
 def stories_to_dicts(stories: Iterable[Story]) -> list[dict]:
     return [story.to_dict() for story in stories]
-

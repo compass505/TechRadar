@@ -30,9 +30,26 @@ python scripts/build_editions.py
 python scripts/update_news.py
 ```
 
-`OPENAI_API_KEY` がある場合は OpenAI API で重要度を補助判定します。  
-APIキーが無い場合も、キーワードベースの簡易スコアで動きます。
+`OPENAI_API_KEY` を使い、TechCompass505 と同じ厳しめの編集基準で「重要度・カテゴリ・要約・選定理由」を作成します。  
+APIキーが無い場合、通常更新は停止します。ローカル検証だけ `--skip-openai` でキーワードベースの簡易判定を使えます。
 
+
+## ニュース保存形式
+
+`data/articles.json` は TechCompass505 の保存項目に合わせ、以下を保存します。
+Tech Radar 505 は複数媒体を扱うため、追加で `source` も保持します。
+
+- `source`
+- `title`
+- `url`
+- `summary`
+- `importance`
+- `category`
+- `reason`
+- `published_at`
+- `created_at`
+
+保存期間も TechCompass505 と同じく重要度別です。
 ## ローカル確認
 
 ```powershell
@@ -70,4 +87,5 @@ OPENAI_API_KEY
 
 - `specification/news-v1-final-spec.md`
 - `specification/news-v1-implementation-map.md`
+
 

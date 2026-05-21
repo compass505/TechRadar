@@ -3,7 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -11,7 +11,7 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from app.models import Article, stories_to_dicts
-from app.surfaces import build_edition, build_stories, group_by_facet, normalize_source
+from app.surfaces import build_edition, build_stories, group_by_facet, infer_category, normalize_source
 
 
 def parse_args() -> argparse.Namespace:
@@ -29,23 +29,49 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+def parse_published_date(item: dict) -> date:
+    published_at = str(item.get("published_at") or "").strip()
+    if published_at:
+        for fmt in ("%Y-%m-%d %H:%M:%S", "%Y-%m-%d"):
+            try:
+                return datetime.strptime(published_at, fmt).date()
+            except ValueError:
+                continue
+    if item.get("date"):
+        return date.fromisoformat(str(item["date"]))
+    raise ValueError(f"published_at/date is required: {item.get('title', item.get('url'))}")
+
+
 def load_articles(path: Path) -> list[Article]:
-    raw_items = json.loads(path.read_text(encoding="utf-8"))
+    raw_items = json.loads(path.read_text(encoding="utf-8-sig"))
     articles: list[Article] = []
     for item in raw_items:
+        source = normalize_source(str(item.get("source", "ITmedia NEWS")))
+        title = str(item["title"])
+        category = str(item.get("category") or infer_category(title, source))
+        importance = int(item.get("importance", item.get("score", 0)))
+        if importance <= 0:
+            continue
         articles.append(
             Article(
-                source=normalize_source(item["source"]),
-                published_date=date.fromisoformat(item["date"]),
-                title=item["title"],
-                url=item["url"],
-                score=int(item["score"]),
+                source=source,
+                published_date=parse_published_date(item),
+                title=title,
+                url=str(item["url"]),
+                importance=importance,
+                category=category,
+                summary=str(item.get("summary", "")),
+                reason=str(item.get("reason", "")),
+                published_at=str(item.get("published_at", "")),
+                created_at=str(item.get("created_at", "")),
             )
         )
     return articles
 
 
 def iter_edition_dates(stories) -> list[date]:
+    if not stories:
+        return [date.today()]
     earliest = min(story.published_date for story in stories)
     latest = max(story.published_date for story in stories)
     current = earliest + timedelta(days=1)
@@ -80,6 +106,9 @@ def build(input_path: Path | str = "data/articles.json", output_dir: Path | str 
     )
 
     editions_dir = output_dir / "editions"
+    if editions_dir.exists():
+        for stale_file in editions_dir.glob("*.json"):
+            stale_file.unlink()
     manifest_entries = []
     for edition_date in edition_dates:
         edition = build_edition(stories, edition_date)
@@ -120,3 +149,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+

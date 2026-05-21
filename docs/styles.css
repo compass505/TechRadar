@@ -218,6 +218,30 @@ h1 {
   font-size: 13px;
 }
 
+
+.story-summary {
+  margin: 0;
+  color: var(--ink);
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.story-reason {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+.story-reason summary {
+  cursor: pointer;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.story-reason p {
+  margin: 8px 0 0;
+}
+
 .story-link {
   margin-top: auto;
   color: var(--ink);

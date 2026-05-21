@@ -191,13 +191,17 @@ function renderStoryCard(story) {
   const favoriteButton = fragment.querySelector(".favorite-button");
   const title = fragment.querySelector("h3");
   const meta = fragment.querySelector(".story-meta");
+  const summary = fragment.querySelector(".story-summary");
+  const reason = fragment.querySelector(".story-reason");
+  const reasonText = fragment.querySelector(".story-reason p");
   const link = fragment.querySelector(".story-link");
 
   [
     `重要度 ${story.importance_score}`,
+    story.category,
     story.representative_source,
     ...story.facets.map((facet) => FACET_LABELS[facet] || facet),
-  ].forEach((label) => {
+  ].filter(Boolean).forEach((label) => {
     const badge = document.createElement("span");
     badge.className = "badge";
     badge.textContent = label;
@@ -209,11 +213,14 @@ function renderStoryCard(story) {
   favoriteButton.addEventListener("click", () => toggleFavorite(story.id));
 
   title.textContent = story.title;
-  meta.textContent = `${story.published_date} · ${story.source_count}媒体`;
+  meta.textContent = `${story.published_at || story.published_date} · ${story.source_count}媒体`;
+  summary.textContent = story.summary || "";
+  summary.hidden = !story.summary;
+  reasonText.textContent = story.reason || "";
+  reason.hidden = !story.reason;
   link.href = story.representative_url;
   return card;
 }
-
 function toggleFavorite(storyId) {
   if (state.favorites.has(storyId)) {
     state.favorites.delete(storyId);
@@ -276,6 +283,9 @@ function renderSearch() {
     : state.stories.filter((story) =>
         [
           story.title,
+          story.summary,
+          story.reason,
+          story.category,
           story.representative_source,
           ...story.sources,
           ...story.facets,
@@ -304,3 +314,4 @@ function renderFavorites() {
 }
 
 boot();
+
