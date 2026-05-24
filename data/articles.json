@@ -1,5 +1,27 @@
 [
   {
+    "source": "ITmedia AI+",
+    "title": "「Gemini」「Claude Code」「Codex」 全社展開・本番実装に役立つ5つのポイント",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html",
+    "summary": "生成AIを開発現場で個人活用からチーム・全社展開、AIエージェントの本番実装まで定着させるための5つの実務的ポイントを整理。開発プロセスや運用、ガバナンスに踏み込んだ提言を含む。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "全社展開や本番実装に直結する実務ノウハウで、開発者・情シス・経営判断に有用。技術導入の影響範囲が広く業界関係者が押さえるべき内容。",
+    "published_at": "2026-05-24 08:00:00",
+    "created_at": "2026-05-25 06:42:08"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "ソースネクストのAI議事録、Microsoft 365 Copilot連携で検索、要約を効率化",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2605/23/news017.html",
+    "summary": "ソースネクストがAI議事録サービス「AutoMemo」にMicrosoft 365 Copilot連携を追加。過去会議の検索・要約・抽出をCopilot経由で行えるようにし、議事録作成業務を効率化する。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "Microsoft 365 Copilotとの統合は企業のワークフロー改善に直結するが、個別サービスの機能追加のため影響範囲は限定的。",
+    "published_at": "2026-05-24 07:00:00",
+    "created_at": "2026-05-25 06:42:08"
+  },
+  {
     "source": "Impress Watch",
     "title": "ミトス級モデルの公開は「強力な安全対策後」 アンソロピックが成果説明",
     "url": "https://www.watch.impress.co.jp/docs/news/2111151.html",
