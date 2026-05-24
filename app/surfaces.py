@@ -7,16 +7,30 @@ from collections import defaultdict
 from dataclasses import replace
 from datetime import date, timedelta
 from difflib import SequenceMatcher
-from typing import Iterable
+from typing import Callable, Iterable
 
 from .models import Article, Story
 
+CATEGORIES = {
+    "AI",
+    "企業IT",
+    "開発",
+    "セキュリティ",
+    "クラウド",
+    "半導体",
+    "ガジェット",
+    "ビジネス",
+    "法規制",
+    "その他",
+}
+
 SOURCE_PRIORITY = {
     "ITmedia NEWS": 0,
-    "＠IT": 1,
-    "Publickey": 2,
-    "CNET Japan": 3,
-    "Impress Watch": 4,
+    "ITmedia AI+": 1,
+    "＠IT": 2,
+    "Publickey": 3,
+    "CNET Japan": 4,
+    "Impress Watch": 5,
 }
 
 AI_KEYWORDS = {
@@ -27,29 +41,40 @@ AI_KEYWORDS = {
     "claude",
     "llm",
     "copilot",
-    "エージェント",
+    "codex",
+    "anthropic",
+    "アンソロピック",
+    "mythos",
+    "ミトス",
     "生成ai",
     "人工知能",
+    "エージェント",
+    "大規模言語モデル",
 }
 SECURITY_KEYWORDS = {
-    "脆弱",
     "cve",
-    "セキュリティ",
     "rce",
+    "脆弱性",
+    "セキュリティ",
     "攻撃",
     "侵害",
     "マルウェア",
     "ランサム",
+    "フィッシング",
+    "サイバー",
+    "vpn",
 }
 ENTERPRISE_KEYWORDS = {
     "企業",
-    "情シス",
     "業務",
     "運用",
     "障害",
-    "サーバー",
+    "サーバ",
     "データセンター",
-    "クラウド移行",
+    "インフラ",
+    "バックアップ",
+    "nas",
+    "vdi",
     "microsoft 365",
 }
 DEVELOPMENT_KEYWORDS = {
@@ -64,8 +89,10 @@ DEVELOPMENT_KEYWORDS = {
     "sdk",
     "devops",
     "開発",
-    "web標準",
     "プログラミング",
+    "web標準",
+    "エンジニア",
+    "コード",
 }
 CLOUD_KEYWORDS = {
     "aws",
@@ -82,68 +109,80 @@ URGENT_KEYWORDS = {
     "停止",
     "障害",
     "攻撃",
-    "脆弱",
-    "回収",
+    "脆弱性",
+    "閉鎖",
+    "終了",
+    "注意喚起",
 }
 
 
 def normalize_source(source: str) -> str:
-    return "＠IT" if source in {"?IT", "＠IT"} else source
+    source = unicodedata.normalize("NFKC", (source or "").strip())
+    if source in {"?IT", "@IT", "＠IT", "・IT"}:
+        return "＠IT"
+    if source.lower() in {"itmedia ai+", "itmedia ai plus"}:
+        return "ITmedia AI+"
+    return source
 
 
 def normalize_title(title: str) -> str:
-    text = unicodedata.normalize("NFKC", title).lower()
-    text = re.sub(r"[「」『』【】\[\]（）()［］]", " ", text)
+    text = unicodedata.normalize("NFKC", title or "").lower()
+    text = re.sub(r"[「」『』【】\[\]（）()、。・,，:：;；!?！？\"'“”‘’]", " ", text)
     text = re.sub(r"\s+", " ", text)
-    text = re.sub(r"[^0-9a-zぁ-んァ-ヶ一-龠ー\s]", "", text)
+    text = re.sub(r"[^0-9a-zぁ-んァ-ヶ一-龥々ー\s.+#/-]", "", text)
     return text.strip()
 
 
-def keyword_hits(title: str, keywords: set[str]) -> int:
-    normalized = normalize_title(title)
+def keyword_hits(text: str, keywords: set[str]) -> int:
+    normalized = normalize_title(text)
     return sum(1 for keyword in keywords if keyword in normalized)
 
 
-def infer_category(title: str, source: str = "") -> str:
+def infer_category(title: str, source: str = "", summary: str = "") -> str:
     normalized_source = normalize_source(source)
-    normalized_title = normalize_title(title)
-    if keyword_hits(title, AI_KEYWORDS):
-        return "AI"
-    if keyword_hits(title, SECURITY_KEYWORDS):
+    search_text = f"{title} {summary}"
+    normalized_text = normalize_title(search_text)
+    if keyword_hits(search_text, SECURITY_KEYWORDS):
         return "セキュリティ"
-    if normalized_source == "Publickey" or keyword_hits(title, DEVELOPMENT_KEYWORDS):
+    if keyword_hits(search_text, AI_KEYWORDS):
+        return "AI"
+    if normalized_source == "Publickey" or keyword_hits(search_text, DEVELOPMENT_KEYWORDS):
         return "開発"
-    if keyword_hits(title, CLOUD_KEYWORDS):
+    if keyword_hits(search_text, CLOUD_KEYWORDS):
         return "クラウド"
-    if normalized_source == "＠IT" or keyword_hits(title, ENTERPRISE_KEYWORDS):
+    if normalized_source == "＠IT" or keyword_hits(search_text, ENTERPRISE_KEYWORDS):
         return "企業IT"
-    if re.search(r"半導体|gpu|nvidia|tsmc|intel|amd", normalized_title):
+    if re.search(r"半導体|gpu|nvidia|tsmc|intel|amd", normalized_text):
         return "半導体"
-    if re.search(r"スマホ|iphone|android|switch|pc|端末|ガジェット", normalized_title):
+    if re.search(r"スマホ|iphone|android|switch|pc|端末|ガジェット", normalized_text):
         return "ガジェット"
-    if re.search(r"買収|提携|決算|売上|事業|企業|市場", normalized_title):
+    if re.search(r"買収|提携|決算|売上|事業|企業|市場", normalized_text):
         return "ビジネス"
-    if re.search(r"規制|法律|法|訴訟|個人情報|プライバシー", normalized_title):
+    if re.search(r"規制|法令|法案|訴訟|個人情報|プライバシー", normalized_text):
         return "法規制"
     return "その他"
 
 
+def article_search_text(article: Article) -> str:
+    return f"{article.title} {article.summary}"
+
+
 def infer_facets(article: Article) -> list[str]:
     facets: set[str] = set()
-    title = article.title
+    text = article_search_text(article)
     source = normalize_source(article.source)
-    category = article.category or infer_category(title, source)
+    category = article.category if article.category in CATEGORIES else infer_category(article.title, source, article.summary)
 
-    if category == "AI" or keyword_hits(title, AI_KEYWORDS):
+    if category == "AI" or keyword_hits(text, AI_KEYWORDS):
         facets.add("ai")
-    if category == "セキュリティ" or keyword_hits(title, SECURITY_KEYWORDS):
+    if category == "セキュリティ" or keyword_hits(text, SECURITY_KEYWORDS):
         facets.add("security")
         facets.add("enterprise_it")
-    if category in {"企業IT", "ビジネス"} or source == "＠IT" or keyword_hits(title, ENTERPRISE_KEYWORDS):
+    if category in {"企業IT", "ビジネス"} or source == "＠IT" or keyword_hits(text, ENTERPRISE_KEYWORDS):
         facets.add("enterprise_it")
-    if category == "開発" or source == "Publickey" or keyword_hits(title, DEVELOPMENT_KEYWORDS):
+    if category == "開発" or source == "Publickey" or keyword_hits(text, DEVELOPMENT_KEYWORDS):
         facets.add("development")
-    if category == "クラウド" or keyword_hits(title, CLOUD_KEYWORDS):
+    if category == "クラウド" or keyword_hits(text, CLOUD_KEYWORDS):
         facets.add("cloud")
         facets.add("development")
 
@@ -163,10 +202,12 @@ def story_similarity(left: Story, right: Article) -> float:
 def article_to_story(article: Article) -> Story:
     source = normalize_source(article.source)
     normalized = normalize_title(article.title)
+    category = article.category if article.category in CATEGORIES else infer_category(article.title, source, article.summary)
     story_id = hashlib.sha1(
         f"{article.published_date.isoformat()}::{normalized}".encode("utf-8")
     ).hexdigest()[:12]
     facets = infer_facets(article)
+    search_text = article_search_text(article)
     return Story(
         id=story_id,
         title=article.title,
@@ -176,24 +217,24 @@ def article_to_story(article: Article) -> Story:
         representative_url=article.url,
         sources=[source],
         facets=facets,
-        category=article.category or infer_category(article.title, source),
+        category=category,
         summary=article.summary,
         reason=article.reason,
         published_at=article.published_at,
         created_at=article.created_at,
-        ai_relevance_score=keyword_hits(article.title, AI_KEYWORDS),
+        ai_relevance_score=keyword_hits(search_text, AI_KEYWORDS),
         practical_impact_score=(
-            keyword_hits(article.title, SECURITY_KEYWORDS)
-            + keyword_hits(article.title, ENTERPRISE_KEYWORDS)
+            keyword_hits(search_text, SECURITY_KEYWORDS)
+            + keyword_hits(search_text, ENTERPRISE_KEYWORDS)
         ),
         dev_cloud_relevance_score=(
-            keyword_hits(article.title, DEVELOPMENT_KEYWORDS)
-            + keyword_hits(article.title, CLOUD_KEYWORDS)
+            keyword_hits(search_text, DEVELOPMENT_KEYWORDS)
+            + keyword_hits(search_text, CLOUD_KEYWORDS)
         ),
-        urgency_score=keyword_hits(article.title, URGENT_KEYWORDS),
+        urgency_score=keyword_hits(search_text, URGENT_KEYWORDS),
         utility_score=(
-            keyword_hits(article.title, DEVELOPMENT_KEYWORDS)
-            + keyword_hits(article.title, ENTERPRISE_KEYWORDS)
+            keyword_hits(search_text, DEVELOPMENT_KEYWORDS)
+            + keyword_hits(search_text, ENTERPRISE_KEYWORDS)
         ),
     )
 
@@ -213,12 +254,24 @@ def merge_article(story: Story, article: Article) -> Story:
             title=article.title,
             representative_source=source,
             representative_url=article.url,
-            category=article.category or infer_category(article.title, source),
+            category=candidate.category,
             summary=article.summary,
             reason=article.reason,
             published_at=article.published_at,
             created_at=article.created_at,
         )
+
+    fill_values = {}
+    if not representative.summary and article.summary:
+        fill_values["summary"] = article.summary
+    if not representative.reason and article.reason:
+        fill_values["reason"] = article.reason
+    if not representative.published_at and article.published_at:
+        fill_values["published_at"] = article.published_at
+    if representative.category not in CATEGORIES and candidate.category:
+        fill_values["category"] = candidate.category
+    if fill_values:
+        representative = replace(representative, **fill_values)
 
     return replace(
         representative,
@@ -338,7 +391,7 @@ def _select_specialized(
     required_facets: set[str],
     limit: int,
     minimum_score: int,
-    include_score_two_when: callable | None = None,
+    include_score_two_when: Callable[[Story], bool] | None = None,
 ) -> list[Story]:
     target_date = edition_date - timedelta(days=1)
     candidates = [

@@ -3,27 +3,27 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Tech Radar 505</title>
-    <link rel="stylesheet" href="styles.css" />
+    <title>TechRadar 505</title>
+    <link rel="stylesheet" href="styles.css?v=yesterday-tabs-1" />
   </head>
   <body>
     <div class="app-shell">
-      <aside class="sidebar">
-        <div class="brand">
-          <span class="brand-mark">N</span>
-          <div>
-            <strong>Tech Radar 505</strong>
-            <small>Yesterday, edited</small>
-          </div>
+      <header class="site-header">
+        <button id="brand-home" class="brand-home" type="button" aria-label="TOPへ移動">
+          <span class="brand-mark">TechRadar 505</span>
+        </button>
+
+        <nav id="primary-nav" class="nav" aria-label="主要ナビゲーション"></nav>
+
+        <div class="header-tools">
+          <label class="edition-picker">
+            <span>表示日</span>
+            <select id="edition-select"></select>
+          </label>
         </div>
 
-        <nav id="primary-nav" class="nav"></nav>
-
-        <label class="edition-picker">
-          <span>表示日</span>
-          <select id="edition-select"></select>
-        </label>
-      </aside>
+        <div id="header-dropdown" class="header-dropdown" hidden></div>
+      </header>
 
       <main class="content">
         <header class="page-header">
@@ -45,17 +45,18 @@
           <button class="favorite-button" type="button" aria-label="お気に入りに追加">☆</button>
         </div>
         <h3></h3>
-        <div class="story-meta"></div>
         <p class="story-summary"></p>
         <details class="story-reason">
           <summary>選定理由を見る</summary>
           <p></p>
         </details>
-        <a class="story-link" target="_blank" rel="noreferrer">元記事を開く</a>
+        <div class="story-footer">
+          <div class="story-meta"></div>
+          <a class="source-button" target="_blank" rel="noreferrer">元記事を開く</a>
+        </div>
       </article>
     </template>
 
-    <script type="module" src="app.js"></script>
+    <script type="module" src="app.js?v=yesterday-tabs-1"></script>
   </body>
 </html>
-

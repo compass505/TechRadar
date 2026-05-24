@@ -52,7 +52,7 @@ class Story:
 
     @property
     def has_itmedia_article(self) -> bool:
-        return "ITmedia NEWS" in self.sources
+        return any(source.startswith("ITmedia") for source in self.sources)
 
     def to_dict(self) -> dict:
         return {

@@ -11,7 +11,7 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from app.models import Article, stories_to_dicts
-from app.surfaces import build_edition, build_stories, group_by_facet, infer_category, normalize_source
+from app.surfaces import CATEGORIES, build_edition, build_stories, group_by_facet, infer_category, normalize_source
 
 
 def parse_args() -> argparse.Namespace:
@@ -48,7 +48,10 @@ def load_articles(path: Path) -> list[Article]:
     for item in raw_items:
         source = normalize_source(str(item.get("source", "ITmedia NEWS")))
         title = str(item["title"])
-        category = str(item.get("category") or infer_category(title, source))
+        summary = str(item.get("summary", ""))
+        category = str(item.get("category") or "").strip()
+        if category not in CATEGORIES:
+            category = infer_category(title, source, summary)
         importance = int(item.get("importance", item.get("score", 0)))
         if importance <= 0:
             continue
@@ -60,7 +63,7 @@ def load_articles(path: Path) -> list[Article]:
                 url=str(item["url"]),
                 importance=importance,
                 category=category,
-                summary=str(item.get("summary", "")),
+                summary=summary,
                 reason=str(item.get("reason", "")),
                 published_at=str(item.get("published_at", "")),
                 created_at=str(item.get("created_at", "")),

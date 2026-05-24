@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import os
 import re
@@ -16,25 +17,12 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-from app.surfaces import infer_category, normalize_source  # noqa: E402
+from app.surfaces import CATEGORIES, infer_category, normalize_source  # noqa: E402
 from scripts.build_editions import build as build_editions  # noqa: E402
 
 JST = ZoneInfo("Asia/Tokyo")
 UTC = ZoneInfo("UTC")
 DATA_PATH = ROOT / "data" / "articles.json"
-
-CATEGORIES = {
-    "AI",
-    "企業IT",
-    "開発",
-    "セキュリティ",
-    "クラウド",
-    "半導体",
-    "ガジェット",
-    "ビジネス",
-    "法規制",
-    "その他",
-}
 
 RETENTION_DAYS = {
     1: 7,
@@ -50,6 +38,14 @@ FEEDS = [
         "url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
     },
     {
+        "source": "ITmedia AI+",
+        "url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
+    },
+    {
+        "source": "＠IT",
+        "url": "https://rss.itmedia.co.jp/rss/2.0/ait.xml",
+    },
+    {
         "source": "Impress Watch",
         "url": "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf",
     },
@@ -58,26 +54,36 @@ FEEDS = [
         "url": "https://japan.cnet.com/rss/index.rdf",
     },
     {
-        "source": "＠IT",
-        "url": "https://rss.itmedia.co.jp/rss/2.0/ait.xml",
-    },
-    {
         "source": "Publickey",
         "url": "https://www.publickey1.jp/atom.xml",
     },
 ]
 
+EXCLUDED_TITLE_RE = re.compile(
+    r"^(PR|広告)[:：]|Sponsored|スポンサー|【いつモノコト】|キャンペーン",
+    re.IGNORECASE,
+)
+LOW_VALUE_TITLE_RE = re.compile(
+    r"コラボ|新色|限定|セール|発売|コンデジ|ナップサック|スマートウォッチ|G-SHOCK",
+    re.IGNORECASE,
+)
+
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Fetch, select, summarize, and build Tech Radar 505.")
+    parser = argparse.ArgumentParser(description="Fetch, select, summarize, and build TechRadar 505.")
     parser.add_argument(
         "--target-date",
-        help="Target published date in JST. Defaults to yesterday.",
+        help="Target published date in JST. Defaults to yesterday, then falls back to the latest RSS date.",
     )
     parser.add_argument(
         "--skip-openai",
         action="store_true",
         help="Use deterministic fallback for local testing only. Production should use OpenAI.",
+    )
+    parser.add_argument(
+        "--replace",
+        action="store_true",
+        help="Delete existing saved articles before writing newly fetched articles.",
     )
     return parser.parse_args()
 
@@ -99,7 +105,31 @@ def entry_datetime(entry) -> datetime | None:
     return datetime(*parsed[:6], tzinfo=UTC).astimezone(JST)
 
 
-def fetch_articles(target_date: str) -> list[dict]:
+def clean_text(value: object) -> str:
+    text = html.unescape(str(value or ""))
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+def entry_summary(entry) -> str:
+    summary = getattr(entry, "summary", "") or getattr(entry, "description", "")
+    if summary:
+        return clean_text(summary)
+
+    content = getattr(entry, "content", None)
+    if content:
+        values = [clean_text(getattr(item, "value", "")) for item in content]
+        return " ".join(value for value in values if value).strip()
+
+    return ""
+
+
+def is_excluded_title(title: str) -> bool:
+    return bool(EXCLUDED_TITLE_RE.search(title))
+
+
+def fetch_feed_articles() -> list[dict]:
     articles: list[dict] = []
     seen_urls: set[str] = set()
 
@@ -107,26 +137,38 @@ def fetch_articles(target_date: str) -> list[dict]:
         parsed = feedparser.parse(feed["url"])
         source = normalize_source(feed["source"])
         for entry in parsed.entries:
-            title = str(getattr(entry, "title", "") or "").strip()
+            title = clean_text(getattr(entry, "title", ""))
             url = str(getattr(entry, "link", "") or "").strip()
             published_at = entry_datetime(entry)
             if not title or not url or not published_at:
                 continue
-            if published_at.date().isoformat() != target_date:
+            if url in seen_urls or is_excluded_title(title):
                 continue
-            if url in seen_urls:
-                continue
+
             seen_urls.add(url)
+            summary = entry_summary(entry)
             articles.append(
                 {
                     "source": source,
                     "title": title,
                     "url": url,
+                    "summary": summary,
+                    "published_date": published_at.date().isoformat(),
                     "published_at": published_at.strftime("%Y-%m-%d %H:%M:%S"),
                 }
             )
 
     return articles
+
+
+def filter_articles_by_date(articles: list[dict], target_date: str) -> list[dict]:
+    return [article for article in articles if article["published_date"] == target_date]
+
+
+def latest_available_date(articles: list[dict]) -> str | None:
+    today = datetime.now(JST).date().isoformat()
+    candidates = sorted({article["published_date"] for article in articles if article["published_date"] <= today})
+    return candidates[-1] if candidates else None
 
 
 def extract_json(text: str) -> list:
@@ -136,7 +178,14 @@ def extract_json(text: str) -> list:
         text = re.sub(r"^```\s*", "", text)
         text = re.sub(r"\s*```$", "", text)
         text = text.strip()
-    data = json.loads(text)
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError:
+        start = text.find("[")
+        end = text.rfind("]")
+        if start == -1 or end == -1 or end <= start:
+            raise
+        data = json.loads(text[start : end + 1])
     if not isinstance(data, list):
         raise ValueError("OpenAI response must be a JSON array.")
     return data
@@ -153,92 +202,42 @@ def select_and_summarize_articles(articles: list[dict]) -> list[dict]:
     model = os.environ.get("OPENAI_MODEL", "gpt-5-mini")
     client = OpenAI(api_key=api_key)
     candidates_json = json.dumps(articles, ensure_ascii=False, indent=2)
+    categories = ", ".join(sorted(CATEGORIES))
 
     prompt = f"""
 あなたはITニュース編集者です。
-Tech Radar 505は、Tech Compass 505をニュースの網羅性側に発展させたサイトです。
-取得元は複数媒体に広がりますが、重要度の判定基準はTech Compass 505と同じ厳しさにしてください。
+TechRadar 505に掲載する価値がある記事だけを選び、重要度1から5で厳しめに評価してください。
 
-以下の複数媒体RSS候補記事を、まず重要度0から5で絶対評価してください。
-そのうえで、重要度1以上の記事だけを返してください。
-重要なニュースが少ない場合は、少数でも構いません。
-重要度0の記事は、候補が少なくても絶対に返さないでください。
-候補が多い場合でも、広告色が強い記事、ランキング、キャンペーン、軽い小ネタは返さないでください。
+選定方針:
+- AI、企業IT、開発、セキュリティ、クラウド、半導体、ガジェット、ビジネス、法規制に関わるニュースを重視する
+- 技術トレンド、企業戦略、社会や仕事への影響、開発者・情シス・経営判断に役立つ内容を優先する
+- PR、広告、ランキング、キャンペーン、軽い小ネタ、単なる製品紹介は掲載価値を低く見る
+- 似たニュースが複数ある場合は代表的な1件だけを選ぶ
+- 重要度0の記事は絶対に返さない
 
-選定基準:
-- AI、企業IT、開発、セキュリティ、クラウド、半導体、OS、スマートフォン、ビジネス、法規制、プライバシーに関するニュースを重視する
-- 技術トレンド、企業戦略、社会、仕事、生活への影響が大きいものを優先する
-- 単なる小ネタ、広告色の強い記事、ランキング、キャンペーン、限定的な製品紹介は優先度を下げる
-- 似たニュースが複数ある場合は、代表的な1件だけを選ぶ
+重要度の目安:
+- 1: 掲載価値はあるが影響範囲が狭い
+- 2: 読者の理解や判断に役立つ
+- 3: 多くの読者が押さえる価値がある重要ニュース
+- 4: 業界、主要企業、開発者、情シス、規制、市場に大きく関わる
+- 5: 安全性、セキュリティ、法規制、社会的混乱など重大リスクがある
 
-重要度は0から5の整数で評価してください。
-評価は厳しめにしてください。
-重要度は保存期間にも使うため、迷った場合は高くしすぎず低めに評価してください。
-追加ルール:
-- 0と1の境界は「Tech Radar 505に載せる理由があるか」です。
-- 1と2の境界は「掲載価値が明確か」です。
-- 2と3の境界は「一部の読者に有用か、多くの読者が押さえるべきか」です。
-- 3と4の境界は「知っておくべきか、判断や行動を変えうるか」です。
-- 重要度4は社会、業界、開発者の広範囲に影響がある場合だけにしてください。
-- 単なる新製品発表、新機能追加、キャンペーン、個別企業ニュースは原則2以下にしてください。市場構造、主要プラットフォーム、競争環境に広く波及する場合だけ3以上にしてください。
-- 個人、芸能、炎上系の話題はIT社会への影響が明確でなければ2以下にしてください。
-- セキュリティ事故は被害規模、影響を受ける利用者数、企業規模、再発防止への示唆で判定してください。
-- AIニュースは「AI」という言葉があるだけでは高評価にせず、技術、規制、社会、業務、開発者への影響で判定してください。
-
-重要度0:
-- 掲載対象外
-- Tech Radar 505の読者との関係が薄い
-- 新規性が乏しい、既報の焼き直し、噂段階、広告・ランキング・軽い話題に近い
-- 変化が小さく、知っても読者の理解や判断にほぼ影響しない
-- 枠が余っても選ばない
-
-重要度1:
-- 掲載候補ではあるが低重要
-- 読者に一定の関係があり、事実として新しい情報がある
-- 影響は特定企業、特定製品、一部ユーザー、小規模な更新に限られる
-- 知らなくても、多くの読者の判断はほぼ変わらない
-
-重要度2:
-- 掲載価値が明確にある
-- 読者に関係する新情報があり、一定数の人の理解や判断に役立つ
-- 単なる小ネタではなく、今後を追う意味がある
-- ただし、影響範囲または変化量はまだ限定的で、多くの読者が必ず押さえるべき水準には届かない
-
-重要度3:
-- 重要ニュース
-- 多くの読者が押さえる価値がある
-- 主要企業、主要製品、主要技術、政策のいずれかに関する動きである
-- 製品選択、事業判断、業界理解、今後の見通しのいずれかに明確な影響がある
-- その日だけで終わらず、後から見ても意味が残る
-
-重要度4:
-- 非常に重要
-- 多くの読者に関係し、主要企業、市場、技術動向、政策に関わる
-- 読者の判断や行動を実際に変えうる
-- 今後の競争環境、業界の流れ、主要プラットフォームの使われ方に強く影響する
-
-重要度5:
-- 重大ニュース
-- 重要度4の条件を満たしたうえで、安全性、セキュリティ、法規制、社会的混乱のいずれかで重大なリスクがある
-- 影響が広範囲かつ急速に及ぶ、または取り返しのつきにくい損失につながる
-- 大規模サイバー攻撃、重大な規制変更、広範囲の障害、社会的混乱を伴う事故など
-- 例外的に重要なニュースだけに使う
-
-カテゴリは必ず次のどれかにしてください:
-AI, 企業IT, 開発, セキュリティ, クラウド, 半導体, ガジェット, ビジネス, 法規制, その他
+カテゴリは必ず次から選んでください:
+{categories}
 
 候補記事:
 {candidates_json}
 
-次のキーを持つJSON配列だけを返してください。説明文やコードブロックは不要です。
-- source: 候補記事のsourceをそのまま入れる
-- title
-- url
+返答はJSON配列だけにしてください。説明文やコードブロックは不要です。
+各要素のキー:
+- source: 候補記事のsource
+- title: 候補記事のtitle
+- url: 候補記事のurl
 - summary: 3行以内の日本語要約
-- importance: 1から5の整数。重要度0の記事は返さない
-- category
+- importance: 1から5の整数
+- category: 上記カテゴリのどれか
 - reason: 選定理由を短く
-- published_at
+- published_at: 候補記事のpublished_at
 """
 
     response = client.responses.create(model=model, input=prompt)
@@ -266,47 +265,65 @@ def parse_datetime_for_sort(value) -> datetime:
 
 def normalize_news_item(item: dict, candidate_map: dict[str, dict]) -> dict | None:
     url = str(item.get("url", "")).strip()
-    title = str(item.get("title", "")).strip()
+    title = clean_text(item.get("title", ""))
     if not title or not url:
         return None
 
     candidate = candidate_map.get(url, {})
     source = normalize_source(str(item.get("source") or candidate.get("source") or "").strip())
+    summary = clean_text(item.get("summary") or candidate.get("summary") or "")
     category = str(item.get("category") or "").strip()
     if category not in CATEGORIES:
-        category = infer_category(title=title, source=source)
+        category = infer_category(title=title, source=source, summary=summary)
 
     return {
         "source": source,
         "title": title,
         "url": url,
-        "summary": str(item.get("summary", "")).strip(),
+        "summary": summary,
         "importance": normalize_importance(item.get("importance")),
         "category": category,
-        "reason": str(item.get("reason", "")).strip(),
+        "reason": clean_text(item.get("reason", "")),
         "published_at": str(item.get("published_at") or candidate.get("published_at") or "").strip(),
         "created_at": now_jst_string(),
     }
+
+
+def deterministic_importance(article: dict, category: str) -> int:
+    text = f"{article['title']} {article.get('summary', '')}"
+    if category == "その他" and not re.search(r"障害|停止|漏えい|攻撃|規制|訴訟|買収|提携|公開|廃止|注意喚起", text):
+        return 0
+    if LOW_VALUE_TITLE_RE.search(article["title"]) and not re.search(r"脆弱性|障害|停止|漏えい|攻撃|規制|訴訟|買収|提携", text):
+        return 0
+
+    importance = 1
+    if category in {"AI", "企業IT", "開発", "セキュリティ", "クラウド"}:
+        importance += 1
+    if re.search(r"脆弱性|障害|停止|漏えい|攻撃|規制|訴訟|買収|公開|廃止|注意喚起", text):
+        importance += 1
+    if article["source"] in {"ITmedia NEWS", "ITmedia AI+", "＠IT", "Publickey"} and category != "その他":
+        importance += 1
+    return min(5, importance)
 
 
 def deterministic_fallback(articles: list[dict]) -> list[dict]:
     """Local-test fallback. GitHub production should use OpenAI selection."""
     selected = []
     for article in articles:
-        title = article["title"]
-        category = infer_category(title=title, source=article["source"])
-        importance = 1
-        if category in {"AI", "企業IT", "開発", "セキュリティ", "クラウド"}:
-            importance += 1
-        if re.search(r"脆弱|障害|停止|漏えい|攻撃|規制|訴訟|提携|買収|公開|廃止", title):
-            importance += 1
+        category = infer_category(
+            title=article["title"],
+            source=article["source"],
+            summary=article.get("summary", ""),
+        )
+        importance = deterministic_importance(article, category)
+        if importance <= 0:
+            continue
         selected.append(
             {
                 **article,
-                "summary": "",
-                "importance": min(5, importance),
+                "importance": importance,
                 "category": category,
-                "reason": "ローカル検証用のキーワード判定です。",
+                "reason": "ローカル検証用のキーワード判定で選定",
             }
         )
     return selected
@@ -315,7 +332,11 @@ def deterministic_fallback(articles: list[dict]) -> list[dict]:
 def load_existing() -> list[dict]:
     if not DATA_PATH.exists():
         return []
-    data = json.loads(DATA_PATH.read_text(encoding="utf-8-sig"))
+    try:
+        data = json.loads(DATA_PATH.read_text(encoding="utf-8-sig"))
+    except json.JSONDecodeError:
+        print("既存の保存ニュースJSONが壊れているため、読み込みをスキップします。")
+        return []
     return data if isinstance(data, list) else []
 
 
@@ -367,7 +388,7 @@ def sort_news(items: list[dict]) -> list[dict]:
 
 def migrate_existing_item(item: dict) -> dict | None:
     url = str(item.get("url", "")).strip()
-    title = str(item.get("title", "")).strip()
+    title = clean_text(item.get("title", ""))
     if not title or not url:
         return None
 
@@ -376,32 +397,34 @@ def migrate_existing_item(item: dict) -> dict | None:
     if not published_at and item.get("date"):
         published_at = f"{item['date']} 00:00:00"
 
+    summary = clean_text(item.get("summary", ""))
     category = str(item.get("category") or "").strip()
     if category not in CATEGORIES:
-        category = infer_category(title=title, source=source)
+        category = infer_category(title=title, source=source, summary=summary)
 
     return {
         "source": source,
         "title": title,
         "url": url,
-        "summary": str(item.get("summary", "")).strip(),
+        "summary": summary,
         "importance": normalize_importance(item.get("importance", item.get("score", 1))),
         "category": category,
-        "reason": str(item.get("reason", "")).strip(),
+        "reason": clean_text(item.get("reason", "")),
         "published_at": published_at,
         "created_at": str(item.get("created_at") or now_jst_string()).strip(),
     }
 
 
-def save_articles(selected_articles: list[dict], candidate_articles: list[dict]) -> None:
+def save_articles(selected_articles: list[dict], candidate_articles: list[dict], *, replace: bool = False) -> None:
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
     candidate_map = {item["url"]: item for item in candidate_articles}
     by_url: dict[str, dict] = {}
 
-    for item in load_existing():
-        migrated = migrate_existing_item(item)
-        if migrated:
-            by_url[migrated["url"]] = migrated
+    if not replace:
+        for item in load_existing():
+            migrated = migrate_existing_item(item)
+            if migrated:
+                by_url[migrated["url"]] = migrated
 
     saved_count = 0
     updated_count = 0
@@ -433,20 +456,29 @@ def save_articles(selected_articles: list[dict], candidate_articles: list[dict])
 
 def main() -> None:
     args = parse_args()
-    target_date = target_date_from_args(args.target_date)
-    articles = fetch_articles(target_date)
+    requested_date = target_date_from_args(args.target_date)
+    all_articles = fetch_feed_articles()
+    articles = filter_articles_by_date(all_articles, requested_date)
+    target_date = requested_date
+
+    if not articles and args.target_date is None:
+        fallback_date = latest_available_date(all_articles)
+        if fallback_date and fallback_date != requested_date:
+            print(f"{requested_date} のRSS記事がないため、最新取得日の {fallback_date} に切り替えます。")
+            target_date = fallback_date
+            articles = filter_articles_by_date(all_articles, target_date)
 
     if not articles:
-        print(f"No articles found for {target_date}. Building site with existing data.")
-        save_articles([], [])
+        print(f"{target_date} の記事が見つかりません。既存データからサイトを再生成します。")
+        save_articles([], [], replace=args.replace)
         build_editions()
         return
 
+    print(f"{target_date} の候補記事を {len(articles)} 件取得しました。")
     selected_articles = deterministic_fallback(articles) if args.skip_openai else select_and_summarize_articles(articles)
-    save_articles(selected_articles, articles)
+    save_articles(selected_articles, articles, replace=args.replace)
     build_editions()
 
 
 if __name__ == "__main__":
     main()
-
