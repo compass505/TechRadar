@@ -31,7 +31,7 @@ const FACET_LABELS = {
 };
 
 const DISPLAY_FACET_PRIORITY = ["security", "ai", "development", "cloud", "enterprise_it"];
-const DATA_VERSION = "migrated-news-1";
+const DATA_VERSION = "news-20260525-1";
 const FAVORITES_RESET_KEY = "favorites-reset-version";
 
 function loadFavorites() {
