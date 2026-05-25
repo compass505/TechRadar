@@ -22,6 +22,31 @@ const NAV_ITEMS = [
   { key: "favorites", label: "お気に入り", route: "favorites" },
 ];
 
+const MOBILE_MENU_SECTIONS = [
+  {
+    title: "昨日のニュース",
+    entries: [
+      { label: "すべて", route: "yesterday", yesterdayTab: "all" },
+      { label: "AI", route: "yesterday", yesterdayTab: "ai" },
+      { label: "企業IT", route: "yesterday", yesterdayTab: "enterprise_it" },
+      { label: "開発", route: "yesterday", yesterdayTab: "development" },
+    ],
+  },
+  {
+    title: "直近の重大ニュース",
+    route: "important",
+  },
+  {
+    title: "過去ニュース",
+    entries: [
+      { label: "すべて", route: "archive", archiveTab: "all" },
+      { label: "AI", route: "archive", archiveTab: "ai" },
+      { label: "企業IT", route: "archive", archiveTab: "enterprise_it" },
+      { label: "開発", route: "archive", archiveTab: "development" },
+    ],
+  },
+];
+
 const FACET_LABELS = {
   ai: "AI",
   enterprise_it: "企業IT",
@@ -58,6 +83,7 @@ const state = {
   yesterdayTab: "all",
   archiveTab: "all",
   openMenu: "",
+  mobileMenuOpen: false,
   searchQuery: "",
   favorites: loadFavorites(),
 };
@@ -66,6 +92,10 @@ const brandHome = document.querySelector("#brand-home");
 const nav = document.querySelector("#primary-nav");
 const headerDropdown = document.querySelector("#header-dropdown");
 const editionSelect = document.querySelector("#edition-select");
+const mobileSearch = document.querySelector("#mobile-search");
+const mobileFavorites = document.querySelector("#mobile-favorites");
+const mobileMenuToggle = document.querySelector("#mobile-menu-toggle");
+const mobileMenu = document.querySelector("#mobile-menu");
 const eyebrow = document.querySelector("#eyebrow");
 const pageTitle = document.querySelector("#page-title");
 const pageMeta = document.querySelector("#page-meta");
@@ -88,15 +118,40 @@ async function boot() {
   state.storiesById = new Map(stories.map((story) => [story.id, story]));
 
   brandHome.addEventListener("click", () => {
-    state.route = "top";
+    navigateTo("top");
+  });
+
+  mobileSearch.addEventListener("click", () => {
+    navigateTo("search");
+  });
+
+  mobileFavorites.addEventListener("click", () => {
+    navigateTo("favorites");
+  });
+
+  mobileMenuToggle.addEventListener("click", () => {
+    state.mobileMenuOpen = !state.mobileMenuOpen;
     state.openMenu = "";
     renderNav();
-    renderPage();
   });
 
   renderNav();
   renderEditionPicker();
   await loadEdition(manifest.default_edition_date);
+}
+
+function navigateTo(route, options = {}) {
+  state.route = route;
+  if (options.yesterdayTab) {
+    state.yesterdayTab = options.yesterdayTab;
+  }
+  if (options.archiveTab) {
+    state.archiveTab = options.archiveTab;
+  }
+  state.openMenu = "";
+  state.mobileMenuOpen = false;
+  renderNav();
+  renderPage();
 }
 
 function renderNav() {
@@ -111,20 +166,19 @@ function renderNav() {
     button.addEventListener("click", () => {
       if (item.dropdown) {
         state.openMenu = state.openMenu === item.key ? "" : item.key;
+        state.mobileMenuOpen = false;
         renderNav();
         return;
       }
 
-      state.route = item.route;
-      state.openMenu = "";
-      renderNav();
-      renderPage();
+      navigateTo(item.route);
     });
 
     nav.append(button);
   });
 
   renderHeaderDropdown();
+  renderMobileMenu();
 }
 
 function navItemIsActive(item) {
@@ -151,16 +205,7 @@ function renderHeaderDropdown() {
     button.textContent = entry.label;
     button.className = dropdownItemIsActive(entry) ? "active" : "";
     button.addEventListener("click", () => {
-      state.route = entry.route;
-      if (entry.yesterdayTab) {
-        state.yesterdayTab = entry.yesterdayTab;
-      }
-      if (entry.archiveTab) {
-        state.archiveTab = entry.archiveTab;
-      }
-      state.openMenu = "";
-      renderNav();
-      renderPage();
+      navigateTo(entry.route, entry);
     });
     headerDropdown.append(button);
   });
@@ -169,6 +214,98 @@ function renderHeaderDropdown() {
 }
 
 function dropdownItemIsActive(entry) {
+  if (entry.route !== state.route) {
+    return false;
+  }
+  if (entry.yesterdayTab) {
+    return state.yesterdayTab === entry.yesterdayTab;
+  }
+  if (entry.archiveTab) {
+    return state.archiveTab === entry.archiveTab;
+  }
+  return true;
+}
+
+function renderMobileMenu() {
+  mobileMenuToggle.setAttribute("aria-expanded", String(state.mobileMenuOpen));
+  mobileSearch.classList.toggle("active", state.route === "search");
+  mobileFavorites.classList.toggle("active", state.route === "favorites");
+
+  mobileMenu.innerHTML = "";
+  mobileMenu.hidden = !state.mobileMenuOpen;
+  MOBILE_MENU_SECTIONS.forEach((section) => {
+    mobileMenu.append(renderMobileMenuSection(section));
+  });
+
+  if (state.manifest) {
+    const picker = document.createElement("label");
+    picker.className = "mobile-edition-picker";
+
+    const label = document.createElement("span");
+    label.textContent = "表示日";
+
+    const select = document.createElement("select");
+    state.manifest.editions
+      .slice()
+      .reverse()
+      .forEach((edition) => {
+        const option = document.createElement("option");
+        option.value = edition.date;
+        option.textContent = edition.date;
+        select.append(option);
+      });
+    select.value = state.edition?.edition_date || state.manifest.default_edition_date;
+    select.addEventListener("change", async (event) => {
+      await loadEdition(event.target.value);
+    });
+
+    picker.append(label, select);
+    mobileMenu.append(picker);
+  }
+}
+
+function renderMobileMenuSection(section) {
+  const wrapper = document.createElement("section");
+  wrapper.className = "mobile-menu-section";
+
+  if (section.route) {
+    const button = createMobileMenuButton({ label: section.title, route: section.route });
+    button.classList.add("mobile-menu-link");
+    wrapper.append(button);
+    return wrapper;
+  }
+
+  const heading = document.createElement("div");
+  heading.className = "mobile-menu-heading";
+  heading.textContent = section.title;
+  wrapper.append(heading);
+
+  const tabs = document.createElement("div");
+  tabs.className = "mobile-menu-tabs";
+  section.entries.forEach((entry) => tabs.append(createMobileMenuButton(entry)));
+  wrapper.append(tabs);
+  return wrapper;
+}
+
+function createMobileMenuButton(entry) {
+  const button = document.createElement("button");
+  button.type = "button";
+  button.textContent = entry.label;
+  button.dataset.route = entry.route;
+  if (entry.yesterdayTab) {
+    button.dataset.yesterdayTab = entry.yesterdayTab;
+  }
+  if (entry.archiveTab) {
+    button.dataset.archiveTab = entry.archiveTab;
+  }
+  button.classList.toggle("active", mobileEntryIsActive(entry));
+  button.addEventListener("click", () => {
+    navigateTo(entry.route, entry);
+  });
+  return button;
+}
+
+function mobileEntryIsActive(entry) {
   if (entry.route !== state.route) {
     return false;
   }
@@ -205,6 +342,8 @@ async function loadEdition(editionDate) {
     return;
   }
   state.edition = await fetch(dataUrl(target.path)).then((response) => response.json());
+  editionSelect.value = editionDate;
+  renderNav();
   renderPage();
 }
 

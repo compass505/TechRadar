@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>TechRadar 505</title>
-    <link rel="stylesheet" href="styles.css?v=news-20260525-1" />
+    <link rel="stylesheet" href="styles.css?v=mobile-header-1" />
   </head>
   <body>
     <div class="app-shell">
@@ -22,7 +22,29 @@
           </label>
         </div>
 
+        <div class="mobile-header-actions" aria-label="スマホ操作">
+          <button id="mobile-search" class="mobile-icon-button" type="button" aria-label="検索">
+            検索
+          </button>
+          <button id="mobile-favorites" class="mobile-icon-button" type="button" aria-label="お気に入り">
+            ★
+          </button>
+          <button
+            id="mobile-menu-toggle"
+            class="mobile-menu-toggle"
+            type="button"
+            aria-label="メニュー"
+            aria-expanded="false"
+            aria-controls="mobile-menu"
+          >
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+
         <div id="header-dropdown" class="header-dropdown" hidden></div>
+        <div id="mobile-menu" class="mobile-menu" hidden></div>
       </header>
 
       <main class="content">
@@ -57,6 +79,6 @@
       </article>
     </template>
 
-    <script type="module" src="app.js?v=news-20260525-1"></script>
+    <script type="module" src="app.js?v=mobile-header-1"></script>
   </body>
 </html>
