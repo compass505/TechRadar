@@ -55,6 +55,24 @@ const FACET_LABELS = {
   cloud: "クラウド",
 };
 
+const SEARCH_CATEGORY_OPTIONS = [
+  ["", "すべて"],
+  ["ai", "AI"],
+  ["enterprise_it", "企業IT"],
+  ["development", "開発"],
+  ["security", "セキュリティ"],
+  ["cloud", "クラウド"],
+];
+
+const SEARCH_IMPORTANCE_OPTIONS = [
+  ["0", "すべて"],
+  ["5", "5以上"],
+  ["4", "4以上"],
+  ["3", "3以上"],
+  ["2", "2以上"],
+  ["1", "1以上"],
+];
+
 const DISPLAY_FACET_PRIORITY = ["security", "ai", "development", "cloud", "enterprise_it"];
 const DATA_VERSION = "news-20260525-1";
 const FAVORITES_RESET_KEY = "favorites-reset-version";
@@ -85,6 +103,13 @@ const state = {
   openMenu: "",
   mobileMenuOpen: false,
   searchQuery: "",
+  searchFilters: {
+    category: "",
+    source: "",
+    importance: "0",
+    dateFrom: "",
+    dateTo: "",
+  },
   favorites: loadFavorites(),
 };
 
@@ -647,47 +672,231 @@ function archiveTabLabel() {
 }
 
 function renderSearch() {
-  setHeader("検索", "タイトル・媒体・タグで検索", "Search");
+  setHeader("検索", "キーワード・カテゴリ・ニュースサイトで検索", "Search");
   pageContent.innerHTML = "";
 
   const shell = document.createElement("div");
   shell.className = "search-shell";
 
-  const input = document.createElement("input");
-  input.className = "search-input";
-  input.placeholder = "例: OpenAI / 脆弱性 / Publickey";
-  input.value = state.searchQuery;
-  input.addEventListener("input", (event) => {
-    state.searchQuery = event.target.value;
-    renderSearch();
-  });
-  shell.append(input);
+  const form = renderSearchForm();
+  const stories = filterSearchStories();
+  const summary = document.createElement("p");
+  summary.className = "search-summary";
+  summary.textContent = `${stories.length}件のニュースが見つかりました。`;
 
-  const query = state.searchQuery.trim().toLowerCase();
-  const stories = !query
-    ? []
-    : state.stories.filter((story) =>
-        [
-          story.title,
-          story.summary,
-          story.reason,
-          story.category,
-          story.representative_source,
-          ...story.sources,
-          ...story.facets,
-        ]
-          .join(" ")
-          .toLowerCase()
-          .includes(query),
-      );
+  shell.append(form, summary);
   shell.append(
     renderSection(
       "検索結果",
       stories,
-      query ? `${stories.length}件` : "検索語を入力してください",
+      searchHasActiveFilters() ? describeSearchFilters() : "すべての保存ニュース",
     ),
   );
   pageContent.append(shell);
+}
+
+function renderSearchForm() {
+  const form = document.createElement("form");
+  form.className = "search-panel";
+
+  const keyword = document.createElement("input");
+  keyword.className = "search-input";
+  keyword.type = "search";
+  keyword.placeholder = "例: OpenAI / 脆弱性 / Publickey";
+  keyword.value = state.searchQuery;
+  form.append(createSearchField("キーワード", keyword, "search-keyword-field"));
+
+  const category = createSelect(SEARCH_CATEGORY_OPTIONS, state.searchFilters.category);
+  form.append(createSearchField("カテゴリ", category));
+
+  const sourceOptions = [["", "すべて"], ...getSearchSourceOptions().map((source) => [source, source])];
+  const source = createSelect(sourceOptions, state.searchFilters.source);
+  form.append(createSearchField("ニュースサイト", source));
+
+  const importance = createSelect(SEARCH_IMPORTANCE_OPTIONS, state.searchFilters.importance);
+  form.append(createSearchField("重要度", importance));
+
+  const dateFrom = document.createElement("input");
+  dateFrom.type = "date";
+  dateFrom.value = state.searchFilters.dateFrom;
+  form.append(createSearchField("開始日", dateFrom));
+
+  const dateTo = document.createElement("input");
+  dateTo.type = "date";
+  dateTo.value = state.searchFilters.dateTo;
+  form.append(createSearchField("終了日", dateTo));
+
+  const actions = document.createElement("div");
+  actions.className = "search-actions";
+
+  const submit = document.createElement("button");
+  submit.type = "submit";
+  submit.textContent = "検索";
+
+  const reset = document.createElement("button");
+  reset.type = "reset";
+  reset.textContent = "リセット";
+
+  actions.append(submit, reset);
+  form.append(actions);
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    state.searchQuery = keyword.value.trim();
+    state.searchFilters = {
+      category: category.value,
+      source: source.value,
+      importance: importance.value,
+      dateFrom: dateFrom.value,
+      dateTo: dateTo.value,
+    };
+    renderSearch();
+  });
+
+  form.addEventListener("reset", () => {
+    state.searchQuery = "";
+    state.searchFilters = {
+      category: "",
+      source: "",
+      importance: "0",
+      dateFrom: "",
+      dateTo: "",
+    };
+    window.setTimeout(renderSearch, 0);
+  });
+
+  return form;
+}
+
+function createSearchField(labelText, control, className = "") {
+  const label = document.createElement("label");
+  if (className) {
+    label.className = className;
+  }
+
+  const span = document.createElement("span");
+  span.textContent = labelText;
+  label.append(span, control);
+  return label;
+}
+
+function createSelect(options, selectedValue) {
+  const select = document.createElement("select");
+  options.forEach(([value, label]) => {
+    const option = document.createElement("option");
+    option.value = value;
+    option.textContent = label;
+    select.append(option);
+  });
+  select.value = selectedValue;
+  return select;
+}
+
+function getSearchSourceOptions() {
+  const sources = new Set();
+  state.stories.forEach((story) => {
+    if (story.representative_source) {
+      sources.add(story.representative_source);
+    }
+    (story.sources || []).forEach((source) => {
+      if (source) {
+        sources.add(source);
+      }
+    });
+  });
+  return [...sources].sort((left, right) => left.localeCompare(right, "ja"));
+}
+
+function filterSearchStories() {
+  return sortStories(state.stories.filter((story) => storyMatchesSearch(story)));
+}
+
+function storyMatchesSearch(story) {
+  const filters = state.searchFilters;
+  const query = normalizeSearchText(state.searchQuery);
+  const targetText = normalizeSearchText(
+    [
+      story.title,
+      story.summary,
+      story.reason,
+      story.category,
+      story.representative_source,
+      ...(story.sources || []),
+      ...(story.facets || []),
+      ...(story.facets || []).map((facet) => FACET_LABELS[facet] || facet),
+    ].join(" "),
+  );
+
+  if (query && !targetText.includes(query)) {
+    return false;
+  }
+
+  if (filters.category && !(story.facets || []).includes(filters.category)) {
+    return false;
+  }
+
+  if (
+    filters.source &&
+    story.representative_source !== filters.source &&
+    !(story.sources || []).includes(filters.source)
+  ) {
+    return false;
+  }
+
+  const minImportance = Number.parseInt(filters.importance, 10);
+  if (minImportance && normalizeImportanceScore(story.importance_score) < minImportance) {
+    return false;
+  }
+
+  const publishedDate = story.published_date || String(story.published_at || "").slice(0, 10);
+  if ((filters.dateFrom || filters.dateTo) && !publishedDate) {
+    return false;
+  }
+
+  if (filters.dateFrom && publishedDate < filters.dateFrom) {
+    return false;
+  }
+
+  if (filters.dateTo && publishedDate > filters.dateTo) {
+    return false;
+  }
+
+  return true;
+}
+
+function normalizeSearchText(value) {
+  return String(value || "").normalize("NFKC").trim().toLowerCase();
+}
+
+function searchHasActiveFilters() {
+  return Boolean(
+    state.searchQuery ||
+      state.searchFilters.category ||
+      state.searchFilters.source ||
+      state.searchFilters.dateFrom ||
+      state.searchFilters.dateTo ||
+      Number.parseInt(state.searchFilters.importance, 10),
+  );
+}
+
+function describeSearchFilters() {
+  const labels = [];
+  if (state.searchQuery) {
+    labels.push(`キーワード: ${state.searchQuery}`);
+  }
+  if (state.searchFilters.category) {
+    labels.push(`カテゴリ: ${FACET_LABELS[state.searchFilters.category] || state.searchFilters.category}`);
+  }
+  if (state.searchFilters.source) {
+    labels.push(`ニュースサイト: ${state.searchFilters.source}`);
+  }
+  if (Number.parseInt(state.searchFilters.importance, 10)) {
+    labels.push(`重要度${state.searchFilters.importance}以上`);
+  }
+  if (state.searchFilters.dateFrom || state.searchFilters.dateTo) {
+    labels.push(`${state.searchFilters.dateFrom || "指定なし"} - ${state.searchFilters.dateTo || "指定なし"}`);
+  }
+  return labels.join(" / ");
 }
 
 function renderFavorites() {
