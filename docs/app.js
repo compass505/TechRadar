@@ -707,14 +707,14 @@ function renderSearchForm() {
   form.append(createSearchField("キーワード", keyword, "search-keyword-field"));
 
   const category = createSelect(SEARCH_CATEGORY_OPTIONS, state.searchFilters.category);
-  form.append(createSearchField("カテゴリ", category));
+  form.append(createSearchField("カテゴリ", category, "search-category-field"));
 
   const sourceOptions = [["", "すべて"], ...getSearchSourceOptions().map((source) => [source, source])];
   const source = createSelect(sourceOptions, state.searchFilters.source);
-  form.append(createSearchField("ニュースサイト", source));
+  form.append(createSearchField("ニュースサイト", source, "search-source-field"));
 
   const importance = createSelect(SEARCH_IMPORTANCE_OPTIONS, state.searchFilters.importance);
-  form.append(createSearchField("重要度", importance));
+  form.append(createSearchField("重要度", importance, "search-importance-field"));
 
   const dateFrom = document.createElement("input");
   dateFrom.type = "date";
