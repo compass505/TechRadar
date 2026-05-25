@@ -719,12 +719,12 @@ function renderSearchForm() {
   const dateFrom = document.createElement("input");
   dateFrom.type = "date";
   dateFrom.value = state.searchFilters.dateFrom;
-  form.append(createSearchField("開始日", dateFrom));
+  form.append(createSearchField("開始日", dateFrom, "search-date-field search-date-from-field"));
 
   const dateTo = document.createElement("input");
   dateTo.type = "date";
   dateTo.value = state.searchFilters.dateTo;
-  form.append(createSearchField("終了日", dateTo));
+  form.append(createSearchField("終了日", dateTo, "search-date-field search-date-to-field"));
 
   const actions = document.createElement("div");
   actions.className = "search-actions";

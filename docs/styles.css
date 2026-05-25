@@ -480,6 +480,14 @@ h1 {
   grid-column: span 2;
 }
 
+.search-date-from-field {
+  grid-column: 1;
+}
+
+.search-date-to-field {
+  grid-column: 2;
+}
+
 .search-panel span {
   color: var(--muted);
   font-size: 12px;
@@ -489,6 +497,8 @@ h1 {
 .search-panel input,
 .search-panel select {
   width: 100%;
+  min-width: 0;
+  max-width: 100%;
   min-height: 40px;
   border: 1px solid var(--line);
   border-radius: 10px;
@@ -669,6 +679,18 @@ h1 {
 
   .search-keyword-field {
     grid-column: auto;
+  }
+
+  .search-date-from-field,
+  .search-date-to-field {
+    grid-column: auto;
+  }
+
+  .search-date-field,
+  .search-date-field input {
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
   }
 
   .story-grid {
