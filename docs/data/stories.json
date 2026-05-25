@@ -167,5 +167,403 @@
     "urgency_score": 0,
     "utility_score": 2,
     "has_itmedia_article": true
+  },
+  {
+    "id": "578e9e36b45d",
+    "title": "DartがサーバレスのCloud Functions for Firebaseに対応、Dartはフルスタック言語へ。事前コンパイルでコールドスタートが10ミリ秒",
+    "published_date": "2026-05-25",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "GoogleがDartのCloud Functions for Firebase対応を発表。事前コンパイルでコールドスタート10msを達成しフルスタック運用が容易に。",
+    "reason": "Dart/Flutter開発者にとってサーバレス実行環境の対応は実運用と開発効率に直結するため。",
+    "published_at": "2026-05-25 00:15:57",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/dartcloud_functions_for_firebasedart10.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "30c08c63b13c",
+    "title": "NGINX Riftの次は“poolslip” NGINX最新版に未修正のゼロデイ",
+    "published_date": "2026-05-25",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "NGINX最新版1.31.0に未修正のゼロデイ脆弱性「nginx-poolslip」が発見。運用現場にとって緊急対応が必要。",
+    "reason": "広く使われるWebサーバーのゼロデイは即時の運用・セキュリティ対応を要求するため。",
+    "published_at": "2026-05-25 07:30:00",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/25/news037.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "c80b1ce6919e",
+    "title": "SNSにおける情報漏えい、企業の7割で社内ルール「なし」 企業規模の違いで対応に格差か",
+    "published_date": "2026-05-25",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "従業員のSNS利用からの情報漏えいが続く中、企業の7割でSNS利用に関する社内ルールが整備されていない実態を報告。",
+    "reason": "従業員SNSに起因する情報漏えいは企業リスクであり、情シス・経営が優先的に対処すべきテーマのため。",
+    "published_at": "2026-05-25 12:06:00",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/25/news078.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6a48a65c80c8",
+    "title": "ServiceNow、AIエージェントの「データの空白」を埋める機能群を発表",
+    "published_date": "2026-05-25",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "ServiceNowがサイロ化データやガバナンス不備を解消する新機能群を発表し、AI導入の障壁低減を目指す。",
+    "reason": "実務でのAI適用を阻むデータギャップとガバナンス問題に対する具体的ソリューションで有用性が高いため。",
+    "published_at": "2026-05-25 15:00:00",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2605/25/news043.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "7e9339d1d62b",
+    "title": "「Claude Mythos」が1万件以上の脆弱性を発見 しかし修正追い付かず Anthropicが報告書",
+    "published_date": "2026-05-25",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "Anthropicの検証プロジェクトで約50社が1カ月で高・重大レベルの脆弱性を1万件超発見。修正リソースが追いつかない懸念を指摘。",
+    "reason": "フロンティアAIが大量の脆弱性発見を可能にする現実が示され、サプライチェーンと脆弱性対応に重大な影響を与えるため。",
+    "published_at": "2026-05-25 20:20:00",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/25/news130.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a8b1941dfeff",
+    "title": "「セキュリティ人材って結局、何ができる人？」に結論か NCOが定義した“13個の役割”",
+    "published_date": "2026-05-25",
+    "importance_score": 2,
+    "category": "セキュリティ",
+    "summary": "NCOが「サイバーセキュリティ人材フレームワーク2026」を公開し、13の役割と4段階のレベルを定義。",
+    "reason": "組織の人材設計・採用・育成に直結する実務的な定義で、セキュリティ体制構築に役立つため。",
+    "published_at": "2026-05-25 13:00:00",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/25/news028.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "4037f868133f",
+    "title": "「控えめに言って100兆円」巨大フィジカルAI市場、日本の勝ち筋は 日立がAnthropicとの提携で示した戦略",
+    "published_date": "2026-05-25",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "日立がAnthropicと戦略的パートナーシップを発表。フィジカルAI領域で巨額市場を見据えた日本企業の戦略を提示。",
+    "reason": "大手製造・インフラ企業と先端AIベンダーの提携は市場構造と産業応用に大きな影響を与えるため。",
+    "published_at": "2026-05-25 10:33:18",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2605/25/2000000021/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "76b4730920c5",
+    "title": "ソフトバンク、AI特化の先端クラウド基盤を提供開始",
+    "published_date": "2026-05-25",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "ソフトバンクがAIデータセンター向けソフトウエアスタック『Infrinia AI Cloud OS』搭載のGPUクラウドを10月提供、ベータ開始。",
+    "reason": "国内大手がAI特化クラウドを投入し、AIインフラ競争と企業導入選択に影響するため。",
+    "published_at": "2026-05-25 19:03:15",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2111434.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5a2dfa5d5c5e",
+    "title": "データセンターを渇望するAI企業、反発する住民 米調査で浮き彫りに",
+    "published_date": "2026-05-25",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "AI向けデータセンター建設が地元住民の反発を招く事例を米調査で報告。電力・水使用など社会的課題が顕在化。",
+    "reason": "AIインフラ拡大が地域社会・規制・サプライチェーンに与える影響を示す重要な動向だから。",
+    "published_at": "2026-05-25 15:55:00",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35247961/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "3443911add99",
+    "title": "数千規模のAIエージェントをどう統制する？ IBMが製品群を発表",
+    "published_date": "2026-05-25",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "IBMがAIオペレーティングモデルと製品群を発表。多数のAIエージェント運用での統制・ガバナンスを狙う提案。",
+    "reason": "エンタープライズでAIエージェントをスケールさせる上での運用課題解決に直結するため。",
+    "published_at": "2026-05-25 15:30:00",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2605/25/news045.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5bdf0ccb0f4d",
+    "title": "日大、教職員1万人が「Google AI Pro」活用へ",
+    "published_date": "2026-05-25",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "日本大学がGoogleの教育向けAIサブスク『Google AI Pro for Education』を導入し、専任教職員1万人が利用可能に。",
+    "reason": "大規模教育機関でのAI導入事例は自治体・教育機関の導入判断に示唆を与えるため。",
+    "published_at": "2026-05-25 19:38:00",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/25/news129.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "bea7d1e87185",
+    "title": "暗号化は外部サーバで WantToCryが示した“EDR検知回避型”ランサムの次段階",
+    "published_date": "2026-05-25",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "SMB通信のみで暗号化を行う新型ランサムウェア「WantToCry」を確認。EDR回避を狙う手口が示された。",
+    "reason": "EDRを回避する新手法のランサムは企業の防御モデル全体に影響を及ぼす重大脅威であるため。",
+    "published_at": "2026-05-25 07:00:00",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/25/news027.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d1e8b135f949",
+    "title": "残存“Windows 10”が危険なだけじゃない、そもそもPC保護は「年間76日も機能していない」",
+    "published_date": "2026-05-25",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "調査で企業のエンドポイントセキュリティ機能が約20％適切に機能せず、実質的に年間76日分保護が働かないと報告。",
+    "reason": "エンドポイント防御の実効性低下は多数企業のセキュリティ姿勢に直接影響するため。",
+    "published_at": "2026-05-25 13:00:00",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/25/news048.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "f150ebf075d4",
+    "title": "金融庁・日銀、金融機関にAIサイバー攻撃の対策要請 対応の優先度決定など9項目",
+    "published_date": "2026-05-25",
+    "importance_score": 5,
+    "category": "法規制",
+    "summary": "金融庁と日本銀行がフロンティアAIで脆弱性が短期間に大量発見される脅威を受け、金融機関に9項目の短期対応を要請。",
+    "reason": "金融インフラに対する規制的指示で、経営トップの関与や短期的対応が求められる点で業界全体に重大な波及効果があるため。",
+    "published_at": "2026-05-25 12:20:00",
+    "created_at": "2026-05-26 05:46:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/25/news079.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": true
   }
 ]
