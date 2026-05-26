@@ -565,5 +565,363 @@
     "urgency_score": 2,
     "utility_score": 0,
     "has_itmedia_article": true
+  },
+  {
+    "id": "ac8196cd8858",
+    "title": "Anthropicの「Mythos Preview」、1カ月で1万件超の脆弱性を発見──「Project Glasswing」初期報告",
+    "published_date": "2026-05-26",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Anthropicの未公開モデルを活用したセキュリティプロジェクトが、開始1カ月で重要ソフトウェアの脆弱性を1万件超発見。パッチ適用の遅れが課題として指摘される。",
+    "reason": "AIを使った大規模脆弱性発見は攻撃/防御双方に直結し、企業の脆弱性管理に重大な示唆を与える。",
+    "published_at": "2026-05-26 04:38:39",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2605/24/2000000019/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "437677d1c3f0",
+    "title": "Gemini APIが“半額”で使える「Flex」 注意点は？ 「Priority」とは何が違う？",
+    "published_date": "2026-05-26",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "GoogleがGemini API向けに新ティア「Flex」「Priority」を追加。Flexは標準の半額で利用でき、用途に応じた使い分けのポイントを解説。",
+    "reason": "APIコスト構造の変化は開発者とSaaS事業者のコスト設計に直結するため実務的価値が高い。",
+    "published_at": "2026-05-26 13:00:00",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/26/news039.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5d7c740942c4",
+    "title": "Microsoft、F5侵害からActive Directory攻撃に発展した多段侵入事例を公開",
+    "published_date": "2026-05-26",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "F5 BIG-IPの旧版侵害を起点に、LinuxやConfluenceを経由してActive Directory攻撃へ発展した多段侵入事例をMicrosoftが公開。更新遅延が被害拡大の要因と指摘。",
+    "reason": "境界機器の脆弱性からAD侵害に至る連鎖は企業ネットワーク防御の中核に関わるため必読。",
+    "published_at": "2026-05-26 07:30:00",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/26/news036.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6da71be6bc40",
+    "title": "PIXTA、AI生成素材の販売終了 「購入者が求めるのは人の手による作品」",
+    "published_date": "2026-05-26",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "素材マーケットプレイスPIXTAがAI生成素材の取り扱いを5月22日で終了。AI活用自体は否定せず、購入者ニーズを理由に判断したと説明。",
+    "reason": "デジタルコンテンツ市場におけるAI生成物の扱いはビジネスモデルと法的・倫理的議論に関わるため業界動向を押さえる価値がある。",
+    "published_at": "2026-05-26 19:15:00",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news125.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "7fc854aca3cb",
+    "title": "xAIがコーディングエージェント「Grok Build」ベータ公開。サブエージェントを並列に実行可能など",
+    "published_date": "2026-05-26",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "xAIがコーディング特化のAIエージェント「Grok Build」早期ベータを公開。並列サブエージェントなどプロ向けの機能を備える点を紹介。",
+    "reason": "コーディングエージェントの進化は開発生産性やワークフローに影響を与えるため開発者向けに重要。",
+    "published_at": "2026-05-26 00:04:43",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/xaigrok_build.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "fc2c56e5c1fd",
+    "title": "「CVE採番が数カ月放置された」Ollamaの脆弱性が危ない“3つの理由” 30万台に影響か",
+    "published_date": "2026-05-26",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "ローカルLLMプラットフォームOllamaに重大なメモリ脆弱性が発覚。MITREの採番遅延や広範な展開が被害拡大リスクを高めると警告される。",
+    "reason": "開発者や企業のローカルAI導入に直接影響する脆弱性で、迅速な対応が求められるため重要。",
+    "published_at": "2026-05-26 13:00:00",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/26/news063.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0dff561a1964",
+    "title": "イランのネット接続が再開へ 大統領が承認、戦争後に海外サイトから3カ月遮断",
+    "published_date": "2026-05-26",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "イラン大統領が国際インターネットのアクセス再開を命じたと報道。約3カ月にわたる海外サイトやネットワークへの接続遮断を解く動き。",
+    "reason": "国家によるネット遮断／再開は国際的な通信・サプライチェーンや企業リスクに即影響するため重要。",
+    "published_at": "2026-05-26 17:21:00",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news114.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "3f20bcadedf0",
+    "title": "ファーウェイ、半導体で「1.4nm相当」目指す 31年までに 「ムーアの法則」に代わる新法則を提唱",
+    "published_date": "2026-05-26",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "ファーウェイが「τスケーリング法則」を提唱し、独自回路技術LogicFoldingを用いて2031年に1.4nm相当のトランジスタ密度を目指すと発表。ムーアの法則に代わる進化路線を示唆。",
+    "reason": "半導体設計／製造の新方針は業界の技術ロードマップと競争構造に影響を与えるため掲載価値が高い。",
+    "published_at": "2026-05-26 19:20:00",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/25/news138.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "3216b3ce598e",
+    "title": "ランサムウェア攻撃が「持続可能なビジネス」に 侵入コスト6万6000円、復旧に2億3000万円",
+    "published_date": "2026-05-26",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "攻撃者の侵入コストと被害企業の復旧コストの差が約3500倍に達し、ランサムウェアが経済的に持続可能な犯罪になっているとの分析を報告。",
+    "reason": "経済構造としてのランサムウェア持続性は企業リスク管理と政策対応に直結する重要問題。",
+    "published_at": "2026-05-26 16:25:00",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news108.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "08221cefe269",
+    "title": "教皇レオ14世、AIの軍事利用や労働への影響に回勅で警鐘 Anthropicの共同創業者が同席してコメント",
+    "published_date": "2026-05-26",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "教皇レオ14世がAIに関する回勅を発表し、軍事利用や労働への影響、巨大企業の権力集中に警鐘を鳴らした。Anthropic共同創業者も場に同席しコメント。",
+    "reason": "倫理的・規範的なメッセージが国際的なAI規制議論や企業のガバナンスに影響を与える可能性があるため掲載に値する。",
+    "published_at": "2026-05-26 06:17:00",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news059.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "230e50b14303",
+    "title": "総務省、海底ケーブルの防御対策、骨子案を取りまとめ 地方分散で多ルート化",
+    "published_date": "2026-05-26",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "総務省の有識者会議が海底ケーブル防御の骨子案を了承。地方分散や多ルート化、官民連携で陸揚局などを防御する方針を示す予定。",
+    "reason": "国際通信インフラの防護策は国家レベルの通信安定性と産業政策に関わるため高い掲載価値がある。",
+    "published_at": "2026-05-26 18:44:00",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news122.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "9ec8506fabc9",
+    "title": "考えるだけでPC操作・脳内発話も 中国がAI脳インプラント開発加速、一般販売も間近か Nature報道",
+    "published_date": "2026-05-26",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "Nature報道を引用し、中国のスタートアップがAIを使ったブレイン・コンピュータ・インタフェース（BCI）の実用化を加速、民間向け販売が近い可能性を示す。",
+    "reason": "BCIの商用化は技術的・倫理的・規制的影響が大きく、業界と社会に広範な示唆を与える。",
+    "published_at": "2026-05-26 08:00:00",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news019.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "2cccf72c2310",
+    "title": "薬局で受け取った薬の情報、マイナポータルで当日中に確認可能に 「薬」画面をリニューアル",
+    "published_date": "2026-05-26",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "デジタル庁がマイナポータルの「薬」画面を改善。電子処方箋対応の医療機関・薬局で受け取った薬や処方箋情報を原則当日中に確認可能に。",
+    "reason": "行政のデジタルサービス改善は自治体／医療機関のIT運用と市民利便性に直接関わるため実務的に有用。",
+    "published_at": "2026-05-26 16:20:00",
+    "created_at": "2026-05-27 06:21:24",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news106.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
   }
 ]

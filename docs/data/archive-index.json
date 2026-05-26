@@ -19,7 +19,20 @@
     "5bdf0ccb0f4d",
     "bea7d1e87185",
     "d1e8b135f949",
-    "f150ebf075d4"
+    "f150ebf075d4",
+    "ac8196cd8858",
+    "437677d1c3f0",
+    "5d7c740942c4",
+    "6da71be6bc40",
+    "7fc854aca3cb",
+    "fc2c56e5c1fd",
+    "0dff561a1964",
+    "3f20bcadedf0",
+    "3216b3ce598e",
+    "08221cefe269",
+    "230e50b14303",
+    "9ec8506fabc9",
+    "2cccf72c2310"
   ],
   "ai": [
     "e30643acc32e",
@@ -35,7 +48,14 @@
     "5a2dfa5d5c5e",
     "3443911add99",
     "5bdf0ccb0f4d",
-    "f150ebf075d4"
+    "f150ebf075d4",
+    "ac8196cd8858",
+    "437677d1c3f0",
+    "6da71be6bc40",
+    "7fc854aca3cb",
+    "fc2c56e5c1fd",
+    "08221cefe269",
+    "9ec8506fabc9"
   ],
   "enterprise_it": [
     "2552cd9a2411",
@@ -55,7 +75,14 @@
     "5bdf0ccb0f4d",
     "bea7d1e87185",
     "d1e8b135f949",
-    "f150ebf075d4"
+    "f150ebf075d4",
+    "ac8196cd8858",
+    "5d7c740942c4",
+    "fc2c56e5c1fd",
+    "0dff561a1964",
+    "3216b3ce598e",
+    "08221cefe269",
+    "2cccf72c2310"
   ],
   "security": [
     "2552cd9a2411",
@@ -65,13 +92,21 @@
     "a8b1941dfeff",
     "bea7d1e87185",
     "d1e8b135f949",
-    "f150ebf075d4"
+    "f150ebf075d4",
+    "ac8196cd8858",
+    "5d7c740942c4",
+    "fc2c56e5c1fd",
+    "0dff561a1964",
+    "3216b3ce598e"
   ],
   "development": [
     "b414168684d4",
     "578e9e36b45d",
     "76b4730920c5",
-    "5a2dfa5d5c5e"
+    "5a2dfa5d5c5e",
+    "437677d1c3f0",
+    "7fc854aca3cb",
+    "9ec8506fabc9"
   ],
   "cloud": [
     "578e9e36b45d",
