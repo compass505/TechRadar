@@ -923,5 +923,455 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
+  },
+  {
+    "id": "cabc1a06ec07",
+    "title": "Claude Mythosが1万件超の脆弱性を発見 その裏で開発者コミュニティーに走る緊張",
+    "published_date": "2026-05-27",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "AnthropicのClaude Mythosがサイバー防御計画で1万件超の深刻脆弱性を検出。大きな成果だが開発者コミュニティへの波及や濫用リスクも指摘される。",
+    "reason": "AIが大規模に脆弱性を発見する影響はセキュリティ運用と脆弱性管理プロセスに直結するため業界的意義が大きい。",
+    "published_at": "2026-05-27 07:30:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/27/news055.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2219a91b51cb",
+    "title": "Docker専用のAIエージェント「Gordon」が正式リリース。Dockerについて何でも答えてくれてエラーも修正してくれる。無料アカウントでも利用可能",
+    "published_date": "2026-05-27",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "DockerがDocker Desktop/CLI向けのAIエージェント「Gordon」を正式提供。コンテナ運用の質問応答やエラー修正支援を行うツールだ。",
+    "reason": "開発・運用の生産性に直結するAIツールで、デブオプス現場への即時的な影響が期待されるため選定。",
+    "published_at": "2026-05-27 00:40:27",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/dockeraigordondocker.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "aa7d4ed162f1",
+    "title": "Dropboxの共同創業者、ヒューストンCEOが退任して会長へ",
+    "published_date": "2026-05-27",
+    "importance_score": 2,
+    "category": "ビジネス",
+    "summary": "Dropboxは共同創業者ドリュー・ヒューストンがCEOを退任し取締役会長に。後任に現製品責任者のアシュラフ・アルカルミ氏が就く人事を発表した。",
+    "reason": "主要クラウド／SaaS企業の経営交代は市場戦略やプロダクト方針に影響するため要注目だが即時的リスクは限定的。",
+    "published_at": "2026-05-27 08:37:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/27/news067.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0b69d5892dd9",
+    "title": "Google I/O 2026を読み解く AIエージェント時代のソフトウェア開発はどこにたどりついたのか",
+    "published_date": "2026-05-27",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "Google I/O 2026の発表群（Antigravity 2.0、Gemini 3.5 Flash、エージェント並列実行など）を整理し、エージェント時代のソフトウェア開発の到達点を分析する解説記事。",
+    "reason": "主要プラットフォーマーの発表が開発手法やツールチェーンに与える影響を整理しており、開発者向けの有益な総括であるため。",
+    "published_at": "2026-05-27 05:00:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/27/news011.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ce31e8a4f259",
+    "title": "NTT、光ネットワーク全長を“診る”機能を通信用チップに搭載 世界初",
+    "published_date": "2026-05-27",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "NTTが通信DSPチップに、通信しながら光ネットワーク全長の状態を可視化する機能を世界初で搭載。エンドツーエンド監視で運用保守の効率化を図る。",
+    "reason": "光ネットワーク運用の革新で通信事業者とインフラ運用に影響する技術的進展のため掲載価値あり。",
+    "published_at": "2026-05-27 10:00:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2111812.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a71e58c7bdda",
+    "title": "NotebookLMの「ソースが古いまま」問題が起こらないように Googleドライブのファイル更新を自動で反映",
+    "published_date": "2026-05-27",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "GoogleはNotebookLMにGoogleドライブ同期機能を追加予定。ドライブ上のファイル更新をNotebookLMに自動反映し、ソース古さの問題を緩和する。",
+    "reason": "生成AIの信頼性・運用性に関する改善で、エンドユーザーの実務利用に役立つが業界全体の構造変化ほどではないため中程度評価。",
+    "published_at": "2026-05-27 15:11:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/27/news102.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ed1c6d06c5f3",
+    "title": "Notion、新開発基盤をリリース ナレッジ共有から「AIと協働する基盤」へ",
+    "published_date": "2026-05-27",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "NotionがDeveloper Platformを発表。CLI、Workers、外部エージェント連携APIなどでNotion上にAIエージェントや業務ワークフローを構築可能にする開発基盤だ。",
+    "reason": "業務ナレッジとAIエージェント統合のための開発基盤は企業内ワークフロー自動化と開発者エコシステムに影響する。",
+    "published_at": "2026-05-27 11:55:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/articles/2605/27/news081.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0f67c8c5263e",
+    "title": "「AIによる権利侵害」に出版・アニメ制作会社など集う国内団体が声明 「看過できない問題」",
+    "published_date": "2026-05-27",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "出版社やアニメ制作会社らによる団体CODAが、生成AIによる著作権侵害に関する声明を出し、AI事業者に権利保護の対応を求めた。",
+    "reason": "コンテンツ産業からの正式な声は権利問題の政策議論や事業者の対応に影響を与えるため掲載価値が高い。",
+    "published_at": "2026-05-27 03:08:13",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2605/27/2000000026/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d9d5727f19e5",
+    "title": "「技術負債は解消して」 金融庁・日銀が9つの「最先端AI対策」を要請",
+    "published_date": "2026-05-27",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "金融庁と日銀が「フロンティアAIによる脅威変化」を踏まえ、金融機関に対して技術負債解消や経営トップの関与など9項目の短期的対応を提示した。",
+    "reason": "金融セクター向けの公式ガイダンスで、リスク対応や経営判断に直結するため情シス・経営層が押さえるべき内容。",
+    "published_at": "2026-05-27 12:00:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/27/news064.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "8d25239efd7e",
+    "title": "「空冷」ではもう無理 AI時代のデータセンターで「液冷」を選ぶ“必然”",
+    "published_date": "2026-05-27",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "生成AIの普及で高密度ラックが増加。データセンターの冷却は液冷が主流になりつつあり、インフラ設計やコスト構造が変化していると分析する報告だ。",
+    "reason": "AIモデル運用によるデータセンター設計の転換はクラウド事業者・情シスの設備計画に直接関係するトレンドであるため。",
+    "published_at": "2026-05-27 13:00:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/27/news049.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ae8c1f4adf4f",
+    "title": "【最終案内】2026年6月にWindows 11が起動不能に？ 「セキュアブート証明書」の期限切れリスクと対策、起動しなくなった場合の対応策",
+    "published_date": "2026-05-27",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "一部Windows 11搭載PCでセキュアブート証明書の15年期限切れにより起動不能になるリスクが指摘される。対策や確認手順、復旧方法を詳説する技術ガイドだ。",
+    "reason": "多くの企業端末に影響し得る実務上の起動リスクで、情シスが即対応すべきため高評価。",
+    "published_at": "2026-05-27 05:00:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/27/news012.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "07f01f1ca3af",
+    "title": "ついにMonoランタイムを脱却する「.NET MAUI」。Xamarinから続いてきたMonoランタイムをCoreCLRに移行",
+    "published_date": "2026-05-27",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": ".NET MAUIのiOS/Androidランタイムが今秋の.NET 11でCoreCLRに移行予定。Xamarin時代からのMono依存を脱却する大きな技術変更だ。",
+    "reason": "クロスプラットフォーム開発環境の基盤変更はモバイル開発者に影響するため注目度があるが限定的な対象者向け。",
+    "published_at": "2026-05-27 00:42:28",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/mononet_mauixamarinmonocoreclr.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "c25843bee059",
+    "title": "ランサムウェア被害は前年比389％増 爆増・爆速化の背景とは？",
+    "published_date": "2026-05-27",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "フォーティネットのレポートで2025年のランサムウェア被害件数が前年から389％増の7,831件に達したと報告。被害拡大の背景と傾向を分析する。",
+    "reason": "被害の大幅増加は企業の事業継続とセキュリティ対策に深刻な影響を与えるため高い優先度。",
+    "published_at": "2026-05-27 07:00:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/27/news050.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "254fe9d61781",
+    "title": "個人データの販売拒否は至難の業？人気サイトの「ダークパターン」を報告書が指摘",
+    "published_date": "2026-05-27",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "報告書がGoogle、Meta、Amazon、TikTokなど主要プラットフォームでオプトアウト手続きが分かりにくく、個人データの販売拒否が実質困難になっていると指摘した。",
+    "reason": "プライバシー保護とプラットフォーム規律の観点から企業のデータガバナンスや規制対応に直接関係するため。",
+    "published_at": "2026-05-27 18:14:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35248088/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "727fe517eb0f",
+    "title": "富士通が「Claude」全社展開へ Anthropicと戦略提携、最新モデルへの早期アクセスも",
+    "published_date": "2026-05-27",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "富士通が米Anthropicと戦略提携を締結。生成AI「Claude」を約10万人の全社展開、重要インフラ向け活用やサイバー防御強化で協業し最新モデルへ早期アクセスを獲得する。",
+    "reason": "大手SIerが国外AIベンダーと戦略連携し社内展開・インフラ運用に組み込む点は企業IT戦略とセキュリティに直結するため。",
+    "published_at": "2026-05-27 16:25:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/27/news115.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "259ec06422d5",
+    "title": "選挙の公正確保を “虚偽”SNS対策が判明、AI生成動画像に改変表示義務付け 与野党案",
+    "published_date": "2026-05-27",
+    "importance_score": 5,
+    "category": "法規制",
+    "summary": "選挙期間中のSNSでの偽情報対策として、AI生成や改変された動画像への表示義務付けを含む法改正案の骨子が与野党協議で判明した。",
+    "reason": "選挙の情報流通を直接規律する法案で、プラットフォーム運営・政治コミュニケーションに重大な影響を与えるため最高度評価。",
+    "published_at": "2026-05-27 10:39:00",
+    "created_at": "2026-05-28 06:31:21",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/27/news072.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
   }
 ]
