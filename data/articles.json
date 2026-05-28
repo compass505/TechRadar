@@ -1,5 +1,148 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "EU、Temuに370億円の罰金 製品の安全リスク評価に問題",
+    "url": "https://www.watch.impress.co.jp/docs/news/2112718.html",
+    "summary": "欧州委員会がデジタルサービス法(DSA)に基づき、中国系ECのTemuに2億ユーロの課徴金を科す。違法製品のリスク評価や対応が不十分だったと判断された。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "DSA適用の大規模罰金でプラットフォーム責任とコンプライアンス基準の実務に直接影響する判例的事件。",
+    "published_at": "2026-05-28 23:12:57",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Anthropic、Claude Opus 4.8を一般提供 誠実さが飛躍的に向上、Mythosに並ぶアライメント性能を実現",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000034/",
+    "summary": "Anthropicが最新モデルClaude Opus 4.8を一般提供。推論・コーディング性能を向上させ、自己の不確実性に対する誠実さ（アライメント）が大幅改善された。新機能でワークフロー並列化も可能に。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要モデルの改善は開発者や企業の導入判断、アライメント議論に影響を与えるため注目度が高い。",
+    "published_at": "2026-05-28 21:42:33",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「先週いくら使った？」ChatGPTが即答 資産管理のマネーツリーに新機能",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news144.html",
+    "summary": "MUFGとマネーツリーが「Apps in ChatGPT」を通じて、ChatGPT上で口座残高や取引明細を自然会話で確認できるサービスを開始。既存ユーザーは連携で利用可能。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "金融と大規模対話AIの連携は利便性とプライバシー・セキュリティ面で注目だが、影響範囲はまず既存ユーザー中心。",
+    "published_at": "2026-05-28 19:30:00",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "レノボ、国内に“水冷AIインフラ”の検証施設 GPUサーバ需要増で水冷活用促す",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
+    "summary": "レノボ・ジャパンがGPUサーバ向けの水冷技術を検証する「Neptuneラボ」を日本で新設。顧客向けのPoC環境として本番に近い検証を提供し、機器構成の推奨も行う。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "AIインフラ需要に応える冷却ソリューションの実地検証施設はデータセンター設計や運用コストに影響する実用的ニュース。",
+    "published_at": "2026-05-28 19:25:00",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ヤマハ、ネットワーク機器値上げ 20万円アップの製品も",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news143.html",
+    "summary": "ヤマハが7月1日以降、ルーターや無線AP、スイッチなどの価格を改定。半導体や輸送コスト上昇を理由に、製品によっては数千円〜約20万円の値上げとなる。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "企業のハードウェア調達コストに直結するため情シスの購買計画に影響を及ぼすが業界全体への即時危機度は中程度。",
+    "published_at": "2026-05-28 19:17:00",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「答弁原案も作成」 政府職員10万人が生成AI「源内」利用可能に デジタル庁が大規模実証開始",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news136.html",
+    "summary": "デジタル庁が政府職員向け生成AI「源内」の大規模実証を開始。まず約10万人が利用可能となり、全府省庁への展開を見据える。省庁業務にAIが深く関与する初期的大規模導入事例。",
+    "importance": 5,
+    "category": "法規制",
+    "reason": "政府全体へのAI導入で公的意思決定や責任問題、運用ガバナンスに直結するため重大性が高い。",
+    "published_at": "2026-05-28 18:20:00",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "“AIの身元”確かめる認証基盤 みずほFGとNECが共同実証、AIエージェントが銀行を使う時代見据え",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news124.html",
+    "summary": "みずほFGとNECが、AIエージェントの代理権や正当性を暗号技術で証明する認証基盤「KYA」の実証を開始。銀行業務でAIエージェントが本人代理で振る舞う将来を見据えた取り組み。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "金融分野でのAI代理利用に伴う認証・不正利用リスクを直接扱う技術で、業界影響が大きい。",
+    "published_at": "2026-05-28 16:00:00",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
+    "source": "＠IT",
+    "title": "「侵入から横展開まで30分」がもはや標準 AIで高速化する攻撃、防御は間に合うのか？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news068.html",
+    "summary": "ESETがAIを活用する脅威アクターにより、初期侵入から横展開までの時間が平均30分に短縮されたと警告。攻撃の高速化と防御側の課題を分析する。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AIにより攻撃のスピードと自動化が進んでおり、検知・対処体制の見直しを迫る重要な警告記事。",
+    "published_at": "2026-05-28 13:00:00",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
+    "source": "＠IT",
+    "title": "複数リポジトリでエージェントを並行実行 「VS Code 1.115」が変える開発体験",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news067.html",
+    "summary": "MicrosoftがVS Code 1.115を公開。エージェントネイティブ開発向けの「VS Code Agents」をプレビュー導入し、複数リポジトリでのエージェント並行実行をサポートする。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "主要エディタがエージェントネイティブ機能を取り込むことは開発体験の変化を加速させるため重要。",
+    "published_at": "2026-05-28 13:00:00",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "セールスフォース、AI時代に向けた“ヘッドレス化”構想 全機能をブラウザ不要に",
+    "url": "https://www.watch.impress.co.jp/docs/news/2112184.html",
+    "summary": "Salesforceが「Salesforce Headless 360」を発表。画面依存を解消し、API／CLI／MCP経由で全機能を利用可能にすることで、AI・自動化時代の利用形態に対応する狙い。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "主要CRMベンダーのアーキテクチャ戦略変更は企業システムの設計や導入方針に影響を与える。",
+    "published_at": "2026-05-28 08:00:00",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
+    "source": "＠IT",
+    "title": "7-Zipにヒープ破壊を引き起こす深刻な脆弱性 急ぎ対処を",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news045.html",
+    "summary": "GitHub Security Labが7-Zip 26.00のヒープバッファオーバーフロー（CVE-2026-48095）を公表。任意コード実行やクラッシュに繋がる重大脆弱性が報告された。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "広く使われる圧縮ツールのリモート実行に繋がる脆弱性で、迅速な対処が必要なインシデント性が高い。",
+    "published_at": "2026-05-28 07:30:00",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
+    "source": "＠IT",
+    "title": "GitHubの大規模障害で“開発現場停止” ここから得られる教訓とは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news041.html",
+    "summary": "GitHubの認証障害により世界中の開発現場が停止した事例を分析。CI/CDや自動脆弱性検査の停止が連鎖し、開発基盤の単一依存リスクが浮き彫りになった。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発プラットフォーム障害から得る運用・冗長化の教訓は多くの開発組織に直接役立つ。",
+    "published_at": "2026-05-28 07:00:00",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
+    "source": "Publickey",
+    "title": "AWS、インストール不要でWebブラウザから使えるコーディングAIエージェント「Kiro Web」発表",
+    "url": "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+    "summary": "AWSがブラウザだけで使えるコーディングAIエージェント「Kiro Web」をプレビュー公開。インストール不要で利用でき、クラウド開発フローに組み込みやすい提供形態が特徴。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "AWSの開発ツールにAIエージェントが加わることで、開発現場のワークフロー変化とクラウド依存の促進が見込まれる。",
+    "published_at": "2026-05-28 00:56:26",
+    "created_at": "2026-05-29 07:17:22"
+  },
+  {
     "source": "CNET Japan",
     "title": "個人データの販売拒否は至難の業？人気サイトの「ダークパターン」を報告書が指摘",
     "url": "https://japan.cnet.com/article/35248088/",
