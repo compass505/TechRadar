@@ -1,5 +1,126 @@
 [
   {
+    "source": "＠IT",
+    "title": "甘過ぎた“経営陣のAIリスク認識” 8割は「AI利用を可視化」と回答、なのに未承認AIが拡大",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news143.html",
+    "summary": "Okta Japan調査で経営陣と現場のAI利用認識ギャップが明らかに。未承認ツールの利用拡大やガバナンス不備が浮上している。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "AIガバナンスの実態を示すデータは情シスや経営判断に直接役立つため選定。",
+    "published_at": "2026-05-29 22:30:00",
+    "created_at": "2026-05-30 06:30:27"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始 「2」は動画からの画像生成もサポート",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
+    "summary": "GoogleのGemini派生モデル「Nano Banana 2」「Nano Banana Pro」が一般提供開始。Nano Banana 2は動画入力からの画像生成プレビューを公開。マルチモーダル開発や生成メディアに影響。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "Googleのマルチモーダルモデルの一般提供は開発者・プロダクト戦略に直結する重要リリース。",
+    "published_at": "2026-05-29 20:30:00",
+    "created_at": "2026-05-30 06:30:27"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "日本政府と主要金融機関、OpenAI新モデルのアクセス権を取得 サイバー対策強化へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/29/news144.html",
+    "summary": "日本政府と主要金融機関がOpenAIの新型AIへのアクセス権を取得。高性能AIを防御側に活用し、金融のサイバー対策を強化する狙い。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "国家・金融機関レベルでのAI利用によるサイバー防衛強化はリスクと政策面で重大な示唆を持つ。",
+    "published_at": "2026-05-29 19:14:00",
+    "created_at": "2026-05-30 06:30:27"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft、事前共有なしのゼロデイ脆弱性公表を批判 バグハンターと対立",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/29/news123.html",
+    "summary": "Microsoftが事前共有なしのゼロデイ公表を公式に批判。協調的脆弱性開示（CVD）の重要性を改めて強調し、研究者との対立が浮上。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "脆弱性公開の運用ルールを巡る企業と研究者の対立はセキュリティ運用や開示方針に影響するため注目。",
+    "published_at": "2026-05-29 17:55:00",
+    "created_at": "2026-05-30 06:30:27"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "JR西日本は“熟練者が手書きするしかなかった車両作業計画”をAIでどう自動化するのか？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news103.html",
+    "summary": "JR西日本が熟練者手書きだった車両基地作業計画をAIで自動作成するシステムを開発中。運用効率化と熟練知識の形式化が狙い。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "現場業務のAI自動化事例として参考になるが対象範囲は限定的なため評価は控えめ。",
+    "published_at": "2026-05-29 17:00:00",
+    "created_at": "2026-05-30 06:30:27"
+  },
+  {
+    "source": "＠IT",
+    "title": "LLMを「危ないプロンプト」から守る“総務省お墨付き”の具体策とは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news066.html",
+    "summary": "総務省が生成AIを狙う代表的攻撃（プロンプトインジェクション等）と具体的対策例をまとめたガイドラインを公開。実装面での推奨策を整理。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "国のガイドラインは企業のAI導入・運用ルールに直接影響するため、実務者は必読。",
+    "published_at": "2026-05-29 13:00:00",
+    "created_at": "2026-05-30 06:30:27"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "クラウド依存、コストの課題を解消？ MicrosoftのローカルAI基盤「Foundry Local」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news075.html",
+    "summary": "Microsoftが端末上でAI処理を完結させるローカルAI基盤「Foundry Local」を一般提供。クラウド依存、遅延、トークン課金の課題を軽減する狙い。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "企業のAI実装アーキテクチャやコスト設計に直結するプラットフォームの商用化動向。",
+    "published_at": "2026-05-29 11:30:00",
+    "created_at": "2026-05-30 06:30:27"
+  },
+  {
+    "source": "＠IT",
+    "title": "無料で使える“ゼロCVE”支援のコンテナイメージ群、Red Hatが提供 不要ソフトを極力排除",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news043.html",
+    "summary": "Red Hatが既知脆弱性を極力含まない“ゼロCVE”志向のコンテナイメージ「Red Hat Hardened Images」を提供開始。セキュリティ強化を支援。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "コンテナセキュリティの改善は開発・運用現場でのリスク低減に直結する実務的ニュース。",
+    "published_at": "2026-05-29 08:00:00",
+    "created_at": "2026-05-30 06:30:27"
+  },
+  {
+    "source": "＠IT",
+    "title": "Windowsカーネルの脆弱性を悪用するPoC公開 Chromeなどブラウザの隔離機能も突破",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news069.html",
+    "summary": "Windowsカーネルの脆弱性を悪用するPoCが公開され、ブラウザの隔離機能を突破してSYSTEM権限に迫る手法が示された。現実的な悪用シナリオが高まる懸念。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "実証コードの公開で即時の悪用リスクが高く、企業の緊急対策が必要となる重大事案。",
+    "published_at": "2026-05-29 07:30:00",
+    "created_at": "2026-05-30 06:30:27"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、650億ドル調達──評価額は3カ月で2.5倍の9650億ドルとなりOpenAIを上回る",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/29/news080.html",
+    "summary": "AnthropicがシリーズHで650億ドルを調達し、評価額が9650億ドルに。資金力強化と最新モデル投入でAI競争の勢力図に影響を与える可能性。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "AI業界の資本構造と競争力に大きなインパクトを与える大型調達で、企業戦略として必読。",
+    "published_at": "2026-05-29 07:14:00",
+    "created_at": "2026-05-30 06:30:27"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "デジタル庁、AI「源内」向け国産LLM再公募 有償の政府調達へ 評価テストは50問→300問に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000036/",
+    "summary": "デジタル庁が国産LLM「源内」向け公募を再実施し、次回は有償調達へ移行。評価テストは大幅に増強され、調達要件が厳格化。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "政府の国産LLM調達方針の変更は国内ベンダー戦略と市場形成に直結する重要事項。",
+    "published_at": "2026-05-29 02:54:00",
+    "created_at": "2026-05-30 06:30:27"
+  },
+  {
     "source": "Impress Watch",
     "title": "EU、Temuに370億円の罰金 製品の安全リスク評価に問題",
     "url": "https://www.watch.impress.co.jp/docs/news/2112718.html",
