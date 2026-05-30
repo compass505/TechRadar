@@ -1,5 +1,60 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "「作れば売れる」時代の終わり――岐路に立たされるアニメ業界、決算が映す各社の“明暗”を分けたもの",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/29/news101.html",
+    "summary": "アニメ関連企業の決算から業績格差が浮き彫りに。市場は拡大する一方で制作会社の債務超過や出版事業の悪化など構造的な課題が顕在化している。",
+    "importance": 2,
+    "category": "ビジネス",
+    "reason": "IT/メディア関連のビジネス動向として業界構造や配信ビジネスの潮目変化が経営判断に役立つため。",
+    "published_at": "2026-05-30 10:00:00",
+    "created_at": "2026-05-31 04:52:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "映像に「いつ・誰が・どう編集したか」を刻む技術、NHK技研が開発 来歴情報で“AIフェイク”も判別可能",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/30/news025.html",
+    "summary": "NHK技研がC2PA準拠の来歴情報技術を公開し、撮影から配信までの履歴を記録・検証できる仕組みを展示。放送局と視聴者がコンテンツの信頼性を確認可能にする。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AI生成コンテンツ対策としてメディア信頼性に直結する技術で、放送・プラットフォーム運用に影響するため。",
+    "published_at": "2026-05-30 09:00:00",
+    "created_at": "2026-05-31 04:52:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放 デュアルユースリスクに懸念も",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
+    "summary": "OpenAIが生命科学向けの推論モデルGPT-Rosalindを、防疫・バイオディフェンス目的で審査済み開発者や政府機関に無償提供するプログラムを発表。生物脅威検知が目的だがデュアルユース（悪用）リスクが指摘されている。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "生命科学モデルの限定供給だがデュアルユースの安全リスクが高く、政策・セキュリティ面で重大な影響を及ぼすため。",
+    "published_at": "2026-05-30 06:48:00",
+    "created_at": "2026-05-31 04:52:37"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Blue Originのロケット「ニューグレン」が大爆発 ベゾス氏「非常に厳しい一日」",
+    "url": "https://japan.cnet.com/article/35248239/",
+    "summary": "Blue Originの大型ロケットNew Glennが地上燃焼試験中に爆発炎上。試験はフロリダで実施され、CEOジェフ・ベゾスが影響を示唆した。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "民間宇宙開発の主要企業による重大事故で投資・供給網・商業打ち上げ計画へ短中期的な影響が出る可能性があるため。",
+    "published_at": "2026-05-30 05:47:00",
+    "created_at": "2026-05-31 04:52:37"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "OpenAI、金融機関に「GPT-5.5-Cyber」提供 「日本サイバーアクションプラン」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2113108.html",
+    "summary": "OpenAIが日本でのサイバーセキュリティ協力を強化する計画を発表。金融機関向けにサイバー対策特化モデルGPT-5.5-Cyberを提供し、AISIとの連携も進める。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "重要インフラである金融セクターへのAI導入とサイバー協力は国・企業レベルの安全運用や規制に影響するため。",
+    "published_at": "2026-05-30 00:01:00",
+    "created_at": "2026-05-31 04:52:37"
+  },
+  {
     "source": "＠IT",
     "title": "甘過ぎた“経営陣のAIリスク認識” 8割は「AI利用を可視化」と回答、なのに未承認AIが拡大",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news143.html",
@@ -767,17 +822,6 @@
     "category": "セキュリティ",
     "reason": "ローカル検証用のキーワード判定で選定",
     "published_at": "2026-05-23 19:57:58",
-    "created_at": "2026-05-24 21:13:52"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "ついに日本上陸したMeta AIグラスの期待と課題",
-    "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2110732.html",
-    "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "ローカル検証用のキーワード判定で選定",
-    "published_at": "2026-05-23 09:00:00",
     "created_at": "2026-05-24 21:13:52"
   },
   {

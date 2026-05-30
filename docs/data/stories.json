@@ -56,33 +56,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "c30458021bdd",
-    "title": "ついに日本上陸したMeta AIグラスの期待と課題",
-    "published_date": "2026-05-23",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
-    "reason": "ローカル検証用のキーワード判定で選定",
-    "published_at": "2026-05-23 09:00:00",
-    "created_at": "2026-05-24 21:13:52",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2110732.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "92cfad3a8e60",
     "title": "ミトス級モデルの公開は「強力な安全対策後」 アンソロピックが成果説明",
     "published_date": "2026-05-23",
@@ -2051,5 +2024,148 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
+  },
+  {
+    "id": "4692605834b8",
+    "title": "Blue Originのロケット「ニューグレン」が大爆発 ベゾス氏「非常に厳しい一日」",
+    "published_date": "2026-05-30",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "Blue Originの大型ロケットNew Glennが地上燃焼試験中に爆発炎上。試験はフロリダで実施され、CEOジェフ・ベゾスが影響を示唆した。",
+    "reason": "民間宇宙開発の主要企業による重大事故で投資・供給網・商業打ち上げ計画へ短中期的な影響が出る可能性があるため。",
+    "published_at": "2026-05-30 05:47:00",
+    "created_at": "2026-05-31 04:52:37",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35248239/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d24c91819392",
+    "title": "OpenAI、金融機関に「GPT-5.5-Cyber」提供 「日本サイバーアクションプラン」",
+    "published_date": "2026-05-30",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "OpenAIが日本でのサイバーセキュリティ協力を強化する計画を発表。金融機関向けにサイバー対策特化モデルGPT-5.5-Cyberを提供し、AISIとの連携も進める。",
+    "reason": "重要インフラである金融セクターへのAI導入とサイバー協力は国・企業レベルの安全運用や規制に影響するため。",
+    "published_at": "2026-05-30 00:01:00",
+    "created_at": "2026-05-31 04:52:37",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2113108.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "46273746c815",
+    "title": "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放 デュアルユースリスクに懸念も",
+    "published_date": "2026-05-30",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "OpenAIが生命科学向けの推論モデルGPT-Rosalindを、防疫・バイオディフェンス目的で審査済み開発者や政府機関に無償提供するプログラムを発表。生物脅威検知が目的だがデュアルユース（悪用）リスクが指摘されている。",
+    "reason": "生命科学モデルの限定供給だがデュアルユースの安全リスクが高く、政策・セキュリティ面で重大な影響を及ぼすため。",
+    "published_at": "2026-05-30 06:48:00",
+    "created_at": "2026-05-31 04:52:37",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0cb7ef6908db",
+    "title": "「作れば売れる」時代の終わり――岐路に立たされるアニメ業界、決算が映す各社の“明暗”を分けたもの",
+    "published_date": "2026-05-30",
+    "importance_score": 2,
+    "category": "ビジネス",
+    "summary": "アニメ関連企業の決算から業績格差が浮き彫りに。市場は拡大する一方で制作会社の債務超過や出版事業の悪化など構造的な課題が顕在化している。",
+    "reason": "IT/メディア関連のビジネス動向として業界構造や配信ビジネスの潮目変化が経営判断に役立つため。",
+    "published_at": "2026-05-30 10:00:00",
+    "created_at": "2026-05-31 04:52:37",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/29/news101.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f18a7ab37e6c",
+    "title": "映像に「いつ・誰が・どう編集したか」を刻む技術、NHK技研が開発 来歴情報で“AIフェイク”も判別可能",
+    "published_date": "2026-05-30",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "NHK技研がC2PA準拠の来歴情報技術を公開し、撮影から配信までの履歴を記録・検証できる仕組みを展示。放送局と視聴者がコンテンツの信頼性を確認可能にする。",
+    "reason": "AI生成コンテンツ対策としてメディア信頼性に直結する技術で、放送・プラットフォーム運用に影響するため。",
+    "published_at": "2026-05-30 09:00:00",
+    "created_at": "2026-05-31 04:52:37",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/30/news025.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
   }
 ]
