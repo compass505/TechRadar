@@ -1,6 +1,50 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "ソフトバンクG、フランスで最大750億ユーロ（約14兆円）投資 5GWのAIデータセンター整備へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/31/news022.html",
+    "summary": "ソフトバンクグループがフランスでAI向けデータセンター5GW分を整備するため、最大750億ユーロを投資。第1フェーズで2031年までに3.1GWを提供し数千人規模の雇用を想定。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "欧州での大規模AIインフラ投資は市場構造やクラウド/SI事業者に影響し、事業戦略・規制面でも重要度が高いため。",
+    "published_at": "2026-05-31 10:31:00",
+    "created_at": "2026-06-01 04:52:36"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "薄くてモバイルバッテリーでも動いてスマホ操作もできて秋には小さく収納できる「扇風機」を見てきた",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/31/news021.html",
+    "summary": "Mijiaの「スマート扇風機 Pro Slim」を展示レビュー。薄型でモバイルバッテリー駆動、付属ケースで収納性が高い点を紹介する実機レポート。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "消費者向けの新製品レビューで掲載価値はあるが技術的・業界的影響は限定的なため低評価。",
+    "published_at": "2026-05-31 08:14:00",
+    "created_at": "2026-06-01 04:52:36"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "日立はAnthropicと組んで何を狙うのか 従業員29万人へのClaude導入で目指す姿",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
+    "summary": "日立がAnthropicと提携し、従業員29万人規模でClaude導入を進める戦略を解説。ミッションクリティカル領域でのAI活用やガバナンスの狙いに焦点。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "大手企業による大規模AI導入は企業ITの実務、ガバナンス、ベンダー戦略に直結するため有用な事例報告。",
+    "published_at": "2026-05-31 08:00:00",
+    "created_at": "2026-06-01 04:52:36"
+  },
+  {
+    "source": "＠IT",
+    "title": "「開発者はおいしい脆弱性になった」 AIコーディング、採用、OSS、CI/CD“4つの包囲網”と生存戦略",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/31/news005.html",
+    "summary": "AIコーディングやエージェント、OSS利用、CI/CD自動化の普及で開発者が攻撃者の狙い目になっている点を指摘。組織が取るべき防御策や権限管理の在り方を論じる。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "開発プロセスとツールの変化が直接的に組織の攻撃面を拡大しており、情シス・開発・セキュリティの対応が急務なため。",
+    "published_at": "2026-05-31 08:00:00",
+    "created_at": "2026-06-01 04:52:36"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "「作れば売れる」時代の終わり――岐路に立たされるアニメ業界、決算が映す各社の“明暗”を分けたもの",
     "url": "https://www.itmedia.co.jp/news/articles/2605/29/news101.html",
     "summary": "アニメ関連企業の決算から業績格差が浮き彫りに。市場は拡大する一方で制作会社の債務超過や出版事業の悪化など構造的な課題が顕在化している。",
