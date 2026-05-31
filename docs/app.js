@@ -84,8 +84,13 @@ const SEARCH_IMPORTANCE_OPTIONS = [
   ["1", "1以上"],
 ];
 
+const ARCHIVE_SORT_OPTIONS = [
+  ["importance", "重要度順"],
+  ["date", "新しい順"],
+];
+
 const DISPLAY_FACET_PRIORITY = ["security", "ai", "development", "cloud", "enterprise_it"];
-const DATA_CACHE_VERSION = "news-20260531-7";
+const DATA_CACHE_VERSION = "news-20260601-1";
 const USER_STORAGE_VERSION = "news-20260525-6";
 const FAVORITES_RESET_KEY = "favorites-reset-version";
 const USER_EVENTS_KEY = "techradar-user-events";
@@ -147,6 +152,7 @@ const state = {
   personalizedTab: "unrated",
   yesterdayTab: "all",
   archiveTab: "all",
+  archiveSort: "importance",
   openMenu: "",
   mobileMenuOpen: false,
   searchQuery: "",
@@ -458,6 +464,10 @@ function applyEditionDateBounds(input) {
 }
 
 function activeEditionDateForInput() {
+  return getActiveEditionDate();
+}
+
+function getActiveEditionDate() {
   return state.selectedEditionDate === "all" ? state.manifest.default_edition_date : state.selectedEditionDate;
 }
 
@@ -782,14 +792,15 @@ function renderTop() {
 }
 
 function renderYesterday() {
-  setHeader("昨日のニュース", `${yesterdayTabLabel()} / ${selectedEditionContextLabel()}`, "Yesterday");
+  const targetDate = getYesterdayTargetDate();
+  setHeader("昨日のニュース", `${yesterdayTabLabel()} / ${targetDate} 分`, "Yesterday");
   pageContent.innerHTML = "";
   pageContent.append(renderYesterdayTabs());
   pageContent.append(
     renderSection(
       yesterdayTabLabel(),
       getYesterdayStories(),
-      state.yesterdayTab === "all" ? "前日分すべて" : "前日分",
+      state.yesterdayTab === "all" ? `${targetDate} のニュースすべて` : `${targetDate} のニュース`,
     ),
   );
 }
@@ -812,13 +823,15 @@ function renderYesterdayTabs() {
 }
 
 function getYesterdayStories() {
-  const stories =
-    state.selectedEditionDate === "all"
-      ? state.stories
-      : state.stories.filter((story) => story.published_date === previousDate(state.selectedEditionDate));
+  const targetDate = getYesterdayTargetDate();
+  const stories = state.stories.filter((story) => story.published_date === targetDate);
   return sortStories(
     stories.filter((story) => state.yesterdayTab === "all" || storyFacets(story).includes(state.yesterdayTab)),
   );
+}
+
+function getYesterdayTargetDate() {
+  return previousDate(getActiveEditionDate());
 }
 
 function previousDate(editionDate) {
@@ -828,8 +841,22 @@ function previousDate(editionDate) {
   return date.toISOString().slice(0, 10);
 }
 
-function sortStories(stories) {
+function sortStories(stories, primary = "importance") {
   return stories.slice().sort((left, right) => {
+    if (primary === "date") {
+      const dateDiff = String(right.published_at || right.published_date).localeCompare(
+        String(left.published_at || left.published_date),
+      );
+      if (dateDiff) {
+        return dateDiff;
+      }
+      const scoreDiff = Number(right.importance_score) - Number(left.importance_score);
+      if (scoreDiff) {
+        return scoreDiff;
+      }
+      return Number(right.source_count) - Number(left.source_count);
+    }
+
     const scoreDiff = Number(right.importance_score) - Number(left.importance_score);
     if (scoreDiff) {
       return scoreDiff;
@@ -1390,7 +1417,7 @@ function toggleFavorite(storyId) {
 }
 
 function renderArchive() {
-  setHeader("過去ニュース", `${archiveTabLabel()} / ${selectedEditionContextLabel()}`, "Archive");
+  setHeader("過去ニュース", `${archiveTabLabel()} / ${selectedEditionContextLabel()} / ${archiveSortLabel()}`, "Archive");
   pageContent.innerHTML = "";
   pageContent.append(
     renderTabRow(
@@ -1408,11 +1435,30 @@ function renderArchive() {
       },
     ),
   );
+  pageContent.append(renderArchiveSortControls());
 
   const stories = sortStories(
     getScopedStories().filter((story) => state.archiveTab === "all" || storyFacets(story).includes(state.archiveTab)),
+    state.archiveSort,
   );
-  pageContent.append(renderSection("ニュース一覧", stories, `${stories.length}件`));
+  pageContent.append(renderSection("ニュース一覧", stories, `${stories.length}件 / ${archiveSortLabel()}`));
+}
+
+function renderArchiveSortControls() {
+  const toolbar = document.createElement("div");
+  toolbar.className = "archive-toolbar";
+
+  const label = document.createElement("span");
+  label.textContent = "並び替え";
+
+  const controls = renderTabRow(ARCHIVE_SORT_OPTIONS, state.archiveSort, (key) => {
+    state.archiveSort = key;
+    renderArchive();
+  });
+  controls.classList.add("compact-tabs");
+
+  toolbar.append(label, controls);
+  return toolbar;
 }
 
 function renderTabRow(tabs, activeKey, onSelect) {
@@ -1436,6 +1482,13 @@ function archiveTabLabel() {
     enterprise_it: "企業ITニュース",
     development: "開発ニュース",
   }[state.archiveTab];
+}
+
+function archiveSortLabel() {
+  return {
+    importance: "重要度順",
+    date: "新しい順",
+  }[state.archiveSort];
 }
 
 function renderSearch() {
