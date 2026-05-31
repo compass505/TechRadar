@@ -1097,7 +1097,7 @@ function recordUserSignal(story, eventType, position, options = {}) {
   return true;
 }
 
-function resetStoryDecision(story) {
+function switchStoryDecision(story, nextEventType) {
   const decision = getDecisionMap().get(story.id);
   if (!decision) {
     state.personalizedTab = "unrated";
@@ -1108,7 +1108,8 @@ function resetStoryDecision(story) {
   pushUserEvent(story, "undo", 0, decision.position || 1, {
     target_event_id: decision.id,
   });
-  state.personalizedTab = "unrated";
+  pushUserEvent(story, nextEventType, nextEventType === "swipe_left" ? -1 : 1, decision.position || 1);
+  state.personalizedTab = nextEventType === "swipe_right" ? "liked" : "rejected";
   renderPage();
   return true;
 }
@@ -1358,6 +1359,7 @@ function representativeFacetLabel(story) {
 function renderDecisionState(story, decisionType) {
   const wrapper = document.createElement("div");
   wrapper.className = "decision-row";
+  const nextEventType = decisionType === "swipe_right" ? "swipe_left" : "swipe_right";
 
   const badge = document.createElement("span");
   badge.className = decisionType === "swipe_right" ? "decision-state liked" : "decision-state rejected";
@@ -1366,8 +1368,8 @@ function renderDecisionState(story, decisionType) {
   const reset = document.createElement("button");
   reset.type = "button";
   reset.className = "reevaluate-button";
-  reset.textContent = "再評価する";
-  reset.addEventListener("click", () => resetStoryDecision(story));
+  reset.textContent = nextEventType === "swipe_right" ? "気になるへ変更" : "興味なしへ変更";
+  reset.addEventListener("click", () => switchStoryDecision(story, nextEventType));
 
   wrapper.append(badge, reset);
   return wrapper;
