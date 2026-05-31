@@ -3,7 +3,10 @@ const NAV_ITEMS = [
   {
     key: "yesterday",
     label: "昨日のニュース",
+    route: "yesterday",
+    yesterdayTab: "all",
     dropdown: [
+      { label: "すべて", route: "yesterday", yesterdayTab: "all" },
       { label: "AIニュース", route: "yesterday", yesterdayTab: "ai" },
       { label: "企業ITニュース", route: "yesterday", yesterdayTab: "enterprise_it" },
       { label: "開発ニュース", route: "yesterday", yesterdayTab: "development" },
@@ -13,7 +16,10 @@ const NAV_ITEMS = [
   {
     key: "archive",
     label: "過去ニュース",
+    route: "archive",
+    archiveTab: "all",
     dropdown: [
+      { label: "すべて", route: "archive", archiveTab: "all" },
       { label: "AIニュース", route: "archive", archiveTab: "ai" },
       { label: "企業ITニュース", route: "archive", archiveTab: "enterprise_it" },
       { label: "開発ニュース", route: "archive", archiveTab: "development" },
@@ -79,7 +85,8 @@ const SEARCH_IMPORTANCE_OPTIONS = [
 ];
 
 const DISPLAY_FACET_PRIORITY = ["security", "ai", "development", "cloud", "enterprise_it"];
-const DATA_VERSION = "news-20260525-6";
+const DATA_CACHE_VERSION = "news-20260531-7";
+const USER_STORAGE_VERSION = "news-20260525-6";
 const FAVORITES_RESET_KEY = "favorites-reset-version";
 const USER_EVENTS_KEY = "techradar-user-events";
 const USER_EVENTS_RESET_KEY = "techradar-user-events-version";
@@ -95,9 +102,9 @@ const PARAMETER_RANGES = {
 };
 
 function loadFavorites() {
-  if (localStorage.getItem(FAVORITES_RESET_KEY) !== DATA_VERSION) {
+  if (localStorage.getItem(FAVORITES_RESET_KEY) !== USER_STORAGE_VERSION) {
     localStorage.setItem("favorites", "[]");
-    localStorage.setItem(FAVORITES_RESET_KEY, DATA_VERSION);
+    localStorage.setItem(FAVORITES_RESET_KEY, USER_STORAGE_VERSION);
     return new Set();
   }
 
@@ -110,9 +117,9 @@ function loadFavorites() {
 }
 
 function loadUserEvents() {
-  if (localStorage.getItem(USER_EVENTS_RESET_KEY) !== DATA_VERSION) {
+  if (localStorage.getItem(USER_EVENTS_RESET_KEY) !== USER_STORAGE_VERSION) {
     localStorage.setItem(USER_EVENTS_KEY, "[]");
-    localStorage.setItem(USER_EVENTS_RESET_KEY, DATA_VERSION);
+    localStorage.setItem(USER_EVENTS_RESET_KEY, USER_STORAGE_VERSION);
     return [];
   }
 
@@ -127,7 +134,7 @@ function loadUserEvents() {
 
 function saveUserEvents() {
   localStorage.setItem(USER_EVENTS_KEY, JSON.stringify(state.userEvents));
-  localStorage.setItem(USER_EVENTS_RESET_KEY, DATA_VERSION);
+  localStorage.setItem(USER_EVENTS_RESET_KEY, USER_STORAGE_VERSION);
 }
 
 const state = {
@@ -135,6 +142,7 @@ const state = {
   storiesById: new Map(),
   manifest: null,
   edition: null,
+  selectedEditionDate: "all",
   route: "personalized",
   personalizedTab: "unrated",
   yesterdayTab: "all",
@@ -156,7 +164,8 @@ const state = {
 const brandHome = document.querySelector("#brand-home");
 const nav = document.querySelector("#primary-nav");
 const headerDropdown = document.querySelector("#header-dropdown");
-const editionSelect = document.querySelector("#edition-select");
+const editionAll = document.querySelector("#edition-all");
+const editionDate = document.querySelector("#edition-date");
 const mobileSearch = document.querySelector("#mobile-search");
 const mobileFavorites = document.querySelector("#mobile-favorites");
 const mobileMenuToggle = document.querySelector("#mobile-menu-toggle");
@@ -169,7 +178,7 @@ const cardTemplate = document.querySelector("#story-card-template");
 
 function dataUrl(path) {
   const separator = path.includes("?") ? "&" : "?";
-  return `${path}${separator}v=${DATA_VERSION}`;
+  return `${path}${separator}v=${DATA_CACHE_VERSION}`;
 }
 
 async function boot() {
@@ -202,7 +211,7 @@ async function boot() {
 
   renderNav();
   renderEditionPicker();
-  await loadEdition(manifest.default_edition_date);
+  await loadEdition("all");
 }
 
 function navigateTo(route, options = {}) {
@@ -230,9 +239,19 @@ function renderNav() {
 
     button.addEventListener("click", () => {
       if (item.dropdown) {
+        if (item.yesterdayTab) {
+          state.yesterdayTab = item.yesterdayTab;
+        }
+        if (item.archiveTab) {
+          state.archiveTab = item.archiveTab;
+        }
+        if (item.route) {
+          state.route = item.route;
+        }
         state.openMenu = state.openMenu === item.key ? "" : item.key;
         state.mobileMenuOpen = false;
         renderNav();
+        renderPage();
         return;
       }
 
@@ -303,28 +322,31 @@ function renderMobileMenu() {
   });
 
   if (state.manifest) {
-    const picker = document.createElement("label");
+    const picker = document.createElement("div");
     picker.className = "mobile-edition-picker";
 
-    const label = document.createElement("span");
-    label.textContent = "表示日";
+    const allButton = document.createElement("button");
+    allButton.type = "button";
+    allButton.textContent = "すべて";
+    allButton.className = state.selectedEditionDate === "all" ? "active" : "";
+    allButton.addEventListener("click", async () => {
+      await loadEdition("all");
+    });
 
-    const select = document.createElement("select");
-    state.manifest.editions
-      .slice()
-      .reverse()
-      .forEach((edition) => {
-        const option = document.createElement("option");
-        option.value = edition.date;
-        option.textContent = edition.date;
-        select.append(option);
-      });
-    select.value = state.edition?.edition_date || state.manifest.default_edition_date;
-    select.addEventListener("change", async (event) => {
+    const label = document.createElement("label");
+    const labelText = document.createElement("span");
+    labelText.textContent = "表示日";
+
+    const input = document.createElement("input");
+    input.type = "date";
+    applyEditionDateBounds(input);
+    input.value = activeEditionDateForInput();
+    input.addEventListener("change", async (event) => {
       await loadEdition(event.target.value);
     });
 
-    picker.append(label, select);
+    label.append(labelText, input);
+    picker.append(allButton, label);
     mobileMenu.append(picker);
   }
 }
@@ -384,32 +406,64 @@ function mobileEntryIsActive(entry) {
 }
 
 function renderEditionPicker() {
-  editionSelect.innerHTML = "";
-  state.manifest.editions
-    .slice()
-    .reverse()
-    .forEach((edition) => {
-      const option = document.createElement("option");
-      option.value = edition.date;
-      option.textContent = edition.date;
-      editionSelect.append(option);
-    });
-
-  editionSelect.value = state.manifest.default_edition_date;
-  editionSelect.addEventListener("change", async (event) => {
+  applyEditionDateBounds(editionDate);
+  editionAll.addEventListener("click", async () => {
+    await loadEdition("all");
+  });
+  editionDate.addEventListener("change", async (event) => {
     await loadEdition(event.target.value);
   });
+  syncEditionPicker();
 }
 
 async function loadEdition(editionDate) {
+  if (!editionDate) {
+    await loadEdition("all");
+    return;
+  }
+
+  if (editionDate === "all") {
+    const fallback = state.edition || (await fetchEditionData(state.manifest.default_edition_date));
+    state.edition = fallback;
+    state.selectedEditionDate = "all";
+    syncEditionPicker();
+    renderNav();
+    renderPage();
+    return;
+  }
+
   const target = state.manifest.editions.find((edition) => edition.date === editionDate);
   if (!target) {
     return;
   }
   state.edition = await fetch(dataUrl(target.path)).then((response) => response.json());
-  editionSelect.value = editionDate;
+  state.selectedEditionDate = editionDate;
+  syncEditionPicker();
   renderNav();
   renderPage();
+}
+
+async function fetchEditionData(editionDate) {
+  const target = state.manifest.editions.find((edition) => edition.date === editionDate);
+  if (!target) {
+    return null;
+  }
+  return fetch(dataUrl(target.path)).then((response) => response.json());
+}
+
+function applyEditionDateBounds(input) {
+  const dates = state.manifest.editions.map((edition) => edition.date).sort();
+  input.min = dates[0] || "";
+  input.max = dates[dates.length - 1] || "";
+}
+
+function activeEditionDateForInput() {
+  return state.selectedEditionDate === "all" ? state.manifest.default_edition_date : state.selectedEditionDate;
+}
+
+function syncEditionPicker() {
+  editionDate.value = activeEditionDateForInput();
+  editionAll.classList.toggle("active", state.selectedEditionDate === "all");
 }
 
 function renderPage() {
@@ -463,15 +517,31 @@ function getStories(ids = []) {
   return ids.map((id) => state.storiesById.get(id)).filter(Boolean);
 }
 
+function getScopedStories() {
+  if (state.selectedEditionDate === "all") {
+    return state.stories;
+  }
+  const storyIds = new Set(Object.values(state.edition?.surfaces || {}).flat());
+  return getStories([...storyIds]);
+}
+
+function selectedEditionLabel() {
+  return state.selectedEditionDate === "all" ? "すべて" : `${state.selectedEditionDate} 版`;
+}
+
+function selectedEditionContextLabel() {
+  return state.selectedEditionDate === "all" ? "全期間" : `${state.selectedEditionDate} 版`;
+}
+
 function renderPersonalized() {
   const model = buildUserModel();
   const decisionMap = getDecisionMap();
-  const recommendations = rankPersonalizedStories(state.stories, model);
+  const recommendations = rankPersonalizedStories(getScopedStories(), model);
   const unratedRecommendations = recommendations.filter(({ story }) => !decisionMap.has(story.id));
   registerImpressions(unratedRecommendations.slice(0, 8));
   setHeader(
     "おすすめ",
-    `${state.edition.edition_date} 版 / 未評価ニュースを評価して学習`,
+    `${selectedEditionLabel()} / 未評価ニュースを評価して学習`,
     "Personalized",
   );
 
@@ -581,10 +651,14 @@ function renderSwipePanel(recommendations) {
   }
 
   const { story, score } = next;
+  const swipeImportance = normalizeImportanceScore(story.importance_score);
   panel.innerHTML = `
     <div class="swipe-card" data-swipe-story="${story.id}">
       <div class="swipe-card-top">
-        <span>${story.category || representativeFacetLabel(story) || "News"}</span>
+        <div class="swipe-badges">
+          <span>${story.category || representativeFacetLabel(story) || "News"}</span>
+          <span class="importance-score-${swipeImportance}">重要度 ${swipeImportance}</span>
+        </div>
         <strong>${score.final.toFixed(2)}</strong>
       </div>
       <h2>${story.title}</h2>
@@ -611,7 +685,7 @@ function renderPersonalizedList(recommendations) {
 
   const header = document.createElement("div");
   header.className = "section-header";
-  header.innerHTML = "<h2>未評価ニュース</h2><span>PCではボタンで評価、スマホでは上のカードを左右スワイプ</span>";
+  header.innerHTML = `<h2>未評価ニュース</h2><span>${recommendations.length}件</span>`;
   section.append(header);
 
   if (!recommendations.length) {
@@ -688,26 +762,27 @@ function renderEventLog() {
 }
 
 function renderTop() {
-  setHeader("TOP", `${state.edition.edition_date} 版`, "Today");
+  setHeader("TOP", selectedEditionLabel(), "Today");
   pageContent.innerHTML = "";
+  const stories = sortStories(getScopedStories());
   pageContent.append(
     renderSection(
-      "昨日のニュース",
-      getStories(state.edition.surfaces.top_yesterday),
-      "重要度の高い記事",
+      state.selectedEditionDate === "all" ? "ニュース一覧" : "昨日のニュース",
+      state.selectedEditionDate === "all" ? stories : getStories(state.edition.surfaces.top_yesterday),
+      state.selectedEditionDate === "all" ? `${stories.length}件` : "重要度の高い記事",
     ),
   );
   pageContent.append(
     renderSection(
       "直近の重大ニュース",
-      getStories(state.edition.surfaces.recent_important),
-      "昨日を含む直近3日 / 重要度4以上",
+      getImportantStories(),
+      state.selectedEditionDate === "all" ? "全期間 / 重要度4以上" : "昨日を含む直近3日 / 重要度4以上",
     ),
   );
 }
 
 function renderYesterday() {
-  setHeader("昨日のニュース", `${yesterdayTabLabel()} / ${state.edition.edition_date} 版`, "Yesterday");
+  setHeader("昨日のニュース", `${yesterdayTabLabel()} / ${selectedEditionContextLabel()}`, "Yesterday");
   pageContent.innerHTML = "";
   pageContent.append(renderYesterdayTabs());
   pageContent.append(
@@ -737,18 +812,13 @@ function renderYesterdayTabs() {
 }
 
 function getYesterdayStories() {
-  if (state.yesterdayTab === "ai") {
-    return getStories(state.edition.surfaces.yesterday_ai);
-  }
-  if (state.yesterdayTab === "enterprise_it") {
-    return getStories(state.edition.surfaces.yesterday_enterprise_it);
-  }
-  if (state.yesterdayTab === "development") {
-    return getStories(state.edition.surfaces.yesterday_development);
-  }
-
-  const targetDate = previousDate(state.edition.edition_date);
-  return sortStories(state.stories.filter((story) => story.published_date === targetDate));
+  const stories =
+    state.selectedEditionDate === "all"
+      ? state.stories
+      : state.stories.filter((story) => story.published_date === previousDate(state.selectedEditionDate));
+  return sortStories(
+    stories.filter((story) => state.yesterdayTab === "all" || storyFacets(story).includes(state.yesterdayTab)),
+  );
 }
 
 function previousDate(editionDate) {
@@ -1027,7 +1097,23 @@ function recordUserSignal(story, eventType, position, options = {}) {
   return true;
 }
 
-function pushUserEvent(story, eventType, eventValue, position) {
+function resetStoryDecision(story) {
+  const decision = getDecisionMap().get(story.id);
+  if (!decision) {
+    state.personalizedTab = "unrated";
+    renderPage();
+    return false;
+  }
+
+  pushUserEvent(story, "undo", 0, decision.position || 1, {
+    target_event_id: decision.id,
+  });
+  state.personalizedTab = "unrated";
+  renderPage();
+  return true;
+}
+
+function pushUserEvent(story, eventType, eventValue, position, extra = {}) {
   state.userEvents.push({
     id: crypto.randomUUID ? crypto.randomUUID() : `${Date.now()}-${Math.random()}`,
     user_id: USER_ID,
@@ -1037,6 +1123,7 @@ function pushUserEvent(story, eventType, eventValue, position) {
     feed_session_id: FEED_SESSION_ID,
     position,
     created_at: new Date().toISOString(),
+    ...extra,
   });
   saveUserEvents();
 }
@@ -1152,15 +1239,22 @@ function yesterdayTabLabel() {
 }
 
 function renderImportant() {
-  setHeader("直近の重大ニュース", `${state.edition.edition_date} 版`, "Important");
+  setHeader("直近の重大ニュース", selectedEditionLabel(), "Important");
   pageContent.innerHTML = "";
   pageContent.append(
     renderSection(
       "直近の重大ニュース",
-      getStories(state.edition.surfaces.recent_important),
-      "昨日を含む直近3日 / 重要度4以上",
+      getImportantStories(),
+      state.selectedEditionDate === "all" ? "全期間 / 重要度4以上" : "昨日を含む直近3日 / 重要度4以上",
     ),
   );
+}
+
+function getImportantStories() {
+  if (state.selectedEditionDate === "all") {
+    return sortStories(state.stories.filter((story) => normalizeImportanceScore(story.importance_score) >= 4));
+  }
+  return getStories(state.edition.surfaces.recent_important);
 }
 
 function renderSection(title, stories, note) {
@@ -1198,17 +1292,12 @@ function renderStoryCard(story, options = {}) {
   const link = fragment.querySelector(".source-button");
   const footer = fragment.querySelector(".story-footer");
 
-  const importanceScore = normalizeImportanceScore(story.importance_score);
-  const importanceBadge = document.createElement("span");
-  importanceBadge.className = `badge importance-badge importance-score-${importanceScore}`;
-  importanceBadge.textContent = `重要度 ${importanceScore}`;
-  badges.append(importanceBadge);
-
   const sourceBadge = document.createElement("span");
   sourceBadge.className = "badge source-badge";
   sourceBadge.textContent = story.representative_source || "Source";
   badges.append(sourceBadge);
 
+  const importanceScore = normalizeImportanceScore(story.importance_score);
   const categoryLabel = story.category || representativeFacetLabel(story);
   if (categoryLabel) {
     const categoryBadge = document.createElement("span");
@@ -1216,6 +1305,11 @@ function renderStoryCard(story, options = {}) {
     categoryBadge.textContent = categoryLabel;
     badges.append(categoryBadge);
   }
+
+  const importanceBadge = document.createElement("span");
+  importanceBadge.className = `badge importance-badge importance-score-${importanceScore}`;
+  importanceBadge.textContent = `重要度 ${importanceScore}`;
+  badges.append(importanceBadge);
 
   favoriteButton.textContent = state.favorites.has(story.id) ? "★" : "☆";
   favoriteButton.classList.toggle("active", state.favorites.has(story.id));
@@ -1232,7 +1326,7 @@ function renderStoryCard(story, options = {}) {
 
   if (options.decisionType) {
     card.classList.add(options.decisionType === "swipe_right" ? "liked-card" : "rejected-card");
-    card.insertBefore(renderDecisionState(options.decisionType), summary);
+    card.insertBefore(renderDecisionState(story, options.decisionType), summary);
   }
 
   if (options.score) {
@@ -1261,11 +1355,22 @@ function representativeFacetLabel(story) {
   return primaryFacet ? FACET_LABELS[primaryFacet] || primaryFacet : "";
 }
 
-function renderDecisionState(decisionType) {
-  const badge = document.createElement("div");
+function renderDecisionState(story, decisionType) {
+  const wrapper = document.createElement("div");
+  wrapper.className = "decision-row";
+
+  const badge = document.createElement("span");
   badge.className = decisionType === "swipe_right" ? "decision-state liked" : "decision-state rejected";
   badge.textContent = decisionType === "swipe_right" ? "気になるに分類済み" : "興味なしに分類済み";
-  return badge;
+
+  const reset = document.createElement("button");
+  reset.type = "button";
+  reset.className = "reevaluate-button";
+  reset.textContent = "再評価する";
+  reset.addEventListener("click", () => resetStoryDecision(story));
+
+  wrapper.append(badge, reset);
+  return wrapper;
 }
 
 function toggleFavorite(storyId) {
@@ -1283,7 +1388,7 @@ function toggleFavorite(storyId) {
 }
 
 function renderArchive() {
-  setHeader("過去ニュース", `${archiveTabLabel()} / 全保存ニュース`, "Archive");
+  setHeader("過去ニュース", `${archiveTabLabel()} / ${selectedEditionContextLabel()}`, "Archive");
   pageContent.innerHTML = "";
   pageContent.append(
     renderTabRow(
@@ -1302,9 +1407,9 @@ function renderArchive() {
     ),
   );
 
-  const stories = state.stories
-    .filter((story) => state.archiveTab === "all" || story.facets.includes(state.archiveTab))
-    .sort((left, right) => right.published_date.localeCompare(left.published_date));
+  const stories = sortStories(
+    getScopedStories().filter((story) => state.archiveTab === "all" || storyFacets(story).includes(state.archiveTab)),
+  );
   pageContent.append(renderSection("ニュース一覧", stories, `${stories.length}件`));
 }
 

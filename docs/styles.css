@@ -174,7 +174,31 @@ body {
   white-space: nowrap;
 }
 
-.edition-picker select,
+.edition-picker label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.edition-all-button {
+  min-height: 38px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--panel);
+  color: var(--ink);
+  padding: 0 12px;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 800;
+}
+
+.edition-all-button.active {
+  border-color: var(--ink);
+  background: var(--ink);
+  color: #fff;
+}
+
+.edition-picker input,
 .search-input {
   border: 1px solid var(--line);
   border-radius: 10px;
@@ -698,7 +722,14 @@ h1 {
   gap: 12px;
 }
 
-.swipe-card-top span {
+.swipe-badges {
+  min-width: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.swipe-badges span {
   border-radius: 999px;
   padding: 6px 10px;
   background: var(--tag-bg);
@@ -814,6 +845,13 @@ h1 {
   min-height: 390px;
 }
 
+.decision-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
 .decision-state {
   min-height: 38px;
   display: inline-flex;
@@ -833,6 +871,24 @@ h1 {
 .decision-state.rejected {
   background: #fff0ed;
   color: #9f1f2d;
+}
+
+.reevaluate-button {
+  min-height: 30px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--muted);
+  padding: 0 9px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.reevaluate-button:hover {
+  border-color: var(--ink);
+  color: var(--ink);
 }
 
 .event-log-panel {
@@ -970,6 +1026,7 @@ h1 {
 
   .mobile-edition-picker {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
     gap: 12px;
@@ -978,13 +1035,38 @@ h1 {
     font-weight: 800;
   }
 
-  .mobile-edition-picker select {
-    width: min(170px, 52vw);
+  .mobile-edition-picker label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .mobile-edition-picker button {
+    min-height: 38px;
     border: 1px solid var(--line);
     border-radius: 10px;
     background: var(--panel);
-    padding: 9px 11px;
+    color: var(--ink);
+    padding: 0 12px;
+    cursor: pointer;
     font: inherit;
+    font-weight: 800;
+  }
+
+  .mobile-edition-picker button.active {
+    border-color: var(--ink);
+    background: var(--ink);
+    color: #fff;
+  }
+
+  .mobile-edition-picker input {
+    width: min(168px, 48vw);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--panel);
+    padding: 8px 9px;
+    font: inherit;
+    font-size: 13px;
   }
 
   .content {
@@ -1191,7 +1273,7 @@ h1 {
   }
 
   .badges {
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 6px;
   }
 

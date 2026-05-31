@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>TechRadar 505</title>
-    <link rel="stylesheet" href="styles.css?v=personalized-mvp-6" />
+    <link rel="stylesheet" href="styles.css?v=personalized-mvp-7" />
   </head>
   <body>
     <div class="app-shell">
@@ -16,10 +16,13 @@
         <nav id="primary-nav" class="nav" aria-label="主要ナビゲーション"></nav>
 
         <div class="header-tools">
-          <label class="edition-picker">
-            <span>表示日</span>
-            <select id="edition-select"></select>
-          </label>
+          <div class="edition-picker" aria-label="表示日">
+            <button id="edition-all" class="edition-all-button" type="button">すべて</button>
+            <label>
+              <span>表示日</span>
+              <input id="edition-date" type="date" />
+            </label>
+          </div>
         </div>
 
         <div class="mobile-header-actions" aria-label="スマホ操作">
@@ -75,6 +78,6 @@
       </article>
     </template>
 
-    <script type="module" src="app.js?v=personalized-mvp-6"></script>
+    <script type="module" src="app.js?v=personalized-mvp-7"></script>
   </body>
 </html>
