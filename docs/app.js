@@ -1,4 +1,5 @@
 const NAV_ITEMS = [
+  { key: "personalized", label: "おすすめ", route: "personalized" },
   {
     key: "yesterday",
     label: "昨日のニュース",
@@ -23,6 +24,10 @@ const NAV_ITEMS = [
 ];
 
 const MOBILE_MENU_SECTIONS = [
+  {
+    title: "おすすめ",
+    route: "personalized",
+  },
   {
     title: "昨日のニュース",
     entries: [
@@ -74,8 +79,20 @@ const SEARCH_IMPORTANCE_OPTIONS = [
 ];
 
 const DISPLAY_FACET_PRIORITY = ["security", "ai", "development", "cloud", "enterprise_it"];
-const DATA_VERSION = "news-20260525-1";
+const DATA_VERSION = "news-20260525-6";
 const FAVORITES_RESET_KEY = "favorites-reset-version";
+const USER_EVENTS_KEY = "techradar-user-events";
+const USER_EVENTS_RESET_KEY = "techradar-user-events-version";
+const USER_ID = "local-user";
+const FEED_SESSION_ID = crypto.randomUUID ? crypto.randomUUID() : `${Date.now()}-${Math.random()}`;
+const impressionKeys = new Set();
+const PARAMETER_RANGES = {
+  importance: [1.0, 2.0],
+  interest: [0.6, 1.8],
+  popularity: [0.7, 1.5],
+  freshness: [0.5, 1.3],
+  diversity: [0.7, 1.0],
+};
 
 function loadFavorites() {
   if (localStorage.getItem(FAVORITES_RESET_KEY) !== DATA_VERSION) {
@@ -92,12 +109,34 @@ function loadFavorites() {
   }
 }
 
+function loadUserEvents() {
+  if (localStorage.getItem(USER_EVENTS_RESET_KEY) !== DATA_VERSION) {
+    localStorage.setItem(USER_EVENTS_KEY, "[]");
+    localStorage.setItem(USER_EVENTS_RESET_KEY, DATA_VERSION);
+    return [];
+  }
+
+  try {
+    const events = JSON.parse(localStorage.getItem(USER_EVENTS_KEY) || "[]");
+    return Array.isArray(events) ? events : [];
+  } catch {
+    localStorage.setItem(USER_EVENTS_KEY, "[]");
+    return [];
+  }
+}
+
+function saveUserEvents() {
+  localStorage.setItem(USER_EVENTS_KEY, JSON.stringify(state.userEvents));
+  localStorage.setItem(USER_EVENTS_RESET_KEY, DATA_VERSION);
+}
+
 const state = {
   stories: [],
   storiesById: new Map(),
   manifest: null,
   edition: null,
-  route: "top",
+  route: "personalized",
+  personalizedTab: "unrated",
   yesterdayTab: "all",
   archiveTab: "all",
   openMenu: "",
@@ -111,6 +150,7 @@ const state = {
     dateTo: "",
   },
   favorites: loadFavorites(),
+  userEvents: loadUserEvents(),
 };
 
 const brandHome = document.querySelector("#brand-home");
@@ -143,7 +183,7 @@ async function boot() {
   state.storiesById = new Map(stories.map((story) => [story.id, story]));
 
   brandHome.addEventListener("click", () => {
-    navigateTo("top");
+    navigateTo("personalized");
   });
 
   mobileSearch.addEventListener("click", () => {
@@ -374,6 +414,9 @@ async function loadEdition(editionDate) {
 
 function renderPage() {
   switch (state.route) {
+    case "personalized":
+      renderPersonalized();
+      break;
     case "top":
       renderTop();
       break;
@@ -418,6 +461,230 @@ function setHeader(title, meta, eyebrowText = "TechRadar 505") {
 
 function getStories(ids = []) {
   return ids.map((id) => state.storiesById.get(id)).filter(Boolean);
+}
+
+function renderPersonalized() {
+  const model = buildUserModel();
+  const decisionMap = getDecisionMap();
+  const recommendations = rankPersonalizedStories(state.stories, model);
+  const unratedRecommendations = recommendations.filter(({ story }) => !decisionMap.has(story.id));
+  registerImpressions(unratedRecommendations.slice(0, 8));
+  setHeader(
+    "おすすめ",
+    `${state.edition.edition_date} 版 / 未評価ニュースを評価して学習`,
+    "Personalized",
+  );
+
+  pageContent.innerHTML = "";
+  pageContent.append(renderPersonalizedTabs(decisionMap, unratedRecommendations.length));
+  const shell = document.createElement("div");
+  shell.className = "personalized-shell";
+
+  if (state.personalizedTab === "liked") {
+    shell.append(renderReviewedList(decisionMap, "swipe_right", model));
+  } else if (state.personalizedTab === "rejected") {
+    shell.append(renderReviewedList(decisionMap, "swipe_left", model));
+  } else {
+    shell.append(renderSwipePanel(unratedRecommendations), renderPersonalizedList(unratedRecommendations));
+  }
+
+  pageContent.append(shell);
+}
+
+function renderPersonalizedTabs(decisionMap, unratedCount) {
+  const tabRow = document.createElement("div");
+  tabRow.className = "personalized-tabs";
+  const positiveCount = [...decisionMap.values()].filter((event) => event.event_type === "swipe_right").length;
+  const negativeCount = [...decisionMap.values()].filter((event) => event.event_type === "swipe_left").length;
+  const tabs = [
+    ["unrated", `未評価 ${unratedCount}`],
+    ["liked", `気になる ${positiveCount}`],
+    ["rejected", `興味なし ${negativeCount}`],
+  ];
+
+  tabs.forEach(([key, label]) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.textContent = label;
+    button.className = state.personalizedTab === key ? "active" : "";
+    button.addEventListener("click", () => {
+      state.personalizedTab = key;
+      renderPage();
+    });
+    tabRow.append(button);
+  });
+
+  return tabRow;
+}
+
+function renderLearningPanel(model, recommendations, decisionMap = getDecisionMap()) {
+  const panel = document.createElement("section");
+  panel.className = "learning-panel";
+
+  const decisions = [...decisionMap.values()];
+  const positiveCount = decisions.filter((event) => event.event_type === "swipe_right").length;
+  const negativeCount = decisions.filter((event) => event.event_type === "swipe_left").length;
+  const effectiveEvents = getModelEvents();
+  const clickCount = effectiveEvents.filter((event) => event.event_type === "click").length;
+  const topFeatures = Object.entries(model.profile)
+    .filter(([, value]) => Math.abs(value) >= 0.25)
+    .sort((left, right) => Math.abs(right[1]) - Math.abs(left[1]))
+    .slice(0, 8);
+
+  panel.innerHTML = `
+    <div class="learning-summary">
+      <div>
+        <p class="eyebrow">User model</p>
+        <h2>学習中の好み</h2>
+      </div>
+      <button class="subtle-button" type="button" data-learning-reset>学習をリセット</button>
+    </div>
+    <div class="learning-metrics">
+      <div><strong>${positiveCount}</strong><span>気になる</span></div>
+      <div><strong>${negativeCount}</strong><span>興味なし</span></div>
+      <div><strong>${clickCount}</strong><span>クリック</span></div>
+      <div><strong>${recommendations.length}</strong><span>全記事</span></div>
+    </div>
+    <div class="profile-tags">
+      ${
+        topFeatures.length
+          ? topFeatures
+              .map(([key, value]) => `<span class="${value >= 0 ? "positive" : "negative"}">${featureLabel(key)} ${value.toFixed(1)}</span>`)
+              .join("")
+          : "<span>まだ評価データがありません</span>"
+      }
+    </div>
+  `;
+
+  panel.querySelector("[data-learning-reset]").addEventListener("click", () => {
+    state.userEvents = [];
+    saveUserEvents();
+    impressionKeys.clear();
+    renderPage();
+  });
+
+  return panel;
+}
+
+function renderSwipePanel(recommendations) {
+  const panel = document.createElement("section");
+  panel.className = "swipe-panel";
+
+  const next = recommendations[0];
+  if (!next) {
+    panel.innerHTML = `
+      <div class="empty-state">
+        未評価のニュースはありません。気になる / 興味なし タブで分類済みニュースを確認できます。
+      </div>
+    `;
+    return panel;
+  }
+
+  const { story, score } = next;
+  panel.innerHTML = `
+    <div class="swipe-card" data-swipe-story="${story.id}">
+      <div class="swipe-card-top">
+        <span>${story.category || representativeFacetLabel(story) || "News"}</span>
+        <strong>${score.final.toFixed(2)}</strong>
+      </div>
+      <h2>${story.title}</h2>
+      <p>${story.summary || ""}</p>
+      ${renderRecommendationDetails(score)}
+      <div class="swipe-actions">
+        <button class="signal-button reject" type="button" data-signal="swipe_left">← 興味なし</button>
+        <button class="signal-button accept" type="button" data-signal="swipe_right">気になる →</button>
+      </div>
+    </div>
+  `;
+
+  const card = panel.querySelector(".swipe-card");
+  attachSwipeDrag(card, story);
+  panel.querySelectorAll("[data-signal]").forEach((button) => {
+    button.addEventListener("click", () => recordUserSignal(story, button.dataset.signal, 1));
+  });
+  return panel;
+}
+
+function renderPersonalizedList(recommendations) {
+  const section = document.createElement("section");
+  section.className = "section personalized-list";
+
+  const header = document.createElement("div");
+  header.className = "section-header";
+  header.innerHTML = "<h2>未評価ニュース</h2><span>PCではボタンで評価、スマホでは上のカードを左右スワイプ</span>";
+  section.append(header);
+
+  if (!recommendations.length) {
+    const empty = document.createElement("div");
+    empty.className = "empty-state";
+    empty.textContent = "未評価のニュースはありません。分類タブで評価済みニュースを確認できます。";
+    section.append(empty);
+    return section;
+  }
+
+  const grid = document.createElement("div");
+  grid.className = "story-grid";
+  recommendations.slice(0, 12).forEach((item, index) => {
+    grid.append(renderStoryCard(item.story, { allowSignals: true, score: item.score, position: index + 1 }));
+  });
+  section.append(grid);
+  return section;
+}
+
+function renderReviewedList(decisionMap, decisionType, model) {
+  const section = document.createElement("section");
+  section.className = "section reviewed-list";
+  const title = decisionType === "swipe_right" ? "気になるニュース" : "興味なしニュース";
+  const note = decisionType === "swipe_right" ? "右スワイプ / 気になる に分類済み" : "左スワイプ / 興味なし に分類済み";
+  const stories = [...decisionMap.values()]
+    .filter((event) => event.event_type === decisionType)
+    .map((event) => state.storiesById.get(event.story_id))
+    .filter(Boolean);
+  const recommendations = rankPersonalizedStories(stories, model);
+
+  const header = document.createElement("div");
+  header.className = "section-header";
+  header.innerHTML = `<h2>${title}</h2><span>${note}</span>`;
+  section.append(header);
+
+  if (!recommendations.length) {
+    const empty = document.createElement("div");
+    empty.className = "empty-state";
+    empty.textContent = "まだ分類されたニュースはありません。未評価タブでニュースを評価してください。";
+    section.append(empty);
+    return section;
+  }
+
+  const grid = document.createElement("div");
+  grid.className = "story-grid";
+  recommendations.forEach(({ story, score }, index) => {
+    grid.append(renderStoryCard(story, { allowSignals: false, decisionType, score, position: index + 1 }));
+  });
+  section.append(grid);
+  return section;
+}
+
+function renderEventLog() {
+  const log = document.createElement("section");
+  log.className = "event-log-panel";
+  const events = state.userEvents.slice(-6).reverse();
+  log.innerHTML = `
+    <div class="section-header">
+      <h2>学習ログ</h2>
+      <span>user_events のMVP</span>
+    </div>
+    ${
+      events.length
+        ? events
+            .map((event) => {
+              const story = state.storiesById.get(event.story_id);
+              return `<div class="event-row"><strong>${event.event_type}</strong><span>${story ? story.title : event.story_id}</span></div>`;
+            })
+            .join("")
+        : '<div class="empty-state">まだイベントはありません。</div>'
+    }
+  `;
+  return log;
 }
 
 function renderTop() {
@@ -507,6 +774,374 @@ function sortStories(stories) {
   });
 }
 
+function rankPersonalizedStories(stories, model) {
+  const criticalStories = stories.filter((story) => normalizeImportanceScore(story.importance_score) === 5);
+  const regularStories = stories.filter((story) => normalizeImportanceScore(story.importance_score) !== 5);
+  return [
+    ...rankStoryGroup(criticalStories, model, { criticalFirst: true }),
+    ...rankStoryGroup(regularStories, model, { criticalFirst: false }),
+  ];
+}
+
+function rankStoryGroup(stories, model, options = {}) {
+  const scored = stories.map((story) => ({
+    story,
+    score: calculatePersonalizedScore(story, model),
+  }));
+  const selected = [];
+  const remaining = scored.slice();
+  const facetCounts = new Map();
+  const sourceCounts = new Map();
+
+  while (remaining.length) {
+    let bestIndex = 0;
+    let bestFinal = -Infinity;
+
+    remaining.forEach((item, index) => {
+      const facet = primaryFacet(storyFacets(item.story));
+      const source = item.story.representative_source || "unknown";
+      const facetPenalty = Math.pow(0.88, facetCounts.get(facet) || 0);
+      const sourcePenalty = Math.pow(0.92, sourceCounts.get(source) || 0);
+      const diversity = clamp(facetPenalty * sourcePenalty, PARAMETER_RANGES.diversity[0], PARAMETER_RANGES.diversity[1]);
+      const orderBase = options.criticalFirst
+        ? item.score.interest * item.score.popularity * item.score.freshness
+        : item.score.base;
+      const final = orderBase * diversity;
+      if (final > bestFinal) {
+        bestFinal = final;
+        bestIndex = index;
+      }
+    });
+
+    const [picked] = remaining.splice(bestIndex, 1);
+    const facet = primaryFacet(storyFacets(picked.story));
+    const source = picked.story.representative_source || "unknown";
+    const facetPenalty = Math.pow(0.88, facetCounts.get(facet) || 0);
+    const sourcePenalty = Math.pow(0.92, sourceCounts.get(source) || 0);
+    picked.score.diversity = clamp(facetPenalty * sourcePenalty, PARAMETER_RANGES.diversity[0], PARAMETER_RANGES.diversity[1]);
+    picked.score.final = picked.score.base * picked.score.diversity;
+    picked.score.priority = options.criticalFirst ? "重要度5優先" : "";
+    selected.push(picked);
+    facetCounts.set(facet, (facetCounts.get(facet) || 0) + 1);
+    sourceCounts.set(source, (sourceCounts.get(source) || 0) + 1);
+  }
+
+  return selected;
+}
+
+function calculatePersonalizedScore(story, model) {
+  const [importanceMin, importanceMax] = PARAMETER_RANGES.importance;
+  const importance =
+    importanceMin + (normalizeImportanceScore(story.importance_score) / 5) * (importanceMax - importanceMin);
+  const interest = predictUserInterest(story, model);
+  const popularity = predictPopularity(story);
+  const freshness = calculateFreshnessScore(story);
+  const base = importance * interest * popularity * freshness;
+  return {
+    importance,
+    interest,
+    popularity,
+    freshness,
+    diversity: 1,
+    base,
+    final: base,
+  };
+}
+
+function predictUserInterest(story, model) {
+  if (!model.eventCount) {
+    return 1;
+  }
+
+  const keys = storyFeatureKeys(story);
+  const positiveRaw = keys.reduce((sum, key) => sum + (model.positiveProfile[key] || 0), 0);
+  const negativeRaw = keys.reduce((sum, key) => sum + (model.negativeProfile[key] || 0), 0);
+  const raw = (positiveRaw + (normalizeImportanceScore(story.importance_score) === 5 ? 0 : negativeRaw)) / Math.max(1, keys.length);
+  const confidence = clamp(model.eventCount / 8, 0.2, 1);
+  return clamp(1 + raw * 0.55 * confidence, PARAMETER_RANGES.interest[0], PARAMETER_RANGES.interest[1]);
+}
+
+function predictPopularity(story) {
+  const events = getModelEvents().filter((event) => event.story_id === story.id);
+  const impressions = events.filter((event) => event.event_type === "impression").length;
+  const right = events.filter((event) => event.event_type === "swipe_right").length;
+  const left = events.filter((event) => event.event_type === "swipe_left").length;
+  const clicks = events.filter((event) => event.event_type === "click").length;
+  const reactionRate = (right + clicks * 0.6) / Math.max(1, impressions + right + left);
+  const basePopularity =
+    normalizeImportanceScore(story.importance_score) * 0.08 +
+    Math.min(3, Number(story.source_count || 1)) * 0.08 +
+    Math.min(3, Number(story.article_count || 1)) * 0.05 +
+    Number(story.urgency_score || 0) * 0.08;
+  return clamp(0.76 + basePopularity + reactionRate * 0.32 - left * 0.035, PARAMETER_RANGES.popularity[0], PARAMETER_RANGES.popularity[1]);
+}
+
+function calculateFreshnessScore(story) {
+  const published = new Date(String(story.published_at || story.published_date).replace(" ", "T"));
+  if (Number.isNaN(published.getTime())) {
+    return 1;
+  }
+  const ageHours = Math.max(0, (Date.now() - published.getTime()) / 36e5);
+  return clamp(0.5 + 0.8 * Math.exp(-ageHours / 72), PARAMETER_RANGES.freshness[0], PARAMETER_RANGES.freshness[1]);
+}
+
+function buildUserModel() {
+  const profile = {};
+  const positiveProfile = {};
+  const negativeProfile = {};
+  const effectiveEvents = getModelEvents();
+
+  effectiveEvents.forEach((event) => {
+    const story = state.storiesById.get(event.story_id);
+    if (!story) {
+      return;
+    }
+
+    const weights = userEventWeights(event);
+    if (!weights) {
+      return;
+    }
+
+    storyFeatureKeys(story).forEach((key) => {
+      const weight = featureWeightForKey(key, weights);
+      profile[key] = clamp((profile[key] || 0) + weight, -4, 4);
+      if (weight >= 0) {
+        positiveProfile[key] = clamp((positiveProfile[key] || 0) + weight, 0, 4);
+      } else {
+        negativeProfile[key] = clamp((negativeProfile[key] || 0) + weight, -4, 0);
+      }
+    });
+  });
+
+  return {
+    profile,
+    positiveProfile,
+    negativeProfile,
+    eventCount: effectiveEvents.filter((event) => userEventWeights(event)).length,
+  };
+}
+
+function storyFeatureKeys(story) {
+  const keys = [];
+  storyFacets(story).forEach((facet) => keys.push(`facet:${facet}`));
+  if (story.category) {
+    keys.push(`category:${story.category}`);
+  }
+  if (story.representative_source) {
+    keys.push(`source:${story.representative_source}`);
+  }
+  tokenizeStory(story).forEach((token) => keys.push(`token:${token}`));
+  return [...new Set(keys)];
+}
+
+function tokenizeStory(story) {
+  return [story.title, story.summary, story.reason]
+    .join(" ")
+    .normalize("NFKC")
+    .toLowerCase()
+    .split(/[^\p{L}\p{N}]+/u)
+    .filter((token) => token.length >= 2 && token.length <= 24)
+    .slice(0, 18);
+}
+
+function storyFacets(story) {
+  const facets = Array.isArray(story.facets) ? story.facets : [];
+  return facets.length ? facets : [story.category || "general"];
+}
+
+function primaryFacet(facets) {
+  return DISPLAY_FACET_PRIORITY.find((facet) => facets.includes(facet)) || facets[0] || "general";
+}
+
+function userEventWeights(event) {
+  const weights = {
+    swipe_right: { token: 0.6, facet: 0.3, category: 0.3, source: 0.2 },
+    swipe_left: { token: -0.35, facet: -0.1, category: -0.1, source: -0.1 },
+    click: { token: 0.18, facet: 0.08, category: 0.08, source: 0.06 },
+    favorite: { token: 0.32, facet: 0.16, category: 0.16, source: 0.12 },
+  };
+  return weights[event.event_type] || null;
+}
+
+function featureWeightForKey(key, weights) {
+  const type = key.split(":")[0];
+  return weights[type] || 0;
+}
+
+function getEffectiveUserEvents() {
+  const undone = new Set(
+    state.userEvents.filter((event) => event.event_type === "undo").map((event) => event.target_event_id),
+  );
+  return state.userEvents.filter((event) => event.event_type !== "undo" && !undone.has(event.id));
+}
+
+function getDecisionMap() {
+  const decisions = new Map();
+  getEffectiveUserEvents().forEach((event) => {
+    if (event.event_type !== "swipe_right" && event.event_type !== "swipe_left") {
+      return;
+    }
+    if (!decisions.has(event.story_id)) {
+      decisions.set(event.story_id, event);
+    }
+  });
+  return decisions;
+}
+
+function getModelEvents() {
+  const decisionMap = getDecisionMap();
+  return getEffectiveUserEvents().filter((event) => {
+    if (event.event_type !== "swipe_right" && event.event_type !== "swipe_left") {
+      return true;
+    }
+    return decisionMap.get(event.story_id)?.id === event.id;
+  });
+}
+
+function getHandledStoryIds() {
+  return new Set(getDecisionMap().keys());
+}
+
+function registerImpressions(recommendations) {
+  recommendations.forEach(({ story }, index) => {
+    const key = `${FEED_SESSION_ID}:${story.id}:${index + 1}`;
+    if (impressionKeys.has(key)) {
+      return;
+    }
+    impressionKeys.add(key);
+    pushUserEvent(story, "impression", 1, index + 1);
+  });
+}
+
+function recordUserSignal(story, eventType, position, options = {}) {
+  if ((eventType === "swipe_right" || eventType === "swipe_left") && getDecisionMap().has(story.id)) {
+    if (options.rerender !== false) {
+      renderPage();
+    }
+    return false;
+  }
+  pushUserEvent(story, eventType, eventType === "swipe_left" ? -1 : 1, position);
+  if (options.rerender !== false) {
+    renderPage();
+  }
+  return true;
+}
+
+function pushUserEvent(story, eventType, eventValue, position) {
+  state.userEvents.push({
+    id: crypto.randomUUID ? crypto.randomUUID() : `${Date.now()}-${Math.random()}`,
+    user_id: USER_ID,
+    story_id: story.id,
+    event_type: eventType,
+    event_value: eventValue,
+    feed_session_id: FEED_SESSION_ID,
+    position,
+    created_at: new Date().toISOString(),
+  });
+  saveUserEvents();
+}
+
+function featureLabel(key) {
+  return key.replace(/^facet:|^category:|^source:|^token:/, "");
+}
+
+function renderScoreBar(label, value) {
+  const width = clamp(((value - 0.45) / 1.55) * 100, 8, 100);
+  return `<div class="score-row"><span>${label}</span><div><i style="width:${width}%"></i></div><strong>${value.toFixed(2)}</strong></div>`;
+}
+
+function renderRecommendationDetails(score) {
+  return `
+    <details class="story-reason recommendation-details">
+      <summary>おすすめパラメータを見る</summary>
+      <div class="card-score">
+        <div class="card-score-head"><span>final</span><strong>${score.final.toFixed(2)}</strong></div>
+        ${score.priority ? `<div class="priority-note">${score.priority}</div>` : ""}
+        ${renderScoreBar("重要度", score.importance)}
+        ${renderScoreBar("興味", score.interest)}
+        ${renderScoreBar("人気", score.popularity)}
+        ${renderScoreBar("新鮮さ", score.freshness)}
+        ${renderScoreBar("多様性", score.diversity)}
+      </div>
+    </details>
+  `;
+}
+
+function renderCardScore(score) {
+  const template = document.createElement("template");
+  template.innerHTML = renderRecommendationDetails(score).trim();
+  return template.content.firstElementChild;
+}
+
+function renderSignalActions(story, position) {
+  const actions = document.createElement("div");
+  actions.className = "signal-actions";
+
+  const reject = document.createElement("button");
+  reject.type = "button";
+  reject.className = "signal-button reject";
+  reject.textContent = "← 興味なし";
+  reject.addEventListener("click", () => recordUserSignal(story, "swipe_left", position));
+
+  const accept = document.createElement("button");
+  accept.type = "button";
+  accept.className = "signal-button accept";
+  accept.textContent = "気になる →";
+  accept.addEventListener("click", () => recordUserSignal(story, "swipe_right", position));
+
+  actions.append(reject, accept);
+  return actions;
+}
+
+function attachSwipeDrag(card, story) {
+  let startX = 0;
+  let currentX = 0;
+  let pointerId = null;
+
+  card.addEventListener("pointerdown", (event) => {
+    startX = event.clientX;
+    currentX = 0;
+    pointerId = event.pointerId;
+    card.setPointerCapture(pointerId);
+    card.classList.add("dragging");
+  });
+
+  card.addEventListener("pointermove", (event) => {
+    if (pointerId !== event.pointerId) {
+      return;
+    }
+    currentX = event.clientX - startX;
+    card.style.transform = `translateX(${currentX}px) rotate(${currentX / 18}deg)`;
+  });
+
+  card.addEventListener("pointerup", (event) => {
+    if (pointerId !== event.pointerId) {
+      return;
+    }
+    card.classList.remove("dragging");
+    pointerId = null;
+    if (currentX > 92) {
+      recordUserSignal(story, "swipe_right", 1);
+      return;
+    }
+    if (currentX < -92) {
+      recordUserSignal(story, "swipe_left", 1);
+      return;
+    }
+    card.style.transform = "";
+  });
+
+  card.addEventListener("pointercancel", () => {
+    pointerId = null;
+    card.classList.remove("dragging");
+    card.style.transform = "";
+  });
+}
+
+function clamp(value, min, max) {
+  return Math.min(max, Math.max(min, value));
+}
+
 function yesterdayTabLabel() {
   return {
     all: "すべて",
@@ -552,17 +1187,16 @@ function renderSection(title, stories, note) {
   return section;
 }
 
-function renderStoryCard(story) {
+function renderStoryCard(story, options = {}) {
   const fragment = cardTemplate.content.cloneNode(true);
   const card = fragment.querySelector(".story-card");
   const badges = fragment.querySelector(".badges");
   const favoriteButton = fragment.querySelector(".favorite-button");
   const title = fragment.querySelector("h3");
   const summary = fragment.querySelector(".story-summary");
-  const reason = fragment.querySelector(".story-reason");
-  const reasonText = fragment.querySelector(".story-reason p");
   const meta = fragment.querySelector(".story-meta");
   const link = fragment.querySelector(".source-button");
+  const footer = fragment.querySelector(".story-footer");
 
   const importanceScore = normalizeImportanceScore(story.importance_score);
   const importanceBadge = document.createElement("span");
@@ -590,10 +1224,25 @@ function renderStoryCard(story) {
   title.textContent = story.title;
   summary.textContent = story.summary || "";
   summary.hidden = !story.summary;
-  reasonText.textContent = story.reason || "";
-  reason.hidden = !story.reason;
   meta.textContent = `${story.published_at || story.published_date} / ${story.source_count}媒体`;
   link.href = story.representative_url;
+  link.addEventListener("click", () => {
+    recordUserSignal(story, "click", options.position || 1, { rerender: false });
+  });
+
+  if (options.decisionType) {
+    card.classList.add(options.decisionType === "swipe_right" ? "liked-card" : "rejected-card");
+    card.insertBefore(renderDecisionState(options.decisionType), summary);
+  }
+
+  if (options.score) {
+    card.classList.add("personalized-card");
+    card.insertBefore(renderCardScore(options.score), footer);
+  }
+
+  if (options.allowSignals) {
+    card.insertBefore(renderSignalActions(story, options.position || 1), summary);
+  }
   return card;
 }
 
@@ -612,11 +1261,22 @@ function representativeFacetLabel(story) {
   return primaryFacet ? FACET_LABELS[primaryFacet] || primaryFacet : "";
 }
 
+function renderDecisionState(decisionType) {
+  const badge = document.createElement("div");
+  badge.className = decisionType === "swipe_right" ? "decision-state liked" : "decision-state rejected";
+  badge.textContent = decisionType === "swipe_right" ? "気になるに分類済み" : "興味なしに分類済み";
+  return badge;
+}
+
 function toggleFavorite(storyId) {
   if (state.favorites.has(storyId)) {
     state.favorites.delete(storyId);
   } else {
     state.favorites.add(storyId);
+    const story = state.storiesById.get(storyId);
+    if (story) {
+      recordUserSignal(story, "favorite", 1, { rerender: false });
+    }
   }
   localStorage.setItem("favorites", JSON.stringify([...state.favorites]));
   renderPage();
