@@ -142,35 +142,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "578e9e36b45d",
-    "title": "DartがサーバレスのCloud Functions for Firebaseに対応、Dartはフルスタック言語へ。事前コンパイルでコールドスタートが10ミリ秒",
-    "published_date": "2026-05-25",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "GoogleがDartのCloud Functions for Firebase対応を発表。事前コンパイルでコールドスタート10msを達成しフルスタック運用が容易に。",
-    "reason": "Dart/Flutter開発者にとってサーバレス実行環境の対応は実運用と開発効率に直結するため。",
-    "published_at": "2026-05-25 00:15:57",
-    "created_at": "2026-05-26 05:46:49",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/dartcloud_functions_for_firebasedart10.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
     "id": "30c08c63b13c",
     "title": "NGINX Riftの次は“poolslip” NGINX最新版に未修正のゼロデイ",
     "published_date": "2026-05-25",
@@ -195,33 +166,6 @@
     "practical_impact_score": 2,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 2,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "c80b1ce6919e",
-    "title": "SNSにおける情報漏えい、企業の7割で社内ルール「なし」 企業規模の違いで対応に格差か",
-    "published_date": "2026-05-25",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "従業員のSNS利用からの情報漏えいが続く中、企業の7割でSNS利用に関する社内ルールが整備されていない実態を報告。",
-    "reason": "従業員SNSに起因する情報漏えいは企業リスクであり、情シス・経営が優先的に対処すべきテーマのため。",
-    "published_at": "2026-05-25 12:06:00",
-    "created_at": "2026-05-26 05:46:49",
-    "representative_source": "＠IT",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/25/news078.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
   },
@@ -281,34 +225,6 @@
     "urgency_score": 1,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "a8b1941dfeff",
-    "title": "「セキュリティ人材って結局、何ができる人？」に結論か NCOが定義した“13個の役割”",
-    "published_date": "2026-05-25",
-    "importance_score": 2,
-    "category": "セキュリティ",
-    "summary": "NCOが「サイバーセキュリティ人材フレームワーク2026」を公開し、13の役割と4段階のレベルを定義。",
-    "reason": "組織の人材設計・採用・育成に直結する実務的な定義で、セキュリティ体制構築に役立つため。",
-    "published_at": "2026-05-25 13:00:00",
-    "created_at": "2026-05-26 05:46:49",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/25/news028.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
   },
   {
     "id": "4037f868133f",
@@ -424,34 +340,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "5bdf0ccb0f4d",
-    "title": "日大、教職員1万人が「Google AI Pro」活用へ",
-    "published_date": "2026-05-25",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "日本大学がGoogleの教育向けAIサブスク『Google AI Pro for Education』を導入し、専任教職員1万人が利用可能に。",
-    "reason": "大規模教育機関でのAI導入事例は自治体・教育機関の導入判断に示唆を与えるため。",
-    "published_at": "2026-05-25 19:38:00",
-    "created_at": "2026-05-26 05:46:49",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/25/news129.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
     "has_itmedia_article": true
   },
   {
@@ -2279,6 +2167,370 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "51aea3f03175",
+    "title": "AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場",
+    "published_date": "2026-06-01",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "AWSがクラウド間閉域接続サービス「AWS Interconnect - multicloud」に500Mbpsまでの無料枠を導入。マルチクラウド接続のコスト障壁を下げる狙い。",
+    "reason": "マルチクラウド運用やネットワーク設計のコストに直結する変更で、クラウド戦略に影響を与えるため掲載価値が高い。",
+    "published_at": "2026-06-01 00:24:56",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 3,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "314a1876ccb6",
+    "title": "Claude APIの新機能「アドバイザーツール」の使用方法",
+    "published_date": "2026-06-01",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "AnthropicがClaude APIにβ提供した「アドバイザーツール」を紹介。安価なモデルで通常推論を行い、複雑判断のみ上位モデルに委譲する仕組みを解説。",
+    "reason": "コスト最適化とエージェント設計に直結する実務的なAPI新機能で、開発者・プロダクト担当に参考になるため。",
+    "published_at": "2026-06-01 13:00:00",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news039.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "1e133b266f20",
+    "title": "Google Cloud、高速にフェイルオーバー可能なPostgreSQL互換AlloyDBの新たなホットスタンバイを提供",
+    "published_date": "2026-06-01",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "Google CloudがAlloyDB for PostgreSQLで高速フェイルオーバーを可能にするホットスタンバイ機能を追加。通常30秒以内の切替を目指す。",
+    "reason": "エンタープライズDBの可用性改善は運用リスク低減に直結し、クラウド選定やSRE運用に役立つため。",
+    "published_at": "2026-06-01 00:26:39",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/google_cloudpostgresqlalloydb.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0e35d4df4a7d",
+    "title": "Intel、データセンター向け新CPU「Xeon 6+」発表 エージェンティックAI基盤を強化",
+    "published_date": "2026-06-01",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "Intelがデータセンター向けCPU「Xeon 6+」を発表。Intel 18Aプロセス採用で前世代比最大2.5倍の性能を主張。新イーサネットコントローラや次世代DC GPU情報も公開。",
+    "reason": "データセンター・クラウド事業者やサーバー供給に直接影響する世代交代で、業界戦略とAI基盤に大きな意味があるため。",
+    "published_at": "2026-06-01 15:28:00",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/01/news103.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c2eedd1dddbd",
+    "title": "NVIDIA、Windows用プロセッサ「RTX Spark」発表 ノートPCでローカルAIを高速実行",
+    "published_date": "2026-06-01",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "NVIDIAがPC向け新チップ「RTX Spark」を発表。ノートPCでのローカルAI実行を想定し、高性能GPU機能と大容量ユニファイドメモリを特徴とする。",
+    "reason": "ローカルAI実行を前提としたSoCの登場はデバイス設計・業務端末の在り方やエッジAI導入に影響するため重要。",
+    "published_at": "2026-06-01 14:00:00",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/01/news088.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "be9717c4313e",
+    "title": "NVIDIA、フィジカルAIのための世界モデル「Cosmos 3」 エッジ用など3種類",
+    "published_date": "2026-06-01",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "NVIDIAがビジョン推論やワールド生成、アクション予測を統合したフィジカルAI向け世界基盤モデル「Cosmos 3」を発表。エッジ向け含む3種の提供を想定。",
+    "reason": "ロボティクス・フィジカルAIの基盤となり得るオープンモデルで、研究者や開発者の採用が進めば産業利用が加速するため。",
+    "published_at": "2026-06-01 18:26:58",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2113492.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0f9408b361cf",
+    "title": "NVIDIAがヒト型ロボットのリファレンス公開、中国Unitree「H2」ベース 26年後半に実機販売も",
+    "published_date": "2026-06-01",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "NVIDIAが研究者向けにヒト型ロボットの参照設計を公開。ロボット本体と開発ソフトの組み合わせを提供し、Unitreeが2026年後半に実機販売予定。",
+    "reason": "ロボティクスの参照設計公開と商用機の予定はエコシステム拡大を示し、産業応用や開発コストに影響を与えるため。",
+    "published_at": "2026-06-01 19:00:00",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/01/news117.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "aded819eb0ea",
+    "title": "Salesforceの「深謀遠慮」とは？ AIエージェント時代のオープンシステム、主導権争いの行方",
+    "published_date": "2026-06-01",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "SalesforceがAIエージェント向けのソリューションを提示、その狙いやエコシステム戦略を考察。オープンシステムを巡る主導権争いの可能性を解説。",
+    "reason": "エンタープライズ向けAIエージェントの競争軸とプラットフォーム戦略は、SI/ベンダー/導入企業にとって重要な判断材料となるため。",
+    "published_at": "2026-06-01 16:00:00",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2606/01/news107.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "4b5fc2fb1258",
+    "title": "“VB.NET移行をAIで爆速化”した千葉銀行GのIT企業 「12.5人月→2.0人月」をどう実現？",
+    "published_date": "2026-06-01",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "ちばぎんコンピューターサービスがAI駆動の開発フローでVB.NETシステム移行を大幅短縮。手法やパイプラインの設計を具体的に解説している。",
+    "reason": "現場でのAI活用による開発生産性向上の実例は、同様課題を抱える企業の意思決定や導入設計に直接役立つため。",
+    "published_at": "2026-06-01 13:00:00",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news037.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a670ff37c811",
+    "title": "「ゼロトラストの前に既定パスワード変更を」 IPA、重要インフラを守る「最低限のセキュリティ」を刷新",
+    "published_date": "2026-06-01",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "IPAがCISAのCross-Sector Cybersecurity Performance Goals Ver.2の日本語訳を公開。重要インフラ事業者向けの最低限のサイバーセキュリティ対策を提示する。",
+    "reason": "重要インフラ向けの指針翻訳・提示は国内事業者の実務対応と規制順守に直結するため高い重要度。",
+    "published_at": "2026-06-01 13:00:00",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news048.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "31d2453c71d0",
+    "title": "キラキラSNSに疲れたか 人気のBeRealで相次ぐ内部情報流出 限定公開の油断か罠か",
+    "published_date": "2026-06-01",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "従業員が勤務先の内部情報が写った画像をSNSに投稿し、拡散する事例が相次ぐ。限定公開の油断や若年層のSNS行動が背景とされ、顧客情報漏えいの被害も報告されている。",
+    "reason": "従業員のSNS利用が引き起こす情報漏洩リスクは企業のセキュリティ文化・人事施策に直結するため、対策要点として有益。",
+    "published_at": "2026-06-01 11:38:00",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/01/news073.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "18efef502a48",
+    "title": "富士通が認めた「人月モデル」の限界 時田社長「労働集約型SIモデルからの転換を」",
+    "published_date": "2026-06-01",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "富士通が中長期経営ビジョン2035を発表。時田社長が人月モデルの限界を認め、AI時代に合わせた事業・収益モデルへの転換を掲げた。",
+    "reason": "大手SIのビジネスモデル転換は業界全体の契約・価格体系や人材戦略に影響を与えるため、企業IT層にとって重要。",
+    "published_at": "2026-06-01 07:00:00",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/business/articles/2606/01/news040.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ccc007e023c2",
+    "title": "市役所のPC83台が盗難被害 中に11万人分の個人情報――委託先社員を逮捕、転売目的か 浦添市",
+    "published_date": "2026-06-01",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "浦添市で業務用ノートPC83台が盗難に遭い、うち3台に住民登録者11万5526人分の個人情報が含まれていたと発表。委託先社員が逮捕され、転売目的の疑い。",
+    "reason": "地方自治体の大量個人情報が外部に出る可能性があり、委託管理や物理・データ保護の見直しを迫る事案のため。",
+    "published_at": "2026-06-01 16:50:00",
+    "created_at": "2026-06-02 08:08:23",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/01/news086.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
     "has_itmedia_article": true
   }
 ]
