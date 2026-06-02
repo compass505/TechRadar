@@ -513,33 +513,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "6da71be6bc40",
-    "title": "PIXTA、AI生成素材の販売終了 「購入者が求めるのは人の手による作品」",
-    "published_date": "2026-05-26",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "素材マーケットプレイスPIXTAがAI生成素材の取り扱いを5月22日で終了。AI活用自体は否定せず、購入者ニーズを理由に判断したと説明。",
-    "reason": "デジタルコンテンツ市場におけるAI生成物の扱いはビジネスモデルと法的・倫理的議論に関わるため業界動向を押さえる価値がある。",
-    "published_at": "2026-05-26 19:15:00",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news125.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "7fc854aca3cb",
     "title": "xAIがコーディングエージェント「Grok Build」ベータ公開。サブエージェントを並列に実行可能など",
     "published_date": "2026-05-26",
@@ -756,33 +729,6 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "2cccf72c2310",
-    "title": "薬局で受け取った薬の情報、マイナポータルで当日中に確認可能に 「薬」画面をリニューアル",
-    "published_date": "2026-05-26",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "デジタル庁がマイナポータルの「薬」画面を改善。電子処方箋対応の医療機関・薬局で受け取った薬や処方箋情報を原則当日中に確認可能に。",
-    "reason": "行政のデジタルサービス改善は自治体／医療機関のIT運用と市民利便性に直接関わるため実務的に有用。",
-    "published_at": "2026-05-26 16:20:00",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news106.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
     "has_itmedia_article": true
   },
   {
@@ -2171,31 +2117,33 @@
   },
   {
     "id": "51aea3f03175",
-    "title": "AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場",
+    "title": "AWS、他クラウドと500Mbpsまでの接続が無料に 「AWS Interconnect - multicloud」に無料枠が登場",
     "published_date": "2026-06-01",
     "importance_score": 3,
     "category": "クラウド",
-    "summary": "AWSがクラウド間閉域接続サービス「AWS Interconnect - multicloud」に500Mbpsまでの無料枠を導入。マルチクラウド接続のコスト障壁を下げる狙い。",
-    "reason": "マルチクラウド運用やネットワーク設計のコストに直結する変更で、クラウド戦略に影響を与えるため掲載価値が高い。",
-    "published_at": "2026-06-01 00:24:56",
-    "created_at": "2026-06-02 08:08:23",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html",
+    "summary": "AWSが他クラウドとの閉域接続サービスに500Mbpsの無料枠を導入。マルチクラウド接続コストのハードルを下げ、企業の接続設計に影響を与える可能性。",
+    "reason": "マルチクラウド戦略やコスト設計に直結する施策で、情シス/クラウド担当者が押さえるべき発表。",
+    "published_at": "2026-06-02 12:06:00",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/02/news085.html",
     "sources": [
+      "ITmedia NEWS",
       "Publickey"
     ],
-    "source_count": 1,
-    "article_count": 1,
+    "source_count": 2,
+    "article_count": 2,
     "facets": [
       "cloud",
-      "development"
+      "development",
+      "enterprise_it"
     ],
     "ai_relevance_score": 0,
-    "practical_impact_score": 0,
+    "practical_impact_score": 1,
     "dev_cloud_relevance_score": 3,
     "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
+    "utility_score": 1,
+    "has_itmedia_article": true
   },
   {
     "id": "314a1876ccb6",
@@ -2530,6 +2478,346 @@
     "practical_impact_score": 1,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c53ef9513d8f",
+    "title": "6分に1つのペースで悪性パッケージが見つかる オープンソースエコシステムを狙う攻撃の実態",
+    "published_date": "2026-06-02",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Sonatype調査で2026年Q1に2万件超の悪性オープンソースパッケージを検出。サプライチェーン攻撃の頻度とリスクが高まっている。",
+    "reason": "開発者・運用チームが依存管理とセキュリティ対策を見直すべき供給連鎖リスクの深刻な実態報告。",
+    "published_at": "2026-06-02 13:00:00",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/02/news056.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "75fe5cab23eb",
+    "title": "AIモデル「ミュトス」のアクセス権拡大 新たに150組織が利用へ Anthropic",
+    "published_date": "2026-06-02",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "AnthropicがProject Glasswingを拡大し、Claude Mythos Previewのアクセスを約150組織に拡大。セキュリティ用途での共同検証を拡大する狙い。",
+    "reason": "強力なAIをサイバー防御共同検証に提供する動きはセキュリティ実務とガバナンスに関わるため有用。",
+    "published_at": "2026-06-02 14:56:37",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000048/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "7c849b2eab50",
+    "title": "Anthropicが上場申請",
+    "published_date": "2026-06-02",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "AnthropicがSECにIPO申請を実施したと発表。評価額は最近の調達でOpenAIを上回る水準との見方もあり、早ければ秋にも上場可能。",
+    "reason": "主要AI企業の上場は資本市場とAI産業構造に影響するため、投資・事業判断に重要。",
+    "published_at": "2026-06-02 06:20:00",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/02/news062.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "76688bc98fd5",
+    "title": "Cisco年次イベントの目玉は“超統合”AgenticOps基盤「Cisco Cloud Control」",
+    "published_date": "2026-06-02",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "CiscoがAIエージェントでネットワーク／インフラ運用とセキュリティを自動化する『Cisco Cloud Control』を発表。AgenticOpsを標榜し運用の高度化を狙う。",
+    "reason": "ネットワーク／運用の自動化とセキュリティ統合は大企業IT運用に直接影響する戦略的プロダクトため重要。",
+    "published_at": "2026-06-02 22:00:00",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/02/news126.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6564ea676d15",
+    "title": "Google擁するAlphabet、AI基盤増強に向け800億ドルの株式調達へ",
+    "published_date": "2026-06-02",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "AlphabetがAI向けインフラ拡充のため総額約800億ドルの株式資本調達を発表。設備投資を優先しAI供給能力の拡大を狙う。市場・業界投資に大きな影響を与える動き。",
+    "reason": "AIインフラ向け巨額調達は産業投資・競争力に直結する重要な戦略ニュースのため。",
+    "published_at": "2026-06-02 09:34:00",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/02/news066.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e898ceab766c",
+    "title": "Microsoft、初の自社推論モデル「MAI-Thinking-1」発表 蒸留なしでゼロから学習",
+    "published_date": "2026-06-02",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "Microsoftが自社推論モデルMAI-Thinking-1（350億パラメータ）と独自チップMaia 200を発表。クリーンデータでゼロから学習し高効率を強調。AIインフラと競争軸に影響。",
+    "reason": "大手による独自モデル＋チップの発表はAI基盤競争とオンプレ／クラウド投資に波及するため高評価。",
+    "published_at": "2026-06-02 21:45:55",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000050/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "12fa5eb9228b",
+    "title": "Microsoft、自律エージェント「Scout」発表 OpenClawベースでMCP対応",
+    "published_date": "2026-06-02",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "MicrosoftがMicrosoft 365上で常時動作する自律型エージェント『Scout』を発表。アプリ横断で作業自動化を実行し、限定プレビューを開始。",
+    "reason": "業務自動化の新カテゴリで企業ITの生産性・ワークフローに直接影響するため開発者・情シスに有用。",
+    "published_at": "2026-06-02 20:50:46",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000049/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1e82fc1c5d9d",
+    "title": "Oracle Database@AWSが大阪リージョンでも提供開始。これでAWS東京リージョンとAWS大阪リージョンの両方で利用可能に",
+    "published_date": "2026-06-02",
+    "importance_score": 2,
+    "category": "クラウド",
+    "summary": "Oracle Database@AWSがAWS大阪リージョンで提供開始。国内リージョンでの高可用性設計やデータ主権対応の選択肢が拡大。",
+    "reason": "国内リージョン拡大は日本の企業クラウド戦略にとって有用だが影響範囲は比較的限定的。",
+    "published_at": "2026-06-02 00:02:13",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/oracle_databaseawsawsaws.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5dcbb0e623aa",
+    "title": "Rust製の高速なJavaScriptバンドラ「Rolldown」がバージョン1.0に到達。ビルドツールVite 8.0で採用",
+    "published_date": "2026-06-02",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "Rolldownがv1.0に到達し、Vite 8.0で採用。高速バンドラがフロントエンドビルドの選択肢として安定化。",
+    "reason": "開発ツールの主要アップデートでビルド速度・エコシステムに影響するが専門領域向けのニュース。",
+    "published_at": "2026-06-02 00:04:50",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/rustjavascriptrolldown10vite_80.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "63885f6d015e",
+    "title": "SBIグループ、米Anthropicと提携 Claudeを全役職員に展開 セキュリティツール「Claude Security」共同検証も",
+    "published_date": "2026-06-02",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "SBIがAnthropicと提携し、生成AI『Claude』を全社展開。自動脆弱性スキャン等の『Claude Security』を金融機関として共同検証する計画。",
+    "reason": "金融機関での全社AI導入とセキュリティ検証は業界利用事例として示唆が大きい。",
+    "published_at": "2026-06-02 05:32:46",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000045/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "713704c7049b",
+    "title": "フロリダ州がOpenAIとアルトマンCEOを提訴 ChatGPTを「子供を危険にさらす製品」と非難",
+    "published_date": "2026-06-02",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "フロリダ州がOpenAIとCEOを提訴し、ChatGPTが未成年者らを危険に晒す設計だと主張。州レベルでの法的対立が表面化している。",
+    "reason": "州政府による訴訟はAI規制・訴訟リスクの先行事例になり、企業のコンプライアンス戦略に影響する。",
+    "published_at": "2026-06-02 07:18:00",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/02/news063.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ba113f4e866d",
+    "title": "マネーフォワードの銀行連携、再開率99％超でも「完全復旧」に至らないワケ",
+    "published_date": "2026-06-02",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "マネーフォワードがGitHub不正アクセスに伴う銀行連携停止からの復旧が遅れる背景に、銀行法上の規制要件が関与。技術復旧と法的要件の差が課題となっている。",
+    "reason": "開発者のセキュリティ事故が金融系サービスの法規制と運用に直結した事例で、情シスと経営判断に重要。",
+    "published_at": "2026-06-02 17:38:00",
+    "created_at": "2026-06-03 08:07:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/02/news097.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
     "utility_score": 1,
     "has_itmedia_article": true
   }
