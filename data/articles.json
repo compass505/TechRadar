@@ -1,5 +1,159 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "阿波銀行の情報漏えい、被害のテスト環境は「本来廃止すべきだった」 システム高度化作業でも利用",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news138.html",
+    "summary": "阿波銀行が顧客情報漏えいの調査結果を公表。侵害を受けたテスト環境は廃止されるべきだったがAIを用いた作業に転用されていた。管理体制の不備で役員処分が実施。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "銀行の顧客情報漏えいとガバナンス崩壊は金融機関・情シスに重大な示唆を与えるため。",
+    "published_at": "2026-06-03 20:35:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Androidに「なりすまし電話」検知機能 AIディープフェイク詐欺の急増に対応──Pixelから順次提供",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news137.html",
+    "summary": "GoogleがAIで偽装通話を検出するAndroid機能を発表。Pixel端末から順次提供し、ディープフェイク電話詐欺に対応する。ユーザ保護の観点で導入が進む見込み。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "ディープフェイク詐欺への実用的対策で消費者・事業者の安全に直結するため。",
+    "published_at": "2026-06-03 20:20:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「使い物にならなくなった」──6月1日からの「GitHub Copilot」新料金、SNSで不満続出 他ツールへの移行表明も",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news124.html",
+    "summary": "Copilotが従量課金制に移行し、クレジット消費が速いとの不満がSNSで拡大。開発者コミュニティで代替ツールへの移行検討が相次いでいる。費用モデルの混乱が続く。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "主要開発ツールの料金変更は開発現場とコストに直接影響するため開発者向けに重要。",
+    "published_at": "2026-06-03 17:05:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "気象庁、線状降水帯情報の不具合続く 直近でシステム刷新も関連性は「現時点で不明」",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news123.html",
+    "summary": "気象庁の線状降水帯情報で不具合が継続。新たな防災気象情報運用開始直後で、台風接近時に情報発表に支障が出ている可能性が指摘されている。SNSで切替との関連が議論中。",
+    "importance": 4,
+    "category": "その他",
+    "reason": "防災情報システムの信頼性問題は公共安全に直結し、技術的・運用的な波及効果が大きいため。",
+    "published_at": "2026-06-03 16:59:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "PerplexityのAIエージェント「Personal Computer」、タスクを端末とクラウドに自動振り分けへ",
+    "url": "https://japan.cnet.com/article/35248398/",
+    "summary": "PerplexityがAIエージェント『Personal Computer』を強化。タスクを端末とクラウド間で自動振り分けするハイブリッドシステムを導入し、プライバシーと効率を両立する設計に。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "エッジとクラウドのハイブリッド処理は実運用・コスト・プライバシーに影響するため開発者・情シスに有益。",
+    "published_at": "2026-06-03 15:40:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "CAMPFIRE「従業員がGitHub認証情報を個人開発サーバに誤アップロード」 不正アクセスの原因公表",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news114.html",
+    "summary": "CAMPFIREが不正アクセスの原因を公表。従業員がGitHubの認証情報を個人用サーバに誤ってアップロードし、第三者に悪用されたという。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "認証情報管理の人的ミスによる侵害は多くの組織に当てはまる教訓的事例のため掲載価値あり。",
+    "published_at": "2026-06-03 15:28:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "進捗や目標を投入→AIが分かりやすいWebダッシュボードに、チーム間共有も OpenAI、Codexに新機能「Sites」",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news100.html",
+    "summary": "OpenAIがCodexの新機能『Sites』を発表。進捗や目標を投入するとAIがWebダッシュボードやアプリを生成し、URLでチーム共有できる。Business/Enterpriseでプレビュー提供。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発者向け生産性向上機能だが限定プレビューで幅は狭いため評価は控えめ。",
+    "published_at": "2026-06-03 14:00:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft、自社開発した7つのAIモデル発表 画像編集や音声認識も",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news077.html",
+    "summary": "Microsoftが7つの自社AIモデル群『Microsoft AI Models』を発表。生成や認識分野をカバーし、企業向けの選択肢を拡充する狙い。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "大手プラットフォーマのモデル公開は産業・クラウド戦略に影響し、企業ITの選択肢を変えるため。",
+    "published_at": "2026-06-03 11:03:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft、AIエージェント用のカスタマイズ可能な分離環境「Microsoft Execution Containers」発表 OpenClawも動作",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news074.html",
+    "summary": "MicrosoftがAIエージェント用の分離環境『Microsoft Execution Containers（MXC）』を発表。エージェントの安全な実行・隔離を目的とした仕組みで拡張性を重視。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "エージェント運用の安全性・運用性に関わる重要な基盤技術で企業導入に直結するため。",
+    "published_at": "2026-06-03 11:02:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "トランプ米大統領、AI安全保障に関する大統領令に署名 最先端モデルを公開30日前に政府が検査可能に",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news068.html",
+    "summary": "トランプ大統領がAIの安全保障を巡る大統領令に署名。政府が最先端モデルを事前検査できる任意枠組みを構築し、CISAや国防省の関与を強化する。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "米国の政策はグローバルなAI開発・運用に影響を与えるため企業戦略に重要。",
+    "published_at": "2026-06-03 09:42:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "シャドーAIに「ログイン情報」を渡している割合は？ Oktaの実態調査で判明",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/03/news043.html",
+    "summary": "調査で多くの従業員がシャドーAIを利用し、一部はログイン情報など機密情報をAIに渡している実態が明らかに。経営陣の認識とのギャップも示唆。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "シャドーIT／シャドーAIは企業の情報漏えいリスクを高め、情シスの対策が急務であるため。",
+    "published_at": "2026-06-03 08:00:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft、AndroidベースのAIエージェント基盤「Solara」発表 Snapdragon搭載のバッジ型端末も披露",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
+    "summary": "MicrosoftがAIエージェント実行に特化した『Project Solara』を発表。AOSPベースOSとバッジ型端末などリファレンスを公開し、企業でのパイロットを開始。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "エージェントファーストのプラットフォームと端末の組合せは企業導入・運用モデルを変えうるため重要。",
+    "published_at": "2026-06-03 07:49:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Amazon Bedrockで「GPT-5.5」解禁、Codexでも利用可能 USリージョンのみ、日本リージョンは未定",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000051/",
+    "summary": "OpenAIのフロンティアモデルがAmazon Bedrock経由で利用可能に。GPT-5.5を含む提供は当面米国リージョン限定で、日本での対応時期は未定。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "主要クラウド経由での最先端モデル提供はクラウド戦略と企業利用に直結するため重要。",
+    "published_at": "2026-06-03 05:38:42",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft、NVIDIAのSoC搭載でAI特化のミニPC「Surface RTX Spark Dev Box」披露",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news063.html",
+    "summary": "MicrosoftがNVIDIA『RTX Spark』搭載のAI特化ミニPCを披露。ローカルで大規模モデルの推論や学習が可能とし、開発者向けに訴求する。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "高性能ローカルAIハードは開発ワークフローと半導体需要に影響するが範囲は限定的。",
+    "published_at": "2026-06-03 04:50:00",
+    "created_at": "2026-06-04 08:10:16"
+  },
+  {
     "source": "＠IT",
     "title": "Cisco年次イベントの目玉は“超統合”AgenticOps基盤「Cisco Cloud Control」",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/02/news126.html",
@@ -671,17 +825,6 @@
     "created_at": "2026-05-28 06:31:21"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "NotebookLMの「ソースが古いまま」問題が起こらないように Googleドライブのファイル更新を自動で反映",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/27/news102.html",
-    "summary": "GoogleはNotebookLMにGoogleドライブ同期機能を追加予定。ドライブ上のファイル更新をNotebookLMに自動反映し、ソース古さの問題を緩和する。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "生成AIの信頼性・運用性に関する改善で、エンドユーザーの実務利用に役立つが業界全体の構造変化ほどではないため中程度評価。",
-    "published_at": "2026-05-27 15:11:00",
-    "created_at": "2026-05-28 06:31:21"
-  },
-  {
     "source": "＠IT",
     "title": "「空冷」ではもう無理 AI時代のデータセンターで「液冷」を選ぶ“必然”",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/27/news049.html",
@@ -737,17 +880,6 @@
     "created_at": "2026-05-28 06:31:21"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "Dropboxの共同創業者、ヒューストンCEOが退任して会長へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/27/news067.html",
-    "summary": "Dropboxは共同創業者ドリュー・ヒューストンがCEOを退任し取締役会長に。後任に現製品責任者のアシュラフ・アルカルミ氏が就く人事を発表した。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "主要クラウド／SaaS企業の経営交代は市場戦略やプロダクト方針に影響するため要注目だが即時的リスクは限定的。",
-    "published_at": "2026-05-27 08:37:00",
-    "created_at": "2026-05-28 06:31:21"
-  },
-  {
     "source": "＠IT",
     "title": "Claude Mythosが1万件超の脆弱性を発見 その裏で開発者コミュニティーに走る緊張",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/27/news055.html",
@@ -800,17 +932,6 @@
     "category": "法規制",
     "reason": "コンテンツ産業からの正式な声は権利問題の政策議論や事業者の対応に影響を与えるため掲載価値が高い。",
     "published_at": "2026-05-27 03:08:13",
-    "created_at": "2026-05-28 06:31:21"
-  },
-  {
-    "source": "Publickey",
-    "title": "ついにMonoランタイムを脱却する「.NET MAUI」。Xamarinから続いてきたMonoランタイムをCoreCLRに移行",
-    "url": "https://www.publickey1.jp/blog/26/mononet_mauixamarinmonocoreclr.html",
-    "summary": ".NET MAUIのiOS/Androidランタイムが今秋の.NET 11でCoreCLRに移行予定。Xamarin時代からのMono依存を脱却する大きな技術変更だ。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "クロスプラットフォーム開発環境の基盤変更はモバイル開発者に影響するため注目度があるが限定的な対象者向け。",
-    "published_at": "2026-05-27 00:42:28",
     "created_at": "2026-05-28 06:31:21"
   },
   {
