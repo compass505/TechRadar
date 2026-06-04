@@ -1,6 +1,171 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "GMOペイメントゲートウェイの決済で障害、出前館など一時ネット支払いできず",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news123.html",
+    "summary": "GMOペイメントゲートウェイの複数決済サービスで約1時間の障害が発生し、ネット通販やフードデリバリーなどで決済不能となった。5月にも同社の障害が複数回発生している。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "決済インフラの停止は商取引に直接影響。情シス・経営判断で対策／冗長化検討が必要な事例。",
+    "published_at": "2026-06-04 18:55:00",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "TSMC、AI活用拡大による成長維持に自信 株主総会、東京エレクトロンとの取引は継続",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news119.html",
+    "summary": "TSMCのCEOは株主総会で、AI活用拡大により最先端技術と製造能力の価値が成長すると述べ、今後の成長維持に強い自信を示した。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "世界最大のファウンドリのAI戦略・市場見通しは半導体サプライチェーンと関連企業に大きな示唆を与える。",
+    "published_at": "2026-06-04 17:55:00",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "患者1365人分の個人情報漏えいか 看護師が私物PCに情報保存→サポート詐欺被害に 藤田医科大学病院",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news111.html",
+    "summary": "看護師が院内規程に反して患者情報を私物PCに保存し、サポート詐欺被害に遭ったことで1365人分の個人情報が外部に流出した可能性を病院が発表した。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "医療データの大量流出リスクと内部ルール違反による情報管理の脆弱性はコンプライアンス／事業継続に重大な影響。",
+    "published_at": "2026-06-04 16:55:00",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "東芝や無印良品など、複数の企業で「不審なログイン画面」 各社が注意呼びかけ 「polyfill io」経由か",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news102.html",
+    "summary": "複数企業サイトで不審な認証画面が表示される事象が相次ぎ、共通の起点が外部サービス「polyfill.io」と疑われている。各社は情報漏えいを否定するが、利用者にパスワード変更を促している。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "外部サービス経由のサプライチェーン系フィッシング/乗っ取り懸念で複数大手に波及、企業と情シスに影響の大きい事案。",
+    "published_at": "2026-06-04 16:47:00",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "日本における「AIのものさし」を作る 東大松尾研らが「Japan AI Index」始動",
+    "url": "https://www.watch.impress.co.jp/docs/news/2114466.html",
+    "summary": "東京大学松尾・岩澤研究室とPKSHA、Anthropicが協業し、生成AIの社会的インパクトを継続観測する『Japan AI Index』を構築。初回レポートを年内に公開予定。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "国内の政策・産業判断に資する観測基盤で、AI導入の社会的影響可視化というガバナンス面で重要。",
+    "published_at": "2026-06-04 15:45:40",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Key新作「anemoi」マスターデータ流出、個人情報も漏えいか ビジュアルアーツに不正アクセス 取引先のマイナンバーも",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news098.html",
+    "summary": "ゲームメーカーのマスターデータが発売前に流出した件の調査で、個人情報流出の可能性が判明。取引先のマイナンバー等、センシティブ情報も含まれる可能性があるとされる。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "制作物・リリース前情報と個人データを狙った不正アクセスはデジタルコンテンツ産業と個人情報保護の観点で警戒が必要。",
+    "published_at": "2026-06-04 14:12:00",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Meta、24時間顧客対応するAIエージェント「Meta Business Agent」をInstagramなどでグローバル展開",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news092.html",
+    "summary": "Metaが企業向けAIエージェント「Meta Business Agent」のグローバル提供を開始。InstagramやMessenger経由での24時間自動顧客対応や外部システム連携を想定し、先行提供を開始。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "ソーシャルチャネルでのAI自動化が小売・ECの顧客体験とコスト構造に即時的な影響を与える可能性がある。",
+    "published_at": "2026-06-04 13:22:00",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "開始5日で障害、気象庁「線状降水帯直前予測」復旧 ソフトウェア不具合が原因",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news074.html",
+    "summary": "気象庁の「線状降水帯直前予測」サービスで開始から5日で障害が発生。原因はシステムソフトウェアの一部不具合で、現在は復旧済み。",
+    "importance": 3,
+    "category": "その他",
+    "reason": "公共の予測情報の不具合は防災対応に直結するため、開発・運用体制と信頼性の観点で重要な事例。",
+    "published_at": "2026-06-04 10:55:00",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、AI検索への表示を拒否できるWebオーナー向けトグル機能のテスト開始",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news071.html",
+    "summary": "GoogleがSearch Consoleに、AI検索（AI Overviews等）への自社ページ表示を拒否するトグル機能をテスト導入。拒否しても通常検索結果は維持される。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "パブリッシャーのトラフィックやコンテンツ交渉力に直結する機能で、プラットフォームと媒体の関係に影響する実務的な変更。",
+    "published_at": "2026-06-04 10:07:00",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "オートデスク、主要製品向けにAIアシスタント機能を展開 Fusion向けMCPも",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/04/news037.html",
+    "summary": "Autodeskが主要製品にAIアシスタント『Autodesk Assistant』のテックプレビュー提供を開始。設計データや業務コンテキスト理解と外部AI連携を想定する。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "設計・製造分野でのAI組込みがワークフローと生産性を変える事例で、エンタープライズ導入の先行指標になる。",
+    "published_at": "2026-06-04 09:00:00",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "ServiceNowとAccenture、エージェント型AIを全社展開する「FDE」を開始",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news024.html",
+    "summary": "ServiceNowとAccentureが、エージェント型AIを実証実験から全社展開へ移すためのプログラム『FDE』を開始。導入拡大の課題を解決する枠組みを提示する。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "エンタープライズでのエージェントAIスケール化に向けた実務的アプローチは情シス戦略に直接役立つ。",
+    "published_at": "2026-06-04 08:00:00",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SpaceX、IPOで750億ドル（約12兆円）調達へ 時価総額は1兆7700億ドルの見通し",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news065.html",
+    "summary": "SpaceXがIPOで750億ドルを調達する計画をSECに提出。時価総額は約1兆7700億ドルと見込まれている。AI関連市場の潜在性にも言及。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "大規模IPOは資本市場と宇宙／AI投資の流れに影響するが、直接の技術影響は中長期的。",
+    "published_at": "2026-06-04 07:16:00",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Alphabet、AI資本調達で需要超過 公募などで450億ドル確保、総額850億ドル計画へ",
+    "url": "https://www.impress.co.jp/docs/news/2114646.html",
+    "summary": "Alphabetは株式調達で約450億ドルを確保、総額で850億ドルを見込み、AIインフラやデータセンターへの巨額投資に充てる方針を示した。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "主要テック企業による巨額資金調達はクラウド/データセンター市場とAIインフラ投資の方向性を左右する重要ニュース。",
+    "published_at": "2026-06-04 06:39:00",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「Gemma 4 12B」登場 メモリ16GBのノートPCでも動作するマルチモーダルモデル",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000055/",
+    "summary": "Googleがマルチモーダルのオープンモデル「Gemma 4 12B」を発表。統合アーキテクチャで16GBメモリのノートPCでもローカル動作可能、Apache 2.0での提供。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "ローカルで動く高性能オープン・マルチモーダルモデルは開発者・製品戦略に直結し、検証や商用利用のハードルを下げる。",
+    "published_at": "2026-06-04 01:38:23",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "Publickey",
+    "title": "マイクロソフト、AIエージェントにWindowsアプリ開発の知識を与える「Windows Development Skills」を一般提供開始",
+    "url": "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
+    "summary": "MicrosoftがAIエージェントにWindowsアプリ開発ライフサイクルの知識を与える『Windows Development Skills』を一般提供開始。開発支援の自動化を強化する狙い。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "プラットフォーム提供側が開発知識をエージェント化する動きは、開発効率とツールチェーン戦略に影響するため開発者注目の話題。",
+    "published_at": "2026-06-04 00:11:06",
+    "created_at": "2026-06-05 06:19:53"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "阿波銀行の情報漏えい、被害のテスト環境は「本来廃止すべきだった」 システム高度化作業でも利用",
     "url": "https://www.itmedia.co.jp/news/articles/2606/03/news138.html",
     "summary": "阿波銀行が顧客情報漏えいの調査結果を公表。侵害を受けたテスト環境は廃止されるべきだったがAIを用いた作業に転用されていた。管理体制の不備で役員処分が実施。",
@@ -64,6 +229,17 @@
     "reason": "認証情報管理の人的ミスによる侵害は多くの組織に当てはまる教訓的事例のため掲載価値あり。",
     "published_at": "2026-06-03 15:28:00",
     "created_at": "2026-06-04 08:10:16"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "PCなどの使用済みIT機器を再生材に NTTと三菱マテ、新会社「NTTサーキュラスト」設立へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news096.html",
+    "summary": "NTTと三菱マテリアルが使用済みIT機器や通信設備の回収・再資源化を一貫で行う新会社『NTTサーキュラスト』を7月1日に設立する。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "IT資産の循環・調達リスク低減とサステナビリティ対応の実務面で意義があり、情シス向けの関心事。",
+    "published_at": "2026-06-03 15:20:00",
+    "created_at": "2026-06-05 06:19:53"
   },
   {
     "source": "ITmedia NEWS",
@@ -683,17 +859,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "「先週いくら使った？」ChatGPTが即答 資産管理のマネーツリーに新機能",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news144.html",
-    "summary": "MUFGとマネーツリーが「Apps in ChatGPT」を通じて、ChatGPT上で口座残高や取引明細を自然会話で確認できるサービスを開始。既存ユーザーは連携で利用可能。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "金融と大規模対話AIの連携は利便性とプライバシー・セキュリティ面で注目だが、影響範囲はまず既存ユーザー中心。",
-    "published_at": "2026-05-28 19:30:00",
-    "created_at": "2026-05-29 07:17:22"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "レノボ、国内に“水冷AIインフラ”の検証施設 GPUサーバ需要増で水冷活用促す",
     "url": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
     "summary": "レノボ・ジャパンがGPUサーバ向けの水冷技術を検証する「Neptuneラボ」を日本で新設。顧客向けのPoC環境として本番に近い検証を提供し、機器構成の推奨も行う。",
@@ -701,17 +866,6 @@
     "category": "クラウド",
     "reason": "AIインフラ需要に応える冷却ソリューションの実地検証施設はデータセンター設計や運用コストに影響する実用的ニュース。",
     "published_at": "2026-05-28 19:25:00",
-    "created_at": "2026-05-29 07:17:22"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "ヤマハ、ネットワーク機器値上げ 20万円アップの製品も",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news143.html",
-    "summary": "ヤマハが7月1日以降、ルーターや無線AP、スイッチなどの価格を改定。半導体や輸送コスト上昇を理由に、製品によっては数千円〜約20万円の値上げとなる。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "企業のハードウェア調達コストに直結するため情シスの購買計画に影響を及ぼすが業界全体への即時危機度は中程度。",
-    "published_at": "2026-05-28 19:17:00",
     "created_at": "2026-05-29 07:17:22"
   },
   {

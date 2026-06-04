@@ -1298,33 +1298,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "121d7ece7fe1",
-    "title": "「先週いくら使った？」ChatGPTが即答 資産管理のマネーツリーに新機能",
-    "published_date": "2026-05-28",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "MUFGとマネーツリーが「Apps in ChatGPT」を通じて、ChatGPT上で口座残高や取引明細を自然会話で確認できるサービスを開始。既存ユーザーは連携で利用可能。",
-    "reason": "金融と大規模対話AIの連携は利便性とプライバシー・セキュリティ面で注目だが、影響範囲はまず既存ユーザー中心。",
-    "published_at": "2026-05-28 19:30:00",
-    "created_at": "2026-05-29 07:17:22",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/28/news144.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "02dcd8b52737",
     "title": "「答弁原案も作成」 政府職員10万人が生成AI「源内」利用可能に デジタル庁が大規模実証開始",
     "published_date": "2026-05-28",
@@ -1381,33 +1354,6 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
-  },
-  {
-    "id": "861c664ac86a",
-    "title": "ヤマハ、ネットワーク機器値上げ 20万円アップの製品も",
-    "published_date": "2026-05-28",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "ヤマハが7月1日以降、ルーターや無線AP、スイッチなどの価格を改定。半導体や輸送コスト上昇を理由に、製品によっては数千円〜約20万円の値上げとなる。",
-    "reason": "企業のハードウェア調達コストに直結するため情シスの購買計画に影響を及ぼすが業界全体への即時危機度は中程度。",
-    "published_at": "2026-05-28 19:17:00",
-    "created_at": "2026-05-29 07:17:22",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/28/news143.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "e045ef959513",
@@ -2938,6 +2884,33 @@
     "has_itmedia_article": true
   },
   {
+    "id": "80ca4f4622eb",
+    "title": "PCなどの使用済みIT機器を再生材に NTTと三菱マテ、新会社「NTTサーキュラスト」設立へ",
+    "published_date": "2026-06-03",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "NTTと三菱マテリアルが使用済みIT機器や通信設備の回収・再資源化を一貫で行う新会社『NTTサーキュラスト』を7月1日に設立する。",
+    "reason": "IT資産の循環・調達リスク低減とサステナビリティ対応の実務面で意義があり、情シス向けの関心事。",
+    "published_at": "2026-06-03 15:20:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news096.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
     "id": "c681bcc9c7da",
     "title": "PerplexityのAIエージェント「Personal Computer」、タスクを端末とクラウドに自動振り分けへ",
     "published_date": "2026-06-03",
@@ -3132,6 +3105,420 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "3d3467fcb3fc",
+    "title": "Alphabet、AI資本調達で需要超過 公募などで450億ドル確保、総額850億ドル計画へ",
+    "published_date": "2026-06-04",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "Alphabetは株式調達で約450億ドルを確保、総額で850億ドルを見込み、AIインフラやデータセンターへの巨額投資に充てる方針を示した。",
+    "reason": "主要テック企業による巨額資金調達はクラウド/データセンター市場とAIインフラ投資の方向性を左右する重要ニュース。",
+    "published_at": "2026-06-04 06:39:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.impress.co.jp/docs/news/2114646.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "7273002fb9b7",
+    "title": "GMOペイメントゲートウェイの決済で障害、出前館など一時ネット支払いできず",
+    "published_date": "2026-06-04",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "GMOペイメントゲートウェイの複数決済サービスで約1時間の障害が発生し、ネット通販やフードデリバリーなどで決済不能となった。5月にも同社の障害が複数回発生している。",
+    "reason": "決済インフラの停止は商取引に直接影響。情シス・経営判断で対策／冗長化検討が必要な事例。",
+    "published_at": "2026-06-04 18:55:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news123.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0edacfaa13b1",
+    "title": "Google、AI検索への表示を拒否できるWebオーナー向けトグル機能のテスト開始",
+    "published_date": "2026-06-04",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "GoogleがSearch Consoleに、AI検索（AI Overviews等）への自社ページ表示を拒否するトグル機能をテスト導入。拒否しても通常検索結果は維持される。",
+    "reason": "パブリッシャーのトラフィックやコンテンツ交渉力に直結する機能で、プラットフォームと媒体の関係に影響する実務的な変更。",
+    "published_at": "2026-06-04 10:07:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news071.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "46b3f6ad079b",
+    "title": "Key新作「anemoi」マスターデータ流出、個人情報も漏えいか ビジュアルアーツに不正アクセス 取引先のマイナンバーも",
+    "published_date": "2026-06-04",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "ゲームメーカーのマスターデータが発売前に流出した件の調査で、個人情報流出の可能性が判明。取引先のマイナンバー等、センシティブ情報も含まれる可能性があるとされる。",
+    "reason": "制作物・リリース前情報と個人データを狙った不正アクセスはデジタルコンテンツ産業と個人情報保護の観点で警戒が必要。",
+    "published_at": "2026-06-04 14:12:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news098.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d79402507d27",
+    "title": "Meta、24時間顧客対応するAIエージェント「Meta Business Agent」をInstagramなどでグローバル展開",
+    "published_date": "2026-06-04",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Metaが企業向けAIエージェント「Meta Business Agent」のグローバル提供を開始。InstagramやMessenger経由での24時間自動顧客対応や外部システム連携を想定し、先行提供を開始。",
+    "reason": "ソーシャルチャネルでのAI自動化が小売・ECの顧客体験とコスト構造に即時的な影響を与える可能性がある。",
+    "published_at": "2026-06-04 13:22:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news092.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1f202a62aff0",
+    "title": "ServiceNowとAccenture、エージェント型AIを全社展開する「FDE」を開始",
+    "published_date": "2026-06-04",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "ServiceNowとAccentureが、エージェント型AIを実証実験から全社展開へ移すためのプログラム『FDE』を開始。導入拡大の課題を解決する枠組みを提示する。",
+    "reason": "エンタープライズでのエージェントAIスケール化に向けた実務的アプローチは情シス戦略に直接役立つ。",
+    "published_at": "2026-06-04 08:00:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news024.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "cea678358146",
+    "title": "SpaceX、IPOで750億ドル（約12兆円）調達へ 時価総額は1兆7700億ドルの見通し",
+    "published_date": "2026-06-04",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "SpaceXがIPOで750億ドルを調達する計画をSECに提出。時価総額は約1兆7700億ドルと見込まれている。AI関連市場の潜在性にも言及。",
+    "reason": "大規模IPOは資本市場と宇宙／AI投資の流れに影響するが、直接の技術影響は中長期的。",
+    "published_at": "2026-06-04 07:16:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news065.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "94bafcea7b6f",
+    "title": "TSMC、AI活用拡大による成長維持に自信 株主総会、東京エレクトロンとの取引は継続",
+    "published_date": "2026-06-04",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "TSMCのCEOは株主総会で、AI活用拡大により最先端技術と製造能力の価値が成長すると述べ、今後の成長維持に強い自信を示した。",
+    "reason": "世界最大のファウンドリのAI戦略・市場見通しは半導体サプライチェーンと関連企業に大きな示唆を与える。",
+    "published_at": "2026-06-04 17:55:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news119.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f9eb0d4e7feb",
+    "title": "「Gemma 4 12B」登場 メモリ16GBのノートPCでも動作するマルチモーダルモデル",
+    "published_date": "2026-06-04",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "Googleがマルチモーダルのオープンモデル「Gemma 4 12B」を発表。統合アーキテクチャで16GBメモリのノートPCでもローカル動作可能、Apache 2.0での提供。",
+    "reason": "ローカルで動く高性能オープン・マルチモーダルモデルは開発者・製品戦略に直結し、検証や商用利用のハードルを下げる。",
+    "published_at": "2026-06-04 01:38:23",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000055/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5ac52dc3da19",
+    "title": "オートデスク、主要製品向けにAIアシスタント機能を展開 Fusion向けMCPも",
+    "published_date": "2026-06-04",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Autodeskが主要製品にAIアシスタント『Autodesk Assistant』のテックプレビュー提供を開始。設計データや業務コンテキスト理解と外部AI連携を想定する。",
+    "reason": "設計・製造分野でのAI組込みがワークフローと生産性を変える事例で、エンタープライズ導入の先行指標になる。",
+    "published_at": "2026-06-04 09:00:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2606/04/news037.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "926bc28b74f7",
+    "title": "マイクロソフト、AIエージェントにWindowsアプリ開発の知識を与える「Windows Development Skills」を一般提供開始",
+    "published_date": "2026-06-04",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "MicrosoftがAIエージェントにWindowsアプリ開発ライフサイクルの知識を与える『Windows Development Skills』を一般提供開始。開発支援の自動化を強化する狙い。",
+    "reason": "プラットフォーム提供側が開発知識をエージェント化する動きは、開発効率とツールチェーン戦略に影響するため開発者注目の話題。",
+    "published_at": "2026-06-04 00:11:06",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5eeb0d577901",
+    "title": "患者1365人分の個人情報漏えいか 看護師が私物PCに情報保存→サポート詐欺被害に 藤田医科大学病院",
+    "published_date": "2026-06-04",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "看護師が院内規程に反して患者情報を私物PCに保存し、サポート詐欺被害に遭ったことで1365人分の個人情報が外部に流出した可能性を病院が発表した。",
+    "reason": "医療データの大量流出リスクと内部ルール違反による情報管理の脆弱性はコンプライアンス／事業継続に重大な影響。",
+    "published_at": "2026-06-04 16:55:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news111.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "703b8006b7d4",
+    "title": "日本における「AIのものさし」を作る 東大松尾研らが「Japan AI Index」始動",
+    "published_date": "2026-06-04",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "東京大学松尾・岩澤研究室とPKSHA、Anthropicが協業し、生成AIの社会的インパクトを継続観測する『Japan AI Index』を構築。初回レポートを年内に公開予定。",
+    "reason": "国内の政策・産業判断に資する観測基盤で、AI導入の社会的影響可視化というガバナンス面で重要。",
+    "published_at": "2026-06-04 15:45:40",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2114466.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "04ba63e5452f",
+    "title": "東芝や無印良品など、複数の企業で「不審なログイン画面」 各社が注意呼びかけ 「polyfill io」経由か",
+    "published_date": "2026-06-04",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "複数企業サイトで不審な認証画面が表示される事象が相次ぎ、共通の起点が外部サービス「polyfill.io」と疑われている。各社は情報漏えいを否定するが、利用者にパスワード変更を促している。",
+    "reason": "外部サービス経由のサプライチェーン系フィッシング/乗っ取り懸念で複数大手に波及、企業と情シスに影響の大きい事案。",
+    "published_at": "2026-06-04 16:47:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news102.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0c211ad565ab",
+    "title": "開始5日で障害、気象庁「線状降水帯直前予測」復旧 ソフトウェア不具合が原因",
+    "published_date": "2026-06-04",
+    "importance_score": 3,
+    "category": "その他",
+    "summary": "気象庁の「線状降水帯直前予測」サービスで開始から5日で障害が発生。原因はシステムソフトウェアの一部不具合で、現在は復旧済み。",
+    "reason": "公共の予測情報の不具合は防災対応に直結するため、開発・運用体制と信頼性の観点で重要な事例。",
+    "published_at": "2026-06-04 10:55:00",
+    "created_at": "2026-06-05 06:19:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news074.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
     "has_itmedia_article": true
   }
 ]
