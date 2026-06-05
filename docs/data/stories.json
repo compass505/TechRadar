@@ -1442,35 +1442,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "a0d310934780",
-    "title": "JR西日本は“熟練者が手書きするしかなかった車両作業計画”をAIでどう自動化するのか？",
-    "published_date": "2026-05-29",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "JR西日本が熟練者手書きだった車両基地作業計画をAIで自動作成するシステムを開発中。運用効率化と熟練知識の形式化が狙い。",
-    "reason": "現場業務のAI自動化事例として参考になるが対象範囲は限定的なため評価は控えめ。",
-    "published_at": "2026-05-29 17:00:00",
-    "created_at": "2026-05-30 06:30:27",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news103.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
     "id": "d5c4bc0351e9",
     "title": "LLMを「危ないプロンプト」から守る“総務省お墨付き”の具体策とは？",
     "published_date": "2026-05-29",
@@ -3519,6 +3490,369 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
     "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "97751b7dc7a8",
+    "title": "AIで「生物兵器を簡単に作れる時代」到来--OpenAIらが米議会に「合成DNA規制」を要請",
+    "published_date": "2026-06-05",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "主要AI企業トップが合成DNAの取り扱い規制強化を米政府に要請。生成AIの進化がバイオリスクを高めるとの懸念が背景。",
+    "reason": "AIの進展が公共安全・規制に直結する事案で、技術者・経営層・政策担当者にとって重要な政策議題。",
+    "published_at": "2026-06-05 05:57:00",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35248471/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "b6b4516dc27e",
+    "title": "ChatGPTの“記憶”を刷新 メモリ機能の新基盤展開、無料ユーザーへも順次",
+    "published_date": "2026-06-05",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "OpenAIがChatGPTのメモリ機能を新基盤『Dreaming V3』で強化。過去会話の文脈追従を向上させ、順次全ユーザーへ展開予定。",
+    "reason": "製品アップデートとして有用だが、戦略的・制度的インパクトは限定的のため中程度の重要度。",
+    "published_at": "2026-06-05 12:50:00",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/05/news091.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a54da7412b54",
+    "title": "Google、AIエージェント向け「Android CLI」を正式公開 アプリ開発が“3倍高速”に",
+    "published_date": "2026-06-05",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "GoogleがAIエージェントを利用したAndroid開発ツール『Android CLI』1.0をリリース。エージェント駆動で開発効率が大幅向上すると謳う。",
+    "reason": "開発ワークフローを変える可能性があり、開発チームやプロダクト戦略に直接関係するため重要。",
+    "published_at": "2026-06-05 13:00:00",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news061.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "8142f0573e7b",
+    "title": "Google、クリエイターとパブリッシャー向け「検索プロフィール」導入 AI検索での流入減批判受け",
+    "published_date": "2026-06-05",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "Googleが検索結果での存在感を高める『Search profiles』を発表。クリエイター・出版社が公式情報を集約できる機能で、AI検索による流入減への対応策。",
+    "reason": "パブリッシャーやSEO戦略に影響するプラットフォーム変化で、広告・コンテンツ事業者に有用な情報。",
+    "published_at": "2026-06-05 09:18:00",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/05/news072.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b8571f73d384",
+    "title": "moomoo証券、監視委が処分勧告 NISA対象外を「対象」と虚偽説明 顧客対応も「著しく杜撰」",
+    "published_date": "2026-06-05",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "証券取引等監視委員会がmoomoo証券に対し金融庁への行政処分勧告。NISA対象外商品を対象と虚偽説明するなど投資者保護上の重大な問題を指摘。",
+    "reason": "金融商品販売の不正・行政処分勧告はフィンテック事業者やコンプライアンスに直接影響するため業界関係者は注目すべき。",
+    "published_at": "2026-06-05 20:20:00",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/05/news124.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b6943e5ef959",
+    "title": "ぐるなびが“脱VPN” 「リスクが減り、コストも4割減」をどう実現？",
+    "published_date": "2026-06-05",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "ぐるなびがVPN廃止でリモートアクセスを再設計し、セキュリティ向上と運用コスト約4割削減を実現した事例を解説。",
+    "reason": "実務的なネットワーク設計・運用の成功事例で、情シスの意思決定やクラウド移行戦略に参考になるため掲載する価値がある。",
+    "published_at": "2026-06-05 13:00:00",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news054.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "798017aa4f8a",
+    "title": "アンソロピック、AI開発の「減速」を提言",
+    "published_date": "2026-06-05",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "AnthropicがAI開発の調整・減速の枠組み設置を提言。人間の制御喪失リスクに対する国際的な協調を呼びかけている。",
+    "reason": "業界の倫理・ガバナンス議論を刺激する提言で、政策・企業戦略に影響する可能性があるため掲載に値する。",
+    "published_at": "2026-06-05 21:30:08",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2115005.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "76cc159bc052",
+    "title": "ヤマダHDとエディオン、経営統合に基本合意 2027年10月めど",
+    "published_date": "2026-06-05",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "ヤマダHDとエディオンが経営統合の基本合意を締結。共同持株会社を設立し、2027年10月発足を目指す。売上規模拡大が見込まれる。",
+    "reason": "小売業界の再編であり、サプライチェーン・販売チャネルに影響するため業界関係者は押さえておくべきニュース。",
+    "published_at": "2026-06-05 13:25:00",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/05/news096.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b7f72b77804f",
+    "title": "中国スパイ、求人サイトで募集 報酬はオンライン決済で数百万円も ファイブアイズが警告",
+    "published_date": "2026-06-05",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "ファイブアイズが、中国の軍事情報機関による求人サイトやSNSを通じたスパイ募集を警告。企業や人材採用のリスク管理を呼びかけている。",
+    "reason": "採用チャネルを悪用したスパイ活動の公表は企業の採用・オンボーディング、サプライチェーンセキュリティに直接影響するため必読。",
+    "published_at": "2026-06-05 10:21:00",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/05/news076.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "4f5ffe25afc2",
+    "title": "家庭用PCでも数秒でサーバを“落とせる”、HTTP/2の脆弱性をCodexが発見 さくらインターネットも対策",
+    "published_date": "2026-06-05",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "HTTP/2の新たなDoS手法「HTTP/2 Bomb」が報告され、少量の通信でWebサーバに過剰負荷をかけ停止させる可能性。ホスティング事業者が早期対策を実施中。",
+    "reason": "実運用サーバに短時間で影響を与え得る脆弱性で、情シス・ホスティング事業者の対応が必須のため掲載価値高い。",
+    "published_at": "2026-06-05 19:40:00",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/05/news119.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "34ede70e48d5",
+    "title": "日本政府、AI「ミュトス」アクセス権獲得 サイバー防衛強化 OpenAIやGoogle、MSとも協議へ",
+    "published_date": "2026-06-05",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "日本政府がAnthropicの最先端モデル『Mythos』へのアクセス権を獲得し、サイバー防衛強化の一環として活用を進める方針を表明。",
+    "reason": "国家レベルで先端AIをサイバー防衛に組み込む動きは、政府・インフラ事業者のセキュリティ戦略に影響するため重要。",
+    "published_at": "2026-06-05 03:59:22",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000056/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1428a83046ca",
+    "title": "普通のAIでも脆弱性を見つけられる今、企業にできる対策は？ Googleが15のポイントを解説",
+    "published_date": "2026-06-05",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "GoogleがAIによる脆弱性発見の加速に対して、企業が取るべき15の具体的対策を公式に解説した。実務向けの優先事項を提示。",
+    "reason": "開発・情シス向けの実務的ガイダンスで、即時のセキュリティ対策に役立つため読者価値が高い。",
+    "published_at": "2026-06-05 13:00:00",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news064.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "18a3d47e58fa",
+    "title": "量子コンピュータが暗号を破る「Q-Day」迫る Googleは2029年を期限に対応、セキュリティ各社も警告",
+    "published_date": "2026-06-05",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "量子コンピュータによる既存暗号解読（Q-Day）に備え、Googleが2029年を目標に対応を進めると公表。セキュリティ業界や政府への対策呼びかけが強まる。",
+    "reason": "暗号基盤への長期的リスクであり、企業・政府の移行計画や調達に大きく影響するため重要度高い。",
+    "published_at": "2026-06-05 08:00:00",
+    "created_at": "2026-06-06 06:12:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/03/news086.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
     "has_itmedia_article": true
   }
 ]
