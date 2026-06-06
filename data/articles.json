@@ -1,5 +1,49 @@
 [
   {
+    "source": "CNET Japan",
+    "title": "JR西日本、ドローン活用で「停電不要」の点検を実現",
+    "url": "https://japan.cnet.com/article/35248538/",
+    "summary": "JR西日本レールテックが、列車運行区間で停電手続きを伴わずにドローンで跨線道路橋の点検を実施。作業の安全性と生産性向上を狙う取り組み。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "鉄道インフラの点検方法に業務効率化と安全性向上をもたらす実運用事例で、他事業者や情シスへの示唆が大きい。",
+    "published_at": "2026-06-06 09:10:00",
+    "created_at": "2026-06-07 04:59:56"
+  },
+  {
+    "source": "＠IT",
+    "title": "「ローカルLLMは本当に手元で動く？」「IT担当不在でも『自走するDX』とは」――ITの“常識”をアップデート",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/06/news013.html",
+    "summary": "＠ITで特に注目を集めた記事10本をランキングで紹介。ローカルLLMの運用可否や、IT担当不在で進めるDXなど実務視点の話題が並ぶ。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "ローカルLLMや自走するDXといった実務的テーマがまとまっており、情シスや経営判断の参考になるが速報性・独自性は中程度。",
+    "published_at": "2026-06-06 08:00:00",
+    "created_at": "2026-06-07 04:59:56"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "ISSで新たな空気漏れ、宇宙飛行士5人が一時退避",
+    "url": "https://japan.cnet.com/article/35248537/",
+    "summary": "国際宇宙ステーションのロシア区画で空気漏れが確認され、乗員5人が一時SpaceXのDragonへ退避。数時間後に通常業務へ復帰した。",
+    "importance": 2,
+    "category": "その他",
+    "reason": "乗員の一時退避を伴う安全インシデントで注目度は高いが、地上ITや業界影響は限定的。",
+    "published_at": "2026-06-06 06:45:00",
+    "created_at": "2026-06-07 04:59:56"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "AIの進化で世界はどうなる？ Anthropicが「3つの将来シナリオ」公開--SF的な未来も",
+    "url": "https://japan.cnet.com/article/35248536/",
+    "summary": "Anthropicの論考で、AIがAIを開発する未来のシナリオを提示。自社のコードベースでAIが生成するコードが80%以上に達していると主張。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "AIが開発プロセスを主導する実例・主張は開発体制や企業戦略、労働構造に直接影響するため業界注目度が高い。",
+    "published_at": "2026-06-06 06:31:00",
+    "created_at": "2026-06-07 04:59:56"
+  },
+  {
     "source": "Impress Watch",
     "title": "アンソロピック、AI開発の「減速」を提言",
     "url": "https://www.watch.impress.co.jp/docs/news/2115005.html",
@@ -801,17 +845,6 @@
     "reason": "開発プロセスとツールの変化が直接的に組織の攻撃面を拡大しており、情シス・開発・セキュリティの対応が急務なため。",
     "published_at": "2026-05-31 08:00:00",
     "created_at": "2026-06-01 04:52:36"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「作れば売れる」時代の終わり――岐路に立たされるアニメ業界、決算が映す各社の“明暗”を分けたもの",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/29/news101.html",
-    "summary": "アニメ関連企業の決算から業績格差が浮き彫りに。市場は拡大する一方で制作会社の債務超過や出版事業の悪化など構造的な課題が顕在化している。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "IT/メディア関連のビジネス動向として業界構造や配信ビジネスの潮目変化が経営判断に役立つため。",
-    "published_at": "2026-05-30 10:00:00",
-    "created_at": "2026-05-31 04:52:37"
   },
   {
     "source": "ITmedia NEWS",
