@@ -1900,31 +1900,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "923a08cf4b09",
-    "title": "薄くてモバイルバッテリーでも動いてスマホ操作もできて秋には小さく収納できる「扇風機」を見てきた",
-    "published_date": "2026-05-31",
-    "importance_score": 1,
-    "category": "ガジェット",
-    "summary": "Mijiaの「スマート扇風機 Pro Slim」を展示レビュー。薄型でモバイルバッテリー駆動、付属ケースで収納性が高い点を紹介する実機レポート。",
-    "reason": "消費者向けの新製品レビューで掲載価値はあるが技術的・業界的影響は限定的なため低評価。",
-    "published_at": "2026-05-31 08:14:00",
-    "created_at": "2026-06-01 04:52:36",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/31/news021.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "51aea3f03175",
     "title": "AWS、他クラウドと500Mbpsまでの接続が無料に 「AWS Interconnect - multicloud」に無料枠が登場",
     "published_date": "2026-06-01",
@@ -3937,5 +3912,89 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
+  },
+  {
+    "id": "b494126112ad",
+    "title": "ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策",
+    "published_date": "2026-06-07",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "OpenAIがChatGPT向けに『ロックダウンモード』を提供開始。プロンプトインジェクション対策としてWebブラウジングや外部接続を制限するオプションで、機密データ取り扱い向けを想定。企業や厳格なデータ保護が必要なユーザー向けの機能強化。",
+    "reason": "プロンプトインジェクションへの実用的対策として企業導入や運用ポリシーに影響するが、現時点では機能追加の範囲のため重要度は中程度",
+    "published_at": "2026-06-07 07:22:00",
+    "created_at": "2026-06-08 05:03:08",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d2a42a1f8914",
+    "title": "Gemini需要急増でGoogleがSpaceXと月額9億2000万ドルの大型契約",
+    "published_date": "2026-06-07",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "SEC提出で判明：SpaceXがGoogleにAIコンピューティング能力を提供する大型契約を締結。NVIDIA製GPUなどを月額約9億2000万ドルで利用する。5月のAnthropic契約に続く大口インフラ取引。",
+    "reason": "AIインフラ需要と主要クラウド・ベンダーの供給体制に直接影響する大規模商談で、業界・市場構造に大きな示唆があるため",
+    "published_at": "2026-06-07 09:46:00",
+    "created_at": "2026-06-08 05:03:08",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/07/news024.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5aea272fa217",
+    "title": "テスラの強みは自動運転だけじゃない アップデートで“プチストレス”を解消するユーザー体験に真価あり",
+    "published_date": "2026-06-07",
+    "importance_score": 1,
+    "category": "ガジェット",
+    "summary": "Model 3を4年乗ったオーナーが、ワイパー改善やドッグモード追加など細かなOTAアップデートでの体験改善を報告。地味な進化の積み重ねがユーザー満足に寄与している点を指摘する記事。",
+    "reason": "消費者向けの体験レポートで技術的インパクトは限定的だが、製品戦略やUXの重要性を示す事例として掲載価値あり",
+    "published_at": "2026-06-07 18:30:00",
+    "created_at": "2026-06-08 05:03:08",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/07/news027.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
   }
 ]

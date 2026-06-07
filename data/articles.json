@@ -1,5 +1,38 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "テスラの強みは自動運転だけじゃない アップデートで“プチストレス”を解消するユーザー体験に真価あり",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/07/news027.html",
+    "summary": "Model 3を4年乗ったオーナーが、ワイパー改善やドッグモード追加など細かなOTAアップデートでの体験改善を報告。地味な進化の積み重ねがユーザー満足に寄与している点を指摘する記事。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "消費者向けの体験レポートで技術的インパクトは限定的だが、製品戦略やUXの重要性を示す事例として掲載価値あり",
+    "published_at": "2026-06-07 18:30:00",
+    "created_at": "2026-06-08 05:03:08"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Gemini需要急増でGoogleがSpaceXと月額9億2000万ドルの大型契約",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/07/news024.html",
+    "summary": "SEC提出で判明：SpaceXがGoogleにAIコンピューティング能力を提供する大型契約を締結。NVIDIA製GPUなどを月額約9億2000万ドルで利用する。5月のAnthropic契約に続く大口インフラ取引。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "AIインフラ需要と主要クラウド・ベンダーの供給体制に直接影響する大規模商談で、業界・市場構造に大きな示唆があるため",
+    "published_at": "2026-06-07 09:46:00",
+    "created_at": "2026-06-08 05:03:08"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
+    "summary": "OpenAIがChatGPT向けに『ロックダウンモード』を提供開始。プロンプトインジェクション対策としてWebブラウジングや外部接続を制限するオプションで、機密データ取り扱い向けを想定。企業や厳格なデータ保護が必要なユーザー向けの機能強化。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "プロンプトインジェクションへの実用的対策として企業導入や運用ポリシーに影響するが、現時点では機能追加の範囲のため重要度は中程度",
+    "published_at": "2026-06-07 07:22:00",
+    "created_at": "2026-06-08 05:03:08"
+  },
+  {
     "source": "CNET Japan",
     "title": "JR西日本、ドローン活用で「停電不要」の点検を実現",
     "url": "https://japan.cnet.com/article/35248538/",
@@ -811,17 +844,6 @@
     "category": "クラウド",
     "reason": "欧州での大規模AIインフラ投資は市場構造やクラウド/SI事業者に影響し、事業戦略・規制面でも重要度が高いため。",
     "published_at": "2026-05-31 10:31:00",
-    "created_at": "2026-06-01 04:52:36"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "薄くてモバイルバッテリーでも動いてスマホ操作もできて秋には小さく収納できる「扇風機」を見てきた",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/31/news021.html",
-    "summary": "Mijiaの「スマート扇風機 Pro Slim」を展示レビュー。薄型でモバイルバッテリー駆動、付属ケースで収納性が高い点を紹介する実機レポート。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "消費者向けの新製品レビューで掲載価値はあるが技術的・業界的影響は限定的なため低評価。",
-    "published_at": "2026-05-31 08:14:00",
     "created_at": "2026-06-01 04:52:36"
   },
   {
