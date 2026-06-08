@@ -1930,35 +1930,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "314a1876ccb6",
-    "title": "Claude APIの新機能「アドバイザーツール」の使用方法",
-    "published_date": "2026-06-01",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "AnthropicがClaude APIにβ提供した「アドバイザーツール」を紹介。安価なモデルで通常推論を行い、複雑判断のみ上位モデルに委譲する仕組みを解説。",
-    "reason": "コスト最適化とエージェント設計に直結する実務的なAPI新機能で、開発者・プロダクト担当に参考になるため。",
-    "published_at": "2026-06-01 13:00:00",
-    "created_at": "2026-06-02 08:08:23",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news039.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "1e133b266f20",
     "title": "Google Cloud、高速にフェイルオーバー可能なPostgreSQL互換AlloyDBの新たなホットスタンバイを提供",
     "published_date": "2026-06-01",
@@ -3984,6 +3955,480 @@
     "created_at": "2026-06-08 05:03:08",
     "representative_source": "ITmedia NEWS",
     "representative_url": "https://www.itmedia.co.jp/news/articles/2606/07/news027.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "4637cca77f6f",
+    "title": "AIによるコード生成、3年後は3倍超に AI普及で浮上する課題は",
+    "published_date": "2026-06-08",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "IDC調査では、AI主体でコードを生成する企業の割合が3年で約3倍に拡大すると予測。普及に伴う品質管理やガバナンスなど新たな課題を指摘している。",
+    "reason": "開発プロセスの変化はエンジニアリング組織と経営判断に直結するため、技術トレンドとして重要。",
+    "published_at": "2026-06-08 08:00:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news028.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e6ca9cb126f8",
+    "title": "AIブームの裏で水不足・電気代高騰 エリン・ブロコビッチ氏がデータセンター問題の「可視化」に挑む",
+    "published_date": "2026-06-08",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "環境活動家エリン・ブロコビッチ氏がAIデータセンターに伴う水不足や電力コストの問題を調査・可視化する取り組みを開始。地域社会への影響や規制課題を浮き彫りにする狙い。",
+    "reason": "AIインフラの社会的影響（資源・規制）が注目されており、事業者側の対応や規制動向に関係する。",
+    "published_at": "2026-06-08 16:46:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35248594/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "131089bee059",
+    "title": "CloudflareがViteやRolldownの開発元であるVoidZeroの買収を発表。これでAstroとViteがCloudflareの傘下に",
+    "published_date": "2026-06-08",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "CloudflareがViteやRolldownを開発するVoidZeroを買収し、AstroやViteがCloudflare傘下に。フロントエンド開発ツールチェーンのオーナーシップが変化する。エコシステムと開発者への影響が注目される。",
+    "reason": "主要ビルドツールの買収はWeb開発エコシステムとクラウド事業者の影響力に関わるため開発者向けに重要。",
+    "published_at": "2026-06-08 00:26:45",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "02700199fa3e",
+    "title": "Metaのスマートグラス、顔認識で身元を特定可能に？アプリ内にコード発見",
+    "published_date": "2026-06-08",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Wiredの調査でMetaのスマートグラス向けソフトに顔認識コードが含まれていることが判明。消費者向けには有効化されていないが、アプリ内に該当コードが存在する点が問題視されている。",
+    "reason": "ウェアラブルの顔認識機能はプライバシーと規制問題に直結するため、消費者・企業両面で重大な注目事項。",
+    "published_at": "2026-06-08 11:35:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35248572/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ee5044c030aa",
+    "title": "NEC、富士通に先手!? 日立が「Claude Mythos」アクセス権を取得した背景",
+    "published_date": "2026-06-08",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "日立製作所がAnthropicの先進AI『Claude Mythos』へのアクセス権を取得。国内大手企業による先進モデルへの関与が進み、競争・協業の構図が変わりつつある。",
+    "reason": "国内大手が先進モデルへアクセスする動きは企業AI戦略やパートナーシップに影響し、業界動向把握に有用。",
+    "published_at": "2026-06-08 07:00:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/business/articles/2606/08/news058.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "2bdb5f315567",
+    "title": "OpenAI、上場前にChatGPTの「スーパーアプリ」化を計画 海外報道",
+    "published_date": "2026-06-08",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "英FT報道によればOpenAIはChatGPTをコーディングツールやAIエージェントを備えた“スーパーアプリ”へ刷新し、上場前に収益化を強化する計画。製品戦略の大幅転換が示唆される。",
+    "reason": "OpenAIの事業・収益化戦略はAI市場全体と上場観測に直結するため業界影響が大きい。",
+    "published_at": "2026-06-08 12:35:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/08/news094.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0dd2d6a8c493",
+    "title": "“AIでAIを開発”加速へ Sakana AI 「計算資源の量ではなく、アイデアで進歩」",
+    "published_date": "2026-06-08",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "Sakana AIがAIでAIを開発する研究チームRSI Labを立ち上げ、計算資源に依存しない手法の構築を目指す。効率的なモデル改善の可能性を探る取り組み。",
+    "reason": "研究・技術開発の初期段階だが、計算効率やモデル設計の潮流として技術者にとって興味深い。",
+    "published_at": "2026-06-08 09:09:26",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/08/2000000068/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d0eac73069fe",
+    "title": "「AI＝質問」は遅れてる エージェント型AI「Claude Cowork」、組織展開に向けた管理機能を拡充",
+    "published_date": "2026-06-08",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Anthropicがエージェント型業務支援機能『Claude Cowork』を全有料プランで提供。組織展開に向けた管理機能を強化し、企業での運用を想定した進化を図る。",
+    "reason": "エンタープライズ向けAIエージェントの一般提供は企業導入・運用の実務面で重要な進展。",
+    "published_at": "2026-06-08 13:00:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news062.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c8315613b795",
+    "title": "「サーバ室にあるはずの記憶媒体が行方不明」 九電子会社 最大1090万件分の顧客情報を保存 キャビネット施錠せず",
+    "published_date": "2026-06-08",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "九州電力送配電が、最大1090万口分の顧客情報を保存した外部記憶媒体の所在不明を公表。サーバ室のキャビネットが施錠されていなかった。現時点で流出確認はないが大規模インシデントの懸念がある。",
+    "reason": "数百万〜千万規模の顧客情報が関与する物理的管理不備は重大リスクで、企業IT・規制対応に直結する。",
+    "published_at": "2026-06-08 20:25:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/08/news135.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "4d0cb0a40bd1",
+    "title": "「ゼロトラスト導入でもう迷わない」 NSAが実践ガイドを公開",
+    "published_date": "2026-06-08",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "米国家安全保障局（NSA）がゼロトラスト導入に関する実践ガイドを新たに公開。散在していた実装指針を統合し、企業の具体的な導入手順や優先度を示している。実務者向けの参照資料として価値が高い。",
+    "reason": "ゼロトラスト導入は多くの企業で課題となっており、NSAの公式指針は実装／運用判断に直接役立つ。",
+    "published_at": "2026-06-08 07:30:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news051.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "03a985880bcd",
+    "title": "なぜ姫路市の救急病院AIチャットは、2週間で正答率最高90％を出せたのか？",
+    "published_date": "2026-06-08",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "姫路市での救急病院向けAIチャット実証で、短期間に高い正答率を達成した理由を分析。ナレッジ循環や現場整備など実務で機能させる要点を解説している。",
+    "reason": "現場実証で得られた運用ノウハウは、行政・医療をはじめ他分野の導入判断に直接役立つ事例報告。",
+    "published_at": "2026-06-08 07:00:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/articles/2606/08/news036.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b5762e1fdc75",
+    "title": "オープンソースのRust製コードエディタ「Zed」がバージョン1.0に到達 法人向けプランも",
+    "published_date": "2026-06-08",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "Rustで再実装されたコードエディタ『Zed』が1.0を公開。GPUで動く独自UIや複数AIエージェントの並列実行などAIネイティブ設計を採用し、法人向けプランも導入。",
+    "reason": "開発者向けツールとして注目だが、現時点では採用範囲限定のため評価は慎重に低めに設定。",
+    "published_at": "2026-06-08 13:00:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news061.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "86d475622938",
+    "title": "パスキー神話崩壊 Google Password Managerの同期機能を狙う新攻撃手法",
+    "published_date": "2026-06-08",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "研究者がGoogle Password Managerの同期機能を標的にする新攻撃手法を公表。パスキー普及で注目される認証基盤の脆弱点に着目している。暗号破綻ではなく周辺仕組みの悪用が問題となる。",
+    "reason": "パスキー普及に関わる認証安全性を揺るがす研究公表で、企業の認証設計や導入判断に重大な示唆を与える。",
+    "published_at": "2026-06-08 11:00:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news056.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d6ee48120dd4",
+    "title": "パナソニックエナジー、28年度に売上高2兆円目指す AIデータセンター向けに主力転換",
+    "published_date": "2026-06-08",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "パナソニックエナジーがデータセンター向け蓄電システムを成長の柱とし、2028年度に売上2兆円を目標に3500億円投資を計画。生成AI普及による電力需要増を見据えた事業転換戦略。",
+    "reason": "AIインフラ需要を見越したエネルギー事業のシフトは産業構造とサプライチェーンに影響する戦略ニュース。",
+    "published_at": "2026-06-08 18:48:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/08/news131.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "80d6b94fa88b",
+    "title": "マイクロソフト独自のLinuxディストリビューション「Azure Linux 4.0」パブリックプレビュー開始。Azureに最適化、WSLでも利用可能に",
+    "published_date": "2026-06-08",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "MicrosoftがAzure向けに最適化した独自Linuxディストリ「Azure Linux 4.0」をパブリックプレビューで公開。Azure環境やWSLとの連携強化が狙いで、クラウド基盤の標準化に影響する可能性がある。",
+    "reason": "クラウド事業者によるOS最適化は運用・互換性・コストの選択に影響し、クラウド戦略で押さえるべき事項。",
+    "published_at": "2026-06-08 00:21:33",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/linuxazure_linux_40azurewsl.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "e2e830db25d3",
+    "title": "三菱UFJ銀、“PPAP”原則廃止 メール本文にダウンロードURL記載へ",
+    "published_date": "2026-06-08",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "三菱UFJ銀行がパスワード付きZIP（PPAP）方式を原則廃止し、添付ではなくダウンロードURLをメール本文に記載する運用へ変更。マルウェア検査や安全性向上が狙いで、業界の運用慣行に影響を与える可能性がある。",
+    "reason": "大手金融機関の運用変更は企業のメール運用・セキュリティ慣行に波及するため実務的意義が高い。",
+    "published_at": "2026-06-08 11:29:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/08/news086.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "091827058aed",
+    "title": "日立とIntelが戦略提携 半導体や量子コンピューティングなど5領域で",
+    "published_date": "2026-06-08",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "日立製作所とIntelが製造、エネルギー、モビリティ等の5領域で戦略的協業を開始。半導体製造や量子コンピューティングも対象に含む。両社の技術連携が国内外の産業競争力に影響を与える可能性が高い。",
+    "reason": "主要企業同士の協業で半導体・量子など重要技術領域に影響、産業戦略ニュースとして掲載優先度高い。",
+    "published_at": "2026-06-08 19:25:00",
+    "created_at": "2026-06-09 03:10:54",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/08/news133.html",
     "sources": [
       "ITmedia NEWS"
     ],
