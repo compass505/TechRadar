@@ -1,6 +1,127 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "九電子会社が紛失した記憶媒体、暗号化やパスワード保護なしと判明 施錠も徹底されず",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news132.html",
+    "summary": "九州電力送配電が顧客情報を保存した外部記憶媒体を紛失。保存データに暗号化やパスワード保護が施されておらず、保管管理も不十分だったと判明した。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "最大数百万〜千万件規模の顧客情報流出リスクで、重大な運用・法務対応を強制しうるため最高ランクに該当。",
+    "published_at": "2026-06-09 20:50:00",
+    "created_at": "2026-06-10 02:33:14"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "企業の口座を狙うボイスフィッシングが巧妙化 日本サイバー犯罪対策センターが注意喚起",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news130.html",
+    "summary": "法人口座を狙うボイスフィッシング（電話詐欺）による不正送金被害が巧妙化。日本サイバー犯罪対策センターが企業に向けて注意喚起を出した。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "企業の資金管理に直接関わる詐欺の高度化で、情シスや経理部門にとって実務的な対応が必要。",
+    "published_at": "2026-06-09 19:45:00",
+    "created_at": "2026-06-10 02:33:14"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "JR東、「QR乗車券」のイメージ公開 27年春から磁気を一部廃止に",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news123.html",
+    "summary": "JR東日本は近距離乗車券を2027年春から磁気券からQR乗車券へ移行。あわせて「みどりの窓口」に生成AIを活用する実証実験を開始する。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "公共交通の乗車券デジタル化と窓口AI導入は社会インフラ運用に関わる実務的影響が大きい。",
+    "published_at": "2026-06-09 17:52:00",
+    "created_at": "2026-06-10 02:33:14"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Apple、「Private Cloud Compute」（PCC）でGoogle Cloud上のNVIDIA GPUを活用",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news117.html",
+    "summary": "AppleがApple Intelligenceの推論基盤を外部データセンターへ拡張。GoogleとNVIDIAと協業しGoogle Cloud上のGPUを活用、プライバシー保証を維持するとしている。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "Appleが外部クラウド（Google Cloud）と協業してAI推論基盤を拡張する戦略はクラウド・AIの業界再編に影響するため高評価。",
+    "published_at": "2026-06-09 17:06:00",
+    "created_at": "2026-06-10 02:33:14"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "日立とGoogle Cloud、フィジカルAIとセキュリティで協業拡大",
+    "url": "https://www.watch.impress.co.jp/docs/news/2115599.html",
+    "summary": "日立とGoogle CloudがフィジカルAIの社会実装やサイバーセキュリティ分野で戦略的アライアンスを拡大すると発表した。協業でFDEの強化などを行う。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大手企業間のクラウド・AI協業は産業ソリューションやセキュリティ提供に影響するため業界関係者に有用。",
+    "published_at": "2026-06-09 14:39:35",
+    "created_at": "2026-06-10 02:33:14"
+  },
+  {
+    "source": "＠IT",
+    "title": "週5300万回使われるテストツールに複数の脆弱性 開発環境乗っ取りのリスク",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/09/news047.html",
+    "summary": "JavaScriptテストフレームワーク「Vitest」に複数の深刻脆弱性。細工URLや特定通信で開発環境が攻撃者に奪われる危険があると報告された。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "広く使われる開発ツールの脆弱性でサプライチェーン・開発環境に深刻な影響を与えるため高重要度。",
+    "published_at": "2026-06-09 13:30:00",
+    "created_at": "2026-06-10 02:33:14"
+  },
+  {
+    "source": "＠IT",
+    "title": "EDRを“窒息”させる攻撃ツールが公開 Windows標準搭載のQoSを利用",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/09/news044.html",
+    "summary": "Windows標準のQoS機能を悪用してEDRを事実上機能不全にする攻撃ツールが公開された。回避手法の詳細と防御策が報告されている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "EDR前提の防御を揺るがす実装レベルの手法が公開されており、導入企業に即時対応を促す重要性が高い。",
+    "published_at": "2026-06-09 13:00:00",
+    "created_at": "2026-06-10 02:33:14"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google「AI Plus」4割値下げ、月725円に ストレージ倍増、価格攻勢でシェア拡大へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news077.html",
+    "summary": "Googleが個人向けAIサブスク「AI Plus」を値下げしストレージを倍増。上位プランも改定し競争的な価格戦略を強化する。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "消費者向けの価格改定だが市場競争と普及に影響するため企業動向として価値あり。",
+    "published_at": "2026-06-09 11:07:00",
+    "created_at": "2026-06-10 02:33:14"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAIがIPO申請を発表 時期は未定",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news074.html",
+    "summary": "OpenAIは米国での新規株式公開（IPO）に向け、申請を行っていたことを発表。上場時期は未定。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "産業構造と資金調達、競争環境に影響する重要な企業イベントだが即時の技術リスクではないため中位評価。",
+    "published_at": "2026-06-09 10:25:00",
+    "created_at": "2026-06-10 02:33:14"
+  },
+  {
+    "source": "＠IT",
+    "title": "Microsoftのシステムが外部パッケージを実行？ 依存関係混乱を巡る攻防",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/09/news030.html",
+    "summary": "Microsoftの一部システムで第三者の公開npmパッケージが実行された事例を巡り、研究者とMicrosoftで評価が分裂。サプライチェーンリスクの判断基準が議論になっている。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "ソフトウェアサプライチェーンの安全性に直結する問題で、開発運用・リスク管理に有益な情報。",
+    "published_at": "2026-06-09 07:00:00",
+    "created_at": "2026-06-10 02:33:14"
+  },
+  {
+    "source": "Publickey",
+    "title": "Ubuntu、サンドボックス化された開発環境をコマンド一発で構築。新機能「Workshop」リリース",
+    "url": "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
+    "summary": "CanonicalがAIエージェント向けなどに適したサンドボックス化開発環境を一発で作れる新機能「Workshop」をリリースした。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発者の生産性とセキュリティ向上に資するツールだが影響範囲は比較的限定的。",
+    "published_at": "2026-06-09 00:43:33",
+    "created_at": "2026-06-10 02:33:14"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "「サーバ室にあるはずの記憶媒体が行方不明」 九電子会社 最大1090万件分の顧客情報を保存 キャビネット施錠せず",
     "url": "https://www.itmedia.co.jp/news/articles/2606/08/news135.html",
     "summary": "九州電力送配電が、最大1090万口分の顧客情報を保存した外部記憶媒体の所在不明を公表。サーバ室のキャビネットが施錠されていなかった。現時点で流出確認はないが大規模インシデントの懸念がある。",
@@ -163,6 +284,17 @@
     "reason": "現場実証で得られた運用ノウハウは、行政・医療をはじめ他分野の導入判断に直接役立つ事例報告。",
     "published_at": "2026-06-08 07:00:00",
     "created_at": "2026-06-09 03:10:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Siri、ようやく全面刷新へ Appleが「Siri AI」発表 会話能力向上、今風のAIアシスタントに",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news063.html",
+    "summary": "WWDC26でAppleは会話能力を強化した「Siri AI」を発表。画面内容や文脈理解、Web参照が可能な次世代AIアシスタントを打ち出した。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要プラットフォーマーによるAIアシスタント刷新は開発者・事業者の戦略やユーザー体験に広範な影響を与えるため高重要度。",
+    "published_at": "2026-06-08 04:15:00",
+    "created_at": "2026-06-10 02:33:14"
   },
   {
     "source": "Publickey",
@@ -855,28 +987,6 @@
     "category": "企業IT",
     "reason": "金融機関での全社AI導入とセキュリティ検証は業界利用事例として示唆が大きい。",
     "published_at": "2026-06-02 05:32:46",
-    "created_at": "2026-06-03 08:07:56"
-  },
-  {
-    "source": "Publickey",
-    "title": "Rust製の高速なJavaScriptバンドラ「Rolldown」がバージョン1.0に到達。ビルドツールVite 8.0で採用",
-    "url": "https://www.publickey1.jp/blog/26/rustjavascriptrolldown10vite_80.html",
-    "summary": "Rolldownがv1.0に到達し、Vite 8.0で採用。高速バンドラがフロントエンドビルドの選択肢として安定化。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発ツールの主要アップデートでビルド速度・エコシステムに影響するが専門領域向けのニュース。",
-    "published_at": "2026-06-02 00:04:50",
-    "created_at": "2026-06-03 08:07:56"
-  },
-  {
-    "source": "Publickey",
-    "title": "Oracle Database@AWSが大阪リージョンでも提供開始。これでAWS東京リージョンとAWS大阪リージョンの両方で利用可能に",
-    "url": "https://www.publickey1.jp/blog/26/oracle_databaseawsawsaws.html",
-    "summary": "Oracle Database@AWSがAWS大阪リージョンで提供開始。国内リージョンでの高可用性設計やデータ主権対応の選択肢が拡大。",
-    "importance": 2,
-    "category": "クラウド",
-    "reason": "国内リージョン拡大は日本の企業クラウド戦略にとって有用だが影響範囲は比較的限定的。",
-    "published_at": "2026-06-02 00:02:13",
     "created_at": "2026-06-03 08:07:56"
   },
   {

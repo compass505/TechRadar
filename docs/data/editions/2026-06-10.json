@@ -1,0 +1,52 @@
+{
+  "edition_date": "2026-06-10",
+  "surfaces": {
+    "top_yesterday": [
+      "db9fef691497",
+      "df65b2a7a6f3",
+      "bf4f5e1ba618",
+      "2583bc0c89c3",
+      "9f7caadeceb5",
+      "fb393bc24d49",
+      "1d2e86b3de6f"
+    ],
+    "recent_important": [
+      "db9fef691497",
+      "fb393bc24d49",
+      "1d2e86b3de6f",
+      "86d475622938",
+      "df65b2a7a6f3",
+      "02700199fa3e",
+      "2bdb5f315567",
+      "57f7b4fb5425",
+      "c8315613b795",
+      "091827058aed",
+      "d2a42a1f8914"
+    ],
+    "yesterday_ai": [
+      "2583bc0c89c3",
+      "9f7caadeceb5",
+      "eb504e8ca888",
+      "da37985fc8ea",
+      "0ba6e1cfe871"
+    ],
+    "yesterday_enterprise_it": [
+      "db9fef691497",
+      "fb393bc24d49",
+      "1d2e86b3de6f",
+      "df65b2a7a6f3",
+      "bf4f5e1ba618",
+      "2583bc0c89c3",
+      "60188cde1e4b",
+      "9f7caadeceb5",
+      "eb504e8ca888"
+    ],
+    "yesterday_development": [
+      "fb393bc24d49",
+      "df65b2a7a6f3",
+      "60188cde1e4b",
+      "eb504e8ca888",
+      "0ba6e1cfe871"
+    ]
+  }
+}
