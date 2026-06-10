@@ -1,6 +1,160 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "ChatGPTで広告表示へ 無料・Goプランが対象 6月22日にポリシー更新",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/10/news128.html",
+    "summary": "OpenAIがChatGPTのプライバシーポリシーを改定し、無料プランとGoプランで広告表示を行う規定を追加する。ユーザー体験とデータ利用方針に変更が生じる可能性がある。実施日は6月22日予定。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要生成AIサービスの収益化・データ利用方針変更で利用者企業の運用や契約にも影響するため掲載価値あり。",
+    "published_at": "2026-06-10 20:50:00",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "NTTの「IOWN AIファンド」にKDDIも出資へ 理由は？",
+    "url": "https://japan.cnet.com/article/35248741/",
+    "summary": "NTTが組成する約800億円規模の「IOWN AI Fund」にKDDIが出資を表明。シリコンバレーと東京に拠点を置く運営会社を新設し、AI先端技術を持つスタートアップ投資を進める計画。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "主要通信・IT企業による大型AI投資ファンドは産業エコシステムと研究・事業創出に影響するため業界注目事項。",
+    "published_at": "2026-06-10 18:11:00",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "アップル、EUで「Siri AI」提供見送り 欧州委は「アップルの判断」と反論",
+    "url": "https://www.watch.impress.co.jp/docs/news/2116084.html",
+    "summary": "AppleはiOS 27リリース時にEU向けのSiri AI提供を見送ると発表。AppleはDMA対応を理由に挙げる一方、欧州委は「アップルの判断」として応じている。製品展開と規制対応のせめぎ合いが浮き彫りに。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "主要プラットフォーマーの機能提供差し止めが規制・市場アクセスの実務に影響するため注目度高い。",
+    "published_at": "2026-06-10 17:41:40",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "光で情報を書き換える新しい磁気メモリ材料 「従来に比べ1000倍高速」 QST、兵庫県立大などが共同開発",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/10/news084.html",
+    "summary": "QSTと大学らが電流の代わりに光で磁気メモリを切り替える新材料を開発。従来比約1000倍の高速性と省エネルギー性を示し、次世代メモリ実装の可能性を示す研究成果。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "メモリ技術の根本的な高速化につながる研究成果で、将来の半導体設計・市場に波及する可能性が高い。",
+    "published_at": "2026-06-10 12:30:00",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Instagram乗っ取り、被害は2万件超 手口は「AIサポート悪用」",
+    "url": "https://japan.cnet.com/article/35248699/",
+    "summary": "MetaのAIチャットアシスタントの不具合を突く手口でInstagramアカウントの乗っ取り被害が発生。被害は2万件超と報告されている。広範な権限付与と認証リセットの悪用が指摘されている。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模なアカウント乗っ取りで現実被害が生じており、企業・公人のアカウント運用とプラットフォーム安全性に直結するため最高度で掲載必須。",
+    "published_at": "2026-06-10 10:38:00",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Meta、他社サイトでの行動履歴をフィードやAI応答のパーソナライズにも利用へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/10/news069.html",
+    "summary": "Metaが外部企業から提供された行動データの用途を拡大。従来は広告向けだったデータをフィードやMeta AIの応答パーソナライズにも利用する方針を発表した。プライバシーと規制の論点が再燃する可能性がある。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "外部行動データの利用拡大はプライバシー規制や企業のデータ連携方針に直結するため、政策・運用の観点で重要。",
+    "published_at": "2026-06-10 10:27:00",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、同時通訳に近い音声モデル「Gemini 3.5 Live Translate」発表 「Google翻訳」アプリなどで利用可能に",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/10/news060.html",
+    "summary": "Googleが遅延極小の継続翻訳を可能にする音声モデル「Gemini 3.5 Live Translate」を発表。70以上の言語を自動検出し、話者のイントネーションやペースを保って翻訳音声を生成する。翻訳・会議サービスに順次導入予定。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "リアルタイム翻訳の精度・遅延改善はコミュニケーション系サービスや会議システムに実務的影響があるため中重要。",
+    "published_at": "2026-06-10 08:57:00",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "JR東日本、「みどりの窓口」に生成AI 客と音声で対話",
+    "url": "https://japan.cnet.com/article/35248678/",
+    "summary": "JR東日本が窓口でのきっぷ購入補助に生成AIの音声対話システムを用いる実証実験を発表。NECらと連携し、利用情報を係員へ引き継ぐ運用を検証する。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "現場運用に近いPoCであり、公共交通の顧客対応にAIを導入する実務例として参考になるため掲載価値あり。",
+    "published_at": "2026-06-10 08:10:00",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "＠IT",
+    "title": "九州電力送配電、1090万口分の顧客情報を保存した媒体が行方不明に",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/10/news045.html",
+    "summary": "九州電力送配電が1090万口分の顧客情報を保存したバックアップ媒体の所在不明を公表。施錠されていないキャビネットで保管されていたことが判明している。大規模な顧客情報漏えいの懸念がある。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "数千万件規模に匹敵する顧客データを含む媒体の紛失は大規模漏えいリスクであり、自治体・企業の対応を促す重大案件。",
+    "published_at": "2026-06-10 08:00:00",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "＠IT",
+    "title": "いざNTLM脱却へ Microsoftが新たなKerberos拡張機能をプレビュー公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/10/news037.html",
+    "summary": "MicrosoftがNTLM依存を減らすためのKerberos拡張機能をプレビュー公開。長年の認証上の“逃げ道”を埋める新機能で、企業は導入計画と互換性確認が必要となる。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "認証基盤の改善は企業のセキュリティ姿勢と運用コストに影響するため、導入検討価値が高い。",
+    "published_at": "2026-06-10 07:00:00",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "＠IT",
+    "title": "脆弱性発見から悪用まで数分 シスコが語る「ポストMythos時代」の生存戦略",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/10/news020.html",
+    "summary": "AIが脆弱性検出と攻撃の自動化を加速する中で、CiscoがAIエージェントを使った自律的な原因分析と修復の運用像を提示。従来の人中心運用の限界と新たなSRE/セキュリティ運用を解説する。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AI時代の脅威と運用変革を示す業界方針で、SI/運用設計に示唆を与えるため掲載価値あり。",
+    "published_at": "2026-06-10 07:00:00",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Anthropic、ミュトス級AI「Claude Fable 5」を一般公開 保護機能解除版「Mythos 5」も限定提供",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/10/news058.html",
+    "summary": "Anthropicが最上位クラスのAIモデル「Claude Fable 5」を一般公開。高度能力を持つミュトス級を保護機能付きで全ユーザーに提供し、保護を緩めた上位版は限定パートナー向けに提供する。ビジョンやコード性能が大幅に向上していると主張。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "高性能モデルの一般提供は開発者・サービス設計・悪用対策に直接影響するため業界的に重要。",
+    "published_at": "2026-06-10 06:40:00",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "＠IT",
+    "title": "Windows 11の2026年6月パッチ「KB5094126」、200件超の脆弱性修正とアプリのカメラが共有機能などが追加",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/10/news071.html",
+    "summary": "MicrosoftがWindows 11向け更新KB5094126を公開。200件超の脆弱性修正やセキュアブート証明書の有効期限対策、カメラ共有などの機能追加を含む。企業は適用計画の見直しが必要。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "大量の脆弱性修正を含む定例パッチは企業のパッチ管理と運用に直接影響するため運用者向けに重要。",
+    "published_at": "2026-06-10 05:00:00",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "Publickey",
+    "title": "Cloudflare、従業員やアプリごとにAIの利用上限額を設定できるCloudflare AI Gatewayの新機能を発表",
+    "url": "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_ai_gateway.html",
+    "summary": "CloudflareがAI Gatewayに、従業員やアプリごとに毎月のAI利用料上限を設定できる機能を追加。組織でのAPIキー共有下でもコスト管理とガバナンスを強化できる。",
+    "importance": 2,
+    "category": "クラウド",
+    "reason": "企業のAI利用ガバナンスとコスト管理に直接役立つ実務的機能で情シス向けに有用。",
+    "published_at": "2026-06-10 00:55:18",
+    "created_at": "2026-06-11 03:13:15"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "九電子会社が紛失した記憶媒体、暗号化やパスワード保護なしと判明 施錠も徹底されず",
     "url": "https://www.itmedia.co.jp/news/articles/2606/09/news132.html",
     "summary": "九州電力送配電が顧客情報を保存した外部記憶媒体を紛失。保存データに暗号化やパスワード保護が施されておらず、保管管理も不十分だったと判明した。",
@@ -767,28 +921,6 @@
     "category": "セキュリティ",
     "reason": "認証情報管理の人的ミスによる侵害は多くの組織に当てはまる教訓的事例のため掲載価値あり。",
     "published_at": "2026-06-03 15:28:00",
-    "created_at": "2026-06-04 08:10:16"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "PCなどの使用済みIT機器を再生材に NTTと三菱マテ、新会社「NTTサーキュラスト」設立へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news096.html",
-    "summary": "NTTと三菱マテリアルが使用済みIT機器や通信設備の回収・再資源化を一貫で行う新会社『NTTサーキュラスト』を7月1日に設立する。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "IT資産の循環・調達リスク低減とサステナビリティ対応の実務面で意義があり、情シス向けの関心事。",
-    "published_at": "2026-06-03 15:20:00",
-    "created_at": "2026-06-05 06:19:53"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "進捗や目標を投入→AIが分かりやすいWebダッシュボードに、チーム間共有も OpenAI、Codexに新機能「Sites」",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news100.html",
-    "summary": "OpenAIがCodexの新機能『Sites』を発表。進捗や目標を投入するとAIがWebダッシュボードやアプリを生成し、URLでチーム共有できる。Business/Enterpriseでプレビュー提供。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発者向け生産性向上機能だが限定プレビューで幅は狭いため評価は控えめ。",
-    "published_at": "2026-06-03 14:00:00",
     "created_at": "2026-06-04 08:10:16"
   },
   {
