@@ -4360,6 +4360,34 @@
     "has_itmedia_article": true
   },
   {
+    "id": "005357c14624",
+    "title": "Apple、macOS上にLinuxコンテナを統合する新機能「Container machine」バージョン1.0リリース",
+    "published_date": "2026-06-09",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "AppleがWWDCでmacOSに統合されたLinuxコンテナ起動機能「Container machine」1.0を発表。開発者向けのローカル環境改善を目指す。",
+    "reason": "開発者のローカルワークフローとクロスプラットフォーム開発に直接影響する実装で実務的に有用。",
+    "published_at": "2026-06-09 00:29:34",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
     "id": "df65b2a7a6f3",
     "title": "Apple、「Private Cloud Compute」（PCC）でGoogle Cloud上のNVIDIA GPUを活用",
     "published_date": "2026-06-09",
@@ -5059,6 +5087,424 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 2,
     "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "f34cfe463bd1",
+    "title": "AIに買い物を任せる時代へ VisaとOpenAIが提携──“代理決済”を上限設定などで安全に",
+    "published_date": "2026-06-11",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "VisaとOpenAIが戦略的提携を発表。AIエージェントによる代理決済をVisaのネットワークや不正監視機能で安全に実装する枠組みを目指す。",
+    "reason": "決済インフラと生成AIの統合は商取引・詐欺対策・開発者エコシステムに広範な影響を与えるため掲載価値大。",
+    "published_at": "2026-06-11 19:05:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/11/news126.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "9257d7f653f6",
+    "title": "Anthropic、「Fable 5」のガードレールの仕組みを説明 課金の仕組みや設定変更方法など",
+    "published_date": "2026-06-11",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Anthropicが新AIモデル「Claude Fable 5」の過剰遮断や下位モデル切替の仕様、設定変更手順などを解説する公式説明を公開した。",
+    "reason": "最先端モデルの安全ガード実装と運用方針は研究者・開発者の利用判断に有用な情報となるため。",
+    "published_at": "2026-06-11 15:09:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/11/news104.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "480e280cfed8",
+    "title": "Gartner、2026年の世界IT支出予測を「13.5％増」に上方修正 AI投資で広がる「分野間の成長差」",
+    "published_date": "2026-06-11",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "Gartnerが2026年の世界IT支出予測を上方修正。AIインフラとソフトウェアへの投資が牽引し、分野間で成長差が拡大する見通しを示した。",
+    "reason": "市場予測の上方修正は企業の投資判断やベンダー戦略に直結するため経営層・購買担当に有用。",
+    "published_at": "2026-06-11 11:20:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/11/news055.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "4ae21a8d63e1",
+    "title": "Google、拡散型テキスト生成モデル「DiffusionGemma」公開 ローカルGPUで毎秒1000トークン超",
+    "published_date": "2026-06-11",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Googleが拡散（diffusion）を応用したテキスト生成モデル「DiffusionGemma」を発表。自己回帰型のボトルネックを解消し、ローカルGPUで高速生成が可能という。",
+    "reason": "生成モデルの新手法は開発者ツールやローカル運用の選択肢に影響するため技術トレンドとして掲載価値あり。",
+    "published_at": "2026-06-11 12:00:09",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000079/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c30e1a690c8f",
+    "title": "Google、検索サービスのプライバシー設定を刷新 レンズ画像や音声もデフォルトで保存対象に",
+    "published_date": "2026-06-11",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "Googleが検索サービスの履歴・パーソナライズ設定を再編。テキスト履歴に加えレンズ画像や音声も保存対象に拡大し、モデル学習にも利用される方針に変更される。",
+    "reason": "ユーザーデータの収集範囲とAI学習利用の変更はプライバシー対応や企業の利用判断に重大な示唆を与える。",
+    "published_at": "2026-06-11 16:11:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/11/news113.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1295744a1577",
+    "title": "JASRAC、「AI作曲・人間作詞」の曲は管理します――「人間の創作的寄与の有無」で線引き",
+    "published_date": "2026-06-11",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "JASRACは、歌詞か楽曲いずれかに人間の創作的寄与があれば管理対象とする方針を発表。完全AI生成の楽曲は管理対象外とする線引きを示した。",
+    "reason": "著作権管理団体の方針は創作物の権利処理や事業モデルに直接影響するためクリエイター・企業双方で重要。",
+    "published_at": "2026-06-11 15:49:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/11/news110.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f08316e957e9",
+    "title": "MythosがN-day攻撃までの時間を大幅短縮 わずか1時間でエクスプロイト生成",
+    "published_date": "2026-06-11",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "脆弱性公開からエクスプロイト生成までの時間が短縮される状況をMythosを用いた検証で報告。わずか1時間で攻撃コードが生成される事例が示された。",
+    "reason": "攻撃側の自動化・高速化は脆弱性対応の運用を根本から見直す必要があり、情シス・開発者にとって重大な示唆。",
+    "published_at": "2026-06-11 07:30:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/11/news041.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 2,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "b6cd4ea5e7f6",
+    "title": "NEC・アンソロピック、三井住友FGや明治安田など金融8社と連携 AI活用で新たな価値創出へ",
+    "published_date": "2026-06-11",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "NECとAnthropicが三井住友FG、明治安田生命など金融8社とAIの共創検討を開始。業務ノウハウを持ち寄り金融向けAI活用を推進する。",
+    "reason": "大手金融機関とAI事業者の連携は金融システム、ガバナンス、業務改革に直結するため業界影響度が高い。",
+    "published_at": "2026-06-11 19:00:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/11/news128.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1d443d35c430",
+    "title": "NTT3社が衛星インターネット「Amazon Leo」再販 ドコモ網でも活用",
+    "published_date": "2026-06-11",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "NTTグループ3社がAmazonの衛星インターネットサービス「Amazon Leo」の再販事業者契約を締結。法人・官公庁向けに提供を計画している。",
+    "reason": "大手通信事業者による衛星サービス採用は接続選択肢と企業向けサービス設計に影響するため業界的意義がある。",
+    "published_at": "2026-06-11 18:17:15",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2116474.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "b089c54d9d8a",
+    "title": "SpaceX、宇宙データセンター「AI1」概要公開--懸念の冷却「実はカンタン」とマスク氏",
+    "published_date": "2026-06-11",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "SpaceXが軌道上のAIデータセンター衛星「AI1」の設計概要を公開。宇宙での放熱や運用に関する技術的説明を示した。",
+    "reason": "軌道上コンピューティングはクラウド/インフラの長期戦略に関わる話題で、事業・技術面で注目度が高い。",
+    "published_at": "2026-06-11 11:20:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35248768/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2ecb3f2cf762",
+    "title": "クラウドを使わず「生成AIを行政に」――宮崎県、ローカルLLM×RAGをどう実現？",
+    "published_date": "2026-06-11",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "宮崎県がオンプレミスの生成AI基盤を導入し、業務にローカルLLMとRAGを活用する取り組みを進めている。機密データ取り扱いの工夫が焦点。",
+    "reason": "自治体でのオンプレ運用事例は公共セクターのAI採用・ガバナンス設計の参考となるため実務的価値が高い。",
+    "published_at": "2026-06-11 13:00:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/11/news059.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5da75da48e1a",
+    "title": "シャープ、AIサーバー事業に参入へ--鴻海の調達製造力を活用 26年度中にも販売",
+    "published_date": "2026-06-11",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "シャープが鴻海の調達・製造力を活用してAIサーバー事業に参入する方針を表明。国内販売を2026年度中に開始する見込み。",
+    "reason": "国内ハードウェアサプライチェーンの動きはAIインフラ調達や市場競争に影響するため注目に値する。",
+    "published_at": "2026-06-11 13:05:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35248773/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "f85cef018b0a",
+    "title": "世界中のWebサーバが影響 Apacheが危険な脆弱性を一斉修正",
+    "published_date": "2026-06-11",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Apache HTTP ServerでHTTP/2やプロキシなど複数箇所の深刻な脆弱性が判明。最新版で広範囲の修正が入っているため早急な対応が必要とされる。",
+    "reason": "世界中のWebインフラに影響する脆弱性であり、運用者に対する緊急対応アラート性が高い。",
+    "published_at": "2026-06-11 07:00:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/11/news040.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a4df3c5e5afc",
+    "title": "九大の研究室にランサム被害、病院患者43人の手術動画・氏名流出のおそれ",
+    "published_date": "2026-06-11",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "九州大学の研究室端末がランサムウェア被害を受け、九州大学病院の患者43人分の氏名や手術動画データが外部流出の可能性があると発表された。",
+    "reason": "医療データの漏えいリスクは個人被害・信頼失墜・法的影響が大きく、組織の対応事例として重要。",
+    "published_at": "2026-06-11 10:36:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/11/news078.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "cfecf757130f",
+    "title": "夢の全固体電池はウソだった？Donut Labの画期的バッテリーに偽装疑惑",
+    "published_date": "2026-06-11",
+    "importance_score": 2,
+    "category": "半導体",
+    "summary": "固体電池をめぐる大きな進歩を主張していたDonut Labの技術に対し、精査の結果で疑義が指摘されている。業界内で検証が進む。",
+    "reason": "画期的技術の信頼性問題は投資・産業動向に影響するが、直接的な即時被害や広範波及は確認されていないため中程度の重要度。",
+    "published_at": "2026-06-11 17:13:00",
+    "created_at": "2026-06-12 03:29:56",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35248794/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
     "has_itmedia_article": false
   }
 ]
