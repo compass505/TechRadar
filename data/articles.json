@@ -1,6 +1,138 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "厚労省、Teamsチャット2年10カ月分が消失 東芝が作業ミス 一部は復元困難",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news129.html",
+    "summary": "厚労省のMicrosoft Teamsチャット（2023/1〜2025/10）が委託先の作業ミスで消失。行政文書を含む一部は復元困難と発表された。公文書管理や委託先運用の監督問題を浮き彫りに。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "政府機関で長期間の業務データ消失・復元困難という重大インシデントで業務・法規対応や信頼に直結するため5評価。",
+    "published_at": "2026-06-12 23:14:00",
+    "created_at": "2026-06-13 02:44:21"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
+    "summary": "AnthropicとNECが三井住友FGら金融8社と共創。業務知見を持ち寄り、金融分野での信頼性高いAI活用を検討・実装する取り組みを開始。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "金融中枢での大手行とベンダーによるAI実装の共同検討は業界横断での展開や規範形成に寄与するため重要。",
+    "published_at": "2026-06-12 20:20:12",
+    "created_at": "2026-06-13 02:44:21"
+  },
+  {
+    "source": "＠IT",
+    "title": "UPSIDER、開発者端末の侵害による不正アクセス・サービス一時停止 最終報告書を公表",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news117.html",
+    "summary": "UPSIDERが4月の第三者による不正アクセスとサービス一時停止について、外部フォレンジック調査を踏まえた最終報告書を公表。原因・対応・再発防止策を提示。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "開発者端末侵害がサービス停止につながった事例の詳細報告で、DevSecOpsや情シス向けの教訓が多い。",
+    "published_at": "2026-06-12 17:50:00",
+    "created_at": "2026-06-13 02:44:21"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "“11億円超資金流出”のはてな、通期最終赤字に転落見込み 被害額を特別損失に計上",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news122.html",
+    "summary": "はてなは4月公表の資金流出事案で最大11億7900万円を特別損失計上すると発表。通期業績を下方修正し、純損益は赤字転落見込みに。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "資金流出が上場企業の業績と収支に直結しており、投資家・経営判断・セキュリティ投資の観点で重要。",
+    "published_at": "2026-06-12 17:30:00",
+    "created_at": "2026-06-13 02:44:21"
+  },
+  {
+    "source": "＠IT",
+    "title": "OpenSSLに高危険度の脆弱性 発見にはClaudeが関与",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news055.html",
+    "summary": "OpenSSLのPKCS#7署名検証に高危険度の解放後使用欠陥が見つかり、細工メッセージでクラッシュやメモリ破壊、遠隔コード実行の恐れ。修正版が公開され更新を呼びかけ。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "世界中のシステムに影響する暗号ライブラリの高危険度脆弱性で、速やかな適用が必要なため高評価。",
+    "published_at": "2026-06-12 15:46:00",
+    "created_at": "2026-06-13 02:44:21"
+  },
+  {
+    "source": "＠IT",
+    "title": "漏えい・脆弱なパスワードを1タップで自動更新 Appleが新機能を発表",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news057.html",
+    "summary": "AppleはApple Intelligenceを活用し、パスワード漏えい・脆弱判定されたパスワードをPasswordsアプリ/Safariから1タップで自動更新できる機能を発表した。",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "エンドユーザーのパスワード管理を改善する機能でセキュリティ向上に寄与するが、企業インフラへの直接影響は限定的なため低め評価。",
+    "published_at": "2026-06-12 15:32:00",
+    "created_at": "2026-06-13 02:44:21"
+  },
+  {
+    "source": "＠IT",
+    "title": "Googleが20億のWebを分析 AIを狙う「間接的プロンプトインジェクション」の実態",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news052.html",
+    "summary": "Googleの脅威インテリジェンスが多数のWebを分析し、AIを狙う「間接的プロンプトインジェクション」の手法と実態を公開。防御策の示唆も含む。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "生成AIを標的とする新たな攻撃手法の実態解明で、企業のAI運用・防御設計に直接役立つため掲載価値あり。",
+    "published_at": "2026-06-12 14:00:00",
+    "created_at": "2026-06-13 02:44:21"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「今、Codexのレート制限を解除したい」を解決？ “付与したリセット権の貯蓄”可能に 有料ユーザー向け",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000084/",
+    "summary": "OpenAIがCodexでレート制限のリセット権をユーザーの望むタイミングで使える「貯蓄」機能を導入。有料ユーザー向けの運用改善策。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発者の利用体験に関わるサービス改善だが、業界全体の戦略変更ほどの影響は限定的。",
+    "published_at": "2026-06-12 12:42:02",
+    "created_at": "2026-06-13 02:44:21"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Starlink対抗の衛星ネット「Amazon Leo」 NTTが国内提供へ 災害時や離島でも“つながる回線”に",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news095.html",
+    "summary": "NTTグループ3社がAmazonの衛星ブロードバンド「Amazon Leo」の再販契約を締結。法人・官公庁向けに国内提供に向け技術検証を進める。災害対応や離島接続が想定用途。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "国の通信インフラや官公庁・法人向け回線選択肢に影響する大手による再販体制構築で市場・対災害性に関わるため高めに評価。",
+    "published_at": "2026-06-12 12:15:00",
+    "created_at": "2026-06-13 02:44:21"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "データセンター建設に足りないのは「発電」ではなく「送電」 AI需要で電力消費26％増、Gartner予想",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/",
+    "summary": "Gartnerは2026年のデータセンター電力消費が26％増の565TWhに達すると予測。日本では発電より送電インフラの整備遅れが建設の制約になっていると指摘。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "AI需要拡大に伴うインフラ制約（送電網）がデータセンター計画に直結する実務上の重要トレンド。",
+    "published_at": "2026-06-12 10:50:17",
+    "created_at": "2026-06-13 02:44:21"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、クラウド開発環境のOnaを買収 「Codex」の強化狙い",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news072.html",
+    "summary": "OpenAIがクラウド開発環境Ona（旧Gitpod）を買収。Onaのクラウド実行基盤をCodexに統合し、長時間稼働するエージェント実行環境を提供する狙い。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "AIコーディングとクラウドIDEの統合は開発者ワークフローに影響する中〜長期的に重要なM&A動向。",
+    "published_at": "2026-06-12 08:46:00",
+    "created_at": "2026-06-13 02:44:21"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、「Fable 5」の不可視だった蒸留の保護機能を可視化 「誤った判断」と謝罪",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news068.html",
+    "summary": "AnthropicがClaude Fable 5で不可視の保護機能（蒸留制限）を下位モデルに移行していた挙動を誤判断として謝罪。今後は明示化と分類器調整を行う。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "モデルの安全制御が不透明だった問題の是正はAI信頼性と運用ルールに直結するため、開発者・導入側に重要。",
+    "published_at": "2026-06-12 06:20:00",
+    "created_at": "2026-06-13 02:44:21"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "AIに買い物を任せる時代へ VisaとOpenAIが提携──“代理決済”を上限設定などで安全に",
     "url": "https://www.itmedia.co.jp/news/articles/2606/11/news126.html",
     "summary": "VisaとOpenAIが戦略的提携を発表。AIエージェントによる代理決済をVisaのネットワークや不正監視機能で安全に実装する枠組みを目指す。",
@@ -800,17 +932,6 @@
     "category": "企業IT",
     "reason": "実務的なネットワーク設計・運用の成功事例で、情シスの意思決定やクラウド移行戦略に参考になるため掲載する価値がある。",
     "published_at": "2026-06-05 13:00:00",
-    "created_at": "2026-06-06 06:12:32"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "ChatGPTの“記憶”を刷新 メモリ機能の新基盤展開、無料ユーザーへも順次",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/05/news091.html",
-    "summary": "OpenAIがChatGPTのメモリ機能を新基盤『Dreaming V3』で強化。過去会話の文脈追従を向上させ、順次全ユーザーへ展開予定。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "製品アップデートとして有用だが、戦略的・制度的インパクトは限定的のため中程度の重要度。",
-    "published_at": "2026-06-05 12:50:00",
     "created_at": "2026-06-06 06:12:32"
   },
   {

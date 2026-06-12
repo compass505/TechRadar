@@ -3330,33 +3330,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "b6b4516dc27e",
-    "title": "ChatGPTの“記憶”を刷新 メモリ機能の新基盤展開、無料ユーザーへも順次",
-    "published_date": "2026-06-05",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "OpenAIがChatGPTのメモリ機能を新基盤『Dreaming V3』で強化。過去会話の文脈追従を向上させ、順次全ユーザーへ展開予定。",
-    "reason": "製品アップデートとして有用だが、戦略的・制度的インパクトは限定的のため中程度の重要度。",
-    "published_at": "2026-06-05 12:50:00",
-    "created_at": "2026-06-06 06:12:32",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/05/news091.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "a54da7412b54",
     "title": "Google、AIエージェント向け「Android CLI」を正式公開 アプリ開発が“3倍高速”に",
     "published_date": "2026-06-05",
@@ -5500,6 +5473,348 @@
     "source_count": 1,
     "article_count": 1,
     "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "314bb475f9ad",
+    "title": "Anthropic、「Fable 5」の不可視だった蒸留の保護機能を可視化 「誤った判断」と謝罪",
+    "published_date": "2026-06-12",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "AnthropicがClaude Fable 5で不可視の保護機能（蒸留制限）を下位モデルに移行していた挙動を誤判断として謝罪。今後は明示化と分類器調整を行う。",
+    "reason": "モデルの安全制御が不透明だった問題の是正はAI信頼性と運用ルールに直結するため、開発者・導入側に重要。",
+    "published_at": "2026-06-12 06:20:00",
+    "created_at": "2026-06-13 02:44:21",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/12/news068.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "3695c0736710",
+    "title": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など",
+    "published_date": "2026-06-12",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "AnthropicとNECが三井住友FGら金融8社と共創。業務知見を持ち寄り、金融分野での信頼性高いAI活用を検討・実装する取り組みを開始。",
+    "reason": "金融中枢での大手行とベンダーによるAI実装の共同検討は業界横断での展開や規範形成に寄与するため重要。",
+    "published_at": "2026-06-12 20:20:12",
+    "created_at": "2026-06-13 02:44:21",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "64f2c5ba3d91",
+    "title": "Googleが20億のWebを分析 AIを狙う「間接的プロンプトインジェクション」の実態",
+    "published_date": "2026-06-12",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "Googleの脅威インテリジェンスが多数のWebを分析し、AIを狙う「間接的プロンプトインジェクション」の手法と実態を公開。防御策の示唆も含む。",
+    "reason": "生成AIを標的とする新たな攻撃手法の実態解明で、企業のAI運用・防御設計に直接役立つため掲載価値あり。",
+    "published_at": "2026-06-12 14:00:00",
+    "created_at": "2026-06-13 02:44:21",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news052.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2d6890abf79d",
+    "title": "OpenAI、クラウド開発環境のOnaを買収 「Codex」の強化狙い",
+    "published_date": "2026-06-12",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "OpenAIがクラウド開発環境Ona（旧Gitpod）を買収。Onaのクラウド実行基盤をCodexに統合し、長時間稼働するエージェント実行環境を提供する狙い。",
+    "reason": "AIコーディングとクラウドIDEの統合は開発者ワークフローに影響する中〜長期的に重要なM&A動向。",
+    "published_at": "2026-06-12 08:46:00",
+    "created_at": "2026-06-13 02:44:21",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/12/news072.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "db4ad58b0551",
+    "title": "OpenSSLに高危険度の脆弱性 発見にはClaudeが関与",
+    "published_date": "2026-06-12",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "OpenSSLのPKCS#7署名検証に高危険度の解放後使用欠陥が見つかり、細工メッセージでクラッシュやメモリ破壊、遠隔コード実行の恐れ。修正版が公開され更新を呼びかけ。",
+    "reason": "世界中のシステムに影響する暗号ライブラリの高危険度脆弱性で、速やかな適用が必要なため高評価。",
+    "published_at": "2026-06-12 15:46:00",
+    "created_at": "2026-06-13 02:44:21",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news055.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "1c252e3b0ed1",
+    "title": "Starlink対抗の衛星ネット「Amazon Leo」 NTTが国内提供へ 災害時や離島でも“つながる回線”に",
+    "published_date": "2026-06-12",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "NTTグループ3社がAmazonの衛星ブロードバンド「Amazon Leo」の再販契約を締結。法人・官公庁向けに国内提供に向け技術検証を進める。災害対応や離島接続が想定用途。",
+    "reason": "国の通信インフラや官公庁・法人向け回線選択肢に影響する大手による再販体制構築で市場・対災害性に関わるため高めに評価。",
+    "published_at": "2026-06-12 12:15:00",
+    "created_at": "2026-06-13 02:44:21",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/12/news095.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ea5c7332d873",
+    "title": "UPSIDER、開発者端末の侵害による不正アクセス・サービス一時停止 最終報告書を公表",
+    "published_date": "2026-06-12",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "UPSIDERが4月の第三者による不正アクセスとサービス一時停止について、外部フォレンジック調査を踏まえた最終報告書を公表。原因・対応・再発防止策を提示。",
+    "reason": "開発者端末侵害がサービス停止につながった事例の詳細報告で、DevSecOpsや情シス向けの教訓が多い。",
+    "published_at": "2026-06-12 17:50:00",
+    "created_at": "2026-06-13 02:44:21",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news117.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "78dd909cc6df",
+    "title": "“11億円超資金流出”のはてな、通期最終赤字に転落見込み 被害額を特別損失に計上",
+    "published_date": "2026-06-12",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "はてなは4月公表の資金流出事案で最大11億7900万円を特別損失計上すると発表。通期業績を下方修正し、純損益は赤字転落見込みに。",
+    "reason": "資金流出が上場企業の業績と収支に直結しており、投資家・経営判断・セキュリティ投資の観点で重要。",
+    "published_at": "2026-06-12 17:30:00",
+    "created_at": "2026-06-13 02:44:21",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/12/news122.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f7c6e9a43068",
+    "title": "「今、Codexのレート制限を解除したい」を解決？ “付与したリセット権の貯蓄”可能に 有料ユーザー向け",
+    "published_date": "2026-06-12",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "OpenAIがCodexでレート制限のリセット権をユーザーの望むタイミングで使える「貯蓄」機能を導入。有料ユーザー向けの運用改善策。",
+    "reason": "開発者の利用体験に関わるサービス改善だが、業界全体の戦略変更ほどの影響は限定的。",
+    "published_at": "2026-06-12 12:42:02",
+    "created_at": "2026-06-13 02:44:21",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000084/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "db8d5d284171",
+    "title": "データセンター建設に足りないのは「発電」ではなく「送電」 AI需要で電力消費26％増、Gartner予想",
+    "published_date": "2026-06-12",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "Gartnerは2026年のデータセンター電力消費が26％増の565TWhに達すると予測。日本では発電より送電インフラの整備遅れが建設の制約になっていると指摘。",
+    "reason": "AI需要拡大に伴うインフラ制約（送電網）がデータセンター計画に直結する実務上の重要トレンド。",
+    "published_at": "2026-06-12 10:50:17",
+    "created_at": "2026-06-13 02:44:21",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d2fe4a8e8b7a",
+    "title": "厚労省、Teamsチャット2年10カ月分が消失 東芝が作業ミス 一部は復元困難",
+    "published_date": "2026-06-12",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "厚労省のMicrosoft Teamsチャット（2023/1〜2025/10）が委託先の作業ミスで消失。行政文書を含む一部は復元困難と発表された。公文書管理や委託先運用の監督問題を浮き彫りに。",
+    "reason": "政府機関で長期間の業務データ消失・復元困難という重大インシデントで業務・法規対応や信頼に直結するため5評価。",
+    "published_at": "2026-06-12 23:14:00",
+    "created_at": "2026-06-13 02:44:21",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/12/news129.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "8253fdb2d664",
+    "title": "漏えい・脆弱なパスワードを1タップで自動更新 Appleが新機能を発表",
+    "published_date": "2026-06-12",
+    "importance_score": 2,
+    "category": "セキュリティ",
+    "summary": "AppleはApple Intelligenceを活用し、パスワード漏えい・脆弱判定されたパスワードをPasswordsアプリ/Safariから1タップで自動更新できる機能を発表した。",
+    "reason": "エンドユーザーのパスワード管理を改善する機能でセキュリティ向上に寄与するが、企業インフラへの直接影響は限定的なため低め評価。",
+    "published_at": "2026-06-12 15:32:00",
+    "created_at": "2026-06-13 02:44:21",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news057.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
     "ai_relevance_score": 0,
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
