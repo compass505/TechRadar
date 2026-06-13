@@ -1,6 +1,50 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "DAZNが謝罪 年間契約のサッカープランに一部「月額プランと受け取れる記載」があったため 希望者は解約も",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/13/news031.html",
+    "summary": "DAZN Japanは年間プラン「DAZN Soccer」の表記に一部誤解を招く記載があったとして謝罪。解約希望者への対応を案内している。",
+    "importance": 1,
+    "category": "ビジネス",
+    "reason": "消費者向けの表記誤りによるサービス信頼問題だが、技術面や産業全体への影響は限定的であるため低評価。",
+    "published_at": "2026-06-13 21:35:00",
+    "created_at": "2026-06-14 01:53:36"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Claude Fable 5」「Mythos 5」全面停止 米政府の指令により Anthropicは早期復旧を宣言",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/13/news026.html",
+    "summary": "米政府が国家安全保障を理由に輸出管理指令を発出。Anthropicは最上位AIモデル「Claude Fable 5」「Claude Mythos 5」の提供を全ユーザーで停止。復旧を目指すが影響は広範。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "政府指令によるモデル全面停止はアクセス制限と規制リスクを直接顕在化させ、AI事業者・開発者・国際利用に大きな影響を与えるため。",
+    "published_at": "2026-06-13 10:50:00",
+    "created_at": "2026-06-14 01:53:36"
+  },
+  {
+    "source": "＠IT",
+    "title": "「Windows 11、2026年6月に起動不能になる恐れ」「EDR無効化は当たり前」 いま見直すべきIT運用",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/13/news005.html",
+    "summary": "Windows 11が2026年6月に起動不能になる恐れやEDRの無効化問題などを取り上げ、現行IT運用の見直しを提言。情シスが確認すべき項目を整理している。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "多数の企業のクライアント運用・セキュリティに直接関わる可能性があり、情シス／運用担当者にとって実務的に重要な注意喚起であるため。",
+    "published_at": "2026-06-13 08:00:00",
+    "created_at": "2026-06-14 01:53:36"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SpaceX、NASDAQに上場――公開価格135ドル、初日終値は約19％高で約12兆円調達",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/13/news024.html",
+    "summary": "SpaceXがナスダックに上場し、公開価格ベースで約750億ドル（約12兆円）を調達。初日終値で時価総額は約2.1兆ドルに達し史上最大級の新規上場となった。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "巨額IPOは資本市場や宇宙関連産業、パートナー戦略に波及する重大な経済イベントであり読者の注目度が高いため。",
+    "published_at": "2026-06-13 06:34:00",
+    "created_at": "2026-06-14 01:53:36"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "厚労省、Teamsチャット2年10カ月分が消失 東芝が作業ミス 一部は復元困難",
     "url": "https://www.itmedia.co.jp/news/articles/2606/12/news129.html",
     "summary": "厚労省のMicrosoft Teamsチャット（2023/1〜2025/10）が委託先の作業ミスで消失。行政文書を含む一部は復元困難と発表された。公文書管理や委託先運用の監督問題を浮き彫りに。",
@@ -822,28 +866,6 @@
     "category": "企業IT",
     "reason": "鉄道インフラの点検方法に業務効率化と安全性向上をもたらす実運用事例で、他事業者や情シスへの示唆が大きい。",
     "published_at": "2026-06-06 09:10:00",
-    "created_at": "2026-06-07 04:59:56"
-  },
-  {
-    "source": "＠IT",
-    "title": "「ローカルLLMは本当に手元で動く？」「IT担当不在でも『自走するDX』とは」――ITの“常識”をアップデート",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/06/news013.html",
-    "summary": "＠ITで特に注目を集めた記事10本をランキングで紹介。ローカルLLMの運用可否や、IT担当不在で進めるDXなど実務視点の話題が並ぶ。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "ローカルLLMや自走するDXといった実務的テーマがまとまっており、情シスや経営判断の参考になるが速報性・独自性は中程度。",
-    "published_at": "2026-06-06 08:00:00",
-    "created_at": "2026-06-07 04:59:56"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "ISSで新たな空気漏れ、宇宙飛行士5人が一時退避",
-    "url": "https://japan.cnet.com/article/35248537/",
-    "summary": "国際宇宙ステーションのロシア区画で空気漏れが確認され、乗員5人が一時SpaceXのDragonへ退避。数時間後に通常業務へ復帰した。",
-    "importance": 2,
-    "category": "その他",
-    "reason": "乗員の一時退避を伴う安全インシデントで注目度は高いが、地上ITや業界影響は限定的。",
-    "published_at": "2026-06-06 06:45:00",
     "created_at": "2026-06-07 04:59:56"
   },
   {
