@@ -3752,31 +3752,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "5aea272fa217",
-    "title": "テスラの強みは自動運転だけじゃない アップデートで“プチストレス”を解消するユーザー体験に真価あり",
-    "published_date": "2026-06-07",
-    "importance_score": 1,
-    "category": "ガジェット",
-    "summary": "Model 3を4年乗ったオーナーが、ワイパー改善やドッグモード追加など細かなOTAアップデートでの体験改善を報告。地味な進化の積み重ねがユーザー満足に寄与している点を指摘する記事。",
-    "reason": "消費者向けの体験レポートで技術的インパクトは限定的だが、製品戦略やUXの重要性を示す事例として掲載価値あり",
-    "published_at": "2026-06-07 18:30:00",
-    "created_at": "2026-06-08 05:03:08",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/07/news027.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "4637cca77f6f",
     "title": "AIによるコード生成、3年後は3倍超に AI普及で浮上する課題は",
     "published_date": "2026-06-08",
@@ -5874,5 +5849,87 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
+  },
+  {
+    "id": "714dc9b54c85",
+    "title": "AIは「脱メインフレーム」を促し、実は“レガシー維持”にも使える その実践例とは",
+    "published_date": "2026-06-14",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "AIの登場がメインフレーム／オフコン刷新か維持かの判断を変化させている点を整理。AIを活用したレガシー維持の実践例を紹介する解説記事。",
+    "reason": "情シス・経営のレガシー対応判断に役立つ実務的な解説で、読者の意思決定支援に有用。",
+    "published_at": "2026-06-14 08:00:00",
+    "created_at": "2026-06-15 01:51:17",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/14/news002.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a7637bf47e3b",
+    "title": "Amazon、Anthropicの最新AIについて懸念を伝えていた 米政権による停止命令に先立ち 関係筋",
+    "published_date": "2026-06-14",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "Amazonのアンディ・ジャシーCEOがAnthropicの最新モデルのセキュリティリスクを米政府に報告。トランプ政権はAnthropicに対し、Fable 5とMythos 5を外国籍者が利用できないようにするよう命じたと報道。",
+    "reason": "政府によるアクセス制限命令と大手企業の介入で業界・規制に大きな影響が及ぶ可能性があるため掲載価値高し。",
+    "published_at": "2026-06-14 18:20:00",
+    "created_at": "2026-06-15 01:51:17",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/14/news019.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0d98ceb992b4",
+    "title": "“パクリ疑惑”から2年半 やっと正式版になる「パルワールド」の完成度に感心したマンガ家が、だからこそ残念なこと",
+    "published_date": "2026-06-14",
+    "importance_score": 1,
+    "category": "ガジェット",
+    "summary": "ポケットペアが『パルワールド』正式版1.0を7月10日にリリース。早期アクセスから約2年半、ポケモン類似問題が再び話題に。",
+    "reason": "ゲームリリースとクリエイティブ議論に留まり、TechRadar読者全体への影響は限定的なため低評価。",
+    "published_at": "2026-06-14 11:05:00",
+    "created_at": "2026-06-15 01:51:17",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/14/news013.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
   }
 ]

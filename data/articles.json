@@ -1,6 +1,39 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "Amazon、Anthropicの最新AIについて懸念を伝えていた 米政権による停止命令に先立ち 関係筋",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/14/news019.html",
+    "summary": "Amazonのアンディ・ジャシーCEOがAnthropicの最新モデルのセキュリティリスクを米政府に報告。トランプ政権はAnthropicに対し、Fable 5とMythos 5を外国籍者が利用できないようにするよう命じたと報道。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "政府によるアクセス制限命令と大手企業の介入で業界・規制に大きな影響が及ぶ可能性があるため掲載価値高し。",
+    "published_at": "2026-06-14 18:20:00",
+    "created_at": "2026-06-15 01:51:17"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "“パクリ疑惑”から2年半 やっと正式版になる「パルワールド」の完成度に感心したマンガ家が、だからこそ残念なこと",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/14/news013.html",
+    "summary": "ポケットペアが『パルワールド』正式版1.0を7月10日にリリース。早期アクセスから約2年半、ポケモン類似問題が再び話題に。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "ゲームリリースとクリエイティブ議論に留まり、TechRadar読者全体への影響は限定的なため低評価。",
+    "published_at": "2026-06-14 11:05:00",
+    "created_at": "2026-06-15 01:51:17"
+  },
+  {
+    "source": "＠IT",
+    "title": "AIは「脱メインフレーム」を促し、実は“レガシー維持”にも使える その実践例とは",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/14/news002.html",
+    "summary": "AIの登場がメインフレーム／オフコン刷新か維持かの判断を変化させている点を整理。AIを活用したレガシー維持の実践例を紹介する解説記事。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "情シス・経営のレガシー対応判断に役立つ実務的な解説で、読者の意思決定支援に有用。",
+    "published_at": "2026-06-14 08:00:00",
+    "created_at": "2026-06-15 01:51:17"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "DAZNが謝罪 年間契約のサッカープランに一部「月額プランと受け取れる記載」があったため 希望者は解約も",
     "url": "https://www.itmedia.co.jp/news/articles/2606/13/news031.html",
     "summary": "DAZN Japanは年間プラン「DAZN Soccer」の表記に一部誤解を招く記載があったとして謝罪。解約希望者への対応を案内している。",
@@ -823,17 +856,6 @@
     "reason": "クラウド事業者によるOS最適化は運用・互換性・コストの選択に影響し、クラウド戦略で押さえるべき事項。",
     "published_at": "2026-06-08 00:21:33",
     "created_at": "2026-06-09 03:10:54"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "テスラの強みは自動運転だけじゃない アップデートで“プチストレス”を解消するユーザー体験に真価あり",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/07/news027.html",
-    "summary": "Model 3を4年乗ったオーナーが、ワイパー改善やドッグモード追加など細かなOTAアップデートでの体験改善を報告。地味な進化の積み重ねがユーザー満足に寄与している点を指摘する記事。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "消費者向けの体験レポートで技術的インパクトは限定的だが、製品戦略やUXの重要性を示す事例として掲載価値あり",
-    "published_at": "2026-06-07 18:30:00",
-    "created_at": "2026-06-08 05:03:08"
   },
   {
     "source": "ITmedia NEWS",
