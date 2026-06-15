@@ -1,6 +1,149 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "イギリス、16歳未満のSNS利用を禁止に 「子どもを不幸にしている」",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/15/news120.html",
+    "summary": "英政府が16歳未満のSNS利用を全面的に禁止する方針を発表。ライブ配信やゲームも対象に規制強化を検討している。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "主要市場での大幅な規制変更でプラットフォーム事業者や国際的なコンプライアンスに直接影響するため掲載価値が高い。",
+    "published_at": "2026-06-15 20:20:00",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "人工知能学会「AIは人間を代替しない」 社会実装へ4提言 安保・著作権にも言及",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/15/2000000091/",
+    "summary": "人工知能学会が設立40周年を機に、AIの社会実装に向けた4つの提言を公表。安全保障や著作権などにも触れている。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "学術団体による政策提言は国内の規制・産業施策議論に影響し得るため、意思決定者に有益な情報となる。",
+    "published_at": "2026-06-15 19:56:36",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NEC、能動的サイバー防御で英防衛大手と協業 政府への導入を共同支援",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/15/news087.html",
+    "summary": "NECとBAE Systemsが能動的サイバー防御（ACD）の導入支援で協業。日英のサイバー戦略連携を受けた取り組みの一環だ。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "政府向けのサイバー防御導入を大手企業が連携して進める動きは、政策・入札・製品ロードマップに広範な影響を与える。",
+    "published_at": "2026-06-15 14:00:00",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "＠IT",
+    "title": "「Antigravity 2.0」から「WebMCP」まで──Googleが示したAIエージェント時代の開発基盤",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/15/news053.html",
+    "summary": "Google I/O 2026で発表されたAIエージェント向けの開発基盤（Antigravity 2.0、WebMCPなど）を整理。開発者向けの主要アップデートを解説する。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "AIエージェント開発の基盤が変わる可能性が高く、開発者・プロダクト戦略に役立つため代表ニュースとして掲載適合。",
+    "published_at": "2026-06-15 13:00:00",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Javaアプリ更新を1カ月→3日に爆速化 “ソースコード生成AI止まり”じゃない「IBM Bob」の仕組み",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/15/news042.html",
+    "summary": "IBMのAIツール『IBM Bob』がJavaアプリのモダナイゼーションを大幅短縮。単なるコード生成を超える自動化の仕組みを解説する。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "大手の実運用事例として、企業のソフトウェア保守コストや開発プロセス改革に直接結び付くため実務的価値が高い。",
+    "published_at": "2026-06-15 13:00:00",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "＠IT",
+    "title": "「メールを開いただけで識別される」 ここ1年で7倍に増えたn8nを悪用したデバイス追跡とマルウェア配布の手口",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news127.html",
+    "summary": "自動化プラットフォームn8nを悪用したフィッシングが増加。正規サービス経由でデバイスフィンガープリンティングやマルウェア配布が行われている。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "SaaS/自動化ツールの悪用は運用・検知・防御設計に直結する実務的リスクとして重要度が高い。",
+    "published_at": "2026-06-15 13:00:00",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Sakana AI、初の商用プロダクト「Marlin」リリース その実力は？【出力レポート全文掲載】",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/15/news015.html",
+    "summary": "Sakana AIが調査エージェント『Sakana Marlin』を商用化。βを経ての提供開始とメディア向けハンズオン結果を報告。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "AIスタートアップの商用化事例として関心は高いが、現時点では限定的な適用範囲のため重要度は中程度。",
+    "published_at": "2026-06-15 11:56:00",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、「Gemini」悪用の中国系サイバー犯罪組織を提訴――2週間で250万通の詐欺メッセージ",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/15/news067.html",
+    "summary": "Googleが自社AI「Gemini」を悪用した大規模フィッシングを行った組織を米裁判所に提訴。数百万件の偽URL・詐欺送信が確認されている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "生成AIの悪用で大規模詐欺が発生し、ベンダーが法的措置に踏み切った点は業界とセキュリティ実務に重大な示唆を与える。",
+    "published_at": "2026-06-15 10:51:00",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "グーグル、AIのための知識共有フォーマット「OKF」を公開",
+    "url": "https://www.watch.impress.co.jp/docs/news/2116974.html",
+    "summary": "Google CloudがAIエージェント向けのナレッジ共有フォーマット『Open Knowledge Format (OKF) v0.1』をGitHubで公開。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "組織内ナレッジのAI統合に関わる共通フォーマットは企業導入やツール連携に直接影響するため注目に値する。",
+    "published_at": "2026-06-15 10:37:11",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "＠IT",
+    "title": "BitLockerに“裏口”発見 わずか4時間で見つかった回避手法が波紋",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/15/news037.html",
+    "summary": "Windows Defenderの機能を悪用し、BitLocker暗号化ドライブへアクセス可能にする回避手法のPoCが公開された。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "ディスク暗号化の回避PoCはエンドポイントセキュリティとデータ保護に直結し、迅速な対策や情報共有が必要なため高評価。",
+    "published_at": "2026-06-15 07:30:00",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Anthropicのミュトス級AI「Fable 5」、アクセス停止続く",
+    "url": "https://japan.cnet.com/article/35248909/",
+    "summary": "Anthropicの大規模モデル『Fable 5』が米政府の輸出管理指令を受けて提供停止中。影響は世界規模に及ぶ可能性がある。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要AIモデルの停止はアクセス・事業戦略・法規制の交差点で大きな波及効果を生むため業界注目度が高い。",
+    "published_at": "2026-06-15 06:27:00",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "Publickey",
+    "title": "WASI 0.3が正式版に。WebAssembly Componentの非同期処理が共通基盤に",
+    "url": "https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html",
+    "summary": "ByteCode AllianceがWASI 0.3を正式リリース。WebAssemblyコンポーネントの非同期処理が標準化され、プラットフォーム間の共通基盤が整う。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "WebAssemblyの仕様進展はクロスランタイム開発やマイクロサービス設計に影響するため開発者向けに価値がある。",
+    "published_at": "2026-06-15 00:24:47",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "Publickey",
+    "title": "2027年までにAIエージェントでコーディングを行うチームの65％が、IDEが必要不可欠だとは考えなくなる。ガートナーの予想",
+    "url": "https://www.publickey1.jp/blog/26/2027ai65ide.html",
+    "summary": "ガートナーの予想を紹介。AIエージェントの普及により、従来のIDE依存が急速に変わるとの分析を示す。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発ツールとワークフローの将来像を示す業界分析は、開発組織の投資・採用判断に参考になる。",
+    "published_at": "2026-06-15 00:23:43",
+    "created_at": "2026-06-16 04:11:26"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "Amazon、Anthropicの最新AIについて懸念を伝えていた 米政権による停止命令に先立ち 関係筋",
     "url": "https://www.itmedia.co.jp/news/articles/2606/14/news019.html",
     "summary": "Amazonのアンディ・ジャシーCEOがAnthropicの最新モデルのセキュリティリスクを米政府に報告。トランプ政権はAnthropicに対し、Fable 5とMythos 5を外国籍者が利用できないようにするよう命じたと報道。",
@@ -715,17 +858,6 @@
     "created_at": "2026-06-09 03:10:54"
   },
   {
-    "source": "＠IT",
-    "title": "オープンソースのRust製コードエディタ「Zed」がバージョン1.0に到達 法人向けプランも",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news061.html",
-    "summary": "Rustで再実装されたコードエディタ『Zed』が1.0を公開。GPUで動く独自UIや複数AIエージェントの並列実行などAIネイティブ設計を採用し、法人向けプランも導入。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発者向けツールとして注目だが、現時点では採用範囲限定のため評価は慎重に低めに設定。",
-    "published_at": "2026-06-08 13:00:00",
-    "created_at": "2026-06-09 03:10:54"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "OpenAI、上場前にChatGPTの「スーパーアプリ」化を計画 海外報道",
     "url": "https://www.itmedia.co.jp/news/articles/2606/08/news094.html",
@@ -767,17 +899,6 @@
     "category": "セキュリティ",
     "reason": "パスキー普及に関わる認証安全性を揺るがす研究公表で、企業の認証設計や導入判断に重大な示唆を与える。",
     "published_at": "2026-06-08 11:00:00",
-    "created_at": "2026-06-09 03:10:54"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "“AIでAIを開発”加速へ Sakana AI 「計算資源の量ではなく、アイデアで進歩」",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2606/08/2000000068/",
-    "summary": "Sakana AIがAIでAIを開発する研究チームRSI Labを立ち上げ、計算資源に依存しない手法の構築を目指す。効率的なモデル改善の可能性を探る取り組み。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "研究・技術開発の初期段階だが、計算効率やモデル設計の潮流として技術者にとって興味深い。",
-    "published_at": "2026-06-08 09:09:26",
     "created_at": "2026-06-09 03:10:54"
   },
   {
