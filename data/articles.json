@@ -1,6 +1,138 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "デジタル相、停止中のミュトス級AIについて「今あるもので最大限」 3メガバンクなども同様",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/16/news124.html",
+    "summary": "米Anthropicの最上位モデルが米政府の指令で利用停止となった件で、松本デジタル相は国内では手元のフロンティアAI等で対応すると説明。メガバンクも同様の対応を示した。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "政府による先端モデルの利用停止は規制・政策と企業ITの現場運用に直結するため、企業戦略やリスク管理に重要な示唆を与える。",
+    "published_at": "2026-06-16 20:40:00",
+    "created_at": "2026-06-17 04:00:25"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SBGとOpenAI、AIで脆弱性診断「Patching as a Service」提供 まずは日本の重要インフラ向けに",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/16/news115.html",
+    "summary": "ソフトバンクグループとOpenAIが、OpenAIのAIを活用した脆弱性診断から修復方針・実装提案まで行う法人向けサービス「Patching as a Service」を発表。まず日本の重要インフラ企業向けに提供を開始する。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "重要インフラ向けにAIを使った脆弱性診断・修復を一気通貫で提供する点は、国レベルのサイバー防御と企業運用に直結するため業界影響が大きい。",
+    "published_at": "2026-06-16 18:05:00",
+    "created_at": "2026-06-17 04:00:25"
+  },
+  {
+    "source": "＠IT",
+    "title": "「GPUサーバの比較だけでは不十分」 レノボが“水冷AIインフラ“の検証ラボ、国内で開設",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/16/news047.html",
+    "summary": "レノボ・ジャパンが水冷技術を用いたAIインフラ検証拠点「Neptuneラボ」を国内に開設。実運用に近い条件での性能・冷却検証が可能になるという。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "AIインフラの効率化・導入検証に関する実務的な情報で、データセンター運用者や導入検討企業にとって役立つ。",
+    "published_at": "2026-06-16 13:00:00",
+    "created_at": "2026-06-17 04:00:25"
+  },
+  {
+    "source": "＠IT",
+    "title": "生成AI“8割導入”時代に「ITインフラ」が追い付いていない 他社は何を見直している？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/16/news042.html",
+    "summary": "A10ネットワークスの調査を基に、生成AI導入が進む中でITインフラが抱える課題と企業が見直しているポイントを整理した解説記事。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "企業の導入判断やインフラ刷新の参考になる調査・実務観点の整理で、情シス向け実用情報として価値がある。",
+    "published_at": "2026-06-16 13:00:00",
+    "created_at": "2026-06-17 04:00:25"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "三菱の家電にWi-Fi脆弱性、エアコンや冷蔵庫、炊飯器など広範囲 ユーザーに対応求める",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/16/news066.html",
+    "summary": "三菱の家電製品でWi-Fi関連の脆弱性が見つかり、エアコン、冷蔵庫、炊飯器など幅広い製品で影響。ユーザーに対して対応を求める通知が出されている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "消費者向けIoT家電の広範囲脆弱性は実利用者数が多く、リスクと対応負荷が大きいため掲載価値が高い。",
+    "published_at": "2026-06-16 10:10:00",
+    "created_at": "2026-06-17 04:00:25"
+  },
+  {
+    "source": "＠IT",
+    "title": "AIが生成したAWSインフラは本番環境で使えない？ 「AWS MCP Server」はどう役立つのか",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/16/news049.html",
+    "summary": "AWSがAIエージェントと認証付きでサービスにアクセスできるMCPサーバ「AWS MCP Server」を一般提供。AIが生成したインフラを安全に扱うための仕組みを説明する。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "AIによるインフラ構成生成の実用化に向けた認証・管理基盤はクラウド運用とガバナンスに直接関係するため、情シス・開発者向けに有用。",
+    "published_at": "2026-06-16 08:00:00",
+    "created_at": "2026-06-17 04:00:25"
+  },
+  {
+    "source": "＠IT",
+    "title": "OutlookとWordにリモートコード実行脆弱性 深刻度は「緊急」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/16/news029.html",
+    "summary": "MicrosoftがOutlookとWordに関する脆弱性CVE-2026-45456を公表。型混同により未認証の攻撃者がローカルでコード実行可能、悪用難度は低いとされる。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "Office系の広範囲影響かつ低難度でのコード実行につながるため、企業の情シス対応や緊急パッチ適用の優先度が高い。",
+    "published_at": "2026-06-16 07:00:00",
+    "created_at": "2026-06-17 04:00:25"
+  },
+  {
+    "source": "＠IT",
+    "title": "「なぜ動くか分からないコードが多過ぎ」 生成AI一般化でレビュワーの9割が直面する負担増の実態",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/16/news041.html",
+    "summary": "AI生成コードの普及でコードレビュワーの負担が増加。調査では約9割のレビュワーが負担増を実感し、説明責任や品質保証の課題が浮上している。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発現場の実務問題を示す調査結果で、導入時のガバナンスやレビュープロセス見直しに役立つ。",
+    "published_at": "2026-06-16 07:00:00",
+    "created_at": "2026-06-17 04:00:25"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SpaceXのIPO調達額、857億ドルに拡大 グリーンシューで",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/16/news060.html",
+    "summary": "SpaceXのIPOでオーバーアロットメントが行使され、調達総額が857億ドルに拡大。上場後の株価急騰を背景にした増額。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "巨大資金調達は宇宙産業と関連サプライチェーン、資本市場に与える影響が大きく、テクノロジービジネス面で重要。",
+    "published_at": "2026-06-16 06:49:00",
+    "created_at": "2026-06-17 04:00:25"
+  },
+  {
+    "source": "＠IT",
+    "title": "クラウドAI依存からの脱却 NASベンダーが仕掛ける「社内AI基盤」構想",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/16/news005.html",
+    "summary": "SynologyがローカルLLMやAIエージェントを軸に、クラウド依存を減らす企業向け社内AI基盤を提案。データ保護や運用面の利点を強調する戦略。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業データの保有・ガバナンスを巡る競争軸として重要で、クラウド依存を見直すIT戦略の参考になるため選出。",
+    "published_at": "2026-06-16 05:00:00",
+    "created_at": "2026-06-17 04:00:25"
+  },
+  {
+    "source": "Publickey",
+    "title": "Stack Overflow、AIエージェント同士が掲示板で技術情報を共有する「Stack Overflow for Agents」ベータ公開",
+    "url": "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
+    "summary": "Stack OverflowがAIエージェント同士で技術情報を共有する掲示板「Stack Overflow for Agents」をベータで公開。エージェント間の知識共有と標準化を目指す取り組み。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発者エコシステムにおけるAIエージェント運用の実験的プラットフォームであり、将来的なワークフロー変化を示唆するため小中規模の技術読者に有益。",
+    "published_at": "2026-06-16 00:46:43",
+    "created_at": "2026-06-17 04:00:25"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "「もはやモデル競争ではない」 OpenAI、企業のAI導入で新プログラム",
+    "url": "https://www.watch.impress.co.jp/docs/news/2117349.html",
+    "summary": "OpenAIが企業向けのエコシステム「OpenAI Partner Network」を発表。SIやコンサル等のパートナーと連携し、企業導入支援を強化する狙い。",
+    "importance": 2,
+    "category": "ビジネス",
+    "reason": "企業へのAI導入支援のエコシステム化は市場構造とSIビジネスに影響を与えるため、ビジネス面で注目に値する。",
+    "published_at": "2026-06-16 00:10:37",
+    "created_at": "2026-06-17 04:00:25"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "イギリス、16歳未満のSNS利用を禁止に 「子どもを不幸にしている」",
     "url": "https://www.itmedia.co.jp/news/articles/2606/15/news120.html",
     "summary": "英政府が16歳未満のSNS利用を全面的に禁止する方針を発表。ライブ配信やゲームも対象に規制強化を検討している。",
@@ -749,17 +881,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "Google「AI Plus」4割値下げ、月725円に ストレージ倍増、価格攻勢でシェア拡大へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news077.html",
-    "summary": "Googleが個人向けAIサブスク「AI Plus」を値下げしストレージを倍増。上位プランも改定し競争的な価格戦略を強化する。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "消費者向けの価格改定だが市場競争と普及に影響するため企業動向として価値あり。",
-    "published_at": "2026-06-09 11:07:00",
-    "created_at": "2026-06-10 02:33:14"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "OpenAIがIPO申請を発表 時期は未定",
     "url": "https://www.itmedia.co.jp/news/articles/2606/09/news074.html",
     "summary": "OpenAIは米国での新規株式公開（IPO）に向け、申請を行っていたことを発表。上場時期は未定。",
@@ -778,17 +899,6 @@
     "category": "開発",
     "reason": "ソフトウェアサプライチェーンの安全性に直結する問題で、開発運用・リスク管理に有益な情報。",
     "published_at": "2026-06-09 07:00:00",
-    "created_at": "2026-06-10 02:33:14"
-  },
-  {
-    "source": "Publickey",
-    "title": "Ubuntu、サンドボックス化された開発環境をコマンド一発で構築。新機能「Workshop」リリース",
-    "url": "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
-    "summary": "CanonicalがAIエージェント向けなどに適したサンドボックス化開発環境を一発で作れる新機能「Workshop」をリリースした。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発者の生産性とセキュリティ向上に資するツールだが影響範囲は比較的限定的。",
-    "published_at": "2026-06-09 00:43:33",
     "created_at": "2026-06-10 02:33:14"
   },
   {
