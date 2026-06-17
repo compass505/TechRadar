@@ -4536,35 +4536,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "4a86ae1d9816",
-    "title": "Cloudflare、従業員やアプリごとにAIの利用上限額を設定できるCloudflare AI Gatewayの新機能を発表",
-    "published_date": "2026-06-10",
-    "importance_score": 2,
-    "category": "クラウド",
-    "summary": "CloudflareがAI Gatewayに、従業員やアプリごとに毎月のAI利用料上限を設定できる機能を追加。組織でのAPIキー共有下でもコスト管理とガバナンスを強化できる。",
-    "reason": "企業のAI利用ガバナンスとコスト管理に直接役立つ実務的機能で情シス向けに有用。",
-    "published_at": "2026-06-10 00:55:18",
-    "created_at": "2026-06-11 03:13:15",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_ai_gateway.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "140a1dbfe706",
     "title": "Google、同時通訳に近い音声モデル「Gemini 3.5 Live Translate」発表 「Google翻訳」アプリなどで利用可能に",
     "published_date": "2026-06-10",
@@ -4618,34 +4589,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "c37194a69a37",
-    "title": "JR東日本、「みどりの窓口」に生成AI 客と音声で対話",
-    "published_date": "2026-06-10",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "JR東日本が窓口でのきっぷ購入補助に生成AIの音声対話システムを用いる実証実験を発表。NECらと連携し、利用情報を係員へ引き継ぐ運用を検証する。",
-    "reason": "現場運用に近いPoCであり、公共交通の顧客対応にAIを導入する実務例として参考になるため掲載価値あり。",
-    "published_at": "2026-06-10 08:10:00",
-    "created_at": "2026-06-11 03:13:15",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35248678/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
     "has_itmedia_article": false
   },
   {
@@ -6211,6 +6154,34 @@
     "has_itmedia_article": false
   },
   {
+    "id": "67dec4d00ab8",
+    "title": "Copilot Cowork、一般提供開始 Claude Coworkより30〜40%安価で企業文脈対応",
+    "published_date": "2026-06-16",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "Microsoftが『Copilot Cowork』の一般提供を開始。企業向けにClaude Coworkより低価格で文脈対応を提供し、Microsoft 365契約者向けに拡大。",
+    "reason": "企業向けコラボAIの普及とコスト競争に影響し、導入判断やコスト比較に役立つ情報。",
+    "published_at": "2026-06-16 11:32:27",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2117751.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
     "id": "21a2afb0178b",
     "title": "OutlookとWordにリモートコード実行脆弱性 深刻度は「緊急」",
     "published_date": "2026-06-16",
@@ -6519,6 +6490,345 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "7e9bbb4235c3",
+    "title": "GitLab、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」発表。最大で50倍高速かつ半分のトークンで利用可能に",
+    "published_date": "2026-06-17",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "GitLabがAIエージェント向けに最適化した新Git互換SCM『Project Switch』を発表。性能とコスト効率を大幅に改善すると主張。",
+    "reason": "AIエージェントによる開発ワークフローを想定した新たなソース管理の提案で、開発ツールチェーンの変化につながる可能性がある。",
+    "published_at": "2026-06-17 03:05:15",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6c83046c8858",
+    "title": "Google、Gemini専用設計の新スマスピ「Google Home スピーカー」を1万6800円で発売へ",
+    "published_date": "2026-06-17",
+    "importance_score": 2,
+    "category": "ガジェット",
+    "summary": "GoogleがGemini for Homeを搭載した新スマートスピーカーを発表。音声AIに最適化された設計で6月25日発売、価格は1万6800円。",
+    "reason": "消費者向けAI搭載製品の注目作だが製品発表のため重要度は抑えめ。",
+    "published_at": "2026-06-17 21:41:00",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/17/news124.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "07f95701f2d2",
+    "title": "MicrosoftがAIエージェント管理で新製品 「野良AI」使用者の特定、ブロックに対応",
+    "published_date": "2026-06-17",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "Microsoftが企業向けAIエージェント一元制御製品「Microsoft Agent 365」を一般提供。野良AIの検出・特定・ブロック機能やサードパーティ統合を強化する。",
+    "reason": "企業のAI利活用拡大に伴うリスク管理・ガバナンスに直結する製品アップデートで、情シスや経営判断に有用。",
+    "published_at": "2026-06-17 16:30:00",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news056.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "88949729ac66",
+    "title": "SpaceX、AIコーディングの「Cursor」を600億ドルで買収 上場直後の巨額投資",
+    "published_date": "2026-06-17",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "SpaceXがAIコーディングツール「Cursor」を約600億ドルで完全買収。xAI事業と組み合わせ、AI開発・インフラ戦略を加速する狙い。",
+    "reason": "大手企業による巨額買収でAI開発ツールとインフラ競争に影響、開発者エコシステムと市場構造が変わる可能性が高い。",
+    "published_at": "2026-06-17 08:28:00",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/17/news066.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0108cca168e9",
+    "title": "「Android 17」配信開始、Pixelから順次 マルチタスク強化、折りたたみ向け「ゲーミングモード」も",
+    "published_date": "2026-06-17",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "GoogleがAndroid 17を発表。マルチタスク『バブル』や折りたたみ向けゲーミングモード、セキュリティ強化などを含むアップデートを順次配信。",
+    "reason": "OSの新機能とセキュリティ改善はアプリ開発者とデバイスエコシステムに直接影響するため押さえておくべき。",
+    "published_at": "2026-06-17 13:10:00",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/17/news089.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f9e516e554fe",
+    "title": "「生成AIは大手なら安心」とは限らない？ 突然の提供停止が招くリスク顕在化",
+    "published_date": "2026-06-17",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "米政府の輸出管理指令によりAnthropicのモデル提供が停止された事例を受け、生成AI依存のリスクとポータビリティ対策を議論。",
+    "reason": "規制による提供停止が現実化した事例は企業のAI依存戦略に重大な示唆を与え、ガバナンス・調達設計の見直しが必要。",
+    "published_at": "2026-06-17 08:00:00",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news041.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "369a22b85043",
+    "title": "サイバーエージェントのポイント交換サービス、不正アクセスで停止中 復旧に1カ月かかる見込み",
+    "published_date": "2026-06-17",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "運営するポイント交換サービスが不正アクセスを受け、6月8日から全サービス停止中。復旧は約1カ月見込みで、ポイントは保全されると説明。",
+    "reason": "消費者向けサービスでの不正アクセス・長期停止は信頼・運用に重大影響を与え、企業IT対応事例として重要。",
+    "published_at": "2026-06-17 20:35:00",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/17/news123.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b1a27b2c1e12",
+    "title": "サーバ部品「約1年待ち……？」が企業のIT計画に与える“見過ごせない影響”",
+    "published_date": "2026-06-17",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "AI需要増で汎用サーバ向け部品の納期が長期化。部品不足が企業のIT刷新・調達計画に深刻な影響を与える見通しを解説。",
+    "reason": "インフラ調達とプロジェクト計画に直接影響するハードウェア供給リスクは情シスや調達部門で無視できない。",
+    "published_at": "2026-06-17 13:00:00",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news059.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a537a3532326",
+    "title": "初のAndroid XRスマートグラス「XREAL AURA」、日本でも秋に発売へ 価格は「1500ドルを超えない」",
+    "published_date": "2026-06-17",
+    "importance_score": 2,
+    "category": "ガジェット",
+    "summary": "XREALがGoogle/Qualcommと共同開発したXRグラス『XREAL AURA』を今秋発売へ。Android XR搭載で空間コンピューティングの普及に期待。",
+    "reason": "空間コンピューティング分野のコンシューマーデバイス動向として注目だが現時点は製品発表レベル。",
+    "published_at": "2026-06-17 15:33:00",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/17/news104.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "8344f506b4bc",
+    "title": "脆弱性を見つけるだけでは終わらない AIが修正作業まで支援するOSSセキュリティ基盤とは？",
+    "published_date": "2026-06-17",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "新たなオープンソースのセキュリティプラットフォームは、脆弱性検出に加えAIで修復支援まで実行可能とする点を特徴に解説する。",
+    "reason": "脆弱性対応の自動化は開発・運用現場の負荷軽減に直結し、実務で採用検討する価値が高い。",
+    "published_at": "2026-06-17 08:00:00",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news049.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "b727fc51d039",
+    "title": "脆弱性修正の猶予は「125日から0.5日」へ激減。セーフガード付き「Claude Fable 5」と最上位「Mythos」がもたらす激震",
+    "published_date": "2026-06-17",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "次世代AIモデルが自律的に脆弱性を発見・悪用する速度が格段に上がり、従来の脆弱性対応プロセスの前提が崩れつつあるという分析と対策論。",
+    "reason": "AIの進化が実運用の脆弱性対応ウィンドウを圧縮し、組織のセキュリティ前提を揺るがす深刻なインパクトを示唆するため。",
+    "published_at": "2026-06-17 05:00:00",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news014.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2382c0d6ce26",
+    "title": "開発者を狙う大規模フィッシングに注意 約6週間で250通以上の攻撃メール",
+    "published_date": "2026-06-17",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "北朝鮮系アクター『UNK_DeadDrop』が開発者を標的に大規模フィッシングを展開。約6週間で250通超、100以上の組織が標的に。",
+    "reason": "開発者と開発環境を狙う攻撃の拡大はサプライチェーン・ソフトウェアセキュリティに直結する実務上の警戒情報。",
+    "published_at": "2026-06-17 07:30:00",
+    "created_at": "2026-06-18 03:00:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news044.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
     "has_itmedia_article": false
   }
 ]
