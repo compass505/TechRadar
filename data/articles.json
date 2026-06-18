@@ -1,5 +1,137 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "アドビ、Creative Cloud全体にAIエージェント導入へ",
+    "url": "https://www.watch.impress.co.jp/docs/news/2118355.html",
+    "summary": "アドビがCreative Cloudアプリ群に独自のクリエイティブAIエージェントを導入。まずは主要アプリでパブリックベータを提供開始する。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "クリエイティブワークフローへのAI統合は業務効率や制作プロセスに影響するが、技術的に即時の危機を生む内容ではないため中程度評価。",
+    "published_at": "2026-06-18 22:00:00",
+    "created_at": "2026-06-19 03:13:51"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "チームみらい安野氏「牧歌的なAI開発の時代が終わった」 “ミュトス停止騒動”受け",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000105/",
+    "summary": "Anthropicのモデル提供停止を受け、AI開発のリスク管理やガバナンス強化が必要だとする業界関係者の見解を紹介。公的制御や運用責任の議論が加速している。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要モデル提供停止を巡る業界の反応で、企業のAI採用・ガバナンス戦略に直接影響するため高い掲載価値がある。",
+    "published_at": "2026-06-18 19:39:36",
+    "created_at": "2026-06-19 03:13:51"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "リチウムイオン電池火災を防ぐ「3つのC」 消防庁が対策サイト公開",
+    "url": "https://www.watch.impress.co.jp/docs/news/2118324.html",
+    "summary": "消防庁がリチウムイオン電池の発火・発煙事故防止のための総合対策ポータルを公開。安全な選び方・使い方・廃棄方法を周知する。",
+    "importance": 2,
+    "category": "法規制",
+    "reason": "消費者安全と事業者の製品対応に関わる公的ガイダンスで、法規制・製品開発側にも影響を与えるため掲載価値あり。",
+    "published_at": "2026-06-18 18:30:00",
+    "created_at": "2026-06-19 03:13:51"
+  },
+  {
+    "source": "＠IT",
+    "title": "Googleの新世代PC「Googlebook」、学校で普及したChromebookと何が違う？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/18/news059.html",
+    "summary": "GoogleがGeminiを中核に据えた新ノートPC「Googlebook」を発表。Chromebookとの差別化や教育市場での位置付けについて解説する。",
+    "importance": 2,
+    "category": "ガジェット",
+    "reason": "主要ベンダーの新ハード戦略とAI統合の方向性が見えるため、企業購買や教育機関の端末選定に参考になる。",
+    "published_at": "2026-06-18 18:15:00",
+    "created_at": "2026-06-19 03:13:51"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "【復旧済み】「Claude」が使いにくい状態に 「動かない」「落ちた？」などの声相次ぐ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000104/",
+    "summary": "生成AIサービス「Claude」で障害発生の報告が相次ぎ、一時利用に支障が出たが復旧済み。業務依存時の可用性リスクが改めて浮上した。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "企業・開発者がサービス可用性を評価する上で重要な事象。ダウンタイムの影響と対策の参考になるため掲載価値あり。",
+    "published_at": "2026-06-18 18:08:25",
+    "created_at": "2026-06-19 03:13:51"
+  },
+  {
+    "source": "＠IT",
+    "title": "「上限500万円、費用が半分に」 東京都が中小企業のセキュリティ対策助成金の申請を受け付け",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/18/news058.html",
+    "summary": "東京都が中小企業向けのサイバーセキュリティ助成金の申請を開始。費用の一部補助で最大500万円まで支援する制度が利用可能に。",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "中小企業のセキュリティ投資を後押しする政策で、企業IT予算や導入計画に直接関係するため掲載価値がある。",
+    "published_at": "2026-06-18 17:25:00",
+    "created_at": "2026-06-19 03:13:51"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ChatGPTに新機能、予約したタスクを自動実行できる「Scheduled tasks」 状況監視も依頼可能",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/18/news099.html",
+    "summary": "OpenAIがChatGPTに予約されたタスクを自動実行できる「Scheduled tasks」を順次展開。タスク管理と監視をAIに任せられる機能で業務自動化の幅が広がる。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "企業の業務自動化やSaaS連携に直結する新機能で、開発・導入判断や運用設計に参考になるため。",
+    "published_at": "2026-06-18 14:30:00",
+    "created_at": "2026-06-19 03:13:51"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「シャドーAI」7割超の企業が対策追い付かず “会社が選んだAIだけ利用”はもう限界？ ガートナー",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000103/",
+    "summary": "ガートナー調査で、日本企業の73％が承認外のAI利用（シャドーAI）に対処できていないと判明。統制と利便性の両立が課題となっている。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "AI活用のガバナンス問題はIT戦略・情報セキュリティに直結し、企業側の方針策定に影響するため重要。",
+    "published_at": "2026-06-18 12:09:50",
+    "created_at": "2026-06-19 03:13:51"
+  },
+  {
+    "source": "＠IT",
+    "title": "NRI流“業務に最適なAIモデル”の選び方 「ベンチマークだけで優劣は決まらない」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/18/news050.html",
+    "summary": "野村総合研究所が業務向けAIモデル選定の考え方を提示。ベンチマーク以外にデータ適合性や運用性を重視する点を解説する。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "企業が実務でAIモデルを選ぶ際の実践的な指針で、導入判断や評価基準策定に役立つため掲載価値がある。",
+    "published_at": "2026-06-18 12:00:00",
+    "created_at": "2026-06-19 03:13:51"
+  },
+  {
+    "source": "＠IT",
+    "title": "AIが脆弱性を掘り起こし過ぎる時代へ FIRSTがCVE予測を6万6000件に上方修正",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/18/news047.html",
+    "summary": "脆弱性発見件数がAIの影響で急増するとして、FIRSTがCVE登録予測を大幅に上方修正。企業は優先対応方針の見直しが必要になる可能性がある。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "脆弱性の急増見込みは優先度決定やパッチ戦略に影響を与えるため、セキュリティ担当者に重要な示唆となる。",
+    "published_at": "2026-06-18 07:30:00",
+    "created_at": "2026-06-19 03:13:51"
+  },
+  {
+    "source": "＠IT",
+    "title": "OpenAI×ソフトバンクの新サービスは脆弱性管理の常識を変える？ それとも期待先行？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/18/news041.html",
+    "summary": "OpenAIとソフトバンクが生成AIを活用した脆弱性診断・修復支援サービスを構想。単なる検出を超えパッチ適用支援まで踏み込む点が注目される。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "生成AIを脆弱性管理やパッチ運用に適用する試みは情シス運用効率とセキュリティ態勢に直接関わるため関心が高い。",
+    "published_at": "2026-06-18 07:00:00",
+    "created_at": "2026-06-19 03:13:51"
+  },
+  {
+    "source": "Publickey",
+    "title": "あなたのAWSのコストの問題がどこにあるか、AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
+    "url": "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
+    "summary": "AWSがコスト異常の原因特定やコスト最適化提案を行う「AWS FinOps Agent」のパブリックプレビューを開始。クラウドコスト管理にAIを活用する動きが本格化。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウドコスト最適化は多くの企業で優先課題。AIによる原因解析と運用改善提案は情シス・クラウド運用に有用な情報となる。",
+    "published_at": "2026-06-18 00:49:03",
+    "created_at": "2026-06-19 03:13:51"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "Google、Gemini専用設計の新スマスピ「Google Home スピーカー」を1万6800円で発売へ",
     "url": "https://www.itmedia.co.jp/news/articles/2606/17/news124.html",
@@ -657,17 +789,6 @@
     "category": "クラウド",
     "reason": "大手通信事業者による衛星サービス採用は接続選択肢と企業向けサービス設計に影響するため業界的意義がある。",
     "published_at": "2026-06-11 18:17:15",
-    "created_at": "2026-06-12 03:29:56"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "夢の全固体電池はウソだった？Donut Labの画期的バッテリーに偽装疑惑",
-    "url": "https://japan.cnet.com/article/35248794/",
-    "summary": "固体電池をめぐる大きな進歩を主張していたDonut Labの技術に対し、精査の結果で疑義が指摘されている。業界内で検証が進む。",
-    "importance": 2,
-    "category": "半導体",
-    "reason": "画期的技術の信頼性問題は投資・産業動向に影響するが、直接的な即時被害や広範波及は確認されていないため中程度の重要度。",
-    "published_at": "2026-06-11 17:13:00",
     "created_at": "2026-06-12 03:29:56"
   },
   {
