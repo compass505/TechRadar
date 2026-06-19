@@ -1,5 +1,115 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明 金融庁",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news137.html",
+    "summary": "金融庁がmoomoo証券に対し新規口座開設の勧誘・受付停止などの行政処分を発表。NISA対象外商品の誤説明やシステム管理態勢の不備など複数問題を指摘した。業務改善命令付き。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "金融当局の行政処分はフィンテック／証券業界の信頼・ガバナンスに直結するため、業界全体の対応が問われる",
+    "published_at": "2026-06-19 20:30:00",
+    "created_at": "2026-06-20 02:29:36"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Photoshopなど「Adobe Creative Cloud」にAIエージェント、アドビが全面導入 ChatGPTやClaudeとも連携",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news110.html",
+    "summary": "AdobeはCreative Cloud各アプリにAIエージェント機能を全面導入。外部AI（ChatGPT、Claude等）との連携でクリエイティブワークフローを統合する戦略を打ち出した。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "大手ソフトのAI統合はクリエイティブ現場とサードパーティAIのビジネスモデルに影響を与えるため注目に値する",
+    "published_at": "2026-06-19 15:45:00",
+    "created_at": "2026-06-20 02:29:36"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+    "summary": "OpenAIのCodexが新機能「Record & Replay」を公開。ユーザーがMac上で操作を実演すると、その手順を再利用可能な作業スキルに変換して自動化できる機能。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "GUI操作の自動化と手順化は開発・運用効率に直結し、SREやデベロッパーツールの潮流に影響を与える",
+    "published_at": "2026-06-19 14:15:00",
+    "created_at": "2026-06-20 02:29:36"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Gartnerが警鐘 プライバシー法執行が本格化、CISOは何を見直すべきか？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news077.html",
+    "summary": "米国で2025年に科されたプライバシー罰金が過去最大に達したとして、今後の執行強化が続くとの警鐘。企業はデータガバナンスとコンプライアンス体制の見直しが必要と指摘されている。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "プライバシー法の執行強化は多国籍・国内企業のコンプライアンス負荷と罰則リスクを高め、経営判断に直結する",
+    "published_at": "2026-06-19 13:00:00",
+    "created_at": "2026-06-20 02:29:36"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "東北大、4月の不正アクセスに続報 連絡取れない元入院患者・治験医師に申し出呼びかけ",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news092.html",
+    "summary": "東北大学のサーバ不正アクセスで、病院の治験業務関連資料を保管するNASから患者等の個人情報が流出した可能性を発表。連絡が取れない元患者や治験関係者に専用窓口への申し出を呼びかけている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "医療関連の個人情報漏えいは被害範囲が広く、事業継続・信頼回復・法的対応を各組織が検討する必要がある",
+    "published_at": "2026-06-19 13:00:00",
+    "created_at": "2026-06-20 02:29:36"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "画像生成AIのMidjourneyが医療参入、超音波全身スキャナとサウナ融合の「Midjourney Spa」構想を発表",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news090.html",
+    "summary": "Midjourneyが超音波ベースの全身スキャナと温浴施設を組み合わせる新事業を発表。初期は体組成マップ提供から始め、将来的な大規模展開を視野に入れるという構想。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "生成AI企業の医療分野参入は規制・安全性・ビジネスモデルの観点で注目すべきクロスセクター動向である",
+    "published_at": "2026-06-19 12:15:00",
+    "created_at": "2026-06-20 02:29:36"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Waymo、ロボタクシーの高速道路走行を制限 工事区間に進入する不具合でリコール届け出",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news082.html",
+    "summary": "Waymoは高速道路の工事区間に誤進入する恐れがあるとして約3871台のロボタクシーをリコール登録。恒久対策を開発中は高速道路走行を制限する暫定措置を実施する。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "自動運転の安全性・リコールは業界の規制対応と商用展開に直接影響する重大な運用課題",
+    "published_at": "2026-06-19 10:36:00",
+    "created_at": "2026-06-20 02:29:36"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得 トランプ政権でAI政策を担ったディーン・ボール氏も",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news072.html",
+    "summary": "OpenAIがGoogleのGemini共同リードだったノーム・シャジーア氏や、トランプ政権でAI政策に携わったディーン・ボール氏を採用。研究・政策の人材を強化していると発表した。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要プレイヤーによる人材獲得は競争力やAI政策・規制対応の陣容に影響するため企業戦略上重要",
+    "published_at": "2026-06-19 08:49:00",
+    "created_at": "2026-06-20 02:29:36"
+  },
+  {
+    "source": "＠IT",
+    "title": "「ログを取っているから安心」が危ない 攻撃者はクラウドログを“監視ツール”に変える",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news046.html",
+    "summary": "Palo Alto NetworksがAWS/GCPのログ管理機能を悪用する攻撃手法を分析。攻撃者はログを隠すだけでなく、クラウドログを使って被害環境を監視し続ける事例が示された。ログ運用の再設計が必要。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "クラウド運用の前提（ログで可視化できている）が崩れる攻撃は多くの組織の検出・対応戦略に影響する",
+    "published_at": "2026-06-19 07:30:00",
+    "created_at": "2026-06-20 02:29:36"
+  },
+  {
+    "source": "＠IT",
+    "title": "パッチ適用後も標的に？ 32万台超のFortiGateを襲った「FortiBleed」の正体",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news035.html",
+    "summary": "FortiGate機器を狙う大規模な認証情報収集キャンペーンが判明。対象は32万台超で、パッチ適用済み装置も含まれると報告されている。攻撃方法と持続的な侵入維持の手口を分析。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模・持続的な攻撃で多数のネットワーク機器が標的になっており、即時対応が必要な実害リスクが高い",
+    "published_at": "2026-06-19 07:00:00",
+    "created_at": "2026-06-20 02:29:36"
+  },
+  {
     "source": "Impress Watch",
     "title": "アドビ、Creative Cloud全体にAIエージェント導入へ",
     "url": "https://www.watch.impress.co.jp/docs/news/2118355.html",
@@ -683,17 +793,6 @@
   },
   {
     "source": "＠IT",
-    "title": "漏えい・脆弱なパスワードを1タップで自動更新 Appleが新機能を発表",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news057.html",
-    "summary": "AppleはApple Intelligenceを活用し、パスワード漏えい・脆弱判定されたパスワードをPasswordsアプリ/Safariから1タップで自動更新できる機能を発表した。",
-    "importance": 2,
-    "category": "セキュリティ",
-    "reason": "エンドユーザーのパスワード管理を改善する機能でセキュリティ向上に寄与するが、企業インフラへの直接影響は限定的なため低め評価。",
-    "published_at": "2026-06-12 15:32:00",
-    "created_at": "2026-06-13 02:44:21"
-  },
-  {
-    "source": "＠IT",
     "title": "Googleが20億のWebを分析 AIを狙う「間接的プロンプトインジェクション」の実態",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news052.html",
     "summary": "Googleの脅威インテリジェンスが多数のWebを分析し、AIを狙う「間接的プロンプトインジェクション」の手法と実態を公開。防御策の示唆も含む。",
@@ -701,17 +800,6 @@
     "category": "セキュリティ",
     "reason": "生成AIを標的とする新たな攻撃手法の実態解明で、企業のAI運用・防御設計に直接役立つため掲載価値あり。",
     "published_at": "2026-06-12 14:00:00",
-    "created_at": "2026-06-13 02:44:21"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「今、Codexのレート制限を解除したい」を解決？ “付与したリセット権の貯蓄”可能に 有料ユーザー向け",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000084/",
-    "summary": "OpenAIがCodexでレート制限のリセット権をユーザーの望むタイミングで使える「貯蓄」機能を導入。有料ユーザー向けの運用改善策。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発者の利用体験に関わるサービス改善だが、業界全体の戦略変更ほどの影響は限定的。",
-    "published_at": "2026-06-12 12:42:02",
     "created_at": "2026-06-13 02:44:21"
   },
   {
