@@ -1,5 +1,38 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "AIと機関銃 孫正義が語り始めたAIサイバー危機",
+    "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2118477.html",
+    "summary": "孫正義氏の発言を手がかりに、AIが引き起こすサイバーリスクと社会的影響を考察。企業や政策面での備えを促す論考。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "主要経営者の警告として業界の意識や投資・防御戦略に影響を与える可能性があり、注目に値するため。",
+    "published_at": "2026-06-20 09:00:00",
+    "created_at": "2026-06-21 01:57:22"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "新たな高級コンパクト、LUMIX「L10」は画作り自在なスナップカメラだった 明るいズームやメカっぽい操作感も好感",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/20/news022.html",
+    "summary": "パナソニックが25周年記念の高級コンパクト「DC-L10」を発表。トラディショナルな四角いボディと明るいズーム、操作性を強調した製品紹介。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "新製品紹介としては価値があるが業界全体や企業戦略への影響は限定的なため低評価。",
+    "published_at": "2026-06-20 08:29:00",
+    "created_at": "2026-06-21 01:57:22"
+  },
+  {
+    "source": "＠IT",
+    "title": "「若手はLinuxを学べ」「CLIで問題特定はもう古くなる」 AI時代に再定義されるエンジニアの基礎と現場の常識",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html",
+    "summary": "AI時代に求められるエンジニアの基礎知識や現場での常識を再検討。LinuxやCLIの扱い、スキルセットの変化と人材育成への示唆を提示。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発者やエンジニア育成、採用・現場運用に直接影響する実務的示唆があり、幅広い読者の判断に役立つため。",
+    "published_at": "2026-06-20 08:00:00",
+    "created_at": "2026-06-21 01:57:22"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "moomoo証券に3カ月の一部業務停止命令、NISA対象外を「対象」と虚偽説明 金融庁",
     "url": "https://www.itmedia.co.jp/news/articles/2606/19/news137.html",
@@ -691,17 +724,6 @@
     "reason": "情シス・経営のレガシー対応判断に役立つ実務的な解説で、読者の意思決定支援に有用。",
     "published_at": "2026-06-14 08:00:00",
     "created_at": "2026-06-15 01:51:17"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "DAZNが謝罪 年間契約のサッカープランに一部「月額プランと受け取れる記載」があったため 希望者は解約も",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/13/news031.html",
-    "summary": "DAZN Japanは年間プラン「DAZN Soccer」の表記に一部誤解を招く記載があったとして謝罪。解約希望者への対応を案内している。",
-    "importance": 1,
-    "category": "ビジネス",
-    "reason": "消費者向けの表記誤りによるサービス信頼問題だが、技術面や産業全体への影響は限定的であるため低評価。",
-    "published_at": "2026-06-13 21:35:00",
-    "created_at": "2026-06-14 01:53:36"
   },
   {
     "source": "ITmedia NEWS",

@@ -5492,33 +5492,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "7d1e7e96178f",
-    "title": "DAZNが謝罪 年間契約のサッカープランに一部「月額プランと受け取れる記載」があったため 希望者は解約も",
-    "published_date": "2026-06-13",
-    "importance_score": 1,
-    "category": "ビジネス",
-    "summary": "DAZN Japanは年間プラン「DAZN Soccer」の表記に一部誤解を招く記載があったとして謝罪。解約希望者への対応を案内している。",
-    "reason": "消費者向けの表記誤りによるサービス信頼問題だが、技術面や産業全体への影響は限定的であるため低評価。",
-    "published_at": "2026-06-13 21:35:00",
-    "created_at": "2026-06-14 01:53:36",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/13/news031.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "b178acf5da35",
     "title": "SpaceX、NASDAQに上場――公開価格135ドル、初日終値は約19％高で約12兆円調達",
     "published_date": "2026-06-13",
@@ -7360,6 +7333,89 @@
       "development"
     ],
     "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "375b8f45be74",
+    "title": "AIと機関銃 孫正義が語り始めたAIサイバー危機",
+    "published_date": "2026-06-20",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "孫正義氏の発言を手がかりに、AIが引き起こすサイバーリスクと社会的影響を考察。企業や政策面での備えを促す論考。",
+    "reason": "主要経営者の警告として業界の意識や投資・防御戦略に影響を与える可能性があり、注目に値するため。",
+    "published_at": "2026-06-20 09:00:00",
+    "created_at": "2026-06-21 01:57:22",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2118477.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "c058fd483c5a",
+    "title": "「若手はLinuxを学べ」「CLIで問題特定はもう古くなる」 AI時代に再定義されるエンジニアの基礎と現場の常識",
+    "published_date": "2026-06-20",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "AI時代に求められるエンジニアの基礎知識や現場での常識を再検討。LinuxやCLIの扱い、スキルセットの変化と人材育成への示唆を提示。",
+    "reason": "開発者やエンジニア育成、採用・現場運用に直接影響する実務的示唆があり、幅広い読者の判断に役立つため。",
+    "published_at": "2026-06-20 08:00:00",
+    "created_at": "2026-06-21 01:57:22",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ed15e7fcf5e9",
+    "title": "新たな高級コンパクト、LUMIX「L10」は画作り自在なスナップカメラだった 明るいズームやメカっぽい操作感も好感",
+    "published_date": "2026-06-20",
+    "importance_score": 1,
+    "category": "ガジェット",
+    "summary": "パナソニックが25周年記念の高級コンパクト「DC-L10」を発表。トラディショナルな四角いボディと明るいズーム、操作性を強調した製品紹介。",
+    "reason": "新製品紹介としては価値があるが業界全体や企業戦略への影響は限定的なため低評価。",
+    "published_at": "2026-06-20 08:29:00",
+    "created_at": "2026-06-21 01:57:22",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/20/news022.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
