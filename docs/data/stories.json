@@ -5573,34 +5573,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "714dc9b54c85",
-    "title": "AIは「脱メインフレーム」を促し、実は“レガシー維持”にも使える その実践例とは",
-    "published_date": "2026-06-14",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "AIの登場がメインフレーム／オフコン刷新か維持かの判断を変化させている点を整理。AIを活用したレガシー維持の実践例を紹介する解説記事。",
-    "reason": "情シス・経営のレガシー対応判断に役立つ実務的な解説で、読者の意思決定支援に有用。",
-    "published_at": "2026-06-14 08:00:00",
-    "created_at": "2026-06-15 01:51:17",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/14/news002.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "a7637bf47e3b",
     "title": "Amazon、Anthropicの最新AIについて懸念を伝えていた 米政権による停止命令に先立ち 関係筋",
     "published_date": "2026-06-14",
@@ -5626,31 +5598,6 @@
     "practical_impact_score": 1,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "0d98ceb992b4",
-    "title": "“パクリ疑惑”から2年半 やっと正式版になる「パルワールド」の完成度に感心したマンガ家が、だからこそ残念なこと",
-    "published_date": "2026-06-14",
-    "importance_score": 1,
-    "category": "ガジェット",
-    "summary": "ポケットペアが『パルワールド』正式版1.0を7月10日にリリース。早期アクセスから約2年半、ポケモン類似問題が再び話題に。",
-    "reason": "ゲームリリースとクリエイティブ議論に留まり、TechRadar読者全体への影響は限定的なため低評価。",
-    "published_at": "2026-06-14 11:05:00",
-    "created_at": "2026-06-15 01:51:17",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/14/news013.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
   },
@@ -7420,6 +7367,63 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1fed5b960c8b",
+    "title": "「次のPCリプレース、予算は足りるか」 データセンターもメモリ価格もAI需要で様変わり",
+    "published_date": "2026-06-21",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "生成AIの普及でデータセンターは高密度化・液冷化・コンテナ化が進み、AI向け半導体需要がメモリ・ストレージ市場に影響。PC／サーバ調達のコスト構造も変化している。",
+    "reason": "インフラ・調達コストと市場構造の変化は情シス・経営の判断に直接関わる重要な分析のため掲載に値する。",
+    "published_at": "2026-06-21 08:00:00",
+    "created_at": "2026-06-22 01:58:03",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/21/news002.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9db8477e3e82",
+    "title": "ノーベル化学賞のジョン・ジャンパー氏、Google DeepMindからAnthropicへ──「AlphaFold」開発の立役者",
+    "published_date": "2026-06-21",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "AlphaFold開発の中心を担ったジョン・ジャンパー氏がDeepMindを離れてAnthropicへ移籍。AI人材の流動性と企業間競争が一段と激化する兆し。",
+    "reason": "主要AI人材の移動は企業戦略と競争に直結し、業界動向や採用戦略に影響するため掲載価値が高い。",
+    "published_at": "2026-06-21 15:43:00",
+    "created_at": "2026-06-22 01:58:03",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/21/news017.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
     "has_itmedia_article": true
   }
 ]

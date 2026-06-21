@@ -1,5 +1,27 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "ノーベル化学賞のジョン・ジャンパー氏、Google DeepMindからAnthropicへ──「AlphaFold」開発の立役者",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/21/news017.html",
+    "summary": "AlphaFold開発の中心を担ったジョン・ジャンパー氏がDeepMindを離れてAnthropicへ移籍。AI人材の流動性と企業間競争が一段と激化する兆し。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要AI人材の移動は企業戦略と競争に直結し、業界動向や採用戦略に影響するため掲載価値が高い。",
+    "published_at": "2026-06-21 15:43:00",
+    "created_at": "2026-06-22 01:58:03"
+  },
+  {
+    "source": "＠IT",
+    "title": "「次のPCリプレース、予算は足りるか」 データセンターもメモリ価格もAI需要で様変わり",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/21/news002.html",
+    "summary": "生成AIの普及でデータセンターは高密度化・液冷化・コンテナ化が進み、AI向け半導体需要がメモリ・ストレージ市場に影響。PC／サーバ調達のコスト構造も変化している。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "インフラ・調達コストと市場構造の変化は情シス・経営の判断に直接関わる重要な分析のため掲載に値する。",
+    "published_at": "2026-06-21 08:00:00",
+    "created_at": "2026-06-22 01:58:03"
+  },
+  {
     "source": "Impress Watch",
     "title": "AIと機関銃 孫正義が語り始めたAIサイバー危機",
     "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2118477.html",
@@ -701,28 +723,6 @@
     "category": "AI",
     "reason": "政府によるアクセス制限命令と大手企業の介入で業界・規制に大きな影響が及ぶ可能性があるため掲載価値高し。",
     "published_at": "2026-06-14 18:20:00",
-    "created_at": "2026-06-15 01:51:17"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "“パクリ疑惑”から2年半 やっと正式版になる「パルワールド」の完成度に感心したマンガ家が、だからこそ残念なこと",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/14/news013.html",
-    "summary": "ポケットペアが『パルワールド』正式版1.0を7月10日にリリース。早期アクセスから約2年半、ポケモン類似問題が再び話題に。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "ゲームリリースとクリエイティブ議論に留まり、TechRadar読者全体への影響は限定的なため低評価。",
-    "published_at": "2026-06-14 11:05:00",
-    "created_at": "2026-06-15 01:51:17"
-  },
-  {
-    "source": "＠IT",
-    "title": "AIは「脱メインフレーム」を促し、実は“レガシー維持”にも使える その実践例とは",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/14/news002.html",
-    "summary": "AIの登場がメインフレーム／オフコン刷新か維持かの判断を変化させている点を整理。AIを活用したレガシー維持の実践例を紹介する解説記事。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "情シス・経営のレガシー対応判断に役立つ実務的な解説で、読者の意思決定支援に有用。",
-    "published_at": "2026-06-14 08:00:00",
     "created_at": "2026-06-15 01:51:17"
   },
   {
