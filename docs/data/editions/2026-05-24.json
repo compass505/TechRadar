@@ -2,20 +2,16 @@
   "edition_date": "2026-05-24",
   "surfaces": {
     "top_yesterday": [
-      "e30643acc32e",
       "2552cd9a2411"
     ],
     "recent_important": [
       "2552cd9a2411"
     ],
     "yesterday_ai": [
-      "2552cd9a2411",
-      "e30643acc32e",
-      "92cfad3a8e60"
+      "2552cd9a2411"
     ],
     "yesterday_enterprise_it": [
-      "2552cd9a2411",
-      "92cfad3a8e60"
+      "2552cd9a2411"
     ],
     "yesterday_development": []
   }

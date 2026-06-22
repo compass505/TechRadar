@@ -1,6 +1,138 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "踏切に取り残された人をAIで検知→列車を自動停止 小田急が実運用",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/22/news125.html",
+    "summary": "遮断機が下りた後に取り残された人をAIで検知し、信号設備と連動して接近列車を停止させる実運用を開始。乗務員への警報も併せて行われる。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "公共交通の安全に直結するAIの実運用導入で他事業者への波及が想定されるため重要。",
+    "published_at": "2026-06-22 16:38:00",
+    "created_at": "2026-06-23 03:55:48"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "サムスン電子、韓国の全社員と世界のDX部門に「ChatGPT Enterprise」「Codex」を展開へ",
+    "url": "https://japan.cnet.com/article/35249228/",
+    "summary": "サムスンが韓国内全社員とグローバルDX部門に対し、ChatGPT EnterpriseとCodexの大規模導入を決定。OpenAIにとっても最大級の企業展開の一つ。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "巨大メーカーによる大規模導入は企業内AI利用のベンチマークになり、運用やガバナンスの実装例として重要。",
+    "published_at": "2026-06-22 14:51:00",
+    "created_at": "2026-06-23 03:55:48"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "国産フルスクラッチAI「PLaMo 3.0 Prime」提供開始、“高コスパ”うたう 無料のAPIプランも PFN",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000113/",
+    "summary": "Preferred Networksが国産生成AIモデル「PLaMo 3.0 Prime」の提供を開始。企業向けの実用性と無料のAPIプランを打ち出す。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "国内LLMの商用展開は企業導入の選択肢を広げるが、影響は段階的であるため中程度の重要度。",
+    "published_at": "2026-06-22 13:18:48",
+    "created_at": "2026-06-23 03:55:48"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "OpenAI、一度やって見せるだけで、以降やってくれる新機能「Record＆Replay」--PC作業を自動化",
+    "url": "https://japan.cnet.com/article/35249204/",
+    "summary": "OpenAIのPC向けCodexアプリに、操作を一度実演すると以降自動化できる「Record＆Replay」を追加。デスクトップ作業の自動化を支援する機能。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "デスクトップ自動化の新機能は生産性向上に直結し、開発者・業務効率化担当に参考になる。",
+    "published_at": "2026-06-22 09:45:00",
+    "created_at": "2026-06-23 03:55:48"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "moomoo証券に業務停止命令、NISA対象外のETFを「対象」と偽り販売",
+    "url": "https://japan.cnet.com/article/35249202/",
+    "summary": "moomoo証券が関東財務局から新規口座開設の停止など3カ月の一部業務停止命令を受けた。不適切な金融商品表示が理由。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "金融業界に対する行政処分で顧客・事業運営に直結するため、規制動向として重要。",
+    "published_at": "2026-06-22 09:01:00",
+    "created_at": "2026-06-23 03:55:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "日経のAI、NTTデータが販売契約 出典明示でハルシネーションに強い法人向け「NIKKEI KAI」",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news121.html",
+    "summary": "日本経済新聞社とNTTデータが法人向け生成AIサービス「NIKKEI KAI」の販売契約を締結。出典明示でハルシネーション抑制を訴求する。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "出典明示を売りにする法人向けAIは企業利用の一選択肢だが影響範囲は限定的。",
+    "published_at": "2026-06-22 09:00:00",
+    "created_at": "2026-06-23 03:55:48"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "7割超の企業はシャドーAIを管理できていない ガートナーがガバナンスの現実解を提唱",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/22/news035.html",
+    "summary": "ガートナー調査で国内企業の73％がシャドーAIを管理できていないと判明。事業部門を巻き込むガバナンス構築を提唱している。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "企業のAIガバナンスの現状と具体策は情シス・経営判断に直結するため優先掲載。",
+    "published_at": "2026-06-22 08:00:00",
+    "created_at": "2026-06-23 03:55:48"
+  },
+  {
+    "source": "＠IT",
+    "title": "Microsoft、AI活用拡大で「Patch Tuesday」の大規模化が続くと予告",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/22/news048.html",
+    "summary": "MicrosoftはAIによる脆弱性発見の加速を背景に、月例のPatch Tuesdayの規模が今後も拡大すると警告。ユーザー側の迅速な対応を求めている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "脆弱性対応負荷の拡大は企業の運用やパッチ計画に直接影響するため重要。",
+    "published_at": "2026-06-22 08:00:00",
+    "created_at": "2026-06-23 03:55:48"
+  },
+  {
+    "source": "＠IT",
+    "title": "「危険なAI」の証拠はあったのか？ Anthropic「Fable 5」規制に広がる疑問の声",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/22/news026.html",
+    "summary": "Anthropicの最新モデルFable 5に対する輸出規制が波紋に。政権側の安全保障理由に対して専門家らは根拠不十分と反発している。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "AIモデルに対する規制措置が業界や国際展開に影響するため広範な注目事項。",
+    "published_at": "2026-06-22 07:30:00",
+    "created_at": "2026-06-23 03:55:48"
+  },
+  {
+    "source": "＠IT",
+    "title": "DMARC未対応ではメールが届かない？ Cloudflareが無料化で狙う“最後の障壁”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/22/news023.html",
+    "summary": "主要メール事業者の認証強化でDMARCが事実上必須に。Cloudflareが設定支援機能を無償化して対応障壁を下げる狙いを示す。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "メール配信の到達性問題は企業運用に影響するため、実務的に有益なニュース。",
+    "published_at": "2026-06-22 07:00:00",
+    "created_at": "2026-06-23 03:55:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AIに頼ると技術が落ちる？ 医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/22/news041.html",
+    "summary": "AIツール普及で専門家が技能低下を懸念する声が増加。検証研究やNatureの警鐘を紹介し、リスクと対策を論じている。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "職能維持と教育の観点で企業や組織の人材戦略に影響するため注意喚起として価値あり。",
+    "published_at": "2026-06-22 07:00:00",
+    "created_at": "2026-06-23 03:55:48"
+  },
+  {
+    "source": "Publickey",
+    "title": "AWS、コードだけでなくインフラ構成とビジネスコンテキストも理解した上で脆弱性を推論する「AWS Contiuum」発表。特定のAIモデルに依存せず",
+    "url": "https://www.publickey1.jp/blog/26/awsaws_contiuumai.html",
+    "summary": "AWSがコード・インフラ・ネットワークや非構造化ドキュメントを統合して脆弱性を推論する新サービス「AWS Continuum」を発表。特定モデルに依存しない設計を謳う。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "クラウド事業者による脆弱性検出の新アプローチはセキュリティ運用と開発ワークフローを変えうるため重要。",
+    "published_at": "2026-06-22 00:26:18",
+    "created_at": "2026-06-23 03:55:48"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "ノーベル化学賞のジョン・ジャンパー氏、Google DeepMindからAnthropicへ──「AlphaFold」開発の立役者",
     "url": "https://www.itmedia.co.jp/news/articles/2606/21/news017.html",
     "summary": "AlphaFold開発の中心を担ったジョン・ジャンパー氏がDeepMindを離れてAnthropicへ移籍。AI人材の流動性と企業間競争が一段と激化する兆し。",
@@ -635,17 +767,6 @@
     "category": "セキュリティ",
     "reason": "SaaS/自動化ツールの悪用は運用・検知・防御設計に直結する実務的リスクとして重要度が高い。",
     "published_at": "2026-06-15 13:00:00",
-    "created_at": "2026-06-16 04:11:26"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Sakana AI、初の商用プロダクト「Marlin」リリース その実力は？【出力レポート全文掲載】",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/15/news015.html",
-    "summary": "Sakana AIが調査エージェント『Sakana Marlin』を商用化。βを経ての提供開始とメディア向けハンズオン結果を報告。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "AIスタートアップの商用化事例として関心は高いが、現時点では限定的な適用範囲のため重要度は中程度。",
-    "published_at": "2026-06-15 11:56:00",
     "created_at": "2026-06-16 04:11:26"
   },
   {
@@ -2882,17 +3003,6 @@
     "created_at": "2026-05-25 06:42:08"
   },
   {
-    "source": "Impress Watch",
-    "title": "ミトス級モデルの公開は「強力な安全対策後」 アンソロピックが成果説明",
-    "url": "https://www.watch.impress.co.jp/docs/news/2111151.html",
-    "summary": "Anthropicは22日、未公開の最新モデル「Mythos Preview(ミトス)」などを活用したサイバーセキュリティの取り組み「Project Glasswing」の進捗などについて発表した。ミトス級のモデル公開は、「必要な安全対策の後」とし、サイバーセキュリティ対策の強化を呼びかけている。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "ローカル検証用のキーワード判定で選定",
-    "published_at": "2026-05-23 19:57:58",
-    "created_at": "2026-05-24 21:13:52"
-  },
-  {
     "source": "＠IT",
     "title": "「バックアップ先はNAS/テープ」「入り口をふさぐ」だけではもう古い、AI/ランサム時代のインフラの本質",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/23/news011.html",
@@ -2901,17 +3011,6 @@
     "category": "セキュリティ",
     "reason": "ローカル検証用のキーワード判定で選定",
     "published_at": "2026-05-23 08:00:00",
-    "created_at": "2026-05-24 21:13:52"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Google.comで「ignore」を検索すると……",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/23/news033.html",
-    "summary": "英語版Google検索で「ignore」「disregard」などを検索すると、「AIによる概要」が単語の意味ではなく検索クエリをシステムへの命令と誤解し、無視しようとする現象がSNSで話題になった。日本語版でも「無視して」で同様の挙動が確認された。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "ローカル検証用のキーワード判定で選定",
-    "published_at": "2026-05-23 07:32:00",
     "created_at": "2026-05-24 21:13:52"
   }
 ]
