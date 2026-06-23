@@ -58,34 +58,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "1262d7966535",
-    "title": "ソースネクストのAI議事録、Microsoft 365 Copilot連携で検索、要約を効率化",
-    "published_date": "2026-05-24",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "AI議事録サービス「AutoMemo」がMicrosoft 365 Copilot連携を提供し、過去会議の検索・要約・抽出をCopilot経由で行えるように。議事録作成や報告業務の効率化を狙う機能追加。",
-    "reason": "M365との連携は企業の業務効率・ワークフローに影響し、導入やデータガバナンスの検討が必要なため情報価値が高い。",
-    "published_at": "2026-05-24 07:00:00",
-    "created_at": "2026-05-25 06:42:08",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://kn.itmedia.co.jp/kn/articles/2605/23/news017.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
     "id": "30c08c63b13c",
     "title": "NGINX Riftの次は“poolslip” NGINX最新版に未修正のゼロデイ",
     "published_date": "2026-05-25",
@@ -6022,119 +5994,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "8a5e57db6f37",
-    "title": "Stack Overflow、AIエージェント同士が掲示板で技術情報を共有する「Stack Overflow for Agents」ベータ公開",
-    "published_date": "2026-06-16",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "Stack OverflowがAIエージェント同士で技術情報を共有する掲示板「Stack Overflow for Agents」をベータで公開。エージェント間の知識共有と標準化を目指す取り組み。",
-    "reason": "開発者エコシステムにおけるAIエージェント運用の実験的プラットフォームであり、将来的なワークフロー変化を示唆するため小中規模の技術読者に有益。",
-    "published_at": "2026-06-16 00:46:43",
-    "created_at": "2026-06-17 04:00:25",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "07125e514a89",
-    "title": "「GPUサーバの比較だけでは不十分」 レノボが“水冷AIインフラ“の検証ラボ、国内で開設",
-    "published_date": "2026-06-16",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "レノボ・ジャパンが水冷技術を用いたAIインフラ検証拠点「Neptuneラボ」を国内に開設。実運用に近い条件での性能・冷却検証が可能になるという。",
-    "reason": "AIインフラの効率化・導入検証に関する実務的な情報で、データセンター運用者や導入検討企業にとって役立つ。",
-    "published_at": "2026-06-16 13:00:00",
-    "created_at": "2026-06-17 04:00:25",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/16/news047.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 3,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "ed3da7f63876",
-    "title": "「なぜ動くか分からないコードが多過ぎ」 生成AI一般化でレビュワーの9割が直面する負担増の実態",
-    "published_date": "2026-06-16",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "AI生成コードの普及でコードレビュワーの負担が増加。調査では約9割のレビュワーが負担増を実感し、説明責任や品質保証の課題が浮上している。",
-    "reason": "開発現場の実務問題を示す調査結果で、導入時のガバナンスやレビュープロセス見直しに役立つ。",
-    "published_at": "2026-06-16 07:00:00",
-    "created_at": "2026-06-17 04:00:25",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/16/news041.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "e0bf55d8d844",
-    "title": "「もはやモデル競争ではない」 OpenAI、企業のAI導入で新プログラム",
-    "published_date": "2026-06-16",
-    "importance_score": 2,
-    "category": "ビジネス",
-    "summary": "OpenAIが企業向けのエコシステム「OpenAI Partner Network」を発表。SIやコンサル等のパートナーと連携し、企業導入支援を強化する狙い。",
-    "reason": "企業へのAI導入支援のエコシステム化は市場構造とSIビジネスに影響を与えるため、ビジネス面で注目に値する。",
-    "published_at": "2026-06-16 00:10:37",
-    "created_at": "2026-06-17 04:00:25",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2117349.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "792e336f6241",
     "title": "クラウドAI依存からの脱却 NASベンダーが仕掛ける「社内AI基盤」構想",
     "published_date": "2026-06-16",
@@ -6218,34 +6077,6 @@
     "urgency_score": 1,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "62beffe1e215",
-    "title": "生成AI“8割導入”時代に「ITインフラ」が追い付いていない 他社は何を見直している？",
-    "published_date": "2026-06-16",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "A10ネットワークスの調査を基に、生成AI導入が進む中でITインフラが抱える課題と企業が見直しているポイントを整理した解説記事。",
-    "reason": "企業の導入判断やインフラ刷新の参考になる調査・実務観点の整理で、情シス向け実用情報として価値がある。",
-    "published_at": "2026-06-16 13:00:00",
-    "created_at": "2026-06-17 04:00:25",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/16/news042.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
   },
   {
     "id": "7e9bbb4235c3",
@@ -7682,5 +7513,283 @@
     "urgency_score": 1,
     "utility_score": 1,
     "has_itmedia_article": true
+  },
+  {
+    "id": "70dcc15e96b5",
+    "title": "Appleも修正できない脆弱性のPoCコード公開 2018～2020年世代のiPhoneに残る設計上の課題",
+    "published_date": "2026-06-23",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "A12/A13搭載のiPhone/iPadでBootROMを狙う新たなエクスプロイト「usbliter8」のPoCコードが公開。ソフトウェア更新では修正できない設計上の欠陥であると報告。",
+    "reason": "修正不能な設計欠陥でPoCが公開済み、悪用につながれば広範な実害と対策困難性が高い事案。",
+    "published_at": "2026-06-23 07:30:00",
+    "created_at": "2026-06-24 02:24:16",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news058.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ab71ab0e7ff2",
+    "title": "GitHub、AIによる雑なプルリクエストを抑制へ。ユーザー当たりのプルリクエスト数の上限を設定できる新機能導入",
+    "published_date": "2026-06-23",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "GitHubがユーザーごとのプルリクエスト数上限を設定できる機能を導入。AI生成による量産的なPRによるレビュー負荷の抑制が目的。",
+    "reason": "AI活用で増える自動生成PRへの実務対策で、開発プロセスとコードレビュー負荷に即効性のある運用変更。",
+    "published_at": "2026-06-23 00:14:38",
+    "created_at": "2026-06-24 02:24:16",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/githubai_1.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "627c03c01dcd",
+    "title": "KDDI、メアドなど最大1422万件漏えいか ISP事業者向けシステムに不正アクセス",
+    "published_date": "2026-06-23",
+    "importance_score": 5,
+    "category": "ビジネス",
+    "summary": "KDDIが提供するISP向けメールシステムが不正アクセスを受け、利用者のメールアドレスやパスワード最大1,422万件が流出した可能性を発表。対象は複数のISPサービスを含む。",
+    "reason": "大規模な個人情報流出の可能性で利用者・企業に即時の対応と被害拡大防止が必要な重大インシデント。",
+    "published_at": "2026-06-23 16:14:00",
+    "created_at": "2026-06-24 02:24:16",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/23/news114.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ff803b2b68b7",
+    "title": "OpenAI、修正パッチを「マシン速度」適用 サイバー防衛「Daybreak」強化",
+    "published_date": "2026-06-23",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "OpenAIがサイバー防御プログラム『Daybreak』を強化し、新ツールやパートナーシップ、GPT‑5.5‑Cyberの正式提供を発表。脆弱性対応の自動化・高速化を目指す。",
+    "reason": "大手AI事業者によるサイバー防御強化はセキュリティオペレーションの自動化・攻守双方へ影響を与える動き。",
+    "published_at": "2026-06-23 12:08:47",
+    "created_at": "2026-06-24 02:24:16",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2119193.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6f6f99089b40",
+    "title": "SpaceX、初のシニア無担保社債を発行 AI投資加速に向け資金調達を本格化",
+    "published_date": "2026-06-23",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "SpaceXが初のシニア無担保社債を発行し資金調達を開始。資金はブリッジローン返済や事業目的に充てられ、Reflection AIへのColossus 2の計算資源提供も明らかに。",
+    "reason": "主要宇宙・AI企業が資金調達とAIインフラ提携で計算資源供給を確保する動きは市場構図に影響。",
+    "published_at": "2026-06-23 08:56:00",
+    "created_at": "2026-06-24 02:24:16",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/23/news076.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ac2422c64475",
+    "title": "トランプ大統領、耐量子暗号（PQC）移行を義務付ける大統領令に署名 2030年末期限",
+    "published_date": "2026-06-23",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "米連邦政府が耐量子暗号（PQC）への移行期限を2030年末とする大統領令に署名。各省庁に移行を求め、量子技術の開発・実装も加速する方針。",
+    "reason": "政府レベルでの暗号移行期限設定はインフラ・サービス提供者にとって強制的な対応を迫る重要政策変更。",
+    "published_at": "2026-06-23 14:08:00",
+    "created_at": "2026-06-24 02:24:16",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/23/news103.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "43ec872be3d2",
+    "title": "マイクロンとアンソロピック、AI基盤拡大で協業 メモリ供給に合意",
+    "published_date": "2026-06-23",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "MicronとAnthropicが次世代AIインフラ拡大に向け戦略的合意。メモリ・ストレージのAIアーキテクチャ設計や供給合意、マイクロンからの技術導入・投資を含む協業。",
+    "reason": "AIインフラ向けメモリ供給と設計で大手メモリメーカーとAI企業の戦略的協業はサプライチェーンと市場に影響。",
+    "published_at": "2026-06-23 17:49:46",
+    "created_at": "2026-06-24 02:24:16",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2119380.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ed0430828386",
+    "title": "マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定",
+    "published_date": "2026-06-23",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "マネーフォワードはGitHubへの不正アクセスによる個人情報流出の検討を完了。流出の可能性がある個人データは約62,901件と報告された。",
+    "reason": "ソースコード管理サービスへの不正アクセスで顧客データ流出の可能性が確定し、企業のサプライチェーンセキュリティ課題を示す事例。",
+    "published_at": "2026-06-23 16:01:00",
+    "created_at": "2026-06-24 02:24:16",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/23/news109.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c050fd303768",
+    "title": "日立、メインフレーム事業から撤退へ ハード製造終了から9年後の決断",
+    "published_date": "2026-06-23",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "日立が自社のメインフレーム環境提供から撤退を決定。ハード製造終了後の事業整理と顧客移行の経緯を整理している。",
+    "reason": "メインフレーム提供からの撤退は既存大企業顧客のIT戦略や移行計画に直接影響する重要な企業判断。",
+    "published_at": "2026-06-23 11:35:00",
+    "created_at": "2026-06-24 02:24:16",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news059.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c27b4eac8e07",
+    "title": "第313回 TPU製造を巡るGoogleとIntelの賭け――AIが強いる「ハード使い捨て」の過酷な舞台裏",
+    "published_date": "2026-06-23",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "報道されたGoogleによるIntelへの大量TPU発注を背景に、AI向けハードの製造・キャパ確保と投資回収のリスクを分析。TSMCの逼迫や国策の影響も論じる。",
+    "reason": "AI向け半導体の製造キャパと大手クラウドベンダーの投資判断はサプライチェーンと業界戦略に直結する分析記事。",
+    "published_at": "2026-06-23 05:00:00",
+    "created_at": "2026-06-24 02:24:16",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news018.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
   }
 ]
