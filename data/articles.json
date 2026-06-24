@@ -1,6 +1,182 @@
 [
   {
     "source": "Impress Watch",
+    "title": "OpenAI、LLMのための新チップ「ハラペーニョ」を自社開発 年内にGW級",
+    "url": "https://www.watch.impress.co.jp/docs/news/2119811.html",
+    "summary": "OpenAIがLLM向け推論プラットフォーム用の自社チップ「Jalapeño」を発表。Broadcomと共同で年内にギガワット級のデータセンター展開を開始予定。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "OpenAIによる自社AIアクセラレータの大規模導入計画はAIインフラの競争構造に直接影響するため",
+    "published_at": "2026-06-24 23:43:34",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「Transformerの最大475倍」 富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
+    "summary": "富士通が少ないGPUでLLMを動かせる新アーキテクチャ「PHOTON」を開発。Transformer比でGPU当たりスループットが最大475倍になるとする。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "GPU資源・コストに直結するアーキテクチャ改善はクラウド運用・データセンター戦略に重大な示唆を与えるため",
+    "published_at": "2026-06-24 19:54:58",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "“PayPay送金詐欺”3カ月で22.4倍に急増 ゲーム・トレカサービスかたる新手口も",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/24/news135.html",
+    "summary": "トビラシステムズの調査で、PayPay等の送金関連をかたる詐欺が急増。詐欺手口の多様化やSMS・電話での誘導の変化を報告。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "キャッシュレス利用者・企業が被害対象となる新手口の急増は、決済セキュリティ対策の優先度を上げるため",
+    "published_at": "2026-06-24 19:45:00",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
+    "url": "https://www.watch.impress.co.jp/docs/news/2119744.html",
+    "summary": "SBIが国内初の信託型円建てステーブルコイン「JPYSC」を発行。オンチェーンFXやクロスボーダー送金での活用を視野に入れる。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "国内金融大手によるステーブルコイン発行は決済インフラや規制動向に影響を与える可能性があるため",
+    "published_at": "2026-06-24 18:37:14",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「パスワードが変更できない」の声相次ぐ BIGLOBE、情報漏えいの可能性で変更呼びかけ マイページ高負荷が一因",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/24/news123.html",
+    "summary": "BIGLOBEが利用者情報漏えいの可能性を受けパスワード変更を呼びかけるが、アクセス集中で変更できない利用者が続出していると報告。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "ISPレベルでのアカウント情報流出リスクとユーザー対応の障害が発生しており、運用面の教訓となるため",
+    "published_at": "2026-06-24 17:25:00",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "国内ユーザー数「前年比1582％増」――AI開発支援「Devin」は競合と何が違う？ 日本法人代表が語る事業戦略",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000124/",
+    "summary": "AIエージェント「Devin」の日本展開と急成長の背景を、同社日本法人代表が語る。開発支援分野での差別化戦略を紹介。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "開発向けAIエージェントの国内普及動向を示す事業面の情報で、開発組織のツール選定に参考になるため",
+    "published_at": "2026-06-24 15:24:09",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "＠IT",
+    "title": "「AI活用が進む企業」ほど、OSS管理の甘さで足をすくわれる？ IPAが「オープンソース推進レポート」公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/24/news057.html",
+    "summary": "IPAの調査で国内企業のOSS利用が進む一方、管理や運用体制の不十分さが指摘される。国内外のリポジトリ比較などから課題を整理。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "OSS供給網と管理体制の課題はAIやソフトウェア開発の実務リスクに直結するため、情シス・経営判断に有用",
+    "published_at": "2026-06-24 11:00:00",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AmazonはNVIDIAに挑戦状を突きつけるのか",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/24/news039.html",
+    "summary": "AWSのAIアクセラレータ戦略が半導体市場に与える影響を分析。AWSが大規模販売でNVIDIAの優位に挑む可能性を論じる。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "ハイパースケーラーの戦略変更はAIハードウェア市場と調達戦略に広範な示唆を与えるため",
+    "published_at": "2026-06-24 11:00:00",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Metaが低価格の新型スマートグラスを発表、独自ブランド「Meta Glasses」で299ドルから",
+    "url": "https://japan.cnet.com/article/35249326/",
+    "summary": "Metaが自社ブランドのAI搭載スマートグラス「Meta Glasses」を発表。低価格帯でMuse Sparkを搭載し複数スタイルで展開。",
+    "importance": 2,
+    "category": "ガジェット",
+    "reason": "消費者向けAIグラスの普及はエコシステムとプライバシー議論に波及するが、製品発表ベースのため重要度は中程度",
+    "published_at": "2026-06-24 10:50:00",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Mistral、文書解析OCRの新版「OCR 4」公開 文字の位置や信頼度スコアを出力、日本語を含む170言語に対応",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000122/",
+    "summary": "MistralがOCRモデル「Mistral OCR 4」を公開。バウンディングボックスや信頼度スコアを出力し、単一コンテナでの自己ホスティングに対応、170言語をサポート。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "自己ホスティング対応と多言語・構造情報出力は企業のデータ主権・自動化導入に直結するため",
+    "published_at": "2026-06-24 10:13:48",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NTTPC「WebARENA」ファイル転送サービスに不正アクセス 業務ファイル4400件超に漏えいの恐れ 再構築へ今後半年間停止",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/24/news068.html",
+    "summary": "共用レンタルサーバ「WebARENA SuiteX」のファイル転送サービスが不正アクセスを受け、業務ファイル約4400件超に漏えいの恐れ。サービスは再構築のため半年間停止予定。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模な顧客データ漏えいの恐れと長期サービス停止が確定しており、業務影響と緊急対応が必要なため",
+    "published_at": "2026-06-24 09:49:00",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Anthropic、Slackで「＠Claude」を呼べる「Claude Tag」提供──チームの一員として非同期でタスク遂行",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000120/",
+    "summary": "AnthropicがSlack連携の新機能「Claude Tag」をベータ提供開始。@Claudeでチャンネルに招待し、自律的にタスク実行や関連情報の活用が可能に。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "企業内ワークフローへAIを埋め込む実運用機能で、情シスや組織導入判断に有用なため",
+    "published_at": "2026-06-24 08:55:42",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "＠IT",
+    "title": "FortiBleedはなぜ止まらない？ Fortinetが示した“次に確認すべきこと”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/24/news055.html",
+    "summary": "FortiGateに関連する認証情報流出疑惑「FortiBleed」について、Fortinetの見解と管理者が優先すべき対策を整理。パッチ適用後も残るリスクに言及。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "多数の機器に関わる認証情報流出疑惑で、組織側に即時の確認・対応を要求する業界インパクトがあるため",
+    "published_at": "2026-06-24 07:30:00",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "マネーフォワード、GitHub不正アクセスの詳細調査を完了 確定した「流出した可能性のあるデータ」とは",
+    "url": "https://japan.cnet.com/article/35249304/",
+    "summary": "マネーフォワードがGitHubへの不正アクセスに関する調査を完了。流出の可能性がある情報を公表したが、本番DB侵入は確認されていないとしている。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "ソースコード管理系の不正アクセスはサプライチェーン/開発セキュリティに直接結びつくため、開発・情報システム向けの重要案件",
+    "published_at": "2026-06-24 05:17:00",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "最大10Gbpsの光回線網「フレッツ光クロス」、全国エリアカバー率80%を達成へ--NTT東西",
+    "url": "https://japan.cnet.com/article/35249302/",
+    "summary": "NTT東西が最大10Gbpsの「フレッツ 光クロス」の提供エリア拡大を発表。西日本で既に80％超、東日本も年内に同水準到達を見込む。",
+    "importance": 2,
+    "category": "クラウド",
+    "reason": "国内ブロードバンド基盤の高速化は企業ITインフラやクラウド利用の性能面に影響するため",
+    "published_at": "2026-06-24 05:06:00",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "Publickey",
+    "title": "TypeScriptコンパイラをGo言語に移植することで10倍速にしたTypeScript 7.0リリース候補版が登場",
+    "url": "https://www.publickey1.jp/blog/26/typescriptgo10typescript_70.html",
+    "summary": "TypeScriptコンパイラをGoに移植したTypeScript 7.0のRCが登場。コンパイル速度が大幅に向上し、大規模開発での体感改善が見込まれる。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "ビルド速度改善は開発生産性に直結し、組織のCI/開発フロー設計に影響するため",
+    "published_at": "2026-06-24 00:29:40",
+    "created_at": "2026-06-25 02:24:58"
+  },
+  {
+    "source": "Impress Watch",
     "title": "マイクロンとアンソロピック、AI基盤拡大で協業 メモリ供給に合意",
     "url": "https://www.watch.impress.co.jp/docs/news/2119380.html",
     "summary": "MicronとAnthropicが次世代AIインフラ拡大に向け戦略的合意。メモリ・ストレージのAIアーキテクチャ設計や供給合意、マイクロンからの技術導入・投資を含む協業。",
@@ -540,17 +716,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "Google、Gemini専用設計の新スマスピ「Google Home スピーカー」を1万6800円で発売へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/17/news124.html",
-    "summary": "GoogleがGemini for Homeを搭載した新スマートスピーカーを発表。音声AIに最適化された設計で6月25日発売、価格は1万6800円。",
-    "importance": 2,
-    "category": "ガジェット",
-    "reason": "消費者向けAI搭載製品の注目作だが製品発表のため重要度は抑えめ。",
-    "published_at": "2026-06-17 21:41:00",
-    "created_at": "2026-06-18 03:00:56"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "サイバーエージェントのポイント交換サービス、不正アクセスで停止中 復旧に1カ月かかる見込み",
     "url": "https://www.itmedia.co.jp/news/articles/2606/17/news123.html",
     "summary": "運営するポイント交換サービスが不正アクセスを受け、6月8日から全サービス停止中。復旧は約1カ月見込みで、ポイントは保全されると説明。",
@@ -569,17 +734,6 @@
     "category": "企業IT",
     "reason": "企業のAI利活用拡大に伴うリスク管理・ガバナンスに直結する製品アップデートで、情シスや経営判断に有用。",
     "published_at": "2026-06-17 16:30:00",
-    "created_at": "2026-06-18 03:00:56"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "初のAndroid XRスマートグラス「XREAL AURA」、日本でも秋に発売へ 価格は「1500ドルを超えない」",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/17/news104.html",
-    "summary": "XREALがGoogle/Qualcommと共同開発したXRグラス『XREAL AURA』を今秋発売へ。Android XR搭載で空間コンピューティングの普及に期待。",
-    "importance": 2,
-    "category": "ガジェット",
-    "reason": "空間コンピューティング分野のコンシューマーデバイス動向として注目だが現時点は製品発表レベル。",
-    "published_at": "2026-06-17 15:33:00",
     "created_at": "2026-06-18 03:00:56"
   },
   {
@@ -2945,50 +3099,6 @@
     "category": "クラウド",
     "reason": "国内大手がAI特化クラウドを投入し、AIインフラ競争と企業導入選択に影響するため。",
     "published_at": "2026-05-25 19:03:15",
-    "created_at": "2026-05-26 05:46:49"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "データセンターを渇望するAI企業、反発する住民 米調査で浮き彫りに",
-    "url": "https://japan.cnet.com/article/35247961/",
-    "summary": "AI向けデータセンター建設が地元住民の反発を招く事例を米調査で報告。電力・水使用など社会的課題が顕在化。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "AIインフラ拡大が地域社会・規制・サプライチェーンに与える影響を示す重要な動向だから。",
-    "published_at": "2026-05-25 15:55:00",
-    "created_at": "2026-05-26 05:46:49"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "数千規模のAIエージェントをどう統制する？ IBMが製品群を発表",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/25/news045.html",
-    "summary": "IBMがAIオペレーティングモデルと製品群を発表。多数のAIエージェント運用での統制・ガバナンスを狙う提案。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "エンタープライズでAIエージェントをスケールさせる上での運用課題解決に直結するため。",
-    "published_at": "2026-05-25 15:30:00",
-    "created_at": "2026-05-26 05:46:49"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "ServiceNow、AIエージェントの「データの空白」を埋める機能群を発表",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/25/news043.html",
-    "summary": "ServiceNowがサイロ化データやガバナンス不備を解消する新機能群を発表し、AI導入の障壁低減を目指す。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "実務でのAI適用を阻むデータギャップとガバナンス問題に対する具体的ソリューションで有用性が高いため。",
-    "published_at": "2026-05-25 15:00:00",
-    "created_at": "2026-05-26 05:46:49"
-  },
-  {
-    "source": "＠IT",
-    "title": "残存“Windows 10”が危険なだけじゃない、そもそもPC保護は「年間76日も機能していない」",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/25/news048.html",
-    "summary": "調査で企業のエンドポイントセキュリティ機能が約20％適切に機能せず、実質的に年間76日分保護が働かないと報告。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "エンドポイント防御の実効性低下は多数企業のセキュリティ姿勢に直接影響するため。",
-    "published_at": "2026-05-25 13:00:00",
     "created_at": "2026-05-26 05:46:49"
   },
   {
