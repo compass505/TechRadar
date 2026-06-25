@@ -259,34 +259,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "437677d1c3f0",
-    "title": "Gemini APIが“半額”で使える「Flex」 注意点は？ 「Priority」とは何が違う？",
-    "published_date": "2026-05-26",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "GoogleがGemini API向けに新ティア「Flex」「Priority」を追加。Flexは標準の半額で利用でき、用途に応じた使い分けのポイントを解説。",
-    "reason": "APIコスト構造の変化は開発者とSaaS事業者のコスト設計に直結するため実務的価値が高い。",
-    "published_at": "2026-05-26 13:00:00",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/26/news039.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "5d7c740942c4",
     "title": "Microsoft、F5侵害からActive Directory攻撃に発展した多段侵入事例を公開",
     "published_date": "2026-05-26",
@@ -311,34 +283,6 @@
     "practical_impact_score": 2,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "7fc854aca3cb",
-    "title": "xAIがコーディングエージェント「Grok Build」ベータ公開。サブエージェントを並列に実行可能など",
-    "published_date": "2026-05-26",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "xAIがコーディング特化のAIエージェント「Grok Build」早期ベータを公開。並列サブエージェントなどプロ向けの機能を備える点を紹介。",
-    "reason": "コーディングエージェントの進化は開発生産性やワークフローに影響を与えるため開発者向けに重要。",
-    "published_at": "2026-05-26 00:04:43",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/xaigrok_build.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
   },
@@ -449,34 +393,6 @@
     "practical_impact_score": 3,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "08221cefe269",
-    "title": "教皇レオ14世、AIの軍事利用や労働への影響に回勅で警鐘 Anthropicの共同創業者が同席してコメント",
-    "published_date": "2026-05-26",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "教皇レオ14世がAIに関する回勅を発表し、軍事利用や労働への影響、巨大企業の権力集中に警鐘を鳴らした。Anthropic共同創業者も場に同席しコメント。",
-    "reason": "倫理的・規範的なメッセージが国際的なAI規制議論や企業のガバナンスに影響を与える可能性があるため掲載に値する。",
-    "published_at": "2026-05-26 06:17:00",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news059.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": true
   },
@@ -6307,62 +6223,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "91421859febc",
-    "title": "Googleの新世代PC「Googlebook」、学校で普及したChromebookと何が違う？",
-    "published_date": "2026-06-18",
-    "importance_score": 2,
-    "category": "ガジェット",
-    "summary": "GoogleがGeminiを中核に据えた新ノートPC「Googlebook」を発表。Chromebookとの差別化や教育市場での位置付けについて解説する。",
-    "reason": "主要ベンダーの新ハード戦略とAI統合の方向性が見えるため、企業購買や教育機関の端末選定に参考になる。",
-    "published_at": "2026-06-18 18:15:00",
-    "created_at": "2026-06-19 03:13:51",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/18/news059.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "30c1e3bd1603",
-    "title": "NRI流“業務に最適なAIモデル”の選び方 「ベンチマークだけで優劣は決まらない」",
-    "published_date": "2026-06-18",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "野村総合研究所が業務向けAIモデル選定の考え方を提示。ベンチマーク以外にデータ適合性や運用性を重視する点を解説する。",
-    "reason": "企業が実務でAIモデルを選ぶ際の実践的な指針で、導入判断や評価基準策定に役立つため掲載価値がある。",
-    "published_at": "2026-06-18 12:00:00",
-    "created_at": "2026-06-19 03:13:51",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/18/news050.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
     "id": "0ae4258bcd26",
     "title": "OpenAI×ソフトバンクの新サービスは脆弱性管理の常識を変える？ それとも期待先行？",
     "published_date": "2026-06-18",
@@ -6418,34 +6278,6 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": true
-  },
-  {
-    "id": "1602b9b82c97",
-    "title": "「上限500万円、費用が半分に」 東京都が中小企業のセキュリティ対策助成金の申請を受け付け",
-    "published_date": "2026-06-18",
-    "importance_score": 2,
-    "category": "セキュリティ",
-    "summary": "東京都が中小企業向けのサイバーセキュリティ助成金の申請を開始。費用の一部補助で最大500万円まで支援する制度が利用可能に。",
-    "reason": "中小企業のセキュリティ投資を後押しする政策で、企業IT予算や導入計画に直接関係するため掲載価値がある。",
-    "published_at": "2026-06-18 17:25:00",
-    "created_at": "2026-06-19 03:13:51",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/18/news058.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
   },
   {
     "id": "63e5feff56a8",
@@ -6505,35 +6337,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "753232fbc8e0",
-    "title": "アドビ、Creative Cloud全体にAIエージェント導入へ",
-    "published_date": "2026-06-18",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "アドビがCreative Cloudアプリ群に独自のクリエイティブAIエージェントを導入。まずは主要アプリでパブリックベータを提供開始する。",
-    "reason": "クリエイティブワークフローへのAI統合は業務効率や制作プロセスに影響するが、技術的に即時の危機を生む内容ではないため中程度評価。",
-    "published_at": "2026-06-18 22:00:00",
-    "created_at": "2026-06-19 03:13:51",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2118355.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "bcd652523204",
     "title": "チームみらい安野氏「牧歌的なAI開発の時代が終わった」 “ミュトス停止騒動”受け",
     "published_date": "2026-06-18",
@@ -6561,31 +6364,6 @@
     "urgency_score": 1,
     "utility_score": 2,
     "has_itmedia_article": true
-  },
-  {
-    "id": "c7af2aaefacb",
-    "title": "リチウムイオン電池火災を防ぐ「3つのC」 消防庁が対策サイト公開",
-    "published_date": "2026-06-18",
-    "importance_score": 2,
-    "category": "法規制",
-    "summary": "消防庁がリチウムイオン電池の発火・発煙事故防止のための総合対策ポータルを公開。安全な選び方・使い方・廃棄方法を周知する。",
-    "reason": "消費者安全と事業者の製品対応に関わる公的ガイダンスで、法規制・製品開発側にも影響を与えるため掲載価値あり。",
-    "published_at": "2026-06-18 18:30:00",
-    "created_at": "2026-06-19 03:13:51",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2118324.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
   },
   {
     "id": "76a96324a0af",
@@ -8069,5 +7847,342 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
+  },
+  {
+    "id": "a4344e5ccb81",
+    "title": "AIコーディング導入企業の8割が「ガバナンス整備が追いついていない」と回答 GitLabがAIパラドックスと新たな技術的負債への警鐘を鳴らす",
+    "published_date": "2026-06-25",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "GitLabの調査で、AIコーディング導入企業の約8割がガバナンス整備の遅れを実感。品質管理や技術的負債の新リスクを指摘し、管理体制の強化を推奨している。",
+    "reason": "開発現場でのAI導入に伴う運用・ガバナンス課題は多くの企業が直面している実務的な問題であるため",
+    "published_at": "2026-06-25 17:13:00",
+    "created_at": "2026-06-26 02:27:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news121.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "b721902484fb",
+    "title": "AWS Lambda MicroVMs登場。サーバレスの手軽さでステートフルかつ隔離された実行環境を提供",
+    "published_date": "2026-06-25",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "AWSがLambda上で一時的にステートフルな隔離実行環境を提供する「AWS Lambda Micro VMs」を発表。サーバレスの利便性とより強い隔離を両立する新機能。",
+    "reason": "サーバレス設計の運用モデルを拡張し、開発者のアーキテクチャ選択に影響を与えるため",
+    "published_at": "2026-06-25 00:40:24",
+    "created_at": "2026-06-26 02:27:49",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/aws_lambda_microvms.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "3600c5bceee4",
+    "title": "Google Play、手数料を30％から引き下げ 独自決済や外部サイト誘導も開放 日本は12月から",
+    "published_date": "2026-06-25",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "GoogleがGoogle Playの課金と手数料体系を見直し、独自決済や外部サイト誘導を拡大。手数料の分離などを順次導入し、日本は年内（12月）適用予定。",
+    "reason": "アプリ開発者の収益構造・プラットフォームビジネスに直結する重要な政策変更だから",
+    "published_at": "2026-06-25 14:45:00",
+    "created_at": "2026-06-26 02:27:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/25/news100.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "4dc5723ed359",
+    "title": "Google、「Gemini 3.5 Flash」に「Computer Use」を標準搭載──AIが画面を見てブラウザやアプリを操作",
+    "published_date": "2026-06-25",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "GoogleはGemini 3.5 Flashに画面認識でブラウザやアプリ操作を自動化する「Computer Use」を標準搭載。エージェント構築の敷居が下がり、クロスプラットフォーム操作が可能に。",
+    "reason": "エージェントによる実環境操作の一般化は開発者・情シス・セキュリティに新たな課題と機会をもたらすため",
+    "published_at": "2026-06-25 10:08:52",
+    "created_at": "2026-06-26 02:27:49",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000127/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a279b08c4ab9",
+    "title": "KDDIのメールシステムに不正アクセス 最大1422万件情報漏えいの恐れ",
+    "published_date": "2026-06-25",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "KDDIのISP向けメールシステムが不正アクセスを受け、第三者ソフト脆弱性の悪用で最大1422万件のメールアドレスとパスワードが漏えいした可能性。詳細調査と対策が進行中。",
+    "reason": "国内大手通信事業者での大規模情報漏えいの恐れは広範な被害と即時対応を要するため",
+    "published_at": "2026-06-25 07:00:00",
+    "created_at": "2026-06-26 02:27:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news036.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "b17e4015fff9",
+    "title": "MicrosoftとEuropol、情報窃取マルウェア「StealC」「Amadey」の基盤を一斉摘発 C2サーバ200台超を停止",
+    "published_date": "2026-06-25",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "MicrosoftとEuropolがStealC／AmadeyのC2基盤を一斉停止。200超のサーバを停止、約1万8000台の被害端末を特定・保護したと報告。認証情報窃取からのランサム流入対策が狙い。",
+    "reason": "国際的な協力による大規模インフラ摘発は企業のセキュリティ運用に直接影響するため",
+    "published_at": "2026-06-25 12:10:00",
+    "created_at": "2026-06-26 02:27:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/25/news084.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c836f6a2d6dc",
+    "title": "OpenAI、「GPT-5.5 Instant」をアップデート 会話の文脈維持や箇条書き減など「読みやすさ」を改善",
+    "published_date": "2026-06-25",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIが標準モデルGPT-5.5 Instantを更新。文脈維持や応答の簡潔化、位置情報利用の改善などで日常利用の品質を向上させる調整を導入。",
+    "reason": "広く使われるモデルの改善はサービス運用や開発者UXに直接影響するため重要",
+    "published_at": "2026-06-25 09:23:00",
+    "created_at": "2026-06-26 02:27:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/25/news062.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "9decf6cc4b8a",
+    "title": "OpenAI、初の独自AIチップ「Jalapeno」発表──Broadcomと共同開発の推論用アクセラレータ",
+    "published_date": "2026-06-25",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "OpenAIがBroadcomと共同で推論特化の独自AIチップ「Jalapeno」を発表。設計からテープアウトまで9カ月で完了、年内展開を目指す計画。LLMインフラの内製化の第1弾。",
+    "reason": "OpenAIの垂直統合と半導体戦略はクラウド・AIインフラに大きな影響を与えるため",
+    "published_at": "2026-06-25 07:38:39",
+    "created_at": "2026-06-26 02:27:49",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000126/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5393b8a61bdf",
+    "title": "OpenAIにChatGPTのチャット履歴提出を命令へ、「証拠になり得る」と米裁判所",
+    "published_date": "2026-06-25",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "米連邦判事が、詐欺事件の証拠として被告のChatGPTアカウント記録の提出をOpenAIに命じる判断を示す。チャット履歴の法的扱いが注目される判例の可能性。",
+    "reason": "AIサービスの利用記録が法的証拠となる判断はプライバシーとコンプライアンスに広範な影響を与えるため",
+    "published_at": "2026-06-25 12:10:00",
+    "created_at": "2026-06-26 02:27:49",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35249411/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5311ca6f8626",
+    "title": "Qualcomm、AIデータセンター向けCPU「Dragonfly C1000」発表 Metaが次世代サーバに採用、2028年後半に生産へ",
+    "published_date": "2026-06-25",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "QualcommがAIデータセンター向けサーバCPU「Dragonfly C1000」を発表。独自Oryonコアと高効率を謳い、Metaが採用表明。2028年後半の生産開始を予定。",
+    "reason": "主要クラウド／大手プラットフォームのサーバ設計に影響する新CPUで市場再編を促す可能性が高い",
+    "published_at": "2026-06-25 11:17:00",
+    "created_at": "2026-06-26 02:27:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/25/news075.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "29852ec8bad4",
+    "title": "Windowsの脆弱性探索に100超のAIエージェント活用 Microsoftの月例パッチの裏で稼働するシステムとは",
+    "published_date": "2026-06-25",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "Microsoftがマルチモデルエージェント型システム「MDASH」で100超のAIエージェントを活用し、Windowsの未知脆弱性発見に寄与している取り組みを解説。自動化とスケールでセキュリティ強化を図る。",
+    "reason": "自動化されたAIによる脆弱性探索はセキュリティ運用の方法論に変化をもたらすため注目に値する",
+    "published_at": "2026-06-25 13:00:00",
+    "created_at": "2026-06-26 02:27:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news045.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "238ef52892ae",
+    "title": "インドのデータセンター火災、20年超の蓄積データが消失か 海外報道",
+    "published_date": "2026-06-25",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "インドのデータセンターで大規模火災が発生し、20年以上にわたる蓄積データが消失した可能性を海外メディアが報道。被害範囲と復旧状況が未確定。",
+    "reason": "データ喪失とデータセンター事故は顧客影響が大きく、クラウド事業者や利用企業の事業継続計画に直結するため",
+    "published_at": "2026-06-25 17:10:00",
+    "created_at": "2026-06-26 02:27:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/25/news115.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
   }
 ]
