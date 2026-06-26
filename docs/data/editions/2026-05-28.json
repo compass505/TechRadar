@@ -4,8 +4,6 @@
     "top_yesterday": [
       "259ec06422d5",
       "727fe517eb0f",
-      "ed1c6d06c5f3",
-      "0f67c8c5263e",
       "cabc1a06ec07",
       "d9d5727f19e5",
       "ae8c1f4adf4f"
@@ -36,32 +34,17 @@
       "259ec06422d5",
       "cabc1a06ec07",
       "d9d5727f19e5",
-      "727fe517eb0f",
-      "2219a91b51cb",
-      "0b69d5892dd9",
-      "ed1c6d06c5f3",
-      "0f67c8c5263e",
-      "8d25239efd7e"
+      "727fe517eb0f"
     ],
     "yesterday_enterprise_it": [
       "cabc1a06ec07",
       "d9d5727f19e5",
       "ae8c1f4adf4f",
       "c25843bee059",
-      "727fe517eb0f",
-      "2219a91b51cb",
-      "0b69d5892dd9",
-      "ce31e8a4f259",
-      "ed1c6d06c5f3",
-      "0f67c8c5263e",
-      "8d25239efd7e"
+      "727fe517eb0f"
     ],
     "yesterday_development": [
-      "cabc1a06ec07",
-      "2219a91b51cb",
-      "0b69d5892dd9",
-      "ed1c6d06c5f3",
-      "8d25239efd7e"
+      "cabc1a06ec07"
     ]
   }
 }
