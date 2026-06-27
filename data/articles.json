@@ -1,5 +1,71 @@
 [
   {
+    "source": "ITmedia AI+",
+    "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ 米政府が許可",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
+    "summary": "Anthropicが一時停止していた最上位モデル「Claude Mythos 5」を、米政府の許可により重要インフラを担う一部米国組織へ限定再提供することを発表。公開停止の対応が一部緩和された格好。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "政府の介入による高度AIモデルの提供制御は安全・規制・インフラ運用に直結する重要な動き。",
+    "published_at": "2026-06-27 11:07:50",
+    "created_at": "2026-06-28 01:36:16"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "KDDI漏えいに起因？ 国内ISPの情報悪用したとみられる詐欺メール、フィッシング対策協議会が注意喚起",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/26/news138.html",
+    "summary": "フィッシング対策協議会が、国内ISPから漏えいした認証情報を悪用したとみられるフィッシングメールについて注意喚起。KDDI関連システムの漏えい公表との関連が示唆されている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "ISP利用者・企業の認証情報流出に伴う詐欺拡大は広域的な影響と運用上の緊急対応を要するため重要。",
+    "published_at": "2026-06-27 08:15:00",
+    "created_at": "2026-06-28 01:36:16"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "東電出資に意欲 孫正義氏が「国内データセンター誘致」で狙うインフラ戦略",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/27/news024.html",
+    "summary": "孫正義氏が電力確保を巡り東京電力への出資を含むデータセンター誘致戦略を言及。国内にAIインフラを呼び戻す構想と長期的な資本戦略を示した。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "電力・データセンターを巡る大手の資本戦略は国内AIインフラ・クラウド市場の競争構図と投資判断に影響するため掲載価値あり。",
+    "published_at": "2026-06-27 08:00:00",
+    "created_at": "2026-06-28 01:36:16"
+  },
+  {
+    "source": "＠IT",
+    "title": "「EDRがあるから安心」が崩れた半年 2026年上半期サイバー事件から見えた防御の限界",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news128.html",
+    "summary": "FortiGateへの大規模攻撃やEDR無効化ツールの普及など、2026年上半期の主要サイバー事件を振り返り、防御の限界と企業が見直すべきポイントを整理する解説記事。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "EDRや従来防御の限界を示す一連の事件分析は情シス・セキュリティ担当の対策優先度決定に直結するため重要。",
+    "published_at": "2026-06-27 07:00:00",
+    "created_at": "2026-06-28 01:36:16"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "官民投資フィジカルAIに10.5兆円示す、「実証から実装へ」動き出す現場",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/27/news009.html",
+    "summary": "フィジカル領域のAI実装に向け、官民で約10.5兆円規模の投資が見込まれていることを伝え、実証から実装へ移行する現場の動きをまとめた特集。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "大規模投資案件は産業応用やベンダー戦略に影響するが即時の緊急性は低く、解説として有益なため中程度の重要度。",
+    "published_at": "2026-06-27 07:00:00",
+    "created_at": "2026-06-28 01:36:16"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー 米政府と調整、命名は「Sol／Terra／Luna」に刷新",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
+    "summary": "OpenAIがGPT-5.6シリーズを発表。最上位「Sol」、バランス型「Terra」、低価格「Luna」の3モデルで、まずは限定プレビュー提供。米政府と調整し段階的に公開予定。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要AIベンダーによる次世代モデルの発表と政府調整は開発・運用・セキュリティに広範な影響を与えるため掲載価値が高い。",
+    "published_at": "2026-06-27 04:56:10",
+    "created_at": "2026-06-28 01:36:16"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "「モバイルバッテリー発火」に備え、新幹線に「防火ブランケット」配備 JRグループ5社 8月までに",
     "url": "https://www.itmedia.co.jp/news/articles/2606/26/news136.html",
@@ -734,17 +800,6 @@
     "category": "セキュリティ",
     "reason": "主要経営者の警告として業界の意識や投資・防御戦略に影響を与える可能性があり、注目に値するため。",
     "published_at": "2026-06-20 09:00:00",
-    "created_at": "2026-06-21 01:57:22"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "新たな高級コンパクト、LUMIX「L10」は画作り自在なスナップカメラだった 明るいズームやメカっぽい操作感も好感",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/20/news022.html",
-    "summary": "パナソニックが25周年記念の高級コンパクト「DC-L10」を発表。トラディショナルな四角いボディと明るいズーム、操作性を強調した製品紹介。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "新製品紹介としては価値があるが業界全体や企業戦略への影響は限定的なため低評価。",
-    "published_at": "2026-06-20 08:29:00",
     "created_at": "2026-06-21 01:57:22"
   },
   {
@@ -2937,28 +2992,6 @@
     "created_at": "2026-05-29 07:17:22"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "Anthropic、Claude Opus 4.8を一般提供 誠実さが飛躍的に向上、Mythosに並ぶアライメント性能を実現",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000034/",
-    "summary": "Anthropicが最新モデルClaude Opus 4.8を一般提供。推論・コーディング性能を向上させ、自己の不確実性に対する誠実さ（アライメント）が大幅改善された。新機能でワークフロー並列化も可能に。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "主要モデルの改善は開発者や企業の導入判断、アライメント議論に影響を与えるため注目度が高い。",
-    "published_at": "2026-05-28 21:42:33",
-    "created_at": "2026-05-29 07:17:22"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "レノボ、国内に“水冷AIインフラ”の検証施設 GPUサーバ需要増で水冷活用促す",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
-    "summary": "レノボ・ジャパンがGPUサーバ向けの水冷技術を検証する「Neptuneラボ」を日本で新設。顧客向けのPoC環境として本番に近い検証を提供し、機器構成の推奨も行う。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "AIインフラ需要に応える冷却ソリューションの実地検証施設はデータセンター設計や運用コストに影響する実用的ニュース。",
-    "published_at": "2026-05-28 19:25:00",
-    "created_at": "2026-05-29 07:17:22"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "「答弁原案も作成」 政府職員10万人が生成AI「源内」利用可能に デジタル庁が大規模実証開始",
     "url": "https://www.itmedia.co.jp/news/articles/2605/28/news136.html",
@@ -2993,28 +3026,6 @@
   },
   {
     "source": "＠IT",
-    "title": "複数リポジトリでエージェントを並行実行 「VS Code 1.115」が変える開発体験",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news067.html",
-    "summary": "MicrosoftがVS Code 1.115を公開。エージェントネイティブ開発向けの「VS Code Agents」をプレビュー導入し、複数リポジトリでのエージェント並行実行をサポートする。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "主要エディタがエージェントネイティブ機能を取り込むことは開発体験の変化を加速させるため重要。",
-    "published_at": "2026-05-28 13:00:00",
-    "created_at": "2026-05-29 07:17:22"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "セールスフォース、AI時代に向けた“ヘッドレス化”構想 全機能をブラウザ不要に",
-    "url": "https://www.watch.impress.co.jp/docs/news/2112184.html",
-    "summary": "Salesforceが「Salesforce Headless 360」を発表。画面依存を解消し、API／CLI／MCP経由で全機能を利用可能にすることで、AI・自動化時代の利用形態に対応する狙い。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "主要CRMベンダーのアーキテクチャ戦略変更は企業システムの設計や導入方針に影響を与える。",
-    "published_at": "2026-05-28 08:00:00",
-    "created_at": "2026-05-29 07:17:22"
-  },
-  {
-    "source": "＠IT",
     "title": "7-Zipにヒープ破壊を引き起こす深刻な脆弱性 急ぎ対処を",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news045.html",
     "summary": "GitHub Security Labが7-Zip 26.00のヒープバッファオーバーフロー（CVE-2026-48095）を公表。任意コード実行やクラッシュに繋がる重大脆弱性が報告された。",
@@ -3022,28 +3033,6 @@
     "category": "セキュリティ",
     "reason": "広く使われる圧縮ツールのリモート実行に繋がる脆弱性で、迅速な対処が必要なインシデント性が高い。",
     "published_at": "2026-05-28 07:30:00",
-    "created_at": "2026-05-29 07:17:22"
-  },
-  {
-    "source": "＠IT",
-    "title": "GitHubの大規模障害で“開発現場停止” ここから得られる教訓とは？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news041.html",
-    "summary": "GitHubの認証障害により世界中の開発現場が停止した事例を分析。CI/CDや自動脆弱性検査の停止が連鎖し、開発基盤の単一依存リスクが浮き彫りになった。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発プラットフォーム障害から得る運用・冗長化の教訓は多くの開発組織に直接役立つ。",
-    "published_at": "2026-05-28 07:00:00",
-    "created_at": "2026-05-29 07:17:22"
-  },
-  {
-    "source": "Publickey",
-    "title": "AWS、インストール不要でWebブラウザから使えるコーディングAIエージェント「Kiro Web」発表",
-    "url": "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
-    "summary": "AWSがブラウザだけで使えるコーディングAIエージェント「Kiro Web」をプレビュー公開。インストール不要で利用でき、クラウド開発フローに組み込みやすい提供形態が特徴。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "AWSの開発ツールにAIエージェントが加わることで、開発現場のワークフロー変化とクラウド依存の促進が見込まれる。",
-    "published_at": "2026-05-28 00:56:26",
     "created_at": "2026-05-29 07:17:22"
   },
   {
