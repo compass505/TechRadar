@@ -1,5 +1,38 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、次世代AI「GPT-5.6」を限定プレビュー──米政府の要請で全面公開見送り「恒久的な標準にすべきでない」",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/28/news020.html",
+    "summary": "OpenAIが次世代モデルGPT-5.6シリーズ（フラッグシップ「Sol」含む）を限定プレビューで提供開始。米連邦政府の要請により公開範囲を絞り、全面公開は見送られた。政府による事前確認プロセスの恒久化には反対の立場を示している。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "米政府介入による提供制限はAIプラットフォーム戦略と規制対応に直結し、企業や開発者の導入判断に大きな影響を与えるため。",
+    "published_at": "2026-06-28 08:20:00",
+    "created_at": "2026-06-29 01:39:49"
+  },
+  {
+    "source": "＠IT",
+    "title": "「MFAだけでは防げない」 狙われる企業のクラウド環境、明日からできる対策は？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/28/news002.html",
+    "summary": "OAuthトークン窃取、管理者になりすまし正規ツールを悪用する手口など、クラウドを狙う攻撃が高度化。多要素認証だけでは不十分な事例と、即日実施可能な防御策を整理して解説している。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "企業のクラウド防御に直結する実践的対策記事で、情シスや開発チームの迅速な対応に役立つため。",
+    "published_at": "2026-06-28 08:00:00",
+    "created_at": "2026-06-29 01:39:49"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "米政府、Anthropicの「Mythos」（ミュトス）再開を一部容認──「Fable 5」は停止継続",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/28/news019.html",
+    "summary": "AnthropicのAIモデル「Claude Mythos 5」について、先に実施された全面停止後に一部の米国組織への再展開が米政府により認められた。対照的に「Claude Fable 5」は引き続き提供停止で、一般提供再開は協議中。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "輸出規制・政府の審査が実際のモデル提供可否を左右しており、企業の利用可否や市場競争に重大な影響を与えるため。",
+    "published_at": "2026-06-28 07:15:00",
+    "created_at": "2026-06-29 01:39:49"
+  },
+  {
     "source": "ITmedia AI+",
     "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ 米政府が許可",
     "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
@@ -2871,17 +2904,6 @@
     "created_at": "2026-05-31 04:52:37"
   },
   {
-    "source": "＠IT",
-    "title": "甘過ぎた“経営陣のAIリスク認識” 8割は「AI利用を可視化」と回答、なのに未承認AIが拡大",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news143.html",
-    "summary": "Okta Japan調査で経営陣と現場のAI利用認識ギャップが明らかに。未承認ツールの利用拡大やガバナンス不備が浮上している。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "AIガバナンスの実態を示すデータは情シスや経営判断に直接役立つため選定。",
-    "published_at": "2026-05-29 22:30:00",
-    "created_at": "2026-05-30 06:30:27"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "「Nano Banana 2」「Nano Banana Pro」が一般提供開始 「2」は動画からの画像生成もサポート",
     "url": "https://www.itmedia.co.jp/news/articles/2605/29/news146.html",
@@ -2904,17 +2926,6 @@
     "created_at": "2026-05-30 06:30:27"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "Microsoft、事前共有なしのゼロデイ脆弱性公表を批判 バグハンターと対立",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/29/news123.html",
-    "summary": "Microsoftが事前共有なしのゼロデイ公表を公式に批判。協調的脆弱性開示（CVD）の重要性を改めて強調し、研究者との対立が浮上。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "脆弱性公開の運用ルールを巡る企業と研究者の対立はセキュリティ運用や開示方針に影響するため注目。",
-    "published_at": "2026-05-29 17:55:00",
-    "created_at": "2026-05-30 06:30:27"
-  },
-  {
     "source": "＠IT",
     "title": "LLMを「危ないプロンプト」から守る“総務省お墨付き”の具体策とは？",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news066.html",
@@ -2934,17 +2945,6 @@
     "category": "クラウド",
     "reason": "企業のAI実装アーキテクチャやコスト設計に直結するプラットフォームの商用化動向。",
     "published_at": "2026-05-29 11:30:00",
-    "created_at": "2026-05-30 06:30:27"
-  },
-  {
-    "source": "＠IT",
-    "title": "無料で使える“ゼロCVE”支援のコンテナイメージ群、Red Hatが提供 不要ソフトを極力排除",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/29/news043.html",
-    "summary": "Red Hatが既知脆弱性を極力含まない“ゼロCVE”志向のコンテナイメージ「Red Hat Hardened Images」を提供開始。セキュリティ強化を支援。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "コンテナセキュリティの改善は開発・運用現場でのリスク低減に直結する実務的ニュース。",
-    "published_at": "2026-05-29 08:00:00",
     "created_at": "2026-05-30 06:30:27"
   },
   {
