@@ -957,33 +957,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "4692605834b8",
-    "title": "Blue Originのロケット「ニューグレン」が大爆発 ベゾス氏「非常に厳しい一日」",
-    "published_date": "2026-05-30",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "Blue Originの大型ロケットNew Glennが地上燃焼試験中に爆発炎上。試験はフロリダで実施され、CEOジェフ・ベゾスが影響を示唆した。",
-    "reason": "民間宇宙開発の主要企業による重大事故で投資・供給網・商業打ち上げ計画へ短中期的な影響が出る可能性があるため。",
-    "published_at": "2026-05-30 05:47:00",
-    "created_at": "2026-05-31 04:52:37",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35248239/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "d24c91819392",
     "title": "OpenAI、金融機関に「GPT-5.5-Cyber」提供 「日本サイバーアクションプラン」",
     "published_date": "2026-05-30",
@@ -6588,33 +6561,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "23a3174aefd7",
-    "title": "日経のAI、NTTデータが販売契約 出典明示でハルシネーションに強い法人向け「NIKKEI KAI」",
-    "published_date": "2026-06-22",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "日本経済新聞社とNTTデータが法人向け生成AIサービス「NIKKEI KAI」の販売契約を締結。出典明示でハルシネーション抑制を訴求する。",
-    "reason": "出典明示を売りにする法人向けAIは企業利用の一選択肢だが影響範囲は限定的。",
-    "published_at": "2026-06-22 09:00:00",
-    "created_at": "2026-06-23 03:55:48",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/19/news121.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "fe4312680297",
     "title": "踏切に取り残された人をAIで検知→列車を自動停止 小田急が実運用",
     "published_date": "2026-06-22",
@@ -8344,5 +8290,370 @@
     "urgency_score": 1,
     "utility_score": 0,
     "has_itmedia_article": true
+  },
+  {
+    "id": "f75dcdf9a760",
+    "title": "5万回の評価で判明 VS Code開発チームが明かす「小型AI」の罠",
+    "published_date": "2026-06-29",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "VS Code Eval Teamが30モデルを対象に5万回超の検証を実施。小型モデルが起こす「過剰思考」やトークン浪費の実態を明らかにし、コーディングエージェント導入の課題を指摘する。",
+    "reason": "開発ツールにおけるAI導入の具体的課題（コスト・評価方法）が明示され、開発現場の運用に影響するため。",
+    "published_at": "2026-06-29 13:00:00",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/29/news056.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ea3c12fee108",
+    "title": "AIエージェントの投資優先順位、どう決める？ Gartnerが「投資スコア」の作り方を公開",
+    "published_date": "2026-06-29",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "Gartnerが業務向けAIエージェントの投資優先順位を決めるための「投資スコア」作成法を公開。業務・業種別の評価軸や進化予測を示すウェビナーの内容を解説する。",
+    "reason": "企業のAI投資判断に実務的に役立つフレームワークで、情シス・経営層の意思決定に直接関係するため。",
+    "published_at": "2026-06-29 13:30:00",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2606/29/news068.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "21e8c61c38b2",
+    "title": "Anthropic、「Mythos 5」提供再開 米国の重要インフラ組織限定 Fable 5再開は依然協議中",
+    "published_date": "2026-06-29",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "AnthropicがAIモデルMythos 5の提供を米国の重要インフラ組織向けに再開。米政府の通知を受けたもので、一般提供やFable 5の再開は未定。",
+    "reason": "政府判断で重要インフラ向けのモデル提供が再開されるなど、AI供給の管理と安全性に直結する重大な運用変更のため。",
+    "published_at": "2026-06-29 08:45:00",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35249560/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "930cb9190c61",
+    "title": "Deno 2.9正式リリース。起動が2倍速、消費メモリは半分に。WebViewを用いたデスクトップアプリが作れる「Deno Desktop」など",
+    "published_date": "2026-06-29",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "Deno 2.9が正式リリース。起動速度が2倍、メモリ使用が半減したほか、WebViewベースでデスクトップアプリを作れる『Deno Desktop』を導入。",
+    "reason": "開発者向けランタイムの性能改善とデスクトップ展開機能は、開発効率や選択肢に影響するため掲載価値あり。",
+    "published_at": "2026-06-29 00:15:39",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/deno_292webviewdeno_desktop.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d5e6c7652639",
+    "title": "Meta、AIグラス「Ray-Ban/Oakley」ライブ翻訳が日本語対応",
+    "published_date": "2026-06-29",
+    "importance_score": 2,
+    "category": "ガジェット",
+    "summary": "MetaがRay-Ban Meta/Oakley Meta向けのソフトウェア更新を配信開始。ライブ翻訳で日本語対応になり、撮影や会話フォーカスなどの機能も追加される。",
+    "reason": "消費者向けARグラスの機能拡充はガジェット市場動向として関心度が高いため。",
+    "published_at": "2026-06-29 12:06:13",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2120720.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6b1f7ed05612",
+    "title": "NTTデータ、ダイキンの技術でサーバー冷却 熱状態予測AIを共同検証",
+    "published_date": "2026-06-29",
+    "importance_score": 2,
+    "category": "クラウド",
+    "summary": "NTTデータとダイキンがサーバー内部の熱状態をAIで予測する次世代冷却最適化ソリューションの共同検証を開始。データセンター効率化を狙う実証。",
+    "reason": "データセンター運用の効率化に直結する実証で、クラウド事業者・情シスにとって実務的な関心事項であるため。",
+    "published_at": "2026-06-29 16:10:07",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2120841.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "7f80f6aa2c3a",
+    "title": "“DeNAに最大15億円支援”など、経産省がXで説明 「大企業への利益提供ではない」",
+    "published_date": "2026-06-29",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "経産省がDeNAへの最大15億円支援についてXで説明。大企業への利益供与との指摘に反論し、プロジェクト進捗管理やKPIで計画倒れ防止を図ると表明した。",
+    "reason": "官民資金支援の透明性と政策的正当性が産業政策やコンテンツ産業の議論に影響するため。",
+    "published_at": "2026-06-29 17:48:00",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/29/news121.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "86b74e26b78f",
+    "title": "「AI活用が単発質問の企業は大敗」 楽天にコストと遅延の30％低下も達成させた、AIエージェント運用の勝ち筋",
+    "published_date": "2026-06-29",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "先進企業のAIエージェント運用事例を解説。楽天ではAIエージェント運用でコストと遅延を約30%削減した実績を紹介し、単発利用ではなく継続運用の重要性を示す。",
+    "reason": "実際の効果数値と運用ノウハウは企業の導入計画やROI評価に直結するため、情シス/経営層に有益。",
+    "published_at": "2026-06-29 13:00:00",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/29/news061.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "4e10237401d0",
+    "title": "「ヤフコメまとめ」開始 ヤフコメの論点、AIがグラフで可視化",
+    "published_date": "2026-06-29",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "LINEヤフーがOpenAIのAPIを活用して、Yahoo!ニュースのコメント（ヤフコメ）を生成AIで分類・要約し、論点をグラフで可視化する「ヤフコメまとめ」を順次開始する。",
+    "reason": "大手ニュースプラットフォームでの生成AI導入はコンテンツ流通・モデレーションの実務と社会的影響を伴うため。",
+    "published_at": "2026-06-29 16:32:00",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/29/news114.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f2ac21b2a866",
+    "title": "「身代金交渉はタブー」か？ ガートナーが示したランサムウェア対応の現実",
+    "published_date": "2026-06-29",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "ガートナーの調査で、主要なランサムウェア対策の導入率は低く、感染後の判断や復旧体制に課題が残る実態が示された。従来と異なる身代金交渉の考え方も提示。",
+    "reason": "ランサムウェア対策と対応方針はCISOや経営判断に直結するため、実務的価値が高い。",
+    "published_at": "2026-06-29 07:00:00",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/29/news043.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "23f6a95fbf78",
+    "title": "アップル、中国製メモリの調達を画策 米政権にロビー活動か──DRAM大手のCXMT FTなど報道",
+    "published_date": "2026-06-29",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "Appleが中国DRAM大手CXMTからのメモリ調達について米政権に働きかけていると報道。CXMTは米国防総省の関連企業リストに含まれているため、禁輸対象化の回避を求めている。",
+    "reason": "グローバルサプライチェーンと米中政策が直結する調達リスクで、主要ベンダーと市場に影響を与えるため。",
+    "published_at": "2026-06-29 15:45:00",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/29/news103.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "2e73ea9e4b24",
+    "title": "ロボットの模倣学習を60時間→4.8時間に AWSのGPUでフィジカルAI開発を加速 ファナック",
+    "published_date": "2026-06-29",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "ファナックはAWSのGPUを活用し、ロボットの模倣学習時間を従来の60時間から4.8時間に短縮したと発表。フィジカルAI開発の速度向上を示す事例。",
+    "reason": "クラウドGPUによる実装加速が製造現場のAI導入スピードとコスト構造を変える可能性が高いため。",
+    "published_at": "2026-06-29 10:39:09",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/29/2000000136/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "4c1c9ad74fe1",
+    "title": "生成AIブームの反動？ 「AIだけの脆弱性診断」を見限る企業が急増",
+    "published_date": "2026-06-29",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "AIによる脆弱性診断サービスに期待していた企業の間で満足な成果が得られず、AIだけに頼る診断を見限る動きが拡大しているという調査結果を報告。",
+    "reason": "セキュリティ自動化への過信を戒め、製品調達や運用方針に影響を与えるトレンドに該当するため。",
+    "published_at": "2026-06-29 07:30:00",
+    "created_at": "2026-06-30 02:57:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/27/news019.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
   }
 ]
