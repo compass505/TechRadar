@@ -8655,5 +8655,401 @@
     "urgency_score": 1,
     "utility_score": 1,
     "has_itmedia_article": false
+  },
+  {
+    "id": "4c8cbea2c3cd",
+    "title": "AIロボット1000万台導入へ、2040年までに 赤澤経産相が語る「勝ち筋」",
+    "published_date": "2026-06-30",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "経産相が2040年までにAIロボットを国内で約1000万台導入する目標を表明。18分野で社会実装を進め、産業転換を促進する方針。",
+    "reason": "政府目標として産業需要や投資先を示す指針であり企業戦略に影響するため",
+    "published_at": "2026-06-30 18:49:15",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000144/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ece34c3135b0",
+    "title": "Cursor、iOSアプリ、どこからでも開発",
+    "published_date": "2026-06-30",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "コーディングエージェントCursorがネイティブiOSアプリを提供開始。外出先からクラウド上のエージェントを操作しバグ修正や確認が可能に。",
+    "reason": "モバイルでAIコーディングを継続できる利便性は高いが即時の業界影響は限定的なため",
+    "published_at": "2026-06-30 10:39:24",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2121005.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9551490d2a8d",
+    "title": "GitHub、AIによる雑なプルリクエストを抑制へ ユーザー当たりのプルリク数に上限を設定できる新機能",
+    "published_date": "2026-06-30",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "GitHubがプルリクエスト数に上限を設けられる機能を導入予定。AI生成の低品質PR増加への対策として、レビュー負荷軽減を狙う。",
+    "reason": "開発フローの質を維持するためのプラットフォーム側の重要な運用変更で、開発チームの方針決定に資するため",
+    "published_at": "2026-06-30 10:49:00",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/30/news102.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "225e1dd2cbfa",
+    "title": "OpenAI、Codex向けデバイスを予告 7月15日に発表か キーボードメーカーと協業",
+    "published_date": "2026-06-30",
+    "importance_score": 2,
+    "category": "ガジェット",
+    "summary": "OpenAIがコーディング支援のショートカット操作用デバイスらしきティーザーを公開。キーボードメーカーと協業し7月中旬発表の見込み。",
+    "reason": "開発効率を狙った周辺デバイスの動きだが、現時点はティーザーで影響範囲は限定的なため",
+    "published_at": "2026-06-30 12:50:00",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/30/news123.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "520ac7d218e9",
+    "title": "「AIエージェントに認証情報を渡してはならない」 1PasswordがOpenAIと協業",
+    "published_date": "2026-06-30",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "1PasswordがOpenAI向けにシークレット管理の仕組みを提供。Codexらのエージェントがシークレットを保持せずに必要な権限のみ取得する設計を実現する。",
+    "reason": "AIエージェントを安全に使うための実装パターンで、開発運用のベストプラクティスに直結するため",
+    "published_at": "2026-06-30 13:00:00",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/30/news074.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "10ee6008546f",
+    "title": "「本番データベースが消えた」だけじゃない、AIコーディングエージェントがやらかした暴走“6選”",
+    "published_date": "2026-06-30",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "DockerがAIコーディングエージェントによる誤操作や暴走の事例を紹介。本番データ削除や認証情報流出など、開発現場での具体的リスクを整理している。",
+    "reason": "AIエージェントの実運用リスクが具体例で示され、開発・情シスの安全策に直結するため",
+    "published_at": "2026-06-30 08:30:00",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/30/news078.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "00c769d9aa06",
+    "title": "あなたのAWS、コストの課題はどこにある？ AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
+    "published_date": "2026-06-30",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "AWSがクラウドコスト分析をAIで支援する「AWS FinOps Agent」のパブリックプレビューを開始。異常検知や原因特定の対話型調査が可能に。",
+    "reason": "クラウド運用コスト最適化に直接役立つ新サービスで、情シス・FinOps担当者の関心が高い",
+    "published_at": "2026-06-30 10:41:00",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/30/news097.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0ee8df5fe78b",
+    "title": "アフラックに不正アクセス、約438万人分の個人情報漏えい 口座情報23万件も",
+    "published_date": "2026-06-30",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "アフラックの顧客向けサイトに第三者の不正アクセスがあり、約438万人分の個人情報が漏えい。うち約23万件は口座情報を含む。現在一部システム停止中で調査中。",
+    "reason": "大規模個人情報漏えいで利用者影響と対応必須、企業ITや情シス向けに即時報告価値が高いため",
+    "published_at": "2026-06-30 14:34:00",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/30/news133.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c16e8cd171a8",
+    "title": "クアルコムがPythonライクな新言語「Mojo」開発元のModular社買収を発表。AIデータセンター市場へ本格参入",
+    "published_date": "2026-06-30",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "クアルコムがMojo開発元のModularを買収し、AI処理高速化とデータセンター向けGPU/AI市場への本格参入を表明。ハードとソフトの統合戦略を強化。",
+    "reason": "SoC大手が言語・ソフトウェア開発資産を取り込む戦略はAIインフラ競争に直接影響するため",
+    "published_at": "2026-06-30 00:33:20",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/pythonmojomodularai.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "39c22831157e",
+    "title": "国産LLM「Sarashina3」登場 高品質データ、独自検証で日本語能力を強化 ソフトバンク傘下",
+    "published_date": "2026-06-30",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "SB Intuitionsが国産LLM「Sarashina3」を公開。日本語データと独自の出力検証で日本語性能を強化し、国内提供を拡充する狙い。",
+    "reason": "日本語性能強化の国内LLMは企業導入やローカルデータ運用の選択肢を広げるため",
+    "published_at": "2026-06-30 17:33:29",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000143/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "88e0262babf6",
+    "title": "国産ロボット・フィジカルAI基盤実現へ 大手出資の新会社Noetraが始動",
+    "published_date": "2026-06-30",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "ソニー、ソフトバンク、NEC、本田技研などが出資するNoetraが事業開始。国産のマルチモーダル基盤モデルでフィジカルAIやロボット分野の研究開発を進める。",
+    "reason": "国内大手が連携する国産基盤モデルの立ち上げは産業競争力と研究開発の方向性に直結するため",
+    "published_at": "2026-06-30 18:37:28",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2121279.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "43efd05f3bd5",
+    "title": "日印「防衛用AIドローン」共同開発へ 首脳会談で確認、対中念頭に安保協力深化",
+    "published_date": "2026-06-30",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "日印両政府がAI搭載の防衛用無人機の共同開発を推進する方針で一致。インド太平洋での安全保障協力を具体化し、対中対応も念頭に置く動き。",
+    "reason": "防衛分野でのAI活用と国際防衛協力の具体化は技術・政策双方に大きな影響を及ぼすため",
+    "published_at": "2026-06-30 16:12:00",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/30/news141.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "bffd82070f68",
+    "title": "米最高裁、Googleからの位置情報取得は「捜索」と判断──「ジオフェンス令状」めぐる歴史的判決",
+    "published_date": "2026-06-30",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "米最高裁がジオフェンス令状によるGoogleからの位置情報取得を憲法上の「捜索」と判断。第三者提供理論の適用を排除し、デジタル時代のプライバシー保護を強化する判決。",
+    "reason": "捜査手法とデータ保護に重大な影響を与える判例で、企業のデータ提供・法務対応方針に関わるため",
+    "published_at": "2026-06-30 12:41:00",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/30/news120.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "edd3db6bd174",
+    "title": "韓国政府、半導体・フィジカルAI・AIデータセンターの3大メガプロジェクト発表 SamsungとSKが巨額投資",
+    "published_date": "2026-06-30",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "韓国が半導体、フィジカルAI、AIデータセンターを柱とする大規模プロジェクトを発表。SamsungやSKが数千億ウォン規模の投資計画を明らかにした。",
+    "reason": "国家主導の大規模投資はサプライチェーンとグローバル競争に大きな波及効果を持つため",
+    "published_at": "2026-06-30 07:11:00",
+    "created_at": "2026-07-01 02:20:11",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/30/news083.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
   }
 ]
