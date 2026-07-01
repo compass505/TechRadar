@@ -1,0 +1,52 @@
+{
+  "edition_date": "2026-07-02",
+  "surfaces": {
+    "top_yesterday": [
+      "f2c20bb97993",
+      "1155d594a4e0",
+      "cd920d23b98a",
+      "00ab0c538401",
+      "34805fc7cfb1",
+      "49897383bef3",
+      "8e6f6c67a3a0",
+      "fbdea461302a"
+    ],
+    "recent_important": [
+      "49897383bef3",
+      "0ee8df5fe78b",
+      "8e6f6c67a3a0",
+      "fbdea461302a",
+      "f2c20bb97993",
+      "10ee6008546f",
+      "c16e8cd171a8",
+      "88e0262babf6",
+      "43efd05f3bd5",
+      "bffd82070f68",
+      "edd3db6bd174",
+      "21e8c61c38b2",
+      "23f6a95fbf78"
+    ],
+    "yesterday_ai": [
+      "f2c20bb97993",
+      "1155d594a4e0",
+      "cd920d23b98a",
+      "00ab0c538401",
+      "34805fc7cfb1",
+      "d77abdb51e23"
+    ],
+    "yesterday_enterprise_it": [
+      "49897383bef3",
+      "8e6f6c67a3a0",
+      "fbdea461302a",
+      "f2c20bb97993",
+      "1155d594a4e0",
+      "e255bb54dca9"
+    ],
+    "yesterday_development": [
+      "e255bb54dca9",
+      "34805fc7cfb1",
+      "76ad945936b3",
+      "d77abdb51e23"
+    ]
+  }
+}
