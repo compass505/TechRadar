@@ -6,7 +6,6 @@
       "6564ea676d15",
       "e898ceab766c",
       "713704c7049b",
-      "63885f6d015e",
       "c53ef9513d8f",
       "76688bc98fd5"
     ],
@@ -29,28 +28,18 @@
       "76688bc98fd5",
       "6564ea676d15",
       "e898ceab766c",
-      "713704c7049b",
-      "63885f6d015e",
-      "75fe5cab23eb",
-      "7c849b2eab50",
-      "12fa5eb9228b"
+      "713704c7049b"
     ],
     "yesterday_enterprise_it": [
       "c53ef9513d8f",
       "ba113f4e866d",
       "76688bc98fd5",
       "6564ea676d15",
-      "e898ceab766c",
-      "63885f6d015e",
-      "75fe5cab23eb",
-      "519bad2dccd1",
-      "7c849b2eab50",
-      "12fa5eb9228b"
+      "e898ceab766c"
     ],
     "yesterday_development": [
       "ba113f4e866d",
-      "76688bc98fd5",
-      "519bad2dccd1"
+      "76688bc98fd5"
     ]
   }
 }

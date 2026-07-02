@@ -1273,92 +1273,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "75fe5cab23eb",
-    "title": "AIモデル「ミュトス」のアクセス権拡大 新たに150組織が利用へ Anthropic",
-    "published_date": "2026-06-02",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "AnthropicがProject Glasswingを拡大し、Claude Mythos Previewのアクセスを約150組織に拡大。セキュリティ用途での共同検証を拡大する狙い。",
-    "reason": "強力なAIをサイバー防御共同検証に提供する動きはセキュリティ実務とガバナンスに関わるため有用。",
-    "published_at": "2026-06-02 14:56:37",
-    "created_at": "2026-06-03 08:07:56",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000048/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 4,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "519bad2dccd1",
-    "title": "AWS、他クラウドと500Mbpsまでの接続が無料に 「AWS Interconnect - multicloud」に無料枠が登場",
-    "published_date": "2026-06-02",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "AWSが他クラウドとの閉域接続サービスに500Mbpsの無料枠を導入。マルチクラウド接続コストのハードルを下げ、企業の接続設計に影響を与える可能性。",
-    "reason": "マルチクラウド戦略やコスト設計に直結する施策で、情シス/クラウド担当者が押さえるべき発表。",
-    "published_at": "2026-06-02 12:06:00",
-    "created_at": "2026-06-03 08:07:56",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/02/news085.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 3,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "7c849b2eab50",
-    "title": "Anthropicが上場申請",
-    "published_date": "2026-06-02",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "AnthropicがSECにIPO申請を実施したと発表。評価額は最近の調達でOpenAIを上回る水準との見方もあり、早ければ秋にも上場可能。",
-    "reason": "主要AI企業の上場は資本市場とAI産業構造に影響するため、投資・事業判断に重要。",
-    "published_at": "2026-06-02 06:20:00",
-    "created_at": "2026-06-03 08:07:56",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/02/news062.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "76688bc98fd5",
     "title": "Cisco年次イベントの目玉は“超統合”AgenticOps基盤「Cisco Cloud Control」",
     "published_date": "2026-06-02",
@@ -1443,63 +1357,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "12fa5eb9228b",
-    "title": "Microsoft、自律エージェント「Scout」発表 OpenClawベースでMCP対応",
-    "published_date": "2026-06-02",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "MicrosoftがMicrosoft 365上で常時動作する自律型エージェント『Scout』を発表。アプリ横断で作業自動化を実行し、限定プレビューを開始。",
-    "reason": "業務自動化の新カテゴリで企業ITの生産性・ワークフローに直接影響するため開発者・情シスに有用。",
-    "published_at": "2026-06-02 20:50:46",
-    "created_at": "2026-06-03 08:07:56",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000049/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "63885f6d015e",
-    "title": "SBIグループ、米Anthropicと提携 Claudeを全役職員に展開 セキュリティツール「Claude Security」共同検証も",
-    "published_date": "2026-06-02",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "SBIがAnthropicと提携し、生成AI『Claude』を全社展開。自動脆弱性スキャン等の『Claude Security』を金融機関として共同検証する計画。",
-    "reason": "金融機関での全社AI導入とセキュリティ検証は業界利用事例として示唆が大きい。",
-    "published_at": "2026-06-02 05:32:46",
-    "created_at": "2026-06-03 08:07:56",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000045/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 4,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
     "has_itmedia_article": true
   },
   {
@@ -9104,6 +8961,342 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 2,
     "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "433e1aeadf07",
+    "title": "DNSを基盤にAIエージェントに信頼できる名前を与える「Agent Name Service（ANS）」、立ち上げ意向をLinux Foundationが発表",
+    "published_date": "2026-07-02",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "Linux FoundationがDNSを拡張し、インターネット上のAIエージェントに信頼できる識別子を与える標準『Agent Name Service（ANS）』の立ち上げ意向を発表。エージェント間の信頼・管理基盤構築を狙う。",
+    "reason": "AIエージェントの識別・信頼基盤はエコシステムとセキュリティに直結するインフラ的な標準提案として高い意義があるため。",
+    "published_at": "2026-07-02 00:04:00",
+    "created_at": "2026-07-03 02:06:49",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "79dcb1a2b829",
+    "title": "DRAM価格操作か サムスン、マイクロン、SKハイニックスに集団訴訟",
+    "published_date": "2026-07-02",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "DRAM価格高騰を巡り、消費者や中小企業グループがサムスン、Micron、SKハイニックスを相手取って集団訴訟を提起。価格形成や市場構造の監視が焦点になる可能性。",
+    "reason": "主要メモリメーカーを巡る訴訟は市場制度・価格動向に影響し、半導体業界と顧客にとって示唆が大きい。",
+    "published_at": "2026-07-02 11:47:00",
+    "created_at": "2026-07-03 02:06:49",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35249898/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2899ac57a191",
+    "title": "KDDIの最大1422万件の情報漏えい事件 その裏には陸自USB問題と同様に中国の影？",
+    "published_date": "2026-07-02",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "KDDIで最大1422万件に及ぶ情報漏えいが発覚。流出データの行方や攻撃の狙い、政府系サイバー攻撃との接点をOSINTなどで追跡し解説する記事。被害規模と背景の分析を提示している。",
+    "reason": "大規模な個人情報流出で被害範囲が広く事業者・利用者対応が急務。TechRadar読者に重大リスク情報として必須。",
+    "published_at": "2026-07-02 13:30:00",
+    "created_at": "2026-07-03 02:06:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news078.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "eff252d182c9",
+    "title": "LINEとPayPay、26年夏にアカウント連携 トーク上で送金・割り勘可能に LINEポイントは統合へ",
+    "published_date": "2026-07-02",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "LINEとPayPayが2026年夏にアカウント連携を開始。LINEのトーク上で送金・割り勘が可能になり、LINEポイントはPayPayポイントへ統合予定。国内決済・広告・データ戦略に影響する大連携。",
+    "reason": "国内大手プラットフォームの決済・ポイント統合は市場競争とユーザーデータ活用に直結するため業界インパクト大。",
+    "published_at": "2026-07-02 16:37:00",
+    "created_at": "2026-07-03 02:06:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/02/news097.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "cab44d99f0f5",
+    "title": "NISTのCVSSは本当に正しい？ 「全件分析断念」2カ月後に見えた意外な実態",
+    "published_date": "2026-07-02",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "NISTが全CVE分析方針を転換して約2カ月後の運用実態を調査。分析対象の絞り込みや脆弱性評価の課題が浮上しており、脆弱性管理運用への影響を指摘する。",
+    "reason": "脆弱性評価プロセスの変化はセキュリティ運用や優先順位付けに影響するため、情シス・セキュリティ担当者に重要。",
+    "published_at": "2026-07-02 07:00:00",
+    "created_at": "2026-07-03 02:06:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news037.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "031a2e171f31",
+    "title": "Windows上の「Linux開発環境」が変わる 使い慣れたコマンドも“そのまま利用可能”に",
+    "published_date": "2026-07-02",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "Build 2026で発表された、Windows上でLinuxコマンドやコンテナ環境がそのまま動くCoreutils for WindowsやWSLコンテナなどの刷新内容を解説。開発者のワークフロー改善が狙い。",
+    "reason": "多くの開発現場で影響する開発プラットフォームの改善で、生産性と移行コストに関係するため有用な技術ニュース。",
+    "published_at": "2026-07-02 11:00:00",
+    "created_at": "2026-07-03 02:06:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news046.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9c32b939fbf4",
+    "title": "「脆弱なコード、データ漏えい、侵害され得るモデル」 開発者の不安をMicrosoftはどう解消するのか",
+    "published_date": "2026-07-02",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "MicrosoftがBuild 2026で発表した、コード・AIエージェント・モデルをライフサイクル全体で保護する新セキュリティツール群を解説。開発プロセスにセキュリティを組み込む狙いと機能概要を説明する。",
+    "reason": "主要プラットフォーム企業が開発者向けにセキュリティを上流に移す施策を示した点は組織の開発・運用に直接影響するため重要。",
+    "published_at": "2026-07-02 13:00:00",
+    "created_at": "2026-07-03 02:06:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news049.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "adb0c7d1083d",
+    "title": "「賢さよりツール連携力が重要」 Microsoftが実験的な小型AIエージェント基盤を公開",
+    "published_date": "2026-07-02",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "Microsoft Researchが小型モデル向けエージェント基盤『MagenticLite』を公開。知識量よりもツール統合と実行ハーネスで実用性を出す設計思想を示している。",
+    "reason": "小型モデルで有用なエージェント構築の実践的基盤は開発者や製品化を目指す企業に役立つ技術情報。",
+    "published_at": "2026-07-02 13:00:00",
+    "created_at": "2026-07-03 02:06:49",
+    "representative_source": "Atmarkit (ITmedia AI+)",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news050.html",
+    "sources": [
+      "Atmarkit (ITmedia AI+)"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "200700b6500e",
+    "title": "アップルの「メールを非公開」に脆弱性、本物のメアドが丸見えになるおそれ",
+    "published_date": "2026-07-02",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Appleの「メールを非公開（Hide My Email）」機能に脆弱性が報じられ、本来隠されるべき実際のメールアドレスが第三者に閲覧される可能性がある。影響範囲や回避策について注意喚起が出ている。",
+    "reason": "大手プラットフォームのプライバシー機能に関わる脆弱性で、個人・企業問わず即時対応が必要となる可能性が高い。",
+    "published_at": "2026-07-02 12:42:00",
+    "created_at": "2026-07-03 02:06:49",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35249903/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "869b4f89adf4",
+    "title": "光接続の標準規格「OCI」対応シリコン、GFが27年に投入",
+    "published_date": "2026-07-02",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "GlobalFoundriesがAIインフラ向けの光インターコネクト規格『OCI MSA』をサポートするシリコンを2027年に投入予定と発表。AIデータセンターの接続アーキテクチャに関する動き。",
+    "reason": "AIインフラ向けインターコネクトのハードウェア対応はデータセンター設計と供給面で影響するため関連企業にとって重要。",
+    "published_at": "2026-07-02 11:00:00",
+    "created_at": "2026-07-03 02:06:49",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://eetimes.itmedia.co.jp/ee/articles/2607/02/news065.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "07cbd81c83da",
+    "title": "復活した「Fable 5」 米政府からのオーダーに対して、Anthropicはどう対策したのか",
+    "published_date": "2026-07-02",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "米Anthropicの上位モデル『Claude Fable 5』がサービス再開。米政府の指示による停止を受け、Anthropicが再開に向けて行った対策と経緯を詳細に公開している。",
+    "reason": "政府介入で停止した主要モデルの再開はAI安全・規制対応の事例として注目に値するが即時危機ではないため中程度の重要度。",
+    "published_at": "2026-07-02 16:40:00",
+    "created_at": "2026-07-03 02:06:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "83794e831de3",
+    "title": "日立、ミッションクリティカル領域におけるAI活用を支援 「Hitachi iQ Studio」の3つの特徴",
+    "published_date": "2026-07-02",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "日立が基幹業務向けAI適用を支援する新プラットフォーム『Hitachi iQ Studio』を国内販売開始。ミッションクリティカルでの導入を想定した安全性・運用性の特徴を解説する。",
+    "reason": "基幹システム領域でのAI導入支援は大企業の運用・ガバナンスに影響するため、企業IT読者に有用。",
+    "published_at": "2026-07-02 08:00:00",
+    "created_at": "2026-07-03 02:06:49",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2607/02/news026.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
     "has_itmedia_article": true
   }
 ]
