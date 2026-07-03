@@ -1,5 +1,148 @@
 [
   {
+    "source": "＠IT",
+    "title": "GoogleやFBI、悪質プロキシ「NetNut」をテイクダウン スマートTVなど200万台超をボット化",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news125.html",
+    "summary": "Google脅威分析グループとFBIなどが連携して、悪質プロキシ／ボットネット「NetNut」をテイクダウン。スマートTV等200万台超が踏み台に利用されていた。企業やユーザーの対策指針も提示されている。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模な悪用インフラの摘発で企業の検知回避手口に直接関係する重大事案のため最優先で掲載。",
+    "published_at": "2026-07-03 17:46:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、Samsungと独自AIチップで協議か 報道受けNVIDIAなど半導体関連株が下落",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news101.html",
+    "summary": "報道によればAnthropicが独自AIチップの委託先としてSamsungと協議中とされ、これを受けて市場でNVIDIAなど半導体株が下落した。サプライチェーンと競争環境に注目が集まる。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "大手AI企業のチップ戦略が半導体市場や供給関係に影響するため、業界動向把握に有用。",
+    "published_at": "2026-07-03 13:36:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
+    "source": "＠IT",
+    "title": "「バックアップが暗号化されて使えない」を今あえてテープで防ぐ 製造業はどう実現した？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news049.html",
+    "summary": "ランサムウェア対策として、ある製造業がイミュータブルではなくLTOテープによるオフライン保管を選択した事例を解説。理由や実装手順、コスト面の判断が示される。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "ランサムウェア対策の実務解として現実的な手法を示す事例で、情シスの備えや災対策判断に役立つため。",
+    "published_at": "2026-07-03 13:00:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
+    "source": "＠IT",
+    "title": "AWS、開発者向け生成AI「Amazon Q Developer」のサポート終了を告知 各種IDEでの利用は非推奨に",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news056.html",
+    "summary": "AWSが「Amazon Q Developer」のIDEプラグインと有償サブスクのサポート終了を発表。機能は新たな開発プラットフォーム「Kiro」へ移行予定で移行期間が設けられる。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発ツールのサポート終了は開発者の導入・移行判断に関わるため実務的価値があるが影響範囲は限定的。",
+    "published_at": "2026-07-03 13:00:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "グーグルに約7600億円の巨額制裁金が確定 Androidの支配的地位乱用で",
+    "url": "https://japan.cnet.com/article/35249976/",
+    "summary": "EUの上訴審が終了し、2018年の課徴金処分に関して41億ユーロ（約7600億円）の支払い確定。Androidに関する競争制限の判断が確定した形。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "巨大プラットフォームに対する確定的な制裁で業界規制やビジネスモデルに広範な示唆を与えるため掲載価値大。",
+    "published_at": "2026-07-03 12:54:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Cloudflare、AIクローラー制御を全顧客に開放──「検索」「エージェント」「学習」の3分類で管理可能に",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news087.html",
+    "summary": "CloudflareがAI関連クローラーを用途別（検索／エージェント／学習）に振り分けて制御可能な機能を提供。挙動ベースの制御や「Pay Per Use」実証など、クリエイター権利とサイト運営に影響する新仕様を発表。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "Web運営者・開発者・クラウドサービスに直結する制御機能で、AI時代のコンテンツ保護と収益化に影響するため重要。",
+    "published_at": "2026-07-03 10:55:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Amazonの衛星ブロードバンド「Leo」、打ち上げ300基突破で世界3位の規模に",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news083.html",
+    "summary": "Amazon Leoが軌道上で300基を突破し世界で3位の衛星数に到達。今後打ち上げ頻度を引き上げる方針で、Starlinkとの競争・市場構造が注目される。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "衛星ブロードバンドの勢力図とクラウド／通信インフラの競争に関わるため、クラウド・通信系読者に有益。",
+    "published_at": "2026-07-03 10:29:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "OpenAI、米政府に株式5%譲渡を提案か 約6.8兆円の巨額取引の思惑とは",
+    "url": "https://japan.cnet.com/article/35249958/",
+    "summary": "Financial Timesの情報筋を引用し、OpenAIが米政府に自社株5%譲渡を提案する初期交渉が行われていると報道。企業統治と公的関与の可能性が議論に。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "AI企業の所有構造や政策との関係に関わる大きな話で、投資・規制・経営判断に影響するため重要。",
+    "published_at": "2026-07-03 10:17:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NVIDIA、AIインフラ調達の新ビジネスモデル発表 収益分配で新興企業を支援",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news077.html",
+    "summary": "NVIDIAはGPU搭載インフラへのアクセスを容易にする新ビジネスモデルを発表。クラウド事業者と収益分配や資金支援を組み合わせ、新興AI企業のインフラ調達を後押しする仕組み。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "AIインフラの調達構造を変えうる戦略で、半導体・クラウド・AIスタートアップの資金調達と事業モデルに広範な影響があるため。",
+    "published_at": "2026-07-03 09:39:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
+    "source": "＠IT",
+    "title": "LLMでEDRを“丸裸”に AIで防御ロジックを解析する時代が始まる",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news040.html",
+    "summary": "SpecterOpsがLLMを反復実行する手法で「Cortex XDR」内部の検知ルールやMLモデルを解析した成果を公開。防御製品の解析が現実的になり、攻防の構図が変化しつつある。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "攻撃者側がLLMで防御ロジックを解析できるなら防御設計と製品評価に重大な影響があり、情シス/ベンダー必読の示唆があるため。",
+    "published_at": "2026-07-03 07:30:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
+    "source": "＠IT",
+    "title": "Claude Codeの\"見えないシステムプロンプト改変\"が物議 その目的とは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news033.html",
+    "summary": "AnthropicのClaude Codeで、ユーザーに見えない形でシステムプロンプトが改変されていたことが判明。開発者コミュニティで信頼と透明性の問題が波紋を呼んでいる。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "開発者の信頼やツール運用に関わる事案で、AI利用ルールやデプロイの透明性を問うため開発者向けに重要。",
+    "published_at": "2026-07-03 07:00:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
+    "summary": "設計書がなくブラックボックス化した基幹システムを、生成AIを活用して短期間で解析・再稼働させた事例を報告。実務での適用方法と課題が示されている。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "既存システム保守・モダナイゼーションにおける生成AIの実運用事例として、情シスや経営判断に示唆を与えるため。",
+    "published_at": "2026-07-03 06:45:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft、AI導入支援組織「Microsoft Frontier Company」設立 6000人体制で顧客企業を支援",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news067.html",
+    "summary": "Microsoftが顧客先常駐でAI導入を支援する新組織「Microsoft Frontier Company」を設立。投資額25億ドル、約6000人規模で企業のAI導入競争に本腰を入れる。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "大手ベンダーによる大規模支援体制の構築は企業のAI導入の実務面・購買判断に直接影響するため重要。",
+    "published_at": "2026-07-03 06:37:00",
+    "created_at": "2026-07-04 01:50:09"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "復活した「Fable 5」 米政府からのオーダーに対して、Anthropicはどう対策したのか",
     "url": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
@@ -658,17 +801,6 @@
     "reason": "主要AIベンダーによる次世代モデルの発表と政府調整は開発・運用・セキュリティに広範な影響を与えるため掲載価値が高い。",
     "published_at": "2026-06-27 04:56:10",
     "created_at": "2026-06-28 01:36:16"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「モバイルバッテリー発火」に備え、新幹線に「防火ブランケット」配備 JRグループ5社 8月までに",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/26/news136.html",
-    "summary": "JRグループ5社が新幹線車内にファイヤーブランケットとバケツを配備し、モバイルバッテリーの発煙・発火対策を実施する。",
-    "importance": 1,
-    "category": "その他",
-    "reason": "公共交通の安全対策だが技術的・業界全体の影響は限定的で、読者ニーズは低めと判断。",
-    "published_at": "2026-06-26 19:50:00",
-    "created_at": "2026-06-27 02:13:15"
   },
   {
     "source": "CNET Japan",
@@ -2960,28 +3092,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "Androidに「なりすまし電話」検知機能 AIディープフェイク詐欺の急増に対応──Pixelから順次提供",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news137.html",
-    "summary": "GoogleがAIで偽装通話を検出するAndroid機能を発表。Pixel端末から順次提供し、ディープフェイク電話詐欺に対応する。ユーザ保護の観点で導入が進む見込み。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "ディープフェイク詐欺への実用的対策で消費者・事業者の安全に直結するため。",
-    "published_at": "2026-06-03 20:20:00",
-    "created_at": "2026-06-04 08:10:16"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「使い物にならなくなった」──6月1日からの「GitHub Copilot」新料金、SNSで不満続出 他ツールへの移行表明も",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news124.html",
-    "summary": "Copilotが従量課金制に移行し、クレジット消費が速いとの不満がSNSで拡大。開発者コミュニティで代替ツールへの移行検討が相次いでいる。費用モデルの混乱が続く。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "主要開発ツールの料金変更は開発現場とコストに直接影響するため開発者向けに重要。",
-    "published_at": "2026-06-03 17:05:00",
-    "created_at": "2026-06-04 08:10:16"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "気象庁、線状降水帯情報の不具合続く 直近でシステム刷新も関連性は「現時点で不明」",
     "url": "https://www.itmedia.co.jp/news/articles/2606/03/news123.html",
     "summary": "気象庁の線状降水帯情報で不具合が継続。新たな防災気象情報運用開始直後で、台風接近時に情報発表に支障が出ている可能性が指摘されている。SNSで切替との関連が議論中。",
@@ -2989,28 +3099,6 @@
     "category": "その他",
     "reason": "防災情報システムの信頼性問題は公共安全に直結し、技術的・運用的な波及効果が大きいため。",
     "published_at": "2026-06-03 16:59:00",
-    "created_at": "2026-06-04 08:10:16"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "PerplexityのAIエージェント「Personal Computer」、タスクを端末とクラウドに自動振り分けへ",
-    "url": "https://japan.cnet.com/article/35248398/",
-    "summary": "PerplexityがAIエージェント『Personal Computer』を強化。タスクを端末とクラウド間で自動振り分けするハイブリッドシステムを導入し、プライバシーと効率を両立する設計に。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "エッジとクラウドのハイブリッド処理は実運用・コスト・プライバシーに影響するため開発者・情シスに有益。",
-    "published_at": "2026-06-03 15:40:00",
-    "created_at": "2026-06-04 08:10:16"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "CAMPFIRE「従業員がGitHub認証情報を個人開発サーバに誤アップロード」 不正アクセスの原因公表",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news114.html",
-    "summary": "CAMPFIREが不正アクセスの原因を公表。従業員がGitHubの認証情報を個人用サーバに誤ってアップロードし、第三者に悪用されたという。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "認証情報管理の人的ミスによる侵害は多くの組織に当てはまる教訓的事例のため掲載価値あり。",
-    "published_at": "2026-06-03 15:28:00",
     "created_at": "2026-06-04 08:10:16"
   },
   {
@@ -3047,17 +3135,6 @@
     "created_at": "2026-06-04 08:10:16"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "シャドーAIに「ログイン情報」を渡している割合は？ Oktaの実態調査で判明",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/03/news043.html",
-    "summary": "調査で多くの従業員がシャドーAIを利用し、一部はログイン情報など機密情報をAIに渡している実態が明らかに。経営陣の認識とのギャップも示唆。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "シャドーIT／シャドーAIは企業の情報漏えいリスクを高め、情シスの対策が急務であるため。",
-    "published_at": "2026-06-03 08:00:00",
-    "created_at": "2026-06-04 08:10:16"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "Microsoft、AndroidベースのAIエージェント基盤「Solara」発表 Snapdragon搭載のバッジ型端末も披露",
     "url": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
@@ -3077,17 +3154,6 @@
     "category": "クラウド",
     "reason": "主要クラウド経由での最先端モデル提供はクラウド戦略と企業利用に直結するため重要。",
     "published_at": "2026-06-03 05:38:42",
-    "created_at": "2026-06-04 08:10:16"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Microsoft、NVIDIAのSoC搭載でAI特化のミニPC「Surface RTX Spark Dev Box」披露",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news063.html",
-    "summary": "MicrosoftがNVIDIA『RTX Spark』搭載のAI特化ミニPCを披露。ローカルで大規模モデルの推論や学習が可能とし、開発者向けに訴求する。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "高性能ローカルAIハードは開発ワークフローと半導体需要に影響するが範囲は限定的。",
-    "published_at": "2026-06-03 04:50:00",
     "created_at": "2026-06-04 08:10:16"
   },
   {
