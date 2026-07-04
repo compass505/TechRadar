@@ -1,5 +1,60 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "カシオ プロトレック、“ぶら下げ”可能な小型モデル",
+    "url": "https://www.watch.impress.co.jp/docs/news/2121866.html",
+    "summary": "カシオがPRO TREKの小型『PRJ-01』3機種を発表。ソーラー発電クオーツで7月発売、価格は25,300円～31,350円。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "消費者向け新製品情報として掲載価値はあるが技術トレンドや業界影響は小さい。",
+    "published_at": "2026-07-04 10:00:00",
+    "created_at": "2026-07-05 01:29:58"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "米トランプ大統領、AI規制は「できるだけ介入少なく」 中国に対して開発競争「大幅リード」を強調",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/",
+    "summary": "トランプ大統領がAI規制はガードレールは必要だが介入は最小限にしたいと発言。中国との開発競争で米国が大幅にリードしていると強調。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "米大統領の規制方針は国内外の産業戦略、投資、規制議論に直接影響するため広範な重要性がある。",
+    "published_at": "2026-07-04 08:00:00",
+    "created_at": "2026-07-05 01:29:58"
+  },
+  {
+    "source": "＠IT",
+    "title": "「炎上プロジェクトの共通点」「AI生成コードのレビュー負担」、エンジニアを悩ませる現場のリアル",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/04/news012.html",
+    "summary": "現場エンジニアが直面する課題をランキング形式で紹介。炎上プロジェクトの共通点やAI生成コードのレビュー負担など、実務に直結する話題を整理。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発現場やマネジメントの改善に直接役立つ実例・知見が含まれているため編集価値がある。",
+    "published_at": "2026-07-04 08:00:00",
+    "created_at": "2026-07-05 01:29:58"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "GoPro復活ののろしか “シネマ”を打ち出した「MISSION 1 PRO」レビュー",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/04/news019.html",
+    "summary": "GoProの新シリーズ『MISSION 1 PRO』をレビュー。シネマ指向への製品戦略と復活の可能性を検証する内容。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "注目の製品レビューだが主に消費者向けで業界全体への影響は限定的。",
+    "published_at": "2026-07-04 07:14:00",
+    "created_at": "2026-07-05 01:29:58"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "フィジカルAIに挑む日の丸連合、「Noetra」とは何か",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
+    "summary": "日本発のフィジカルAI連合「Noetra」の狙いや構成、技術的なチャレンジと産業応用の可能性を解説する記事。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "国内の物理AI/ロボティクス戦略として注目だが、現時点では実証・普及段階のため影響は段階的。",
+    "published_at": "2026-07-04 07:00:00",
+    "created_at": "2026-07-05 01:29:58"
+  },
+  {
     "source": "＠IT",
     "title": "GoogleやFBI、悪質プロキシ「NetNut」をテイクダウン スマートTVなど200万台超をボット化",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news125.html",
@@ -2916,17 +2971,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "GMOペイメントゲートウェイの決済で障害、出前館など一時ネット支払いできず",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news123.html",
-    "summary": "GMOペイメントゲートウェイの複数決済サービスで約1時間の障害が発生し、ネット通販やフードデリバリーなどで決済不能となった。5月にも同社の障害が複数回発生している。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "決済インフラの停止は商取引に直接影響。情シス・経営判断で対策／冗長化検討が必要な事例。",
-    "published_at": "2026-06-04 18:55:00",
-    "created_at": "2026-06-05 06:19:53"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "TSMC、AI活用拡大による成長維持に自信 株主総会、東京エレクトロンとの取引は継続",
     "url": "https://www.itmedia.co.jp/news/articles/2606/04/news119.html",
     "summary": "TSMCのCEOは株主総会で、AI活用拡大により最先端技術と製造能力の価値が成長すると述べ、今後の成長維持に強い自信を示した。",
@@ -2960,94 +3004,6 @@
   },
   {
     "source": "Impress Watch",
-    "title": "日本における「AIのものさし」を作る 東大松尾研らが「Japan AI Index」始動",
-    "url": "https://www.watch.impress.co.jp/docs/news/2114466.html",
-    "summary": "東京大学松尾・岩澤研究室とPKSHA、Anthropicが協業し、生成AIの社会的インパクトを継続観測する『Japan AI Index』を構築。初回レポートを年内に公開予定。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "国内の政策・産業判断に資する観測基盤で、AI導入の社会的影響可視化というガバナンス面で重要。",
-    "published_at": "2026-06-04 15:45:40",
-    "created_at": "2026-06-05 06:19:53"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Key新作「anemoi」マスターデータ流出、個人情報も漏えいか ビジュアルアーツに不正アクセス 取引先のマイナンバーも",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news098.html",
-    "summary": "ゲームメーカーのマスターデータが発売前に流出した件の調査で、個人情報流出の可能性が判明。取引先のマイナンバー等、センシティブ情報も含まれる可能性があるとされる。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "制作物・リリース前情報と個人データを狙った不正アクセスはデジタルコンテンツ産業と個人情報保護の観点で警戒が必要。",
-    "published_at": "2026-06-04 14:12:00",
-    "created_at": "2026-06-05 06:19:53"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Meta、24時間顧客対応するAIエージェント「Meta Business Agent」をInstagramなどでグローバル展開",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news092.html",
-    "summary": "Metaが企業向けAIエージェント「Meta Business Agent」のグローバル提供を開始。InstagramやMessenger経由での24時間自動顧客対応や外部システム連携を想定し、先行提供を開始。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "ソーシャルチャネルでのAI自動化が小売・ECの顧客体験とコスト構造に即時的な影響を与える可能性がある。",
-    "published_at": "2026-06-04 13:22:00",
-    "created_at": "2026-06-05 06:19:53"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "開始5日で障害、気象庁「線状降水帯直前予測」復旧 ソフトウェア不具合が原因",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news074.html",
-    "summary": "気象庁の「線状降水帯直前予測」サービスで開始から5日で障害が発生。原因はシステムソフトウェアの一部不具合で、現在は復旧済み。",
-    "importance": 3,
-    "category": "その他",
-    "reason": "公共の予測情報の不具合は防災対応に直結するため、開発・運用体制と信頼性の観点で重要な事例。",
-    "published_at": "2026-06-04 10:55:00",
-    "created_at": "2026-06-05 06:19:53"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Google、AI検索への表示を拒否できるWebオーナー向けトグル機能のテスト開始",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news071.html",
-    "summary": "GoogleがSearch Consoleに、AI検索（AI Overviews等）への自社ページ表示を拒否するトグル機能をテスト導入。拒否しても通常検索結果は維持される。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "パブリッシャーのトラフィックやコンテンツ交渉力に直結する機能で、プラットフォームと媒体の関係に影響する実務的な変更。",
-    "published_at": "2026-06-04 10:07:00",
-    "created_at": "2026-06-05 06:19:53"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "オートデスク、主要製品向けにAIアシスタント機能を展開 Fusion向けMCPも",
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/04/news037.html",
-    "summary": "Autodeskが主要製品にAIアシスタント『Autodesk Assistant』のテックプレビュー提供を開始。設計データや業務コンテキスト理解と外部AI連携を想定する。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "設計・製造分野でのAI組込みがワークフローと生産性を変える事例で、エンタープライズ導入の先行指標になる。",
-    "published_at": "2026-06-04 09:00:00",
-    "created_at": "2026-06-05 06:19:53"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "ServiceNowとAccenture、エージェント型AIを全社展開する「FDE」を開始",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news024.html",
-    "summary": "ServiceNowとAccentureが、エージェント型AIを実証実験から全社展開へ移すためのプログラム『FDE』を開始。導入拡大の課題を解決する枠組みを提示する。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "エンタープライズでのエージェントAIスケール化に向けた実務的アプローチは情シス戦略に直接役立つ。",
-    "published_at": "2026-06-04 08:00:00",
-    "created_at": "2026-06-05 06:19:53"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "SpaceX、IPOで750億ドル（約12兆円）調達へ 時価総額は1兆7700億ドルの見通し",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/04/news065.html",
-    "summary": "SpaceXがIPOで750億ドルを調達する計画をSECに提出。時価総額は約1兆7700億ドルと見込まれている。AI関連市場の潜在性にも言及。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "大規模IPOは資本市場と宇宙／AI投資の流れに影響するが、直接の技術影響は中長期的。",
-    "published_at": "2026-06-04 07:16:00",
-    "created_at": "2026-06-05 06:19:53"
-  },
-  {
-    "source": "Impress Watch",
     "title": "Alphabet、AI資本調達で需要超過 公募などで450億ドル確保、総額850億ドル計画へ",
     "url": "https://www.impress.co.jp/docs/news/2114646.html",
     "summary": "Alphabetは株式調達で約450億ドルを確保、総額で850億ドルを見込み、AIインフラやデータセンターへの巨額投資に充てる方針を示した。",
@@ -3066,17 +3022,6 @@
     "category": "AI",
     "reason": "ローカルで動く高性能オープン・マルチモーダルモデルは開発者・製品戦略に直結し、検証や商用利用のハードルを下げる。",
     "published_at": "2026-06-04 01:38:23",
-    "created_at": "2026-06-05 06:19:53"
-  },
-  {
-    "source": "Publickey",
-    "title": "マイクロソフト、AIエージェントにWindowsアプリ開発の知識を与える「Windows Development Skills」を一般提供開始",
-    "url": "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
-    "summary": "MicrosoftがAIエージェントにWindowsアプリ開発ライフサイクルの知識を与える『Windows Development Skills』を一般提供開始。開発支援の自動化を強化する狙い。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "プラットフォーム提供側が開発知識をエージェント化する動きは、開発効率とツールチェーン戦略に影響するため開発者注目の話題。",
-    "published_at": "2026-06-04 00:11:06",
     "created_at": "2026-06-05 06:19:53"
   },
   {

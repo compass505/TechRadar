@@ -1640,172 +1640,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "7273002fb9b7",
-    "title": "GMOペイメントゲートウェイの決済で障害、出前館など一時ネット支払いできず",
-    "published_date": "2026-06-04",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "GMOペイメントゲートウェイの複数決済サービスで約1時間の障害が発生し、ネット通販やフードデリバリーなどで決済不能となった。5月にも同社の障害が複数回発生している。",
-    "reason": "決済インフラの停止は商取引に直接影響。情シス・経営判断で対策／冗長化検討が必要な事例。",
-    "published_at": "2026-06-04 18:55:00",
-    "created_at": "2026-06-05 06:19:53",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news123.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "0edacfaa13b1",
-    "title": "Google、AI検索への表示を拒否できるWebオーナー向けトグル機能のテスト開始",
-    "published_date": "2026-06-04",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "GoogleがSearch Consoleに、AI検索（AI Overviews等）への自社ページ表示を拒否するトグル機能をテスト導入。拒否しても通常検索結果は維持される。",
-    "reason": "パブリッシャーのトラフィックやコンテンツ交渉力に直結する機能で、プラットフォームと媒体の関係に影響する実務的な変更。",
-    "published_at": "2026-06-04 10:07:00",
-    "created_at": "2026-06-05 06:19:53",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news071.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "46b3f6ad079b",
-    "title": "Key新作「anemoi」マスターデータ流出、個人情報も漏えいか ビジュアルアーツに不正アクセス 取引先のマイナンバーも",
-    "published_date": "2026-06-04",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "ゲームメーカーのマスターデータが発売前に流出した件の調査で、個人情報流出の可能性が判明。取引先のマイナンバー等、センシティブ情報も含まれる可能性があるとされる。",
-    "reason": "制作物・リリース前情報と個人データを狙った不正アクセスはデジタルコンテンツ産業と個人情報保護の観点で警戒が必要。",
-    "published_at": "2026-06-04 14:12:00",
-    "created_at": "2026-06-05 06:19:53",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news098.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "d79402507d27",
-    "title": "Meta、24時間顧客対応するAIエージェント「Meta Business Agent」をInstagramなどでグローバル展開",
-    "published_date": "2026-06-04",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Metaが企業向けAIエージェント「Meta Business Agent」のグローバル提供を開始。InstagramやMessenger経由での24時間自動顧客対応や外部システム連携を想定し、先行提供を開始。",
-    "reason": "ソーシャルチャネルでのAI自動化が小売・ECの顧客体験とコスト構造に即時的な影響を与える可能性がある。",
-    "published_at": "2026-06-04 13:22:00",
-    "created_at": "2026-06-05 06:19:53",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news092.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "1f202a62aff0",
-    "title": "ServiceNowとAccenture、エージェント型AIを全社展開する「FDE」を開始",
-    "published_date": "2026-06-04",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "ServiceNowとAccentureが、エージェント型AIを実証実験から全社展開へ移すためのプログラム『FDE』を開始。導入拡大の課題を解決する枠組みを提示する。",
-    "reason": "エンタープライズでのエージェントAIスケール化に向けた実務的アプローチは情シス戦略に直接役立つ。",
-    "published_at": "2026-06-04 08:00:00",
-    "created_at": "2026-06-05 06:19:53",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news024.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "cea678358146",
-    "title": "SpaceX、IPOで750億ドル（約12兆円）調達へ 時価総額は1兆7700億ドルの見通し",
-    "published_date": "2026-06-04",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "SpaceXがIPOで750億ドルを調達する計画をSECに提出。時価総額は約1兆7700億ドルと見込まれている。AI関連市場の潜在性にも言及。",
-    "reason": "大規模IPOは資本市場と宇宙／AI投資の流れに影響するが、直接の技術影響は中長期的。",
-    "published_at": "2026-06-04 07:16:00",
-    "created_at": "2026-06-05 06:19:53",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news065.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "94bafcea7b6f",
     "title": "TSMC、AI活用拡大による成長維持に自信 株主総会、東京エレクトロンとの取引は継続",
     "published_date": "2026-06-04",
@@ -1860,62 +1694,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "5ac52dc3da19",
-    "title": "オートデスク、主要製品向けにAIアシスタント機能を展開 Fusion向けMCPも",
-    "published_date": "2026-06-04",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Autodeskが主要製品にAIアシスタント『Autodesk Assistant』のテックプレビュー提供を開始。設計データや業務コンテキスト理解と外部AI連携を想定する。",
-    "reason": "設計・製造分野でのAI組込みがワークフローと生産性を変える事例で、エンタープライズ導入の先行指標になる。",
-    "published_at": "2026-06-04 09:00:00",
-    "created_at": "2026-06-05 06:19:53",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2606/04/news037.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "926bc28b74f7",
-    "title": "マイクロソフト、AIエージェントにWindowsアプリ開発の知識を与える「Windows Development Skills」を一般提供開始",
-    "published_date": "2026-06-04",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "MicrosoftがAIエージェントにWindowsアプリ開発ライフサイクルの知識を与える『Windows Development Skills』を一般提供開始。開発支援の自動化を強化する狙い。",
-    "reason": "プラットフォーム提供側が開発知識をエージェント化する動きは、開発効率とツールチェーン戦略に影響するため開発者注目の話題。",
-    "published_at": "2026-06-04 00:11:06",
-    "created_at": "2026-06-05 06:19:53",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "5eeb0d577901",
     "title": "患者1365人分の個人情報漏えいか 看護師が私物PCに情報保存→サポート詐欺被害に 藤田医科大学病院",
     "published_date": "2026-06-04",
@@ -1944,33 +1722,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "703b8006b7d4",
-    "title": "日本における「AIのものさし」を作る 東大松尾研らが「Japan AI Index」始動",
-    "published_date": "2026-06-04",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "東京大学松尾・岩澤研究室とPKSHA、Anthropicが協業し、生成AIの社会的インパクトを継続観測する『Japan AI Index』を構築。初回レポートを年内に公開予定。",
-    "reason": "国内の政策・産業判断に資する観測基盤で、AI導入の社会的影響可視化というガバナンス面で重要。",
-    "published_at": "2026-06-04 15:45:40",
-    "created_at": "2026-06-05 06:19:53",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2114466.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "04ba63e5452f",
     "title": "東芝や無印良品など、複数の企業で「不審なログイン画面」 各社が注意呼びかけ 「polyfill io」経由か",
     "published_date": "2026-06-04",
@@ -1995,33 +1746,6 @@
     "practical_impact_score": 1,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "0c211ad565ab",
-    "title": "開始5日で障害、気象庁「線状降水帯直前予測」復旧 ソフトウェア不具合が原因",
-    "published_date": "2026-06-04",
-    "importance_score": 3,
-    "category": "その他",
-    "summary": "気象庁の「線状降水帯直前予測」サービスで開始から5日で障害が発生。原因はシステムソフトウェアの一部不具合で、現在は復旧済み。",
-    "reason": "公共の予測情報の不具合は防災対応に直結するため、開発・運用体制と信頼性の観点で重要な事例。",
-    "published_at": "2026-06-04 10:55:00",
-    "created_at": "2026-06-05 06:19:53",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/04/news074.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
     "utility_score": 1,
     "has_itmedia_article": true
   },
@@ -9470,5 +9194,139 @@
     "urgency_score": 1,
     "utility_score": 0,
     "has_itmedia_article": false
+  },
+  {
+    "id": "7bc4abeaa190",
+    "title": "GoPro復活ののろしか “シネマ”を打ち出した「MISSION 1 PRO」レビュー",
+    "published_date": "2026-07-04",
+    "importance_score": 1,
+    "category": "ガジェット",
+    "summary": "GoProの新シリーズ『MISSION 1 PRO』をレビュー。シネマ指向への製品戦略と復活の可能性を検証する内容。",
+    "reason": "注目の製品レビューだが主に消費者向けで業界全体への影響は限定的。",
+    "published_at": "2026-07-04 07:14:00",
+    "created_at": "2026-07-05 01:29:58",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/04/news019.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "dce3fbc867fc",
+    "title": "「炎上プロジェクトの共通点」「AI生成コードのレビュー負担」、エンジニアを悩ませる現場のリアル",
+    "published_date": "2026-07-04",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "現場エンジニアが直面する課題をランキング形式で紹介。炎上プロジェクトの共通点やAI生成コードのレビュー負担など、実務に直結する話題を整理。",
+    "reason": "開発現場やマネジメントの改善に直接役立つ実例・知見が含まれているため編集価値がある。",
+    "published_at": "2026-07-04 08:00:00",
+    "created_at": "2026-07-05 01:29:58",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/04/news012.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "549a078f9b39",
+    "title": "カシオ プロトレック、“ぶら下げ”可能な小型モデル",
+    "published_date": "2026-07-04",
+    "importance_score": 1,
+    "category": "ガジェット",
+    "summary": "カシオがPRO TREKの小型『PRJ-01』3機種を発表。ソーラー発電クオーツで7月発売、価格は25,300円～31,350円。",
+    "reason": "消費者向け新製品情報として掲載価値はあるが技術トレンドや業界影響は小さい。",
+    "published_at": "2026-07-04 10:00:00",
+    "created_at": "2026-07-05 01:29:58",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2121866.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "22b4744ba775",
+    "title": "フィジカルAIに挑む日の丸連合、「Noetra」とは何か",
+    "published_date": "2026-07-04",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "日本発のフィジカルAI連合「Noetra」の狙いや構成、技術的なチャレンジと産業応用の可能性を解説する記事。",
+    "reason": "国内の物理AI/ロボティクス戦略として注目だが、現時点では実証・普及段階のため影響は段階的。",
+    "published_at": "2026-07-04 07:00:00",
+    "created_at": "2026-07-05 01:29:58",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "fada2161d68a",
+    "title": "米トランプ大統領、AI規制は「できるだけ介入少なく」 中国に対して開発競争「大幅リード」を強調",
+    "published_date": "2026-07-04",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "トランプ大統領がAI規制はガードレールは必要だが介入は最小限にしたいと発言。中国との開発競争で米国が大幅にリードしていると強調。",
+    "reason": "米大統領の規制方針は国内外の産業戦略、投資、規制議論に直接影響するため広範な重要性がある。",
+    "published_at": "2026-07-04 08:00:00",
+    "created_at": "2026-07-05 01:29:58",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
   }
 ]
