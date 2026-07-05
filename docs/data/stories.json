@@ -1778,171 +1778,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "a54da7412b54",
-    "title": "Google、AIエージェント向け「Android CLI」を正式公開 アプリ開発が“3倍高速”に",
-    "published_date": "2026-06-05",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "GoogleがAIエージェントを利用したAndroid開発ツール『Android CLI』1.0をリリース。エージェント駆動で開発効率が大幅向上すると謳う。",
-    "reason": "開発ワークフローを変える可能性があり、開発チームやプロダクト戦略に直接関係するため重要。",
-    "published_at": "2026-06-05 13:00:00",
-    "created_at": "2026-06-06 06:12:32",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news061.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "8142f0573e7b",
-    "title": "Google、クリエイターとパブリッシャー向け「検索プロフィール」導入 AI検索での流入減批判受け",
-    "published_date": "2026-06-05",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "Googleが検索結果での存在感を高める『Search profiles』を発表。クリエイター・出版社が公式情報を集約できる機能で、AI検索による流入減への対応策。",
-    "reason": "パブリッシャーやSEO戦略に影響するプラットフォーム変化で、広告・コンテンツ事業者に有用な情報。",
-    "published_at": "2026-06-05 09:18:00",
-    "created_at": "2026-06-06 06:12:32",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/05/news072.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "b8571f73d384",
-    "title": "moomoo証券、監視委が処分勧告 NISA対象外を「対象」と虚偽説明 顧客対応も「著しく杜撰」",
-    "published_date": "2026-06-05",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "証券取引等監視委員会がmoomoo証券に対し金融庁への行政処分勧告。NISA対象外商品を対象と虚偽説明するなど投資者保護上の重大な問題を指摘。",
-    "reason": "金融商品販売の不正・行政処分勧告はフィンテック事業者やコンプライアンスに直接影響するため業界関係者は注目すべき。",
-    "published_at": "2026-06-05 20:20:00",
-    "created_at": "2026-06-06 06:12:32",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/05/news124.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "b6943e5ef959",
-    "title": "ぐるなびが“脱VPN” 「リスクが減り、コストも4割減」をどう実現？",
-    "published_date": "2026-06-05",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "ぐるなびがVPN廃止でリモートアクセスを再設計し、セキュリティ向上と運用コスト約4割削減を実現した事例を解説。",
-    "reason": "実務的なネットワーク設計・運用の成功事例で、情シスの意思決定やクラウド移行戦略に参考になるため掲載する価値がある。",
-    "published_at": "2026-06-05 13:00:00",
-    "created_at": "2026-06-06 06:12:32",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news054.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "798017aa4f8a",
-    "title": "アンソロピック、AI開発の「減速」を提言",
-    "published_date": "2026-06-05",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "AnthropicがAI開発の調整・減速の枠組み設置を提言。人間の制御喪失リスクに対する国際的な協調を呼びかけている。",
-    "reason": "業界の倫理・ガバナンス議論を刺激する提言で、政策・企業戦略に影響する可能性があるため掲載に値する。",
-    "published_at": "2026-06-05 21:30:08",
-    "created_at": "2026-06-06 06:12:32",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2115005.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "76cc159bc052",
-    "title": "ヤマダHDとエディオン、経営統合に基本合意 2027年10月めど",
-    "published_date": "2026-06-05",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "ヤマダHDとエディオンが経営統合の基本合意を締結。共同持株会社を設立し、2027年10月発足を目指す。売上規模拡大が見込まれる。",
-    "reason": "小売業界の再編であり、サプライチェーン・販売チャネルに影響するため業界関係者は押さえておくべきニュース。",
-    "published_at": "2026-06-05 13:25:00",
-    "created_at": "2026-06-06 06:12:32",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/05/news096.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "b7f72b77804f",
     "title": "中国スパイ、求人サイトで募集 報酬はオンライン決済で数百万円も ファイブアイズが警告",
     "published_date": "2026-06-05",
@@ -2027,35 +1862,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "1428a83046ca",
-    "title": "普通のAIでも脆弱性を見つけられる今、企業にできる対策は？ Googleが15のポイントを解説",
-    "published_date": "2026-06-05",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "GoogleがAIによる脆弱性発見の加速に対して、企業が取るべき15の具体的対策を公式に解説した。実務向けの優先事項を提示。",
-    "reason": "開発・情シス向けの実務的ガイダンスで、即時のセキュリティ対策に役立つため読者価値が高い。",
-    "published_at": "2026-06-05 13:00:00",
-    "created_at": "2026-06-06 06:12:32",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news064.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": false
   },
   {
     "id": "18a3d47e58fa",
@@ -9327,6 +9133,87 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "9339ddb09ab1",
+    "title": "99％の組織が直面「バイブコーディングが量産する脆弱なコード」 その具体例と理由、回避策",
+    "published_date": "2026-07-05",
+    "importance_score": 4,
+    "category": "開発",
+    "summary": "生成AIによるコーディング（いわゆる「バイブコーディング」）が普及し、脆弱なコードの量産が深刻化。具体的な誤り例と原因、開発現場での回避策を解説する。",
+    "reason": "開発・情シス・セキュリティに直接影響する課題で、実務上の対策と方針決定に役立つため高い掲載価値がある。",
+    "published_at": "2026-07-05 08:00:00",
+    "created_at": "2026-07-06 01:31:25",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/05/news003.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "87c0f56dace2",
+    "title": "マイクロン、AI需要で広島工場増強へ起工式 1.5兆円投資",
+    "published_date": "2026-07-05",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "マイクロンメモリ ジャパンが広島工場に新クリーンルームを建設し、AI向けメモリ需要に対応するため1兆5000億円を投じる。製造装置の搬入は2028年後半開始予定。",
+    "reason": "大規模投資による生産能力拡大はメモリ供給やAI市場に直結する業界・企業戦略上の重要ニュースのため。",
+    "published_at": "2026-07-05 11:00:00",
+    "created_at": "2026-07-06 01:31:25",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "fd15e832c855",
+    "title": "人気ホラーゲームの新作が発売中止？ 告知投稿を見たマンガ家が感じた“モキュメンタリーの難しさ”",
+    "published_date": "2026-07-05",
+    "importance_score": 1,
+    "category": "ガジェット",
+    "summary": "人気ホラーゲームシリーズ最新作『日本事故物件監視協会3』の告知投稿が物議を醸し、マンガ家がモキュメンタリー表現の難しさを指摘。発売中止の噂も広がっている。",
+    "reason": "主に消費者向けエンタメの話題で技術的影響は限定的。読者興味はあるが掲載価値は低め。",
+    "published_at": "2026-07-05 07:14:00",
+    "created_at": "2026-07-06 01:31:25",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/05/news009.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
     "has_itmedia_article": true
   }
 ]
