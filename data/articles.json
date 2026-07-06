@@ -1,5 +1,137 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "クレカ決済代行の全東信が破産、端末が使用不可に 負債は1259億円で今年最大──帝国データバンク",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/06/news127.html",
+    "summary": "決済代行の全東信が自己破産を申請、破産手続き開始。負債は約1259億円で、多数の加盟店で端末が使用不可になる影響が出ている。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "決済インフラ事業者の破産で中小事業者や決済運用に即時影響、業界・規制対応の論点を生む重大事案。",
+    "published_at": "2026-07-06 19:20:00",
+    "created_at": "2026-07-07 02:57:39"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "パランティアCEOがOpenAIやAnthropicを批判 「AIモデルを強化するためのデータをなぜ顧客が渡すのか」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000161/",
+    "summary": "PalantirのCEOが主要フロンティアモデル提供企業の顧客データ利用を批判し、NVIDIAとの提携を打ち出すなど差別化戦略を示した発言を報道。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "企業向けAIデータ利用と差別化戦略に関する主要ベンダー間の論争で、顧客データポリシーや調達判断に影響。",
+    "published_at": "2026-07-06 18:50:54",
+    "created_at": "2026-07-07 02:57:39"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "KDDI、パスワード760万人分漏えい メアドも1220万人分 ISP事業者向けシステムへの不正アクセスで",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/06/news109.html",
+    "summary": "KDDIが提供するISP向けメールシステムへ不正アクセスがあり、メールアドレス1223万件、パスワード761万件の漏えいが確認されたと発表。調査で事実が確定し対応を継続中。",
+    "importance": 5,
+    "category": "ビジネス",
+    "reason": "大規模な個人情報・認証情報漏えいで被害範囲が甚大、企業・情シス対応と利用者保護が緊急課題。",
+    "published_at": "2026-07-06 16:14:00",
+    "created_at": "2026-07-07 02:57:39"
+  },
+  {
+    "source": "＠IT",
+    "title": "31秒で失敗を修正 考えながらランサムを仕掛けるAI攻撃者の実態",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/06/news032.html",
+    "summary": "Sysdigの報告を基に、LLM主導で侵入からランサム実行まで進めた可能性のある攻撃の実態を解説。AIが高速に試行錯誤し失敗を修正する点が警戒される。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "LLMを悪用した高度・高速な攻撃手法の実例報告で防御方針や検知設計に直接影響するため重要。",
+    "published_at": "2026-07-06 13:00:00",
+    "created_at": "2026-07-07 02:57:39"
+  },
+  {
+    "source": "＠IT",
+    "title": "公開3日で停止した「Claude Fable 5」が復活 AI脱獄の採点ルールも稼働",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/06/news036.html",
+    "summary": "Anthropicの最新モデル Claude Fable 5 が利用停止後に再提供され、同時に主要企業がAIのジェイルブレーク評価ルール作りに着手したと報告。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "高性能モデルの迅速な公開・停止と主要企業間の脱獄評価枠組み構築はAI安全と運用基準に大きく影響する。",
+    "published_at": "2026-07-06 13:00:00",
+    "created_at": "2026-07-07 02:57:39"
+  },
+  {
+    "source": "＠IT",
+    "title": "NVIDIAとMicrosoftが示した「新世代Windows PC」 x86ではない“Arm版”の姿とは",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/06/news048.html",
+    "summary": "NVIDIAの新型Armチップ「RTX Spark」を軸に、Microsoftと協業したArm版Windows PCの方向性やAIエージェントのローカル実行基盤について解説。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "PCプラットフォームのアーキテクチャ転換とローカルAI実行の示唆はハード・ソフトのロードマップに影響するため重要。",
+    "published_at": "2026-07-06 13:00:00",
+    "created_at": "2026-07-07 02:57:39"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AIサーバで稼ぐシャープ 2030年度の新規事業売上高の8割強目指す 鴻海と連携",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/06/news060.html",
+    "summary": "シャープが2030年度の新規事業目標の大半をAI向けサーバ関連に見込むと発表。鴻海との連携で調達・製造を活用し国内での販売・保守を担う方針。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "国内メーカーのAIサーバ戦略とグローバル調達連携は企業ITの調達・運用選択に影響する。",
+    "published_at": "2026-07-06 10:35:00",
+    "created_at": "2026-07-07 02:57:39"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "キオクシア、新型メモリのサンプル出荷開始 岩手の工場の最先端設備活用",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/06/news059.html",
+    "summary": "キオクシアが大容量で低消費電力の新型メモリのサンプル出荷を開始。岩手北上工場の最新設備で生産する点を強調。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "メモリ技術の世代更新と国内生産設備の稼働はサーバ・モバイル市場に波及する技術トピック。",
+    "published_at": "2026-07-06 10:22:00",
+    "created_at": "2026-07-07 02:57:39"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "アマゾンの衛星ブロードバンド「Leo」が年内開始へ、スターリンクを追う",
+    "url": "https://japan.cnet.com/article/35250074/",
+    "summary": "Amazonの衛星ブロードバンド「Leo」が限定提供を年内に開始する見込み。既存のStarlinkに遅れをとるものの市場参入が近づいている。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "衛星通信分野への大手クラウド事業者の参入は競争・インフラ整備の観点で注目に値する。",
+    "published_at": "2026-07-06 10:19:00",
+    "created_at": "2026-07-07 02:57:39"
+  },
+  {
+    "source": "＠IT",
+    "title": "AWSの新AI IDEで進む開発自律化 Webブラウザから複数リポジトリの横断作業を指示可能に",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/06/news041.html",
+    "summary": "Kiroチームがブラウザで動くコーディングAIエージェント「Kiro Web」をプレビュー公開。複数リポジトリ横断の変更やPR作成まで自動化を目指す。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発ワークフロー自動化の次の段階を示すプロダクトで、開発生産性とガバナンスに直接関わる話題。",
+    "published_at": "2026-07-06 08:00:00",
+    "created_at": "2026-07-07 02:57:39"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Amazon Mechanical Turk」、7月30日で新規受付終了──2005年開始のAWSのクラウドソーシング",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/06/news052.html",
+    "summary": "AWSが提供するクラウドソーシング「Amazon Mechanical Turk」が7月30日で新規顧客の受付を終了。既存顧客は引き続き利用可能だが新機能は追加しない方針。",
+    "importance": 2,
+    "category": "クラウド",
+    "reason": "データラベリングやマイクロタスク需要者にとって重要なプラットフォーム変更だが影響は限定的かつ代替も存在。",
+    "published_at": "2026-07-06 07:07:00",
+    "created_at": "2026-07-07 02:57:39"
+  },
+  {
+    "source": "＠IT",
+    "title": "生成AIで履歴書も顔も偽装 北朝鮮ITワーカー、日本企業への潜入工作の実態",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/06/news022.html",
+    "summary": "北朝鮮の工作集団が生成AIで偽の履歴書や顔画像を作成し、日本企業への採用を通じた潜入を試みる手口を報告。セキュリティ企業の調査結果を紹介。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "生成AIを駆使した人材偽装が国家レベルで確認され、採用・ID確認プロセスとサイバー防御の見直しが必要。",
+    "published_at": "2026-07-06 07:00:00",
+    "created_at": "2026-07-07 02:57:39"
+  },
+  {
     "source": "ITmedia AI+",
     "title": "マイクロン、AI需要で広島工場増強へ起工式 1.5兆円投資",
     "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
@@ -671,17 +803,6 @@
     "created_at": "2026-06-30 02:57:47"
   },
   {
-    "source": "Impress Watch",
-    "title": "NTTデータ、ダイキンの技術でサーバー冷却 熱状態予測AIを共同検証",
-    "url": "https://www.watch.impress.co.jp/docs/news/2120841.html",
-    "summary": "NTTデータとダイキンがサーバー内部の熱状態をAIで予測する次世代冷却最適化ソリューションの共同検証を開始。データセンター効率化を狙う実証。",
-    "importance": 2,
-    "category": "クラウド",
-    "reason": "データセンター運用の効率化に直結する実証で、クラウド事業者・情シスにとって実務的な関心事項であるため。",
-    "published_at": "2026-06-29 16:10:07",
-    "created_at": "2026-06-30 02:57:47"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "アップル、中国製メモリの調達を画策 米政権にロビー活動か──DRAM大手のCXMT FTなど報道",
     "url": "https://www.itmedia.co.jp/news/articles/2606/29/news103.html",
@@ -726,17 +847,6 @@
     "created_at": "2026-06-30 02:57:47"
   },
   {
-    "source": "Impress Watch",
-    "title": "Meta、AIグラス「Ray-Ban/Oakley」ライブ翻訳が日本語対応",
-    "url": "https://www.watch.impress.co.jp/docs/news/2120720.html",
-    "summary": "MetaがRay-Ban Meta/Oakley Meta向けのソフトウェア更新を配信開始。ライブ翻訳で日本語対応になり、撮影や会話フォーカスなどの機能も追加される。",
-    "importance": 2,
-    "category": "ガジェット",
-    "reason": "消費者向けARグラスの機能拡充はガジェット市場動向として関心度が高いため。",
-    "published_at": "2026-06-29 12:06:13",
-    "created_at": "2026-06-30 02:57:47"
-  },
-  {
     "source": "ITmedia AI+",
     "title": "ロボットの模倣学習を60時間→4.8時間に AWSのGPUでフィジカルAI開発を加速 ファナック",
     "url": "https://www.itmedia.co.jp/aiplus/article/2606/29/2000000136/",
@@ -778,17 +888,6 @@
     "category": "セキュリティ",
     "reason": "ランサムウェア対策と対応方針はCISOや経営判断に直結するため、実務的価値が高い。",
     "published_at": "2026-06-29 07:00:00",
-    "created_at": "2026-06-30 02:57:47"
-  },
-  {
-    "source": "Publickey",
-    "title": "Deno 2.9正式リリース。起動が2倍速、消費メモリは半分に。WebViewを用いたデスクトップアプリが作れる「Deno Desktop」など",
-    "url": "https://www.publickey1.jp/blog/26/deno_292webviewdeno_desktop.html",
-    "summary": "Deno 2.9が正式リリース。起動速度が2倍、メモリ使用が半減したほか、WebViewベースでデスクトップアプリを作れる『Deno Desktop』を導入。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発者向けランタイムの性能改善とデスクトップ展開機能は、開発効率や選択肢に影響するため掲載価値あり。",
-    "published_at": "2026-06-29 00:15:39",
     "created_at": "2026-06-30 02:57:47"
   },
   {
@@ -2847,17 +2946,6 @@
     "reason": "プロンプトインジェクションへの実用的対策として企業導入や運用ポリシーに影響するが、現時点では機能追加の範囲のため重要度は中程度",
     "published_at": "2026-06-07 07:22:00",
     "created_at": "2026-06-08 05:03:08"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "JR西日本、ドローン活用で「停電不要」の点検を実現",
-    "url": "https://japan.cnet.com/article/35248538/",
-    "summary": "JR西日本レールテックが、列車運行区間で停電手続きを伴わずにドローンで跨線道路橋の点検を実施。作業の安全性と生産性向上を狙う取り組み。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "鉄道インフラの点検方法に業務効率化と安全性向上をもたらす実運用事例で、他事業者や情シスへの示唆が大きい。",
-    "published_at": "2026-06-06 09:10:00",
-    "created_at": "2026-06-07 04:59:56"
   },
   {
     "source": "CNET Japan",
