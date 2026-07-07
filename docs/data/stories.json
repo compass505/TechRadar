@@ -1920,35 +1920,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "b494126112ad",
-    "title": "ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策",
-    "published_date": "2026-06-07",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "OpenAIがChatGPT向けに『ロックダウンモード』を提供開始。プロンプトインジェクション対策としてWebブラウジングや外部接続を制限するオプションで、機密データ取り扱い向けを想定。企業や厳格なデータ保護が必要なユーザー向けの機能強化。",
-    "reason": "プロンプトインジェクションへの実用的対策として企業導入や運用ポリシーに影響するが、現時点では機能追加の範囲のため重要度は中程度",
-    "published_at": "2026-06-07 07:22:00",
-    "created_at": "2026-06-08 05:03:08",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "d2a42a1f8914",
     "title": "Gemini需要急増でGoogleがSpaceXと月額9億2000万ドルの大型契約",
     "published_date": "2026-06-07",
@@ -7486,35 +7457,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "ece34c3135b0",
-    "title": "Cursor、iOSアプリ、どこからでも開発",
-    "published_date": "2026-06-30",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "コーディングエージェントCursorがネイティブiOSアプリを提供開始。外出先からクラウド上のエージェントを操作しバグ修正や確認が可能に。",
-    "reason": "モバイルでAIコーディングを継続できる利便性は高いが即時の業界影響は限定的なため",
-    "published_at": "2026-06-30 10:39:24",
-    "created_at": "2026-07-01 02:20:11",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2121005.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "9551490d2a8d",
     "title": "GitHub、AIによる雑なプルリクエストを抑制へ ユーザー当たりのプルリク数に上限を設定できる新機能",
     "published_date": "2026-06-30",
@@ -7540,33 +7482,6 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "225e1dd2cbfa",
-    "title": "OpenAI、Codex向けデバイスを予告 7月15日に発表か キーボードメーカーと協業",
-    "published_date": "2026-06-30",
-    "importance_score": 2,
-    "category": "ガジェット",
-    "summary": "OpenAIがコーディング支援のショートカット操作用デバイスらしきティーザーを公開。キーボードメーカーと協業し7月中旬発表の見込み。",
-    "reason": "開発効率を狙った周辺デバイスの動きだが、現時点はティーザーで影響範囲は限定的なため",
-    "published_at": "2026-06-30 12:50:00",
-    "created_at": "2026-07-01 02:20:11",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/30/news123.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
     "has_itmedia_article": true
   },
   {
@@ -9439,5 +9354,338 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
+  },
+  {
+    "id": "fd50c132a031",
+    "title": "AI誤決裁の責任は誰が取る？ 自動化していい業務／ダメな業務の境界線",
+    "published_date": "2026-07-07",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "ワークフローのAI代替可能性調査で7割超が承認・決裁をAIに任せるべきでないと回答。AI誤判断の責任所在や自動化の境界が議論されている。",
+    "reason": "企業ガバナンスと法的責任に関わる実務課題で、導入判断やポリシー策定に直結するため掲載価値あり。",
+    "published_at": "2026-07-07 08:00:00",
+    "created_at": "2026-07-08 02:30:25",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news056.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e867ae5e0f9a",
+    "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
+    "published_date": "2026-07-07",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "AnthropicがLLM内部に「J-space」と名付けた構造を発見し、Jacobian lens（J-lens）で可視化。モデルの内部思考の一部を観測でき、安全性監視への応用が期待される。",
+    "reason": "LLM内部可視化はAI安全性評価や監視の実務に結びつく研究成果で、開発者・安全担当に有益。",
+    "published_at": "2026-07-07 09:48:03",
+    "created_at": "2026-07-08 02:30:25",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e9693291fbf3",
+    "title": "Apple、次期macOS 27でSwift言語をシステムカーネル開発に採用。メモリ安全な言語として",
+    "published_date": "2026-07-07",
+    "importance_score": 4,
+    "category": "開発",
+    "summary": "AppleがmacOS 27でカーネル開発にSwiftを採用すると発表。メモリ安全性向上を狙い、OS開発のプラットフォームや開発者のスキル要件に影響する大きな変更。",
+    "reason": "OSカーネル開発言語の刷新は開発手法・安全性・エコシステムに長期的影響を与えるため重要度高め。",
+    "published_at": "2026-07-07 00:11:01",
+    "created_at": "2026-07-08 02:30:25",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/applemacos_27swift.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9794a566bbe6",
+    "title": "Broadcom、Appleとの半導体契約を2031年まで延長 複数世代のApple製品にカスタムASICを供給へ",
+    "published_date": "2026-07-07",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "BroadcomがAppleとの技術協業を2031年まで延長。複数世代に渡るカスタムASICの供給と、AppleのAIサーバ向けチップへの協業拡大が示唆される。",
+    "reason": "主要サプライヤーとAppleの長期協業は半導体・デバイス戦略やAIインフラに影響するため業界的に重要。",
+    "published_at": "2026-07-07 07:46:00",
+    "created_at": "2026-07-08 02:30:25",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/07/news078.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "45b9f3f08c15",
+    "title": "MCPにエンタープライズ向け新機能、アクセスを一括管理できる「Enterprise-Managed Authorization（EMA）extension」が安定版として利用可能に",
+    "published_date": "2026-07-07",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "MCP（Model Context Protocol）に企業向けのEMA拡張が登場し、生成AIとツール接続のアクセス管理を一括化できる機能が安定版に。",
+    "reason": "企業での生成AI導入に伴う認可・アクセス管理の標準化は導入・運用に直結する実務的トピックのため選定。",
+    "published_at": "2026-07-07 00:08:16",
+    "created_at": "2026-07-08 02:30:25",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "229adca0ef12",
+    "title": "Microsoft、全社で約4800人を削減へ――法人向け部門とXbox部門が中心",
+    "published_date": "2026-07-07",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "Microsoftは従業員約2.1％に当たる約4800人を削減すると発表。法人向け部門とXboxが中心で、組織効率化とインフラ変化への対応を理由とする。",
+    "reason": "主要クラウド・ソフトウェア企業の大規模リストラは市場・パートナー・IT投資判断に広範な影響を与えるため高評価。",
+    "published_at": "2026-07-07 07:01:00",
+    "created_at": "2026-07-08 02:30:25",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/07/news076.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5e93e1c0e88c",
+    "title": "「250万超AIエージェント作成」の裏で同時多発する課題を回し切ったIT部門の運用術",
+    "published_date": "2026-07-07",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "ソフトバンクが生成AIサービスを全社で数万人規模に展開した際の運用課題と、それを支えたIT部門の実務ノウハウを紹介。未整備な環境での運用力の重要性を示す。",
+    "reason": "大規模な生成AI導入事例から得られる運用ノウハウは、他社の導入・組織設計に示唆を与えるため有益。",
+    "published_at": "2026-07-07 05:00:00",
+    "created_at": "2026-07-08 02:30:25",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news007.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "cbe3699d8e71",
+    "title": "上場した「SpaceX」を解説--株価は想定通り乱高下、あなたの老後資金にも影響",
+    "published_date": "2026-07-07",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "SpaceXがIPOで巨額を調達し、時価総額は世界最大級に。宇宙開発とAI事業を束ねる同社の上場は資本市場や産業構造に重大な影響を与える可能性がある。",
+    "reason": "史上規模のIPOは資金調達の流れと関連産業（衛星通信・AI・ロケット）への投資判断に直結するため高評価。",
+    "published_at": "2026-07-07 08:28:00",
+    "created_at": "2026-07-08 02:30:25",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35250159/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "80cc809cc821",
+    "title": "全東信、破産を招いた「2つの事件」 カード決済の”駆け込み寺”消滅が飲食店に与える影響とは",
+    "published_date": "2026-07-07",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "クレジットカード決済代行の全東信が負債1259億円で破産。審査が通りにくい飲食店の主要な決済受け皿消滅が業界に与える影響と背景を分析する。",
+    "reason": "決済インフラ事業者の破綻は加盟店・業界に即時重大な影響を与え、経営・IT移行判断が必要なため高評価。",
+    "published_at": "2026-07-07 15:30:00",
+    "created_at": "2026-07-08 02:30:25",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/07/news127.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b89c8592a329",
+    "title": "後工程で発覚する脆弱性を4割減 「Claude Code」の新プラグインの仕組み、導入方法",
+    "published_date": "2026-07-07",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "AnthropicがClaude Code向けのセキュリティガイダンスプラグインを公開。コードレビューと同一セッション内での修正支援により後工程での脆弱性発見を削減できるとする。",
+    "reason": "開発現場で即効性のあるAIツールによる脆弱性低減は開発効率とセキュリティに直結するため実用的価値あり。",
+    "published_at": "2026-07-07 13:00:00",
+    "created_at": "2026-07-08 02:30:25",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news030.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "82dae7eb26cf",
+    "title": "悪用成功率99％、Linuxカーネルに新ゼロデイ「Bad Epoll」が見つかる",
+    "published_date": "2026-07-07",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "Linuxカーネルの新たな権限昇格脆弱性「Bad Epoll」は成功率約99％でroot奪取が実証され、Androidへの影響も指摘されている。即時の対策検討が必要。",
+    "reason": "高成功率でrootを奪えるゼロデイは実害化のリスクが極めて高く、緊急対応・広範影響を要するため最高評価。",
+    "published_at": "2026-07-07 07:00:00",
+    "created_at": "2026-07-08 02:30:25",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news048.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9a318a4cffd3",
+    "title": "次期学習指導要領では「情報」教育を大幅に拡充、教科新設や先行導入も",
+    "published_date": "2026-07-07",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "文科省が2030年度全面実施を目標に、情報リテラシー教育を強化。小学校・中学校で新教科・領域を設け、情報教育の先行導入も検討される。",
+    "reason": "国家レベルのカリキュラム変更はIT人材育成と社会的リテラシーに長期的影響を与えるため業界的に重要。",
+    "published_at": "2026-07-07 19:31:00",
+    "created_at": "2026-07-08 02:30:25",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/07/news158.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
   }
 ]
