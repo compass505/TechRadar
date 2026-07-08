@@ -1,5 +1,115 @@
 [
   {
+    "source": "CNET Japan",
+    "title": "OpenAI、次世代モデル「GPT-5.6」を7月9日に一般公開",
+    "url": "https://japan.cnet.com/article/35250340/",
+    "summary": "OpenAIがGPT-5.6シリーズを一般公開予定。最上位のSolなど複数モデルを展開し、プレビュー枠の世界的拡大も明らかに。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要AIベンダーの新世代モデル公開は業界・企業の導入方針やコスト/性能に直結するため重要。",
+    "published_at": "2026-07-08 16:01:00",
+    "created_at": "2026-07-09 01:54:38"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "参考資料を自ら探す画像生成AI、Metaが開発 “長考”でクオリティー向上も",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/08/news097.html",
+    "summary": "Metaがエージェント型の画像生成モデル「Muse Image」を発表。Web検索やコーディングで資料を収集し自己修正する機能を持ち、Meta AIアプリやInstagramなどで提供開始。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "エージェント型メディア生成モデルの登場はコンテンツ制作ワークフローやプラットフォームポリシーに広範な影響を与える。",
+    "published_at": "2026-07-08 13:35:00",
+    "created_at": "2026-07-09 01:54:38"
+  },
+  {
+    "source": "＠IT",
+    "title": "「事後対応」中心の運用から脱却する「AIセキュリティ」の始め方 Google解説",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/08/news059.html",
+    "summary": "Google CloudがCISO向けにAIを活用した防御の導入ガイドを公開。管理負荷軽減や脅威ハンティングへの段階的移行ロードマップを提示。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "政府機関や重要インフラ向けの実務的ガイドで、情シス／セキュリティ担当の導入判断に役立つため掲載価値が高い。",
+    "published_at": "2026-07-08 13:00:00",
+    "created_at": "2026-07-09 01:54:38"
+  },
+  {
+    "source": "＠IT",
+    "title": "「AIで障害調査」どころじゃなかったDeNA 「2週間でも無理」だった原因特定をどう2日で実現？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/08/news057.html",
+    "summary": "DeNAがAIを活用した障害調査で、ログ分散などの課題を解決し原因特定を短縮した事例。実装のポイントとデータ基盤の整理方法を詳述。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "実運用でのAI活用事例として、情シス/運用チームが参考にできるため有用。",
+    "published_at": "2026-07-08 13:00:00",
+    "created_at": "2026-07-09 01:54:38"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "スクエニ、ECサイトが1週間以上使えず 決済など重要機能の不具合でメンテ長期化",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/08/news086.html",
+    "summary": "スクウェア・エニックスの通販サイトがリニューアルに伴う不具合で7月1日以降、決済機能等が停止。復旧のめどが立たない状態が続く。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大手企業のEC長期停止はサプライチェーン・顧客信頼・決済運用の観点で示唆が大きく、運用・ガバナンス面で注目に値する。",
+    "published_at": "2026-07-08 11:55:00",
+    "created_at": "2026-07-09 01:54:38"
+  },
+  {
+    "source": "＠IT",
+    "title": "KDDIメール漏えいの全容判明 ゼロデイ悪用で761万人分パスワードが流出",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/08/news051.html",
+    "summary": "KDDIのISP向けメール基盤への不正アクセス調査で、メールアドレス1223万件が漏えい。うち761万件超でパスワード流出を確認。ゼロデイ脆弱性が悪用されたと報告。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模な実被害（数百万件のパスワード流出）で影響範囲が広く緊急対応が必要なため最高レベルに該当。",
+    "published_at": "2026-07-08 07:30:00",
+    "created_at": "2026-07-09 01:54:38"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "NTTドコモビジネスがIOWN活用の分散GPU環境を提供、25GBを2秒で転送",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/08/news052.html",
+    "summary": "NTTドコモビジネスがIOWN APNを活用し、全国8拠点分散GPUを統合利用する実証環境を提供開始。大容量低遅延転送で分散AI基盤の実用性を検証可能に。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "国内事業者による次世代ネットワークを使った分散AI基盤の実証は、企業のAIインフラ戦略に影響する。",
+    "published_at": "2026-07-08 07:30:00",
+    "created_at": "2026-07-09 01:54:38"
+  },
+  {
+    "source": "＠IT",
+    "title": "QRコード攻撃はなぜメールセキュリティを無力化できるのか？ その理由を解説",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/08/news048.html",
+    "summary": "QRコードを悪用したフィッシングがメールゲートウェイの検査を回避する仕組みと、その対策を解説。企業での検知/運用上の注意点を提示。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "現実的で回避可能な攻撃手法の解説は情シス・セキュリティ担当の即効性ある対策に直結する。",
+    "published_at": "2026-07-08 07:00:00",
+    "created_at": "2026-07-09 01:54:38"
+  },
+  {
+    "source": "atmarkit",
+    "title": "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news009.html",
+    "summary": "ソフトバンクが全社でのAIエージェント運用に向け、セキュリティ・ガバナンス・性能を担保する内製ゲートウェイ「Cloud Proxy」を構築。マルチLLM対応や自動スケールなどを解説。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大手企業の実装設計は他社の全社AI展開モデルとして実務的示唆を与えるため有用。",
+    "published_at": "2026-07-08 05:00:00",
+    "created_at": "2026-07-09 01:54:38"
+  },
+  {
+    "source": "Publickey",
+    "title": "Visual Studio Code、従量課金制になったGitHub Copilotの使用料を表示可能に（訂正あり）",
+    "url": "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html",
+    "summary": "VS CodeにGitHub Copilotの消費コストを表示する機能が追加。従量課金の可視化で開発チームのコスト管理が容易に。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発現場でのコスト管理に直結するツール改善で、導入運用判断に役立つため掲載価値あり。",
+    "published_at": "2026-07-08 00:55:48",
+    "created_at": "2026-07-09 01:54:38"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "次期学習指導要領では「情報」教育を大幅に拡充、教科新設や先行導入も",
     "url": "https://www.itmedia.co.jp/news/articles/2607/07/news158.html",
@@ -627,17 +737,6 @@
     "created_at": "2026-07-03 02:06:49"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "PayPay、他社クレカを使うなら「利用券」が必要に 8月末で従来方式は終了",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/01/news151.html",
-    "summary": "PayPayが“PayPayカード以外”のクレジットカード利用を継続するための新制度「他社カード利用券」を導入。従来の直接紐付け方式は8月末で終了。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "決済プラットフォームの仕様変更は消費者・加盟店・カード会社に影響するため注目に値する。",
-    "published_at": "2026-07-01 19:59:00",
-    "created_at": "2026-07-02 02:27:15"
-  },
-  {
     "source": "Impress Watch",
     "title": "モバイルSuicaが復旧 チャージなど全サービス利用可能に",
     "url": "https://www.watch.impress.co.jp/docs/news/2121653.html",
@@ -734,28 +833,6 @@
     "category": "セキュリティ",
     "reason": "PoC公開かつroot奪取が確認されており、直ちに対応を要する重大脆弱性であるため。",
     "published_at": "2026-07-01 07:00:00",
-    "created_at": "2026-07-02 02:27:15"
-  },
-  {
-    "source": "Publickey",
-    "title": "GoogleユーザーのIPv6利用率がついに50％を超えたことが判明",
-    "url": "https://www.publickey1.jp/blog/26/googleipv650.html",
-    "summary": "Googleの公開指標で、同社サービス利用時のIPv6比率が2026年3月に50%を超えたことが確認された。IPv6普及の節目。",
-    "importance": 2,
-    "category": "クラウド",
-    "reason": "インターネット基盤の変化を示す重要なマイルストーンで、ネットワーク運用やクラウド設計に影響するため。",
-    "published_at": "2026-07-01 00:51:42",
-    "created_at": "2026-07-02 02:27:15"
-  },
-  {
-    "source": "Publickey",
-    "title": "Windows上でLinuxコンテナが動く「WSL Containers」がパブリックプレビュー。Windowsファイルへのアクセスが2倍高速に",
-    "url": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containerswindows2.html",
-    "summary": "MicrosoftがWSLの新機能「WSL Containers」のパブリックプレビューを公開。Windows上でLinuxコンテナ稼働が強化され、ファイルアクセス性能が向上。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "Windows上でのコンテナ開発・CI環境に直接関係する開発者向けの有用な機能改善であるため。",
-    "published_at": "2026-07-01 00:45:51",
     "created_at": "2026-07-02 02:27:15"
   },
   {
@@ -2883,39 +2960,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "パナソニックエナジー、28年度に売上高2兆円目指す AIデータセンター向けに主力転換",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/08/news131.html",
-    "summary": "パナソニックエナジーがデータセンター向け蓄電システムを成長の柱とし、2028年度に売上2兆円を目標に3500億円投資を計画。生成AI普及による電力需要増を見据えた事業転換戦略。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "AIインフラ需要を見越したエネルギー事業のシフトは産業構造とサプライチェーンに影響する戦略ニュース。",
-    "published_at": "2026-06-08 18:48:00",
-    "created_at": "2026-06-09 03:10:54"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "AIブームの裏で水不足・電気代高騰 エリン・ブロコビッチ氏がデータセンター問題の「可視化」に挑む",
-    "url": "https://japan.cnet.com/article/35248594/",
-    "summary": "環境活動家エリン・ブロコビッチ氏がAIデータセンターに伴う水不足や電力コストの問題を調査・可視化する取り組みを開始。地域社会への影響や規制課題を浮き彫りにする狙い。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "AIインフラの社会的影響（資源・規制）が注目されており、事業者側の対応や規制動向に関係する。",
-    "published_at": "2026-06-08 16:46:00",
-    "created_at": "2026-06-09 03:10:54"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「AI＝質問」は遅れてる エージェント型AI「Claude Cowork」、組織展開に向けた管理機能を拡充",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news062.html",
-    "summary": "Anthropicがエージェント型業務支援機能『Claude Cowork』を全有料プランで提供。組織展開に向けた管理機能を強化し、企業での運用を想定した進化を図る。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "エンタープライズ向けAIエージェントの一般提供は企業導入・運用の実務面で重要な進展。",
-    "published_at": "2026-06-08 13:00:00",
-    "created_at": "2026-06-09 03:10:54"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "OpenAI、上場前にChatGPTの「スーパーアプリ」化を計画 海外報道",
     "url": "https://www.itmedia.co.jp/news/articles/2606/08/news094.html",
     "summary": "英FT報道によればOpenAIはChatGPTをコーディングツールやAIエージェントを備えた“スーパーアプリ”へ刷新し、上場前に収益化を強化する計画。製品戦略の大幅転換が示唆される。",
@@ -2937,17 +2981,6 @@
     "created_at": "2026-06-09 03:10:54"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "三菱UFJ銀、“PPAP”原則廃止 メール本文にダウンロードURL記載へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/08/news086.html",
-    "summary": "三菱UFJ銀行がパスワード付きZIP（PPAP）方式を原則廃止し、添付ではなくダウンロードURLをメール本文に記載する運用へ変更。マルウェア検査や安全性向上が狙いで、業界の運用慣行に影響を与える可能性がある。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "大手金融機関の運用変更は企業のメール運用・セキュリティ慣行に波及するため実務的意義が高い。",
-    "published_at": "2026-06-08 11:29:00",
-    "created_at": "2026-06-09 03:10:54"
-  },
-  {
     "source": "＠IT",
     "title": "パスキー神話崩壊 Google Password Managerの同期機能を狙う新攻撃手法",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news056.html",
@@ -2956,50 +2989,6 @@
     "category": "セキュリティ",
     "reason": "パスキー普及に関わる認証安全性を揺るがす研究公表で、企業の認証設計や導入判断に重大な示唆を与える。",
     "published_at": "2026-06-08 11:00:00",
-    "created_at": "2026-06-09 03:10:54"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AIによるコード生成、3年後は3倍超に AI普及で浮上する課題は",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news028.html",
-    "summary": "IDC調査では、AI主体でコードを生成する企業の割合が3年で約3倍に拡大すると予測。普及に伴う品質管理やガバナンスなど新たな課題を指摘している。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発プロセスの変化はエンジニアリング組織と経営判断に直結するため、技術トレンドとして重要。",
-    "published_at": "2026-06-08 08:00:00",
-    "created_at": "2026-06-09 03:10:54"
-  },
-  {
-    "source": "＠IT",
-    "title": "「ゼロトラスト導入でもう迷わない」 NSAが実践ガイドを公開",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news051.html",
-    "summary": "米国家安全保障局（NSA）がゼロトラスト導入に関する実践ガイドを新たに公開。散在していた実装指針を統合し、企業の具体的な導入手順や優先度を示している。実務者向けの参照資料として価値が高い。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "ゼロトラスト導入は多くの企業で課題となっており、NSAの公式指針は実装／運用判断に直接役立つ。",
-    "published_at": "2026-06-08 07:30:00",
-    "created_at": "2026-06-09 03:10:54"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "NEC、富士通に先手!? 日立が「Claude Mythos」アクセス権を取得した背景",
-    "url": "https://www.itmedia.co.jp/business/articles/2606/08/news058.html",
-    "summary": "日立製作所がAnthropicの先進AI『Claude Mythos』へのアクセス権を取得。国内大手企業による先進モデルへの関与が進み、競争・協業の構図が変わりつつある。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "国内大手が先進モデルへアクセスする動きは企業AI戦略やパートナーシップに影響し、業界動向把握に有用。",
-    "published_at": "2026-06-08 07:00:00",
-    "created_at": "2026-06-09 03:10:54"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "なぜ姫路市の救急病院AIチャットは、2週間で正答率最高90％を出せたのか？",
-    "url": "https://kn.itmedia.co.jp/kn/articles/2606/08/news036.html",
-    "summary": "姫路市での救急病院向けAIチャット実証で、短期間に高い正答率を達成した理由を分析。ナレッジ循環や現場整備など実務で機能させる要点を解説している。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "現場実証で得られた運用ノウハウは、行政・医療をはじめ他分野の導入判断に直接役立つ事例報告。",
-    "published_at": "2026-06-08 07:00:00",
     "created_at": "2026-06-09 03:10:54"
   },
   {
@@ -3012,28 +3001,6 @@
     "reason": "主要プラットフォーマーによるAIアシスタント刷新は開発者・事業者の戦略やユーザー体験に広範な影響を与えるため高重要度。",
     "published_at": "2026-06-08 04:15:00",
     "created_at": "2026-06-10 02:33:14"
-  },
-  {
-    "source": "Publickey",
-    "title": "CloudflareがViteやRolldownの開発元であるVoidZeroの買収を発表。これでAstroとViteがCloudflareの傘下に",
-    "url": "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
-    "summary": "CloudflareがViteやRolldownを開発するVoidZeroを買収し、AstroやViteがCloudflare傘下に。フロントエンド開発ツールチェーンのオーナーシップが変化する。エコシステムと開発者への影響が注目される。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "主要ビルドツールの買収はWeb開発エコシステムとクラウド事業者の影響力に関わるため開発者向けに重要。",
-    "published_at": "2026-06-08 00:26:45",
-    "created_at": "2026-06-09 03:10:54"
-  },
-  {
-    "source": "Publickey",
-    "title": "マイクロソフト独自のLinuxディストリビューション「Azure Linux 4.0」パブリックプレビュー開始。Azureに最適化、WSLでも利用可能に",
-    "url": "https://www.publickey1.jp/blog/26/linuxazure_linux_40azurewsl.html",
-    "summary": "MicrosoftがAzure向けに最適化した独自Linuxディストリ「Azure Linux 4.0」をパブリックプレビューで公開。Azure環境やWSLとの連携強化が狙いで、クラウド基盤の標準化に影響する可能性がある。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "クラウド事業者によるOS最適化は運用・互換性・コストの選択に影響し、クラウド戦略で押さえるべき事項。",
-    "published_at": "2026-06-08 00:21:33",
-    "created_at": "2026-06-09 03:10:54"
   },
   {
     "source": "ITmedia NEWS",
