@@ -2114,34 +2114,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "005357c14624",
-    "title": "Apple、macOS上にLinuxコンテナを統合する新機能「Container machine」バージョン1.0リリース",
-    "published_date": "2026-06-09",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "AppleがWWDCでmacOSに統合されたLinuxコンテナ起動機能「Container machine」1.0を発表。開発者向けのローカル環境改善を目指す。",
-    "reason": "開発者のローカルワークフローとクロスプラットフォーム開発に直接影響する実装で実務的に有用。",
-    "published_at": "2026-06-09 00:29:34",
-    "created_at": "2026-06-12 03:29:56",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "df65b2a7a6f3",
     "title": "Apple、「Private Cloud Compute」（PCC）でGoogle Cloud上のNVIDIA GPUを活用",
     "published_date": "2026-06-09",
@@ -2199,90 +2171,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "2583bc0c89c3",
-    "title": "JR東、「QR乗車券」のイメージ公開 27年春から磁気を一部廃止に",
-    "published_date": "2026-06-09",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "JR東日本は近距離乗車券を2027年春から磁気券からQR乗車券へ移行。あわせて「みどりの窓口」に生成AIを活用する実証実験を開始する。",
-    "reason": "公共交通の乗車券デジタル化と窓口AI導入は社会インフラ運用に関わる実務的影響が大きい。",
-    "published_at": "2026-06-09 17:52:00",
-    "created_at": "2026-06-10 02:33:14",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/09/news123.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "60188cde1e4b",
-    "title": "Microsoftのシステムが外部パッケージを実行？ 依存関係混乱を巡る攻防",
-    "published_date": "2026-06-09",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "Microsoftの一部システムで第三者の公開npmパッケージが実行された事例を巡り、研究者とMicrosoftで評価が分裂。サプライチェーンリスクの判断基準が議論になっている。",
-    "reason": "ソフトウェアサプライチェーンの安全性に直結する問題で、開発運用・リスク管理に有益な情報。",
-    "published_at": "2026-06-09 07:00:00",
-    "created_at": "2026-06-10 02:33:14",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/09/news030.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "9f7caadeceb5",
-    "title": "OpenAIがIPO申請を発表 時期は未定",
-    "published_date": "2026-06-09",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "OpenAIは米国での新規株式公開（IPO）に向け、申請を行っていたことを発表。上場時期は未定。",
-    "reason": "産業構造と資金調達、競争環境に影響する重要な企業イベントだが即時の技術リスクではないため中位評価。",
-    "published_at": "2026-06-09 10:25:00",
-    "created_at": "2026-06-10 02:33:14",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/09/news074.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "db9fef691497",
     "title": "九電子会社が紛失した記憶媒体、暗号化やパスワード保護なしと判明 施錠も徹底されず",
     "published_date": "2026-06-09",
@@ -2309,65 +2197,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "bf4f5e1ba618",
-    "title": "企業の口座を狙うボイスフィッシングが巧妙化 日本サイバー犯罪対策センターが注意喚起",
-    "published_date": "2026-06-09",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "法人口座を狙うボイスフィッシング（電話詐欺）による不正送金被害が巧妙化。日本サイバー犯罪対策センターが企業に向けて注意喚起を出した。",
-    "reason": "企業の資金管理に直接関わる詐欺の高度化で、情シスや経理部門にとって実務的な対応が必要。",
-    "published_at": "2026-06-09 19:45:00",
-    "created_at": "2026-06-10 02:33:14",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/09/news130.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "eb504e8ca888",
-    "title": "日立とGoogle Cloud、フィジカルAIとセキュリティで協業拡大",
-    "published_date": "2026-06-09",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "日立とGoogle CloudがフィジカルAIの社会実装やサイバーセキュリティ分野で戦略的アライアンスを拡大すると発表した。協業でFDEの強化などを行う。",
-    "reason": "大手企業間のクラウド・AI協業は産業ソリューションやセキュリティ提供に影響するため業界関係者に有用。",
-    "published_at": "2026-06-09 14:39:35",
-    "created_at": "2026-06-10 02:33:14",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2115599.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
   },
   {
     "id": "fb393bc24d49",
@@ -9610,5 +9439,393 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": true
+  },
+  {
+    "id": "40e54bf3ec3b",
+    "title": "Apple、Broadcomとの新契約は「300億ドル超」──米国製チップ150億個以上を生産へ",
+    "published_date": "2026-07-09",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "AppleがBroadcomと複数年の大規模契約を締結。契約額は300億ドル超、米国内で150億個超のチップ生産につながる見込み。 米国内製造プログラム「AMP」での最大案件と位置付けられる。",
+    "reason": "大手IT企業と半導体サプライチェーンに直結する巨額契約で、製造・調達と米国内生産政策に影響するため",
+    "published_at": "2026-07-09 07:31:00",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/09/news068.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "bedb3011a033",
+    "title": "OpenAI、リアルタイム音声モデル「GPT-Live」公開 相づちも割り込みも、より人間らしい会話に",
+    "published_date": "2026-07-09",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIが全二重方式のリアルタイム音声モデル「GPT-Live」を発表。聞きながら話す自然な対話が可能になり、複雑な処理はバックグラウンドで上位モデルに委譲。 有料・無料プランへ順次展開予定。",
+    "reason": "音声対話UXとリアルタイムAIアプリの開発に直結する新モデルで、製品・サービスに実装される影響が大きいため",
+    "published_at": "2026-07-09 06:53:09",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000174/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "959089ddde28",
+    "title": "PHP利用者は見逃し厳禁 TLS通信でサービス停止を招くHigh脆弱性を修正",
+    "published_date": "2026-07-09",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "PHPでTLS接続時のエラー処理に関わる高危険度脆弱性が見つかり、修正版がリリースされた。 特定環境ではHTTPS通信の失敗がサービス停止につながる恐れがあるとして迅速な適用を呼びかけ。",
+    "reason": "ウェブ基盤で広く使われるPHPのHigh脆弱性はサービス停止リスクがあるため、情シス／開発者に緊急性が高い",
+    "published_at": "2026-07-09 07:30:00",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/09/news043.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "400c6124fe63",
+    "title": "PostgreSQL 19ベータ版が登場。I/Oワーカーの自動スケール、Autovacuumの改善など新機能",
+    "published_date": "2026-07-09",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "PostgreSQL 19のベータ版が公開。I/Oワーカーの自動スケールやAutovacuum改善などスケーラビリティと運用性の向上が中心の新機能を紹介。",
+    "reason": "主要DBのメジャーアップデートはシステム設計や運用に影響するため、開発者/DBAが注目すべき",
+    "published_at": "2026-07-09 00:31:27",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/postgresql_19ioautovacuum.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "683533c4b3a3",
+    "title": "PostgreSQLをクラスタ化した分散DBでスケーリングと高可用性を実現する「Multigres v0.1」アルファ版が登場",
+    "published_date": "2026-07-09",
+    "importance_score": 2,
+    "category": "クラウド",
+    "summary": "Supabaseが複数のPostgreSQLをクラスタ化して水平スケールと高可用性を目指す分散DB「Multigres v0.1」アルファを公開。 PostgreSQL互換でBaaSへの応用を想定。",
+    "reason": "Postgresベースの分散化はクラウドDB設計の選択肢を広げるが、現時点はアルファのため慎重評価が必要",
+    "published_at": "2026-07-09 00:33:17",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/postgresqldbmultigres_v01.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "aeac10e38455",
+    "title": "SpaceXAI、最上位モデル「Grok 4.5」公開 高速・低コストでコーディングに強み",
+    "published_date": "2026-07-09",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "SpaceXの子会社SpaceXAIがコーディングやエージェント用途に最適化した新LLM「Grok 4.5」を公開。 高速かつ低コストを掲げ、開発支援やエージェント分野での競争力を強化。",
+    "reason": "コーディング用途に特化した新モデルは開発ツール／エージェント市場に影響を与えるため",
+    "published_at": "2026-07-09 12:10:21",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2123750.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "af01b4aa15de",
+    "title": "「ドコモの銀行」誕生へ 住信SBIネット銀行の社名変更で 法人向けは「NEOBANK」維持",
+    "published_date": "2026-07-09",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "住信SBIネット銀行が個人向けサービスを「ドコモの銀行」として8月3日から展開。商号変更やアプリ名・アイコンの切替を予定し、法人向けは従来ブランドを維持する方針。",
+    "reason": "大手通信事業者が金融ブランドを前面に出す再編は決済・チャネル戦略に影響するため",
+    "published_at": "2026-07-09 17:58:00",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/09/news132.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d45458ea63c2",
+    "title": "「快活CLUB」へのサイバー攻撃、18歳男を新たに逮捕 ChatGPT製プログラムを使用 グループには当時小6も 報道",
+    "published_date": "2026-07-09",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "複合カフェ「快活CLUB」への攻撃事件で、警視庁が18歳の男を逮捕。攻撃にChatGPTで作成したプログラムが利用されたと報道され、参加者に未成年も含まれるという。",
+    "reason": "AIを悪用した事例と若年化する攻撃者層の実態は企業の脅威モデルに影響するため",
+    "published_at": "2026-07-09 13:44:00",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/09/news103.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d546d29592b4",
+    "title": "サイバー攻撃被害のアサヒ、販促と新商品で反転攻勢へ 26年12月期は創業来初の売上収益3兆円突破狙う",
+    "published_date": "2026-07-09",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "アサヒグループHDは2025年決算で純利益が大幅減。昨年のサイバー攻撃が約400億円の減益要因となったと公表し、26年は販促・新商品で反転を図る計画を示した。",
+    "reason": "大手消費財企業の業績に直結するサイバー攻撃の実被害額は、経営判断とセキュリティ投資の重要性を示すため",
+    "published_at": "2026-07-09 16:43:00",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/09/news120.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e00752f26f06",
+    "title": "三菱自動車、国産ヒューマノイド量産へ 東大発スタートアップと合意 27年後半に月産1000台目指す",
+    "published_date": "2026-07-09",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "三菱自動車と東大発スタートアップHighlandersがヒューマノイド共同開発・量産で基本合意。 京都工場での量産を検討し、2027年後半に月産1000台を目標とする計画を公表。",
+    "reason": "大手メーカーによる人型ロボの量産計画は産業構造・労働・ロボット市場に大きく影響するため",
+    "published_at": "2026-07-09 16:55:00",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "9c691a147b7f",
+    "title": "清水建設、「日本一高いビル」施工現場にフィジカルAI 2足歩行ロボが巡回 LLMで解析も",
+    "published_date": "2026-07-09",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "清水建設が建設現場でヒューマノイド型ロボの巡回やロボットアームの塗装を含むフィジカルAIの実証を開始。 現場データ解析にLLMを活用する取り組みも行っている。",
+    "reason": "建設現場での実用的AIロボ運用は業務自動化と安全管理に直結するため、実務者に有用",
+    "published_at": "2026-07-09 17:50:00",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35250404/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2b6cf89a171c",
+    "title": "社内のWindows環境で「数百のAIエージェント」を隔離実行 NVIDIAとMicrosoftが共同開発したデスクサイドマシンの全容",
+    "published_date": "2026-07-09",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "NVIDIAがWindows向けのデスクサイドAIスーパーコンピュータ「NVIDIA DGX Station for Windows」を発表。 強力なオンプレ機で多数のAIエージェントを隔離実行できるとする製品概要を解説。",
+    "reason": "ローカルで大規模モデルや多数エージェントを動かせるハードは開発・情シスの運用設計に影響するため",
+    "published_at": "2026-07-09 13:00:00",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "atmarkit.itmedia.co.jp",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/09/news037.html",
+    "sources": [
+      "atmarkit.itmedia.co.jp"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "44836617e344",
+    "title": "自動運転タクシーのWaymo、ラスベガスなど4都市に進出",
+    "published_date": "2026-07-09",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "Waymoが乗車サービス提供地域をデンバー、サンディエゴ、ラスベガス、タンパの4都市へ拡大。 自動運転商用展開の地理的拡大を継続している。",
+    "reason": "自動運転サービスの地域拡大は市場実装の進展を示し、都市交通や事業戦略に影響するため",
+    "published_at": "2026-07-09 15:12:00",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35250388/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "7e2aee6ea988",
+    "title": "誕生から7年「OpenTelemetry」が異例のスピードでCNCFの“卒業”に なぜ支持されるのか",
+    "published_date": "2026-07-09",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "可観測性フレームワークOpenTelemetryがCNCFで「Graduated」認定を受けた。 急速な普及の背景と、クラウドネイティブ運用への影響を解説する。",
+    "reason": "オブザーバビリティの業界標準化はクラウド運用・SREの設計に直結するため重要度が高い",
+    "published_at": "2026-07-09 07:00:00",
+    "created_at": "2026-07-10 02:29:17",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/09/news042.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
   }
 ]
