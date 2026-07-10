@@ -2256,60 +2256,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "1630f6ee99cb",
-    "title": "ChatGPTで広告表示へ 無料・Goプランが対象 6月22日にポリシー更新",
-    "published_date": "2026-06-10",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "OpenAIがChatGPTのプライバシーポリシーを改定し、無料プランとGoプランで広告表示を行う規定を追加する。ユーザー体験とデータ利用方針に変更が生じる可能性がある。実施日は6月22日予定。",
-    "reason": "主要生成AIサービスの収益化・データ利用方針変更で利用者企業の運用や契約にも影響するため掲載価値あり。",
-    "published_at": "2026-06-10 20:50:00",
-    "created_at": "2026-06-11 03:13:15",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/10/news128.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "140a1dbfe706",
-    "title": "Google、同時通訳に近い音声モデル「Gemini 3.5 Live Translate」発表 「Google翻訳」アプリなどで利用可能に",
-    "published_date": "2026-06-10",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Googleが遅延極小の継続翻訳を可能にする音声モデル「Gemini 3.5 Live Translate」を発表。70以上の言語を自動検出し、話者のイントネーションやペースを保って翻訳音声を生成する。翻訳・会議サービスに順次導入予定。",
-    "reason": "リアルタイム翻訳の精度・遅延改善はコミュニケーション系サービスや会議システムに実務的影響があるため中重要。",
-    "published_at": "2026-06-10 08:57:00",
-    "created_at": "2026-06-11 03:13:15",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/10/news060.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "0e109a85c1ca",
     "title": "Instagram乗っ取り、被害は2万件超 手口は「AIサポート悪用」",
     "published_date": "2026-06-10",
@@ -2330,144 +2276,6 @@
       "ai",
       "enterprise_it",
       "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "64cda1747885",
-    "title": "Meta、他社サイトでの行動履歴をフィードやAI応答のパーソナライズにも利用へ",
-    "published_date": "2026-06-10",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "Metaが外部企業から提供された行動データの用途を拡大。従来は広告向けだったデータをフィードやMeta AIの応答パーソナライズにも利用する方針を発表した。プライバシーと規制の論点が再燃する可能性がある。",
-    "reason": "外部行動データの利用拡大はプライバシー規制や企業のデータ連携方針に直結するため、政策・運用の観点で重要。",
-    "published_at": "2026-06-10 10:27:00",
-    "created_at": "2026-06-11 03:13:15",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/10/news069.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "0f0e22b7d83d",
-    "title": "NTTの「IOWN AIファンド」にKDDIも出資へ 理由は？",
-    "published_date": "2026-06-10",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "NTTが組成する約800億円規模の「IOWN AI Fund」にKDDIが出資を表明。シリコンバレーと東京に拠点を置く運営会社を新設し、AI先端技術を持つスタートアップ投資を進める計画。",
-    "reason": "主要通信・IT企業による大型AI投資ファンドは産業エコシステムと研究・事業創出に影響するため業界注目事項。",
-    "published_at": "2026-06-10 18:11:00",
-    "created_at": "2026-06-11 03:13:15",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35248741/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "31e387522fa8",
-    "title": "Windows 11の2026年6月パッチ「KB5094126」、200件超の脆弱性修正とアプリのカメラが共有機能などが追加",
-    "published_date": "2026-06-10",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "MicrosoftがWindows 11向け更新KB5094126を公開。200件超の脆弱性修正やセキュアブート証明書の有効期限対策、カメラ共有などの機能追加を含む。企業は適用計画の見直しが必要。",
-    "reason": "大量の脆弱性修正を含む定例パッチは企業のパッチ管理と運用に直接影響するため運用者向けに重要。",
-    "published_at": "2026-06-10 05:00:00",
-    "created_at": "2026-06-11 03:13:15",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/10/news071.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "c9b3870cf8bd",
-    "title": "いざNTLM脱却へ Microsoftが新たなKerberos拡張機能をプレビュー公開",
-    "published_date": "2026-06-10",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "MicrosoftがNTLM依存を減らすためのKerberos拡張機能をプレビュー公開。長年の認証上の“逃げ道”を埋める新機能で、企業は導入計画と互換性確認が必要となる。",
-    "reason": "認証基盤の改善は企業のセキュリティ姿勢と運用コストに影響するため、導入検討価値が高い。",
-    "published_at": "2026-06-10 07:00:00",
-    "created_at": "2026-06-11 03:13:15",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/10/news037.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "8d35f175fac1",
-    "title": "アップル、EUで「Siri AI」提供見送り 欧州委は「アップルの判断」と反論",
-    "published_date": "2026-06-10",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "AppleはiOS 27リリース時にEU向けのSiri AI提供を見送ると発表。AppleはDMA対応を理由に挙げる一方、欧州委は「アップルの判断」として応じている。製品展開と規制対応のせめぎ合いが浮き彫りに。",
-    "reason": "主要プラットフォーマーの機能提供差し止めが規制・市場アクセスの実務に影響するため注目度高い。",
-    "published_at": "2026-06-10 17:41:40",
-    "created_at": "2026-06-11 03:13:15",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2116084.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
     ],
     "ai_relevance_score": 1,
     "practical_impact_score": 0,
@@ -2501,62 +2309,6 @@
     "practical_impact_score": 1,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "3f9c69046cda",
-    "title": "光で情報を書き換える新しい磁気メモリ材料 「従来に比べ1000倍高速」 QST、兵庫県立大などが共同開発",
-    "published_date": "2026-06-10",
-    "importance_score": 3,
-    "category": "半導体",
-    "summary": "QSTと大学らが電流の代わりに光で磁気メモリを切り替える新材料を開発。従来比約1000倍の高速性と省エネルギー性を示し、次世代メモリ実装の可能性を示す研究成果。",
-    "reason": "メモリ技術の根本的な高速化につながる研究成果で、将来の半導体設計・市場に波及する可能性が高い。",
-    "published_at": "2026-06-10 12:30:00",
-    "created_at": "2026-06-11 03:13:15",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/10/news084.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "eddc70ead921",
-    "title": "脆弱性発見から悪用まで数分 シスコが語る「ポストMythos時代」の生存戦略",
-    "published_date": "2026-06-10",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "AIが脆弱性検出と攻撃の自動化を加速する中で、CiscoがAIエージェントを使った自律的な原因分析と修復の運用像を提示。従来の人中心運用の限界と新たなSRE/セキュリティ運用を解説する。",
-    "reason": "AI時代の脅威と運用変革を示す業界方針で、SI/運用設計に示唆を与えるため掲載価値あり。",
-    "published_at": "2026-06-10 07:00:00",
-    "created_at": "2026-06-11 03:13:15",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/10/news020.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 4,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 2,
     "utility_score": 1,
     "has_itmedia_article": false
   },
@@ -7905,36 +7657,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "d5293b7e089b",
-    "title": "AWS、開発者向け生成AI「Amazon Q Developer」のサポート終了を告知 各種IDEでの利用は非推奨に",
-    "published_date": "2026-07-03",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "AWSが「Amazon Q Developer」のIDEプラグインと有償サブスクのサポート終了を発表。機能は新たな開発プラットフォーム「Kiro」へ移行予定で移行期間が設けられる。",
-    "reason": "開発ツールのサポート終了は開発者の導入・移行判断に関わるため実務的価値があるが影響範囲は限定的。",
-    "published_at": "2026-07-03 13:00:00",
-    "created_at": "2026-07-04 01:50:09",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news056.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "6faf8e26ee72",
     "title": "Amazonの衛星ブロードバンド「Leo」、打ち上げ300基突破で世界3位の規模に",
     "published_date": "2026-07-03",
@@ -9826,6 +9548,340 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d27fcbf95ed0",
+    "title": "2026年上半期の脅威総まとめ 90万件分析で見えた「危険なAIスキル」の正体",
+    "published_date": "2026-07-10",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "ESETが約90万件のAIスキルを分析し、数千件の悪意あるスキルやQRコード型フィッシングなどの巧妙化を報告。AIエージェントが新たな攻撃対象になっている。",
+    "reason": "AIエージェントを狙う脅威動向はセキュリティ対策とリスク評価に直結する実務上の示唆があるため掲載に値する。",
+    "published_at": "2026-07-10 07:00:00",
+    "created_at": "2026-07-11 02:14:54",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/10/news062.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "55010bd5943a",
+    "title": "2日連続の「モバイルSuica」障害、JR東が原因を公表 別途負担の運賃は払い戻しへ",
+    "published_date": "2026-07-10",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "JR東日本が6月30日〜7月1日のモバイルSuica連続障害について原因と対策を公表。影響で追加負担した運賃の払い戻し手続きを案内する。",
+    "reason": "決済インフラ障害で利用者と事業者に実被害が出ており、運用体制や補償対応が重要な実務ニュースであるため。",
+    "published_at": "2026-07-10 20:05:00",
+    "created_at": "2026-07-11 02:14:54",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/10/news149.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "8accf7cd4425",
+    "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
+    "published_date": "2026-07-10",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "Bunの開発チームがClaude Fable 5を活用し、11日間で大規模コードベースをZigからRustへ移植した経緯と手法を公開した事例報告。",
+    "reason": "大規模ソフトウェアの移植にAIを実戦投入した具体事例は開発現場の意思決定や投資判断に参考になるため有用。",
+    "published_at": "2026-07-10 00:47:05",
+    "created_at": "2026-07-11 02:14:54",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 3,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0a296ebe0ec6",
+    "title": "Linuxカーネルに15年潜伏した脆弱性が見つかる 攻撃成功率は97％",
+    "published_date": "2026-07-10",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Linuxカーネルに2011年以降潜伏していた脆弱性が発見。一般ユーザー権限から権限昇格やコンテナ脱出につながる可能性があり、詳細な解析が報告されている。",
+    "reason": "長期間潜伏かつ高い成功率が報告されており、OS／クラウド運用者に対する影響が大きいため優先掲載。",
+    "published_at": "2026-07-10 07:30:00",
+    "created_at": "2026-07-11 02:14:54",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/10/news063.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "c794a598889d",
+    "title": "M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」",
+    "published_date": "2026-07-10",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "MicrosoftがMicrosoft 365 CopilotへOpenAIの最新モデルGPT-5.6を追加。Word、Excel、PowerPointなどの生産性機能で順次活用される予定。",
+    "reason": "主要な業務ソフトへの最新モデル統合は企業の生産性戦略とセキュリティ／ガバナンス方針に影響するため重要。",
+    "published_at": "2026-07-10 16:16:10",
+    "created_at": "2026-07-11 02:14:54",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "249c96798bc5",
+    "title": "Meta、マルチモーダル推論モデル「Muse Spark 1.1」公開 低価格の「Meta Model API」も提供へ",
+    "published_date": "2026-07-10",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Metaがエージェント能力を強化したマルチモーダル推論モデルMuse Spark 1.1を公開。開発者向けに低価格のMeta Model APIでプレビュー提供を開始。",
+    "reason": "主要企業のモデルアップデートと新APIは開発者とサービス設計に影響するが、即時の危機度は限定的なため3に設定。",
+    "published_at": "2026-07-10 07:20:30",
+    "created_at": "2026-07-11 02:14:54",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000180/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "af31491ff098",
+    "title": "OpenAI「GPT-5.6」一般公開 最上位モデルは「コスト半分で一部Fable 5超え」うたう",
+    "published_date": "2026-07-10",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "OpenAIが最新モデル群「GPT-5.6」を一般公開。最上位モデルは競合性能を上回ると主張し、各種APIとChatGPTに順次組み込まれる。",
+    "reason": "主要フロンティアモデルの公開は業界やサービスコスト、AI導入戦略に直接影響するため掲載価値が高い。",
+    "published_at": "2026-07-10 12:09:08",
+    "created_at": "2026-07-11 02:14:54",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000183/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "883f51a2f29d",
+    "title": "デジタル庁、tsuzumiなど国産AIを「さくらのクラウド」で稼働 「日本の自律性確保」目指す",
+    "published_date": "2026-07-10",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "デジタル庁が政府向けAI基盤で国産モデルを国産クラウド上で稼働させる実証を開始。自治体・政府ITの自律性確保を目的とする取り組み。",
+    "reason": "政府のAI基盤運用方針と国内クラウド活用は、データ主権・ガバナンスの観点で注目に値するため掲載。",
+    "published_at": "2026-07-10 11:30:01",
+    "created_at": "2026-07-11 02:14:54",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000182/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1e0a753561e7",
+    "title": "デスクトップ版ChatGPT大幅刷新 AIエージェント「Codex」統合、「ChatGPT Work」に",
+    "published_date": "2026-07-10",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "OpenAIがChatGPTとコード生成エージェントCodexを統合した「ChatGPT Work」を発表。デスクトップ含む複数プラットフォームで提供し、業務向けエージェント機能を強化。",
+    "reason": "企業の業務プロセス／開発ワークフローに直結する製品統合で、導入検討や影響分析が必要なため重要。",
+    "published_at": "2026-07-10 04:36:50",
+    "created_at": "2026-07-11 02:14:54",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000178/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 5,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "097100406e72",
+    "title": "ドコモ スターリンクダイレクト、2カ月で接続者数500万人突破",
+    "published_date": "2026-07-10",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "NTTドコモが提供する衛星と携帯の直接通信サービス『docomo Starlink Direct』の接続者数が提供開始から約2カ月で500万人を突破した。",
+    "reason": "衛星通信と携帯の直接接続サービスの急速な普及は通信事業戦略とネットワーク設計に影響を与えるため注目に値する。",
+    "published_at": "2026-07-10 18:15:55",
+    "created_at": "2026-07-11 02:14:54",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2124330.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2306e3416f4c",
+    "title": "経産省、「全東信破産」受け中小支援 特別相談窓口を設置、日本公庫の貸付要件も緩和",
+    "published_date": "2026-07-10",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "決済代行事業者『全東信』の破産を受け、経済産業省が中小企業向け相談窓口を設置し、公庫の貸付要件緩和を発表。資金繰り支援を優先する措置。",
+    "reason": "決済事業者の破綻は中小企業の資金流動性に直結するため、経済政策・業界対応として重要度が高い。",
+    "published_at": "2026-07-10 13:15:00",
+    "created_at": "2026-07-11 02:14:54",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/10/news107.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "56a0516e160f",
+    "title": "自動運転車の「ハンドルなし」解禁へ？米NHTSA長官が規制見直しを示唆",
+    "published_date": "2026-07-10",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "米NHTSA長官が自動運転車両の規制見直しを示唆し、将来的にハンドルやブレーキペダル不要の車両が認可される可能性に言及した。",
+    "reason": "車両安全規制の方向性は自動車業界や法整備、都市計画に大きな影響を与えるため注目度が高い。",
+    "published_at": "2026-07-10 17:19:00",
+    "created_at": "2026-07-11 02:14:54",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35250445/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
     "has_itmedia_article": false
   }
 ]
