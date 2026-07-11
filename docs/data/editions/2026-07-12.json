@@ -1,0 +1,31 @@
+{
+  "edition_date": "2026-07-12",
+  "surfaces": {
+    "top_yesterday": [
+      "82f3be7b5e26"
+    ],
+    "recent_important": [
+      "0a296ebe0ec6",
+      "959089ddde28",
+      "55010bd5943a",
+      "82f3be7b5e26",
+      "c794a598889d",
+      "af31491ff098",
+      "1e0a753561e7",
+      "2306e3416f4c",
+      "56a0516e160f",
+      "40e54bf3ec3b",
+      "e00752f26f06"
+    ],
+    "yesterday_ai": [
+      "82f3be7b5e26",
+      "b9bbc84ce103"
+    ],
+    "yesterday_enterprise_it": [
+      "82f3be7b5e26"
+    ],
+    "yesterday_development": [
+      "82f3be7b5e26"
+    ]
+  }
+}

@@ -2340,88 +2340,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "9257d7f653f6",
-    "title": "Anthropic、「Fable 5」のガードレールの仕組みを説明 課金の仕組みや設定変更方法など",
-    "published_date": "2026-06-11",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Anthropicが新AIモデル「Claude Fable 5」の過剰遮断や下位モデル切替の仕様、設定変更手順などを解説する公式説明を公開した。",
-    "reason": "最先端モデルの安全ガード実装と運用方針は研究者・開発者の利用判断に有用な情報となるため。",
-    "published_at": "2026-06-11 15:09:00",
-    "created_at": "2026-06-12 03:29:56",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/11/news104.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "480e280cfed8",
-    "title": "Gartner、2026年の世界IT支出予測を「13.5％増」に上方修正 AI投資で広がる「分野間の成長差」",
-    "published_date": "2026-06-11",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "Gartnerが2026年の世界IT支出予測を上方修正。AIインフラとソフトウェアへの投資が牽引し、分野間で成長差が拡大する見通しを示した。",
-    "reason": "市場予測の上方修正は企業の投資判断やベンダー戦略に直結するため経営層・購買担当に有用。",
-    "published_at": "2026-06-11 11:20:00",
-    "created_at": "2026-06-12 03:29:56",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/11/news055.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "4ae21a8d63e1",
-    "title": "Google、拡散型テキスト生成モデル「DiffusionGemma」公開 ローカルGPUで毎秒1000トークン超",
-    "published_date": "2026-06-11",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Googleが拡散（diffusion）を応用したテキスト生成モデル「DiffusionGemma」を発表。自己回帰型のボトルネックを解消し、ローカルGPUで高速生成が可能という。",
-    "reason": "生成モデルの新手法は開発者ツールやローカル運用の選択肢に影響するため技術トレンドとして掲載価値あり。",
-    "published_at": "2026-06-11 12:00:09",
-    "created_at": "2026-06-12 03:29:56",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000079/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "c30e1a690c8f",
     "title": "Google、検索サービスのプライバシー設定を刷新 レンズ画像や音声もデフォルトで保存対象に",
     "published_date": "2026-06-11",
@@ -2442,33 +2360,6 @@
       "enterprise_it"
     ],
     "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "1295744a1577",
-    "title": "JASRAC、「AI作曲・人間作詞」の曲は管理します――「人間の創作的寄与の有無」で線引き",
-    "published_date": "2026-06-11",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "JASRACは、歌詞か楽曲いずれかに人間の創作的寄与があれば管理対象とする方針を発表。完全AI生成の楽曲は管理対象外とする線引きを示した。",
-    "reason": "著作権管理団体の方針は創作物の権利処理や事業モデルに直接影響するためクリエイター・企業双方で重要。",
-    "published_at": "2026-06-11 15:49:00",
-    "created_at": "2026-06-12 03:29:56",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/11/news110.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
@@ -2532,122 +2423,6 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": true
-  },
-  {
-    "id": "1d443d35c430",
-    "title": "NTT3社が衛星インターネット「Amazon Leo」再販 ドコモ網でも活用",
-    "published_date": "2026-06-11",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "NTTグループ3社がAmazonの衛星インターネットサービス「Amazon Leo」の再販事業者契約を締結。法人・官公庁向けに提供を計画している。",
-    "reason": "大手通信事業者による衛星サービス採用は接続選択肢と企業向けサービス設計に影響するため業界的意義がある。",
-    "published_at": "2026-06-11 18:17:15",
-    "created_at": "2026-06-12 03:29:56",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2116474.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "b089c54d9d8a",
-    "title": "SpaceX、宇宙データセンター「AI1」概要公開--懸念の冷却「実はカンタン」とマスク氏",
-    "published_date": "2026-06-11",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "SpaceXが軌道上のAIデータセンター衛星「AI1」の設計概要を公開。宇宙での放熱や運用に関する技術的説明を示した。",
-    "reason": "軌道上コンピューティングはクラウド/インフラの長期戦略に関わる話題で、事業・技術面で注目度が高い。",
-    "published_at": "2026-06-11 11:20:00",
-    "created_at": "2026-06-12 03:29:56",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35248768/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "2ecb3f2cf762",
-    "title": "クラウドを使わず「生成AIを行政に」――宮崎県、ローカルLLM×RAGをどう実現？",
-    "published_date": "2026-06-11",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "宮崎県がオンプレミスの生成AI基盤を導入し、業務にローカルLLMとRAGを活用する取り組みを進めている。機密データ取り扱いの工夫が焦点。",
-    "reason": "自治体でのオンプレ運用事例は公共セクターのAI採用・ガバナンス設計の参考となるため実務的価値が高い。",
-    "published_at": "2026-06-11 13:00:00",
-    "created_at": "2026-06-12 03:29:56",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/11/news059.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "5da75da48e1a",
-    "title": "シャープ、AIサーバー事業に参入へ--鴻海の調達製造力を活用 26年度中にも販売",
-    "published_date": "2026-06-11",
-    "importance_score": 3,
-    "category": "半導体",
-    "summary": "シャープが鴻海の調達・製造力を活用してAIサーバー事業に参入する方針を表明。国内販売を2026年度中に開始する見込み。",
-    "reason": "国内ハードウェアサプライチェーンの動きはAIインフラ調達や市場競争に影響するため注目に値する。",
-    "published_at": "2026-06-11 13:05:00",
-    "created_at": "2026-06-12 03:29:56",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35248773/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
   },
   {
     "id": "f85cef018b0a",
@@ -7994,112 +7769,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "7bc4abeaa190",
-    "title": "GoPro復活ののろしか “シネマ”を打ち出した「MISSION 1 PRO」レビュー",
-    "published_date": "2026-07-04",
-    "importance_score": 1,
-    "category": "ガジェット",
-    "summary": "GoProの新シリーズ『MISSION 1 PRO』をレビュー。シネマ指向への製品戦略と復活の可能性を検証する内容。",
-    "reason": "注目の製品レビューだが主に消費者向けで業界全体への影響は限定的。",
-    "published_at": "2026-07-04 07:14:00",
-    "created_at": "2026-07-05 01:29:58",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/04/news019.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "dce3fbc867fc",
-    "title": "「炎上プロジェクトの共通点」「AI生成コードのレビュー負担」、エンジニアを悩ませる現場のリアル",
-    "published_date": "2026-07-04",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "現場エンジニアが直面する課題をランキング形式で紹介。炎上プロジェクトの共通点やAI生成コードのレビュー負担など、実務に直結する話題を整理。",
-    "reason": "開発現場やマネジメントの改善に直接役立つ実例・知見が含まれているため編集価値がある。",
-    "published_at": "2026-07-04 08:00:00",
-    "created_at": "2026-07-05 01:29:58",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/04/news012.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "549a078f9b39",
-    "title": "カシオ プロトレック、“ぶら下げ”可能な小型モデル",
-    "published_date": "2026-07-04",
-    "importance_score": 1,
-    "category": "ガジェット",
-    "summary": "カシオがPRO TREKの小型『PRJ-01』3機種を発表。ソーラー発電クオーツで7月発売、価格は25,300円～31,350円。",
-    "reason": "消費者向け新製品情報として掲載価値はあるが技術トレンドや業界影響は小さい。",
-    "published_at": "2026-07-04 10:00:00",
-    "created_at": "2026-07-05 01:29:58",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2121866.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "22b4744ba775",
-    "title": "フィジカルAIに挑む日の丸連合、「Noetra」とは何か",
-    "published_date": "2026-07-04",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "日本発のフィジカルAI連合「Noetra」の狙いや構成、技術的なチャレンジと産業応用の可能性を解説する記事。",
-    "reason": "国内の物理AI/ロボティクス戦略として注目だが、現時点では実証・普及段階のため影響は段階的。",
-    "published_at": "2026-07-04 07:00:00",
-    "created_at": "2026-07-05 01:29:58",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "fada2161d68a",
     "title": "米トランプ大統領、AI規制は「できるだけ介入少なく」 中国に対して開発競争「大幅リード」を強調",
     "published_date": "2026-07-04",
@@ -9883,5 +9552,88 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
+  },
+  {
+    "id": "82f3be7b5e26",
+    "title": "Apple、OpenAIと元従業員2人を提訴 「iPhoneの機密を盗んだ」と主張",
+    "published_date": "2026-07-11",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "Appleは元従業員2名とOpenAIおよび関連企業を営業秘密の不正取得で提訴。iPhoneなどハードウェア開発情報の流出を主張し、面接での情報聞き出しや組織的引き抜きを指摘している。",
+    "reason": "AppleとOpenAIの訴訟はハードウェア参入競争、採用・機密管理、企業間関係に直接影響する重要な企業IT/ビジネス案件のため。",
+    "published_at": "2026-07-11 08:12:00",
+    "created_at": "2026-07-12 01:14:34",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/11/news038.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b9bbc84ce103",
+    "title": "Meta、インスタの投稿写真をAI合成できる機能を停止",
+    "published_date": "2026-07-11",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "MetaはInstagramの投稿に関連した画像を生成する新機能を提供開始直後に停止。ユーザーの明確な同意を取らずに機能を有効化したことへの批判が理由とされる。",
+    "reason": "生成AIの同意・プライバシー課題が顕在化した事例で、プラットフォーム運用や規制対応の参考になるため。",
+    "published_at": "2026-07-11 20:09:14",
+    "created_at": "2026-07-12 01:14:34",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2124457.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "c3dd17c0fb01",
+    "title": "“防爆シェルター”を3Dプリントする技術 日本のスタートアップが開発 海外イベントの防衛装備庁ブースで展示へ",
+    "published_date": "2026-07-11",
+    "importance_score": 1,
+    "category": "その他",
+    "summary": "3Dプリント住宅のセレンディクスが、防爆シェルターやドローン基地を3Dプリントで製造する技術を開発。英国の防衛産業展示会で防衛装備庁ブースに実物を展示予定。",
+    "reason": "建築向け3Dプリントの防衛応用は技術面で興味深いが、読者全体への影響は限定的なため低評価。",
+    "published_at": "2026-07-11 11:00:00",
+    "created_at": "2026-07-12 01:14:34",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/10/news127.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
   }
 ]
