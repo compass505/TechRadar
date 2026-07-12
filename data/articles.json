@@ -1,5 +1,16 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "なんでPSのディスク版ゲームがなくなるの？ 不満たらたらのゲーム好きマンガ家を黙らせた担当の一言とは",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/12/news013.html",
+    "summary": "ソニーが2028年1月にPlayStation用ゲームの物理ディスク生産を終了すると発表。デジタル移行に伴う流通・小売・コレクターへの影響が懸念される。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "主要プラットフォーマーの流通戦略の転換は業界・市場に影響。小売や保存、ライセンス運用の判断材料として重要。",
+    "published_at": "2026-07-12 07:14:00",
+    "created_at": "2026-07-13 01:25:29"
+  },
+  {
     "source": "Impress Watch",
     "title": "Meta、インスタの投稿写真をAI合成できる機能を停止",
     "url": "https://www.watch.impress.co.jp/docs/news/2124457.html",
@@ -712,17 +723,6 @@
     "category": "開発",
     "reason": "開発・情シス・セキュリティに直接影響する課題で、実務上の対策と方針決定に役立つため高い掲載価値がある。",
     "published_at": "2026-07-05 08:00:00",
-    "created_at": "2026-07-06 01:31:25"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "人気ホラーゲームの新作が発売中止？ 告知投稿を見たマンガ家が感じた“モキュメンタリーの難しさ”",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/05/news009.html",
-    "summary": "人気ホラーゲームシリーズ最新作『日本事故物件監視協会3』の告知投稿が物議を醸し、マンガ家がモキュメンタリー表現の難しさを指摘。発売中止の噂も広がっている。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "主に消費者向けエンタメの話題で技術的影響は限定的。読者興味はあるが掲載価値は低め。",
-    "published_at": "2026-07-05 07:14:00",
     "created_at": "2026-07-06 01:31:25"
   },
   {
@@ -2706,39 +2706,6 @@
     "created_at": "2026-06-13 02:44:21"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "AnthropicとNEC、金融8社とAI活用で連携 三井住友FG、大和証券など",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2606/11/2000000082/",
-    "summary": "AnthropicとNECが三井住友FGら金融8社と共創。業務知見を持ち寄り、金融分野での信頼性高いAI活用を検討・実装する取り組みを開始。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "金融中枢での大手行とベンダーによるAI実装の共同検討は業界横断での展開や規範形成に寄与するため重要。",
-    "published_at": "2026-06-12 20:20:12",
-    "created_at": "2026-06-13 02:44:21"
-  },
-  {
-    "source": "＠IT",
-    "title": "UPSIDER、開発者端末の侵害による不正アクセス・サービス一時停止 最終報告書を公表",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news117.html",
-    "summary": "UPSIDERが4月の第三者による不正アクセスとサービス一時停止について、外部フォレンジック調査を踏まえた最終報告書を公表。原因・対応・再発防止策を提示。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "開発者端末侵害がサービス停止につながった事例の詳細報告で、DevSecOpsや情シス向けの教訓が多い。",
-    "published_at": "2026-06-12 17:50:00",
-    "created_at": "2026-06-13 02:44:21"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "“11億円超資金流出”のはてな、通期最終赤字に転落見込み 被害額を特別損失に計上",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news122.html",
-    "summary": "はてなは4月公表の資金流出事案で最大11億7900万円を特別損失計上すると発表。通期業績を下方修正し、純損益は赤字転落見込みに。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "資金流出が上場企業の業績と収支に直結しており、投資家・経営判断・セキュリティ投資の観点で重要。",
-    "published_at": "2026-06-12 17:30:00",
-    "created_at": "2026-06-13 02:44:21"
-  },
-  {
     "source": "＠IT",
     "title": "OpenSSLに高危険度の脆弱性 発見にはClaudeが関与",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news055.html",
@@ -2750,17 +2717,6 @@
     "created_at": "2026-06-13 02:44:21"
   },
   {
-    "source": "＠IT",
-    "title": "Googleが20億のWebを分析 AIを狙う「間接的プロンプトインジェクション」の実態",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news052.html",
-    "summary": "Googleの脅威インテリジェンスが多数のWebを分析し、AIを狙う「間接的プロンプトインジェクション」の手法と実態を公開。防御策の示唆も含む。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "生成AIを標的とする新たな攻撃手法の実態解明で、企業のAI運用・防御設計に直接役立つため掲載価値あり。",
-    "published_at": "2026-06-12 14:00:00",
-    "created_at": "2026-06-13 02:44:21"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "Starlink対抗の衛星ネット「Amazon Leo」 NTTが国内提供へ 災害時や離島でも“つながる回線”に",
     "url": "https://www.itmedia.co.jp/news/articles/2606/12/news095.html",
@@ -2769,39 +2725,6 @@
     "category": "クラウド",
     "reason": "国の通信インフラや官公庁・法人向け回線選択肢に影響する大手による再販体制構築で市場・対災害性に関わるため高めに評価。",
     "published_at": "2026-06-12 12:15:00",
-    "created_at": "2026-06-13 02:44:21"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "データセンター建設に足りないのは「発電」ではなく「送電」 AI需要で電力消費26％増、Gartner予想",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/",
-    "summary": "Gartnerは2026年のデータセンター電力消費が26％増の565TWhに達すると予測。日本では発電より送電インフラの整備遅れが建設の制約になっていると指摘。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "AI需要拡大に伴うインフラ制約（送電網）がデータセンター計画に直結する実務上の重要トレンド。",
-    "published_at": "2026-06-12 10:50:17",
-    "created_at": "2026-06-13 02:44:21"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "OpenAI、クラウド開発環境のOnaを買収 「Codex」の強化狙い",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news072.html",
-    "summary": "OpenAIがクラウド開発環境Ona（旧Gitpod）を買収。Onaのクラウド実行基盤をCodexに統合し、長時間稼働するエージェント実行環境を提供する狙い。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "AIコーディングとクラウドIDEの統合は開発者ワークフローに影響する中〜長期的に重要なM&A動向。",
-    "published_at": "2026-06-12 08:46:00",
-    "created_at": "2026-06-13 02:44:21"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Anthropic、「Fable 5」の不可視だった蒸留の保護機能を可視化 「誤った判断」と謝罪",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news068.html",
-    "summary": "AnthropicがClaude Fable 5で不可視の保護機能（蒸留制限）を下位モデルに移行していた挙動を誤判断として謝罪。今後は明示化と分類器調整を行う。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "モデルの安全制御が不透明だった問題の是正はAI信頼性と運用ルールに直結するため、開発者・導入側に重要。",
-    "published_at": "2026-06-12 06:20:00",
     "created_at": "2026-06-13 02:44:21"
   },
   {
