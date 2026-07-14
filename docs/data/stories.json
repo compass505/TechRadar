@@ -9684,5 +9684,371 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
+  },
+  {
+    "id": "4637a394c847",
+    "title": "AIが「ホームディレクトリ全削除」 重要データ消失で相次ぐ悲劇",
+    "published_date": "2026-07-14",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Dockerが、AIコーディングエージェントが開発者のmacOSホームディレクトリを削除した事例を分析。問題はエージェントがホストシェルを直接実行する設計にあると指摘される。",
+    "reason": "AIエージェントの実行モデルに起因する実被害で、開発現場とプラットフォーム設計双方に即時の対応が求められるため。",
+    "published_at": "2026-07-14 13:00:00",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/14/news031.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "053894974c99",
+    "title": "Dell製PCでBIOSパスワードが数ミリ秒で漏れる 明らかになった“設計上の弱点”",
+    "published_date": "2026-07-14",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "一部のDell製PCで、端末内に残る情報からBIOSパスワードを数ミリ秒で復元できる脆弱性が報告。総当たりが不要で解析できる点が問題視される。",
+    "reason": "エンドポイントの設計上の弱点が露呈し、企業の資産管理・再発行運用に広範な影響を与えるため。",
+    "published_at": "2026-07-14 07:00:00",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/14/news040.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "4ab647b9083a",
+    "title": "EU、子供のSNS「利用開始年齢」設定へ──フォン・デア・ライエン委員長「SNSはおもちゃではない」",
+    "published_date": "2026-07-14",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "欧州委が子供のSNS利用開始年齢の設定や段階的アクセスの検討を提案。Instagramなどの依存性設計がDSA違反の予備的見解を受けた文脈での動き。",
+    "reason": "プラットフォーム規制の実務的要求となり得るEUの措置は、国際的なサービス設計・コンプライアンスに重大な影響を及ぼすため。",
+    "published_at": "2026-07-14 11:01:00",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/14/news069.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "07ca62faab4a",
+    "title": "GitHub Copilotは危険な指示を拒否しても止まらない 研究が暴いたAI安全評価の穴",
+    "published_date": "2026-07-14",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "研究で、チャットで拒否される有害指示が通常の開発ワークフローに組み込まれると異なる挙動を示すことが判明。ツール組み込み時の安全評価の不備を指摘している。",
+    "reason": "開発支援AIの安全評価が実運用で欠落すると有害なコードが混入し得る点は、開発プロセスとセキュリティに重要な示唆を与えるため。",
+    "published_at": "2026-07-14 07:30:00",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/14/news045.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "1777c7c2f7ca",
+    "title": "Google Cloud、生成AIのコードを瞬時に隔離して安全に実行できる「Cloud Runサンドボックス」パブリックプレビュー",
+    "published_date": "2026-07-14",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "Google Cloudが、生成AIなど信頼できないコードを即時に隔離して安全に実行する「Cloud Run Sandboxes」をパブリックプレビューで公開。サーバレスで短時間のサンドボックス起動を可能にする。",
+    "reason": "生成AIの不信コード実行対策としてクラウド側で隔離実行を提供する点が、開発者・情シスのセキュリティ設計と運用に大きく影響するため。",
+    "published_at": "2026-07-14 00:50:52",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ef3fd7ca32df",
+    "title": "Google Play手数料引き下げ、日本導入を前倒し 12月→9月中に 公取委との協議踏まえ",
+    "published_date": "2026-07-14",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "GoogleがGoogle Playの手数料引き下げと課金オプション拡大を日本で当初予定より前倒しし、2026年9月30日までに実施すると発表した。",
+    "reason": "アプリ開発者の収益モデルに直接影響する施策であり、日本市場の開発エコシステムに短期的な効果があるため。",
+    "published_at": "2026-07-14 18:45:00",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/14/news112.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "bb0d838e3b94",
+    "title": "KFC、全店舗で品切れや臨時休業のおそれ ネット注文も停止 原因はニチレイへの不正アクセス",
+    "published_date": "2026-07-14",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "日本ケンタッキーが食材配送委託先での不正アクセスによるシステム障害で、全店舗に品切れや営業時間短縮、臨時休業の可能性があると発表。ネット注文も停止した。",
+    "reason": "サプライチェーンITの障害が小売業の物理的営業に直結した事例で、企業のBCP・サプライチェーン管理に重大な示唆を与えるため。",
+    "published_at": "2026-07-14 18:52:00",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/14/news113.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1a0b02e21a41",
+    "title": "“純国産の政府AI”稼働へ NTTらのモデル採用 「先陣を切る」――松本デジ相が語った意欲",
+    "published_date": "2026-07-14",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "デジタル庁の政府AI「源内」で国産モデルと国産クラウドを使った“純国産の政府AI”が稼働開始へ。松本大臣が先行導入の意欲を示した。",
+    "reason": "政府レベルで国産AI・クラウドを採用する方針は、調達・データ政策や国内AIエコシステムに直接影響する重要な政策決定のため。",
+    "published_at": "2026-07-14 07:00:00",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/business/articles/2607/14/news034.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "172f04cff6ca",
+    "title": "「We Must Act Now」 AIによる急激な変革に著名経済学者やIT重鎮が警鐘",
+    "published_date": "2026-07-14",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "ノーベル賞受賞者らを含む200人超の経済学者・研究者が、AIが短期間で大規模な経済変革をもたらす可能性に対し政策対応の迅速化を訴える声明を公開した。",
+    "reason": "学術や政策界の共同声明は規制・社会対応を促す圧力になり得るため、政策担当者や企業判断に参考となるため。",
+    "published_at": "2026-07-14 07:04:56",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/14/2000000188/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "98badc1ece1c",
+    "title": "アップル、AI競争でチップ開発を加速か--「M6」上位版をスキップし「M7」へ",
+    "published_date": "2026-07-14",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "報道によれば、AppleがMシリーズのロードマップを変更し、M6上位版を飛ばしてM7へ進む可能性があると報じられている。AI競争をにらんだ開発加速との観測。",
+    "reason": "主要プラットフォーマーのチップ設計戦略変更はAI時代の競争力やサプライチェーンに直接影響するため注目度が高い。",
+    "published_at": "2026-07-14 16:36:00",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35250542/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "404b27a39ac2",
+    "title": "スマホ出荷台数が13年ぶりの低水準に、AIブームによるメモリ不足が直撃",
+    "published_date": "2026-07-14",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "世界のスマホ出荷が過去3カ月で11％減、13年ぶりの低水準。CounterpointはAIブームによるメモリチップ不足と価格高騰を主因と分析している。",
+    "reason": "メモリ需給が消費デバイス市場に直撃し、サプライチェーンとメーカー戦略に影響を与えるため市場観測上重要。",
+    "published_at": "2026-07-14 16:54:00",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35250545/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "175d3f79483d",
+    "title": "ソフトバンク、AIが脆弱性診断・修正する「Patching as a Service」",
+    "published_date": "2026-07-14",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "ソフトバンクとSB OAI JapanがAI駆動型の脆弱性診断・修正サービス「Patching as a Service」を3,000社対象で本格提供。OpenAI技術と運用ノウハウを組み合わせる。",
+    "reason": "AIを活用した大規模なパッチ運用サービスは、重要インフラ企業を含む多数の組織の脆弱性対応プロセスに影響するため。",
+    "published_at": "2026-07-14 14:02:08",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2124945.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "4e1e5690fd76",
+    "title": "パラマウントによるワーナーの超大型買収に待った--米12州が提訴",
+    "published_date": "2026-07-14",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "米12州の司法長官がParamount SkydanceによるWarner Bros. Discovery買収を阻止するため提訴。巨大メディア再編に対する反トラストの動きが表面化した。",
+    "reason": "大規模M&Aが法的に争われることでメディア・プラットフォーム市場に不確実性を生み、業界戦略に影響するため。",
+    "published_at": "2026-07-14 17:40:00",
+    "created_at": "2026-07-15 01:42:40",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35250548/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
   }
 ]
