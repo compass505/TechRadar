@@ -1,6 +1,116 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "ニチレイ、システム障害はサイバー攻撃によるものと公表 17日から出荷業務など順次再開へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/15/news120.html",
+    "summary": "ニチレイがサーバへのサイバー攻撃を確認。冷蔵倉庫の入出庫や冷凍食品の出荷に影響が出ており、外部専門会社と対策を講じて17日から順次再開予定。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "食品サプライチェーンに広範な影響を与える実被害事例で、企業のBCP・サプライチェーン対策に直結するため優先報道。",
+    "published_at": "2026-07-15 19:20:00",
+    "created_at": "2026-07-16 01:49:12"
+  },
+  {
+    "source": "＠IT",
+    "title": "日立がメインフレームOS終了 次の注力「AIエージェントによる基幹システム刷新」の実態は？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news051.html",
+    "summary": "日立がメインフレーム向けOS「VOS3」の販売・保守終了を発表。代替としてAIエージェントを活用した基幹システムのモダナイゼーションに注力する方針を示した。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大手企業のメインフレーム撤退とAIによる基幹刷新戦略は、レガシー移行やSI市場に影響するため企業IT担当者に重要。",
+    "published_at": "2026-07-15 13:00:00",
+    "created_at": "2026-07-16 01:49:12"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google画像検索、25周年で“Pinterest風”新ホーム画面 「AI Overviews」での画像生成も",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/15/news070.html",
+    "summary": "Google画像検索が新ホーム画面を導入し、AI要約「AI Overviews」内に画像生成AI「Nano Banana」を統合。まずは米国で段階展開。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "検索と生成の融合という消費者向けAI機能の進化で、コンテンツ作成やプラットフォーム戦略に示唆があるため選定。",
+    "published_at": "2026-07-15 10:34:00",
+    "created_at": "2026-07-16 01:49:12"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "AIデータセンター新設を凍結、NY州が全米初",
+    "url": "https://japan.cnet.com/article/35250560/",
+    "summary": "ニューヨーク州知事がハイパースケールデータセンターの新規建築許可を一時停止する行政命令に署名。州内の新設が停止される措置は全米初。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "データセンター建設・クラウド投資に直結する州レベルの規制措置で、事業計画や地域戦略に広範な波及が予想される。",
+    "published_at": "2026-07-15 08:44:00",
+    "created_at": "2026-07-16 01:49:12"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AIエージェントのコスト、どこに「消えて」いる？ Google Cloud調査で浮上した“クラウド利用の盲点”",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html",
+    "summary": "Google Cloudの調査で、AIエージェントの本番運用で発生する予期せぬインフラコストの要因と抑制策が明らかにされた。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "生成AI/エージェントの運用コストが実務に与える影響を示す実践的な分析で、IT予算と設計判断に有用。",
+    "published_at": "2026-07-15 08:00:00",
+    "created_at": "2026-07-16 01:49:12"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000192/",
+    "summary": "デミス・ハサビスCEOが、FRONTER AIモデルを事前審査する米国主導の標準化機関設立を提唱。FINRAをモデルとする構想を説明。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "フロンティアAIの公開前審査というガバナンス構想は規制議論や業界戦略に直接影響するため注目度が高い。",
+    "published_at": "2026-07-15 07:25:13",
+    "created_at": "2026-07-16 01:49:12"
+  },
+  {
+    "source": "＠IT",
+    "title": "GitHubだけでMFA突破攻撃を量産できる時代に 現役フィッシング基盤の全貌が判明",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news037.html",
+    "summary": "公開されたコードと安価なクラウドを組み合わせるだけで、多要素認証を迂回するフィッシング基盤が構築されている実態が判明した。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "MFA導入済み環境でも実効性が揺らぐ攻撃手法の実例で、情シス・セキュリティ対策の緊急性が高い。",
+    "published_at": "2026-07-15 07:00:00",
+    "created_at": "2026-07-16 01:49:12"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "富士通がNVIDIA「Rubin」対応の国産AIサーバを今秋製造へ ソブリン需要に対応",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/15/news045.html",
+    "summary": "富士通が国内一貫生産の国産ハイエンドAIサーバを公開。今秋にNVIDIA Rubin対応モデルを製造し、ソブリンAI需要へ対応する計画を示した。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "オンプレ/ソブリンAI需要に応える国内ハードウェアの動きで、企業のインフラ選択肢とサプライチェーンに関わる点が重要。",
+    "published_at": "2026-07-15 06:15:00",
+    "created_at": "2026-07-16 01:49:12"
+  },
+  {
+    "source": "＠IT",
+    "title": "Windows 11月例更新「KB5101650」公開、セキュアブート証明書対策の継続と「ポイントインタイム復元」など新機能追加",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news073.html",
+    "summary": "Microsoftが7月のWindows 11更新KB5101650を公開。500件超の脆弱性修正に加え、ポイントインタイム復元など運用に影響する変更を含む。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模な脆弱性修正と運用影響を伴う変更が含まれ、企業のパッチ計画と展開判断に直結するため重要。",
+    "published_at": "2026-07-15 05:00:00",
+    "created_at": "2026-07-16 01:49:12"
+  },
+  {
+    "source": "Publickey",
+    "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
+    "url": "https://www.publickey1.jp/blog/26/202960.html",
+    "summary": "ガートナーは2029年までに60％の組織がAIと組み合わせたより小さなソフトウェアエンジニアリングチームを本格導入すると予測。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発組織の構造変化を示す予測で、人材戦略やツール導入の方向性に影響するため開発者・経営層向けの示唆が強い。",
+    "published_at": "2026-07-15 00:51:18",
+    "created_at": "2026-07-16 01:49:12"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "KFC、全店舗で品切れや臨時休業のおそれ ネット注文も停止 原因はニチレイへの不正アクセス",
     "url": "https://www.itmedia.co.jp/news/articles/2607/14/news113.html",
     "summary": "日本ケンタッキーが食材配送委託先での不正アクセスによるシステム障害で、全店舗に品切れや営業時間短縮、臨時休業の可能性があると発表。ネット注文も停止した。",
@@ -627,17 +737,6 @@
     "created_at": "2026-07-09 01:54:38"
   },
   {
-    "source": "＠IT",
-    "title": "「AIで障害調査」どころじゃなかったDeNA 「2週間でも無理」だった原因特定をどう2日で実現？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/08/news057.html",
-    "summary": "DeNAがAIを活用した障害調査で、ログ分散などの課題を解決し原因特定を短縮した事例。実装のポイントとデータ基盤の整理方法を詳述。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "実運用でのAI活用事例として、情シス/運用チームが参考にできるため有用。",
-    "published_at": "2026-07-08 13:00:00",
-    "created_at": "2026-07-09 01:54:38"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "スクエニ、ECサイトが1週間以上使えず 決済など重要機能の不具合でメンテ長期化",
     "url": "https://www.itmedia.co.jp/news/articles/2607/08/news086.html",
@@ -690,17 +789,6 @@
     "category": "企業IT",
     "reason": "大手企業の実装設計は他社の全社AI展開モデルとして実務的示唆を与えるため有用。",
     "published_at": "2026-07-08 05:00:00",
-    "created_at": "2026-07-09 01:54:38"
-  },
-  {
-    "source": "Publickey",
-    "title": "Visual Studio Code、従量課金制になったGitHub Copilotの使用料を表示可能に（訂正あり）",
-    "url": "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html",
-    "summary": "VS CodeにGitHub Copilotの消費コストを表示する機能が追加。従量課金の可視化で開発チームのコスト管理が容易に。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発現場でのコスト管理に直結するツール改善で、導入運用判断に役立つため掲載価値あり。",
-    "published_at": "2026-07-08 00:55:48",
     "created_at": "2026-07-09 01:54:38"
   },
   {
@@ -2783,17 +2871,6 @@
     "created_at": "2026-06-16 04:11:26"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "人工知能学会「AIは人間を代替しない」 社会実装へ4提言 安保・著作権にも言及",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2606/15/2000000091/",
-    "summary": "人工知能学会が設立40周年を機に、AIの社会実装に向けた4つの提言を公表。安全保障や著作権などにも触れている。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "学術団体による政策提言は国内の規制・産業施策議論に影響し得るため、意思決定者に有益な情報となる。",
-    "published_at": "2026-06-15 19:56:36",
-    "created_at": "2026-06-16 04:11:26"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "NEC、能動的サイバー防御で英防衛大手と協業 政府への導入を共同支援",
     "url": "https://www.itmedia.co.jp/news/articles/2606/15/news087.html",
@@ -2805,39 +2882,6 @@
     "created_at": "2026-06-16 04:11:26"
   },
   {
-    "source": "＠IT",
-    "title": "「Antigravity 2.0」から「WebMCP」まで──Googleが示したAIエージェント時代の開発基盤",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/15/news053.html",
-    "summary": "Google I/O 2026で発表されたAIエージェント向けの開発基盤（Antigravity 2.0、WebMCPなど）を整理。開発者向けの主要アップデートを解説する。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "AIエージェント開発の基盤が変わる可能性が高く、開発者・プロダクト戦略に役立つため代表ニュースとして掲載適合。",
-    "published_at": "2026-06-15 13:00:00",
-    "created_at": "2026-06-16 04:11:26"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Javaアプリ更新を1カ月→3日に爆速化 “ソースコード生成AI止まり”じゃない「IBM Bob」の仕組み",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/15/news042.html",
-    "summary": "IBMのAIツール『IBM Bob』がJavaアプリのモダナイゼーションを大幅短縮。単なるコード生成を超える自動化の仕組みを解説する。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "大手の実運用事例として、企業のソフトウェア保守コストや開発プロセス改革に直接結び付くため実務的価値が高い。",
-    "published_at": "2026-06-15 13:00:00",
-    "created_at": "2026-06-16 04:11:26"
-  },
-  {
-    "source": "＠IT",
-    "title": "「メールを開いただけで識別される」 ここ1年で7倍に増えたn8nを悪用したデバイス追跡とマルウェア配布の手口",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news127.html",
-    "summary": "自動化プラットフォームn8nを悪用したフィッシングが増加。正規サービス経由でデバイスフィンガープリンティングやマルウェア配布が行われている。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "SaaS/自動化ツールの悪用は運用・検知・防御設計に直結する実務的リスクとして重要度が高い。",
-    "published_at": "2026-06-15 13:00:00",
-    "created_at": "2026-06-16 04:11:26"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "Google、「Gemini」悪用の中国系サイバー犯罪組織を提訴――2週間で250万通の詐欺メッセージ",
     "url": "https://www.itmedia.co.jp/news/articles/2606/15/news067.html",
@@ -2846,17 +2890,6 @@
     "category": "セキュリティ",
     "reason": "生成AIの悪用で大規模詐欺が発生し、ベンダーが法的措置に踏み切った点は業界とセキュリティ実務に重大な示唆を与える。",
     "published_at": "2026-06-15 10:51:00",
-    "created_at": "2026-06-16 04:11:26"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "グーグル、AIのための知識共有フォーマット「OKF」を公開",
-    "url": "https://www.watch.impress.co.jp/docs/news/2116974.html",
-    "summary": "Google CloudがAIエージェント向けのナレッジ共有フォーマット『Open Knowledge Format (OKF) v0.1』をGitHubで公開。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "組織内ナレッジのAI統合に関わる共通フォーマットは企業導入やツール連携に直接影響するため注目に値する。",
-    "published_at": "2026-06-15 10:37:11",
     "created_at": "2026-06-16 04:11:26"
   },
   {
@@ -2879,28 +2912,6 @@
     "category": "AI",
     "reason": "主要AIモデルの停止はアクセス・事業戦略・法規制の交差点で大きな波及効果を生むため業界注目度が高い。",
     "published_at": "2026-06-15 06:27:00",
-    "created_at": "2026-06-16 04:11:26"
-  },
-  {
-    "source": "Publickey",
-    "title": "WASI 0.3が正式版に。WebAssembly Componentの非同期処理が共通基盤に",
-    "url": "https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html",
-    "summary": "ByteCode AllianceがWASI 0.3を正式リリース。WebAssemblyコンポーネントの非同期処理が標準化され、プラットフォーム間の共通基盤が整う。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "WebAssemblyの仕様進展はクロスランタイム開発やマイクロサービス設計に影響するため開発者向けに価値がある。",
-    "published_at": "2026-06-15 00:24:47",
-    "created_at": "2026-06-16 04:11:26"
-  },
-  {
-    "source": "Publickey",
-    "title": "2027年までにAIエージェントでコーディングを行うチームの65％が、IDEが必要不可欠だとは考えなくなる。ガートナーの予想",
-    "url": "https://www.publickey1.jp/blog/26/2027ai65ide.html",
-    "summary": "ガートナーの予想を紹介。AIエージェントの普及により、従来のIDE依存が急速に変わるとの分析を示す。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発ツールとワークフローの将来像を示す業界分析は、開発組織の投資・採用判断に参考になる。",
-    "published_at": "2026-06-15 00:23:43",
     "created_at": "2026-06-16 04:11:26"
   },
   {
