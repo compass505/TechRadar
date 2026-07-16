@@ -1,6 +1,171 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "大手共同出資の“国産AI開発企業”が本格始動 NVIDIAも協力、「Rubin」2万7500基搭載の計算基盤を構築へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/16/news101.html",
+    "summary": "国内大手が出資するNoetraが本格始動。NVIDIA協力の下、Rubin相当で2万7500基を想定する大規模計算基盤を構築し国産基盤モデル開発を進める。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "国家レベルのAI基盤整備と大規模計算資源の投入は産業・研究の戦略に直結するため優先掲載。",
+    "published_at": "2026-07-16 19:07:00",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AWSで障害 「CloudFront」世界規模で不調 PayPayに影響、noteやニコニコ生放送もつながりにくく【復旧】",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/16/news096.html",
+    "summary": "7月16日午後にCloudFrontの世界規模障害が発生。日本を含む複数サービスで接続障害が発生し、影響範囲が広がった後に復旧したと報告されている。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "主要CDNの全球障害はサービス運用・SREや事業継続に直接影響するため高い掲載価値あり。",
+    "published_at": "2026-07-16 17:55:00",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "朝の大規模クレカ障害、Visa傘下の決済基盤「CyberSource」で「タイムアウト発生」",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/16/news084.html",
+    "summary": "Visa傘下の決済プラットフォームCyberSourceで取引処理のタイムアウトが発生し、クレジットカード決済の広範な障害につながったと報告されている。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "決済インフラの障害は消費と事業運営に直結するため、広範な影響性で優先度が高い。",
+    "published_at": "2026-07-16 15:32:00",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NVIDIAとトヨタ、提携拡大 車両ソフトウェア開発や「ウーブン・シティ」での開発支援など",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/16/news082.html",
+    "summary": "NVIDIAがトヨタとの提携を拡大。車載ソフト、工場シミュレーション、都市交通向けAI、ウーブン・シティでの支援など幅広く協力を進めると報じられた。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "自動車産業とAI/ソフトウェア企業の戦略的連携はサプライチェーンと製品ロードマップに大きな影響を与えるため重要。",
+    "published_at": "2026-07-16 15:10:00",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「Gemini Spark」日本でもリリース、まずUltraから 24時間働く“パーソナルAIエージェント”",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000200/",
+    "summary": "GoogleのパーソナルAIエージェントGemini Sparkが日本語対応で提供開始。まずUltraプランユーザー向けに展開される。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "パーソナルAIエージェントの国内展開はユーザーと企業のワークスタイルに影響するが即時のリスクや制度変化は伴わない。",
+    "published_at": "2026-07-16 13:53:43",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "＠IT",
+    "title": "AIインフラ不足の解決策？ 手間なしでAI検証環境を確保できる「Google Colab CLI」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/16/news024.html",
+    "summary": "Googleがローカル端末とリモートColabランタイムを接続するコマンドラインツール「Google Colab CLI」を公開。GPU/TPU利用の敷居を下げる狙い。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発者の実行環境確保を簡素化するツールで、手軽なAI検証やプロトタイピングに役立つため掲載候補。",
+    "published_at": "2026-07-16 13:00:00",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "OpenAI、自動レッドチームAI「GPT-Red」発表──人間の攻撃成功率13％に対し84％",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000199/",
+    "summary": "OpenAIがモデル脆弱性を自動発見する内部用レッドチームモデルGPT-Redを発表。人間より高い攻撃成功率を示し、GPT-5.6の耐性改善に活用したとする。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AIセーフティとレッドチーミングの自動化はモデル運用と脆弱性対策の方向性を示すため業界で注目度が高い。",
+    "published_at": "2026-07-16 12:10:19",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "「Google Play」でサードパーティーのアプリストア解禁 米国で来週から",
+    "url": "https://japan.cnet.com/article/35250654/",
+    "summary": "Googleが米国向けにGoogle Play上でサードパーティー製アプリストアのダウンロードを認める方針を発表。アプリ配信・決済エコシステムの大きな変化につながる可能性。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "プラットフォーム政策の変更は開発者エコシステムや収益モデル、セキュリティに影響するため重要。",
+    "published_at": "2026-07-16 11:41:00",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Thinking Machines、初のAIモデル「Inkling」公開──オープンウェイトで「自分のものにできる」基盤モデル",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000197/",
+    "summary": "Thinking MachinesがMoE型のオープンウェイト基盤モデルInklingを公開。Hugging Faceで全ウェイトを公開し、カスタマイズ基盤として位置付ける。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "オープンウェイトの基盤モデル公開は企業や研究者のカスタム開発・導入に直結するため開発者に有用。",
+    "published_at": "2026-07-16 09:47:00",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "＠IT",
+    "title": "PHP向けパッケージ管理ツール「Composer」に脆弱性 更新前に確認したい3つのリスク",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/16/news040.html",
+    "summary": "Composerの複数脆弱性が判明。悪意ある依存パッケージが混入すると、通常のインストールや更新でプロジェクト外のファイルを書き換えられる恐れがある。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "日常的に使われるパッケージマネージャーの脆弱性は開発・運用現場で即時確認が必要なため掲載価値が高い。",
+    "published_at": "2026-07-16 08:00:00",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "NVIDIAが「Jetson Thor」に新モジュール追加、高騰するメモリの使用量削減技術も",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html",
+    "summary": "NVIDIAがJetson AGX Thor向けに低消費電力・低搭載メモリの新モジュール「Jetson T3000」「Jetson T2000」を追加。エッジ組み込み機での導入負荷を軽減する狙い。",
+    "importance": 2,
+    "category": "半導体",
+    "reason": "エッジAI機器への適用性を高める新モジュールは組み込み・デバイス開発に有益だが影響範囲は限定的。",
+    "published_at": "2026-07-16 08:00:00",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "＠IT",
+    "title": "npmサプライチェーン攻撃は新段階に ClaudeやCursorを狙う自己増殖マルウェアの正体",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/16/news039.html",
+    "summary": "AsyncAPI関連のnpmパッケージから自己増殖型の悪性コードが確認され、AI開発ツール（Claude CodeやCursor等）の設定を書き換える機能まで組み込まれていたと報告。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "ソフトウェアサプライチェーンがAI開発ツールまで標的になった点は広範な被害リスクがあり重要。",
+    "published_at": "2026-07-16 07:30:00",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
+    "summary": "OpenAIがコーディング支援向け専用キーパッド「Codex Micro」をWork Louderと共同で発売。エージェント操作のインターフェイスを狙った物理デバイス。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "興味深い製品だが主に周辺ガジェットの新製品情報であり掲載優先度は低め。",
+    "published_at": "2026-07-16 07:26:00",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "マスク氏「Xの全コードを例外なくオープンソース化」 本番環境との一致も第三者が検証へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/16/news054.html",
+    "summary": "イーロン・マスク氏がXの全コードベースを脆弱性レビュー完了後に例外なくオープンソース化すると投稿。第三者検証や本番環境との一致確認も言及されている。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "主要SNSプラットフォームでのオープン化方針は運用・セキュリティ・競争環境に影響し、開発者や情シスの関心事であるため掲載。",
+    "published_at": "2026-07-16 06:35:00",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "Publickey",
+    "title": "フロントエンド開発に必要なツールをまとめて統合した「Vite+」、ベータ公開",
+    "url": "https://www.publickey1.jp/blog/26/vite.html",
+    "summary": "Viteをベースにした統合フロントエンド開発ツールチェーン「Vite+」のベータが公開。ビルドや開発ワークフローを一体化する狙い。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "フロントエンド開発の効率化に直結する新ツールとして開発者に有用だが影響範囲は限定的。",
+    "published_at": "2026-07-16 00:59:11",
+    "created_at": "2026-07-17 01:47:52"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "ニチレイ、システム障害はサイバー攻撃によるものと公表 17日から出荷業務など順次再開へ",
     "url": "https://www.itmedia.co.jp/news/articles/2607/15/news120.html",
     "summary": "ニチレイがサーバへのサイバー攻撃を確認。冷蔵倉庫の入出庫や冷凍食品の出荷に影響が出ており、外部専門会社と対策を講じて17日から順次再開予定。",
@@ -679,17 +844,6 @@
     "category": "AI",
     "reason": "音声対話UXとリアルタイムAIアプリの開発に直結する新モデルで、製品・サービスに実装される影響が大きいため",
     "published_at": "2026-07-09 06:53:09",
-    "created_at": "2026-07-10 02:29:17"
-  },
-  {
-    "source": "Publickey",
-    "title": "PostgreSQLをクラスタ化した分散DBでスケーリングと高可用性を実現する「Multigres v0.1」アルファ版が登場",
-    "url": "https://www.publickey1.jp/blog/26/postgresqldbmultigres_v01.html",
-    "summary": "Supabaseが複数のPostgreSQLをクラスタ化して水平スケールと高可用性を目指す分散DB「Multigres v0.1」アルファを公開。 PostgreSQL互換でBaaSへの応用を想定。",
-    "importance": 2,
-    "category": "クラウド",
-    "reason": "Postgresベースの分散化はクラウドDB設計の選択肢を広げるが、現時点はアルファのため慎重評価が必要",
-    "published_at": "2026-07-09 00:33:17",
     "created_at": "2026-07-10 02:29:17"
   },
   {
@@ -2794,17 +2948,6 @@
     "created_at": "2026-06-17 04:00:25"
   },
   {
-    "source": "Impress Watch",
-    "title": "Copilot Cowork、一般提供開始 Claude Coworkより30〜40%安価で企業文脈対応",
-    "url": "https://www.watch.impress.co.jp/docs/news/2117751.html",
-    "summary": "Microsoftが『Copilot Cowork』の一般提供を開始。企業向けにClaude Coworkより低価格で文脈対応を提供し、Microsoft 365契約者向けに拡大。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業向けコラボAIの普及とコスト競争に影響し、導入判断やコスト比較に役立つ情報。",
-    "published_at": "2026-06-16 11:32:27",
-    "created_at": "2026-06-18 03:00:56"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "三菱の家電にWi-Fi脆弱性、エアコンや冷蔵庫、炊飯器など広範囲 ユーザーに対応求める",
     "url": "https://www.itmedia.co.jp/news/articles/2606/16/news066.html",
@@ -2817,17 +2960,6 @@
   },
   {
     "source": "＠IT",
-    "title": "AIが生成したAWSインフラは本番環境で使えない？ 「AWS MCP Server」はどう役立つのか",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/16/news049.html",
-    "summary": "AWSがAIエージェントと認証付きでサービスにアクセスできるMCPサーバ「AWS MCP Server」を一般提供。AIが生成したインフラを安全に扱うための仕組みを説明する。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "AIによるインフラ構成生成の実用化に向けた認証・管理基盤はクラウド運用とガバナンスに直接関係するため、情シス・開発者向けに有用。",
-    "published_at": "2026-06-16 08:00:00",
-    "created_at": "2026-06-17 04:00:25"
-  },
-  {
-    "source": "＠IT",
     "title": "OutlookとWordにリモートコード実行脆弱性 深刻度は「緊急」",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/16/news029.html",
     "summary": "MicrosoftがOutlookとWordに関する脆弱性CVE-2026-45456を公表。型混同により未認証の攻撃者がローカルでコード実行可能、悪用難度は低いとされる。",
@@ -2835,28 +2967,6 @@
     "category": "セキュリティ",
     "reason": "Office系の広範囲影響かつ低難度でのコード実行につながるため、企業の情シス対応や緊急パッチ適用の優先度が高い。",
     "published_at": "2026-06-16 07:00:00",
-    "created_at": "2026-06-17 04:00:25"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "SpaceXのIPO調達額、857億ドルに拡大 グリーンシューで",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/16/news060.html",
-    "summary": "SpaceXのIPOでオーバーアロットメントが行使され、調達総額が857億ドルに拡大。上場後の株価急騰を背景にした増額。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "巨大資金調達は宇宙産業と関連サプライチェーン、資本市場に与える影響が大きく、テクノロジービジネス面で重要。",
-    "published_at": "2026-06-16 06:49:00",
-    "created_at": "2026-06-17 04:00:25"
-  },
-  {
-    "source": "＠IT",
-    "title": "クラウドAI依存からの脱却 NASベンダーが仕掛ける「社内AI基盤」構想",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/16/news005.html",
-    "summary": "SynologyがローカルLLMやAIエージェントを軸に、クラウド依存を減らす企業向け社内AI基盤を提案。データ保護や運用面の利点を強調する戦略。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業データの保有・ガバナンスを巡る競争軸として重要で、クラウド依存を見直すIT戦略の参考になるため選出。",
-    "published_at": "2026-06-16 05:00:00",
     "created_at": "2026-06-17 04:00:25"
   },
   {
