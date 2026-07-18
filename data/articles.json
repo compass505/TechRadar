@@ -1,6 +1,72 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "佐川急便、約7万人分の個人情報漏えいか 「スマートクラブ」通知メールに別人の氏名など表示",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/18/news021.html",
+    "summary": "佐川急便の会員サービスで復旧作業中の設定ミスにより、配達通知メールに別利用者の氏名・メールが表示される事象が発生。約7万人分が影響を受けた可能性があると発表。外部侵入ではないと説明。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模な個人情報露見でコンプライアンス・顧客対応・監督当局対応が必要になり得るため業界影響が大きい。",
+    "published_at": "2026-07-18 14:50:00",
+    "created_at": "2026-07-19 01:15:32"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
+    "summary": "Anthropicは最上位モデル「Claude Fable 5」を7月20日から有料プランの一部に標準組み込みに変更。高位プランは追加費用なしで一定量利用可能になり、下位プランは従量制に移行する。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "企業と開発者のコストと利用可否に直接影響するAIモデル提供方針の変更で、導入判断に重要。",
+    "published_at": "2026-07-18 12:50:00",
+    "created_at": "2026-07-19 01:15:32"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "ガラケーみたいなAndroidゲーム機「RG Rotate」",
+    "url": "https://japan.cnet.com/article/35250323/",
+    "summary": "画面を回転させるとボタンが現れるガラケー風のAndroidゲーム機。Android 12搭載で携帯性を重視した新型ハードの紹介記事。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "技術トレンドや業界を左右する話ではなくガジェット紹介のため重要度は低め。",
+    "published_at": "2026-07-18 12:00:00",
+    "created_at": "2026-07-19 01:15:32"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "グーグル「AIモード検索」、CanvaやYouTube Musicと連携",
+    "url": "https://www.watch.impress.co.jp/docs/news/2126233.html",
+    "summary": "Google検索のAIモードが外部サービス連携を強化。CanvaやInstacart、YouTube Musicなどと統合し、検索UI内での機能活用が可能に。まず米国向けに提供開始。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "検索プラットフォームのAI統合強化はユーザー体験と連携エコシステムに影響するが即時の危機度は低いため中程度。",
+    "published_at": "2026-07-18 08:30:00",
+    "created_at": "2026-07-19 01:15:32"
+  },
+  {
+    "source": "＠IT",
+    "title": "「脱・PC購入」「脱Windows」「脱・PC操作」――企業PCの“前提”が変わり始めた",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/18/news005.html",
+    "summary": "AIの進化を背景に企業PC運用の前提が変化している点を分析。PC購入やOS依存、操作前提の見直しと情シスが取るべき対応を事例と共に解説する。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業のIT戦略・資産管理に直結するトレンド解説で、情シスや経営判断に役立つため掲載価値が高い。",
+    "published_at": "2026-07-18 08:00:00",
+    "created_at": "2026-07-19 01:15:32"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "アップル、iPhoneを一斉値上げ Watch・AirPodsも",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
+    "summary": "Appleが日本のApple StoreでiPhone／Apple Watch／AirPodsを一斉に値上げ。為替影響と見られ、事前告知なしの価格改定。海外ストアでは未改定。",
+    "importance": 3,
+    "category": "ガジェット",
+    "reason": "ハード調達コストと消費行動に直結する大手ベンダーの価格改定で、購買・予算計画に影響が出るため代表的に掲載。",
+    "published_at": "2026-07-18 01:50:00",
+    "created_at": "2026-07-19 01:15:32"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "「1.5兆ドルの請求が来た」？ AWSでまたトラブル、誤ったコスト見積が表示される状態に",
     "url": "https://www.itmedia.co.jp/news/articles/2607/17/news112.html",
     "summary": "AWSのコスト管理画面で世界規模の表示障害が発生。誤った見積りや請求額が表示され、利用者に混乱を招いた。",
@@ -723,17 +789,6 @@
     "category": "AI",
     "reason": "生成AIの同意・プライバシー課題が顕在化した事例で、プラットフォーム運用や規制対応の参考になるため。",
     "published_at": "2026-07-11 20:09:14",
-    "created_at": "2026-07-12 01:14:34"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "“防爆シェルター”を3Dプリントする技術 日本のスタートアップが開発 海外イベントの防衛装備庁ブースで展示へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/10/news127.html",
-    "summary": "3Dプリント住宅のセレンディクスが、防爆シェルターやドローン基地を3Dプリントで製造する技術を開発。英国の防衛産業展示会で防衛装備庁ブースに実物を展示予定。",
-    "importance": 1,
-    "category": "その他",
-    "reason": "建築向け3Dプリントの防衛応用は技術面で興味深いが、読者全体への影響は限定的なため低評価。",
-    "published_at": "2026-07-11 11:00:00",
     "created_at": "2026-07-12 01:14:34"
   },
   {
@@ -2912,72 +2967,6 @@
     "category": "AI",
     "reason": "主要モデル提供停止を巡る業界の反応で、企業のAI採用・ガバナンス戦略に直接影響するため高い掲載価値がある。",
     "published_at": "2026-06-18 19:39:36",
-    "created_at": "2026-06-19 03:13:51"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "【復旧済み】「Claude」が使いにくい状態に 「動かない」「落ちた？」などの声相次ぐ",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000104/",
-    "summary": "生成AIサービス「Claude」で障害発生の報告が相次ぎ、一時利用に支障が出たが復旧済み。業務依存時の可用性リスクが改めて浮上した。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "企業・開発者がサービス可用性を評価する上で重要な事象。ダウンタイムの影響と対策の参考になるため掲載価値あり。",
-    "published_at": "2026-06-18 18:08:25",
-    "created_at": "2026-06-19 03:13:51"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "ChatGPTに新機能、予約したタスクを自動実行できる「Scheduled tasks」 状況監視も依頼可能",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/18/news099.html",
-    "summary": "OpenAIがChatGPTに予約されたタスクを自動実行できる「Scheduled tasks」を順次展開。タスク管理と監視をAIに任せられる機能で業務自動化の幅が広がる。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "企業の業務自動化やSaaS連携に直結する新機能で、開発・導入判断や運用設計に参考になるため。",
-    "published_at": "2026-06-18 14:30:00",
-    "created_at": "2026-06-19 03:13:51"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「シャドーAI」7割超の企業が対策追い付かず “会社が選んだAIだけ利用”はもう限界？ ガートナー",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000103/",
-    "summary": "ガートナー調査で、日本企業の73％が承認外のAI利用（シャドーAI）に対処できていないと判明。統制と利便性の両立が課題となっている。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "AI活用のガバナンス問題はIT戦略・情報セキュリティに直結し、企業側の方針策定に影響するため重要。",
-    "published_at": "2026-06-18 12:09:50",
-    "created_at": "2026-06-19 03:13:51"
-  },
-  {
-    "source": "＠IT",
-    "title": "AIが脆弱性を掘り起こし過ぎる時代へ FIRSTがCVE予測を6万6000件に上方修正",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/18/news047.html",
-    "summary": "脆弱性発見件数がAIの影響で急増するとして、FIRSTがCVE登録予測を大幅に上方修正。企業は優先対応方針の見直しが必要になる可能性がある。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "脆弱性の急増見込みは優先度決定やパッチ戦略に影響を与えるため、セキュリティ担当者に重要な示唆となる。",
-    "published_at": "2026-06-18 07:30:00",
-    "created_at": "2026-06-19 03:13:51"
-  },
-  {
-    "source": "＠IT",
-    "title": "OpenAI×ソフトバンクの新サービスは脆弱性管理の常識を変える？ それとも期待先行？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/18/news041.html",
-    "summary": "OpenAIとソフトバンクが生成AIを活用した脆弱性診断・修復支援サービスを構想。単なる検出を超えパッチ適用支援まで踏み込む点が注目される。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "生成AIを脆弱性管理やパッチ運用に適用する試みは情シス運用効率とセキュリティ態勢に直接関わるため関心が高い。",
-    "published_at": "2026-06-18 07:00:00",
-    "created_at": "2026-06-19 03:13:51"
-  },
-  {
-    "source": "Publickey",
-    "title": "あなたのAWSのコストの問題がどこにあるか、AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
-    "url": "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
-    "summary": "AWSがコスト異常の原因特定やコスト最適化提案を行う「AWS FinOps Agent」のパブリックプレビューを開始。クラウドコスト管理にAIを活用する動きが本格化。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "クラウドコスト最適化は多くの企業で優先課題。AIによる原因解析と運用改善提案は情シス・クラウド運用に有用な情報となる。",
-    "published_at": "2026-06-18 00:49:03",
     "created_at": "2026-06-19 03:13:51"
   },
   {

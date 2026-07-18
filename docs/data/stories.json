@@ -3043,177 +3043,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "63acc8427eb8",
-    "title": "AIが脆弱性を掘り起こし過ぎる時代へ FIRSTがCVE予測を6万6000件に上方修正",
-    "published_date": "2026-06-18",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "脆弱性発見件数がAIの影響で急増するとして、FIRSTがCVE登録予測を大幅に上方修正。企業は優先対応方針の見直しが必要になる可能性がある。",
-    "reason": "脆弱性の急増見込みは優先度決定やパッチ戦略に影響を与えるため、セキュリティ担当者に重要な示唆となる。",
-    "published_at": "2026-06-18 07:30:00",
-    "created_at": "2026-06-19 03:13:51",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/18/news047.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "b3a3de7a9d72",
-    "title": "ChatGPTに新機能、予約したタスクを自動実行できる「Scheduled tasks」 状況監視も依頼可能",
-    "published_date": "2026-06-18",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "OpenAIがChatGPTに予約されたタスクを自動実行できる「Scheduled tasks」を順次展開。タスク管理と監視をAIに任せられる機能で業務自動化の幅が広がる。",
-    "reason": "企業の業務自動化やSaaS連携に直結する新機能で、開発・導入判断や運用設計に参考になるため。",
-    "published_at": "2026-06-18 14:30:00",
-    "created_at": "2026-06-19 03:13:51",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/18/news099.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "0ae4258bcd26",
-    "title": "OpenAI×ソフトバンクの新サービスは脆弱性管理の常識を変える？ それとも期待先行？",
-    "published_date": "2026-06-18",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "OpenAIとソフトバンクが生成AIを活用した脆弱性診断・修復支援サービスを構想。単なる検出を超えパッチ適用支援まで踏み込む点が注目される。",
-    "reason": "生成AIを脆弱性管理やパッチ運用に適用する試みは情シス運用効率とセキュリティ態勢に直接関わるため関心が高い。",
-    "published_at": "2026-06-18 07:00:00",
-    "created_at": "2026-06-19 03:13:51",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/18/news041.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "804c1349c39a",
-    "title": "「シャドーAI」7割超の企業が対策追い付かず “会社が選んだAIだけ利用”はもう限界？ ガートナー",
-    "published_date": "2026-06-18",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "ガートナー調査で、日本企業の73％が承認外のAI利用（シャドーAI）に対処できていないと判明。統制と利便性の両立が課題となっている。",
-    "reason": "AI活用のガバナンス問題はIT戦略・情報セキュリティに直結し、企業側の方針策定に影響するため重要。",
-    "published_at": "2026-06-18 12:09:50",
-    "created_at": "2026-06-19 03:13:51",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000103/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "63e5feff56a8",
-    "title": "【復旧済み】「Claude」が使いにくい状態に 「動かない」「落ちた？」などの声相次ぐ",
-    "published_date": "2026-06-18",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "生成AIサービス「Claude」で障害発生の報告が相次ぎ、一時利用に支障が出たが復旧済み。業務依存時の可用性リスクが改めて浮上した。",
-    "reason": "企業・開発者がサービス可用性を評価する上で重要な事象。ダウンタイムの影響と対策の参考になるため掲載価値あり。",
-    "published_at": "2026-06-18 18:08:25",
-    "created_at": "2026-06-19 03:13:51",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000104/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "10c56bdc8019",
-    "title": "あなたのAWSのコストの問題がどこにあるか、AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
-    "published_date": "2026-06-18",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "AWSがコスト異常の原因特定やコスト最適化提案を行う「AWS FinOps Agent」のパブリックプレビューを開始。クラウドコスト管理にAIを活用する動きが本格化。",
-    "reason": "クラウドコスト最適化は多くの企業で優先課題。AIによる原因解析と運用改善提案は情シス・クラウド運用に有用な情報となる。",
-    "published_at": "2026-06-18 00:49:03",
-    "created_at": "2026-06-19 03:13:51",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/awsaiaws_finops_agent.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "bcd652523204",
     "title": "チームみらい安野氏「牧歌的なAI開発の時代が終わった」 “ミュトス停止騒動”受け",
     "published_date": "2026-06-18",
@@ -8794,33 +8623,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "c3dd17c0fb01",
-    "title": "“防爆シェルター”を3Dプリントする技術 日本のスタートアップが開発 海外イベントの防衛装備庁ブースで展示へ",
-    "published_date": "2026-07-11",
-    "importance_score": 1,
-    "category": "その他",
-    "summary": "3Dプリント住宅のセレンディクスが、防爆シェルターやドローン基地を3Dプリントで製造する技術を開発。英国の防衛産業展示会で防衛装備庁ブースに実物を展示予定。",
-    "reason": "建築向け3Dプリントの防衛応用は技術面で興味深いが、読者全体への影響は限定的なため低評価。",
-    "published_at": "2026-07-11 11:00:00",
-    "created_at": "2026-07-12 01:14:34",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/10/news127.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "0637d3e58ddf",
     "title": "なんでPSのディスク版ゲームがなくなるの？ 不満たらたらのゲーム好きマンガ家を黙らせた担当の一言とは",
     "published_date": "2026-07-12",
@@ -10632,6 +10434,168 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "91b5e0e6d41a",
+    "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
+    "published_date": "2026-07-18",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Anthropicは最上位モデル「Claude Fable 5」を7月20日から有料プランの一部に標準組み込みに変更。高位プランは追加費用なしで一定量利用可能になり、下位プランは従量制に移行する。",
+    "reason": "企業と開発者のコストと利用可否に直接影響するAIモデル提供方針の変更で、導入判断に重要。",
+    "published_at": "2026-07-18 12:50:00",
+    "created_at": "2026-07-19 01:15:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b7f407288745",
+    "title": "「脱・PC購入」「脱Windows」「脱・PC操作」――企業PCの“前提”が変わり始めた",
+    "published_date": "2026-07-18",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "AIの進化を背景に企業PC運用の前提が変化している点を分析。PC購入やOS依存、操作前提の見直しと情シスが取るべき対応を事例と共に解説する。",
+    "reason": "企業のIT戦略・資産管理に直結するトレンド解説で、情シスや経営判断に役立つため掲載価値が高い。",
+    "published_at": "2026-07-18 08:00:00",
+    "created_at": "2026-07-19 01:15:32",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/18/news005.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6b50d8d5baf5",
+    "title": "アップル、iPhoneを一斉値上げ Watch・AirPodsも",
+    "published_date": "2026-07-18",
+    "importance_score": 3,
+    "category": "ガジェット",
+    "summary": "Appleが日本のApple StoreでiPhone／Apple Watch／AirPodsを一斉に値上げ。為替影響と見られ、事前告知なしの価格改定。海外ストアでは未改定。",
+    "reason": "ハード調達コストと消費行動に直結する大手ベンダーの価格改定で、購買・予算計画に影響が出るため代表的に掲載。",
+    "published_at": "2026-07-18 01:50:00",
+    "created_at": "2026-07-19 01:15:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c2642b7bac30",
+    "title": "ガラケーみたいなAndroidゲーム機「RG Rotate」",
+    "published_date": "2026-07-18",
+    "importance_score": 1,
+    "category": "ガジェット",
+    "summary": "画面を回転させるとボタンが現れるガラケー風のAndroidゲーム機。Android 12搭載で携帯性を重視した新型ハードの紹介記事。",
+    "reason": "技術トレンドや業界を左右する話ではなくガジェット紹介のため重要度は低め。",
+    "published_at": "2026-07-18 12:00:00",
+    "created_at": "2026-07-19 01:15:32",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35250323/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "bf0004563455",
+    "title": "グーグル「AIモード検索」、CanvaやYouTube Musicと連携",
+    "published_date": "2026-07-18",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "Google検索のAIモードが外部サービス連携を強化。CanvaやInstacart、YouTube Musicなどと統合し、検索UI内での機能活用が可能に。まず米国向けに提供開始。",
+    "reason": "検索プラットフォームのAI統合強化はユーザー体験と連携エコシステムに影響するが即時の危機度は低いため中程度。",
+    "published_at": "2026-07-18 08:30:00",
+    "created_at": "2026-07-19 01:15:32",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2126233.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "7fcef7c54c14",
+    "title": "佐川急便、約7万人分の個人情報漏えいか 「スマートクラブ」通知メールに別人の氏名など表示",
+    "published_date": "2026-07-18",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "佐川急便の会員サービスで復旧作業中の設定ミスにより、配達通知メールに別利用者の氏名・メールが表示される事象が発生。約7万人分が影響を受けた可能性があると発表。外部侵入ではないと説明。",
+    "reason": "大規模な個人情報露見でコンプライアンス・顧客対応・監督当局対応が必要になり得るため業界影響が大きい。",
+    "published_at": "2026-07-18 14:50:00",
+    "created_at": "2026-07-19 01:15:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/18/news021.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
     "has_itmedia_article": true
   }
 ]
