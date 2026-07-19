@@ -1,5 +1,38 @@
 [
   {
+    "source": "ITmedia AI+",
+    "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
+    "summary": "27Bパラメータ級の大規模言語モデルをiPhone等の端末で動作可能な容量に最適化して公開。オンデバイスでの高性能推論やプライバシー、オフライン利用の可能性を示す。開発者向けの注目点あり。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "エッジで動く大規模モデルは開発・運用方針や製品設計に影響するため開発者・事業担当者に有用。",
+    "published_at": "2026-07-19 08:40:43",
+    "created_at": "2026-07-20 01:16:21"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AWS“兆ドル”誤見積は「ちょっとした計算ミス」 ジョークのつもり？ で大炎上→日本のAWS社員「あり得ない」と批判→対応",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html",
+    "summary": "AWS公式の“兆ドル”規模の誤見積りジョーク投稿が炎上。日本の社員や顧客から強い批判が出ており、同社が対応に追われている。クラウド事業者の信頼・コミュニケーションリスクを浮き彫りに。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "主要クラウド事業者の公的発言による顧客信頼・ブランドリスクで、情シスや経営判断に関連するため掲載価値あり。",
+    "published_at": "2026-07-19 07:40:00",
+    "created_at": "2026-07-20 01:16:21"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "混雑する池袋駅でも通用する？ 都内初「顔認証改札」を詳細レポ （鈴木淳也）",
+    "url": "https://japan.cnet.com/article/35250754/",
+    "summary": "東武鉄道が池袋と上板橋の2駅でウォークスルー型顔認証改札を導入・運用開始。混雑下での精度やUX、導入に伴うプライバシー・規制面の課題が焦点になっている。実地展開の詳細レポート。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "公共交通での顔認証実運用は社会的影響と規制議論を引き起こす可能性が高く、企業IT・法務・政策担当者が注目すべき事例のため。",
+    "published_at": "2026-07-19 07:10:00",
+    "created_at": "2026-07-20 01:16:21"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "佐川急便、約7万人分の個人情報漏えいか 「スマートクラブ」通知メールに別人の氏名など表示",
     "url": "https://www.itmedia.co.jp/news/articles/2607/18/news021.html",
@@ -2860,28 +2893,6 @@
     "created_at": "2026-06-20 02:29:36"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "Photoshopなど「Adobe Creative Cloud」にAIエージェント、アドビが全面導入 ChatGPTやClaudeとも連携",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news110.html",
-    "summary": "AdobeはCreative Cloud各アプリにAIエージェント機能を全面導入。外部AI（ChatGPT、Claude等）との連携でクリエイティブワークフローを統合する戦略を打ち出した。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "大手ソフトのAI統合はクリエイティブ現場とサードパーティAIのビジネスモデルに影響を与えるため注目に値する",
-    "published_at": "2026-06-19 15:45:00",
-    "created_at": "2026-06-20 02:29:36"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
-    "summary": "OpenAIのCodexが新機能「Record & Replay」を公開。ユーザーがMac上で操作を実演すると、その手順を再利用可能な作業スキルに変換して自動化できる機能。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "GUI操作の自動化と手順化は開発・運用効率に直結し、SREやデベロッパーツールの潮流に影響を与える",
-    "published_at": "2026-06-19 14:15:00",
-    "created_at": "2026-06-20 02:29:36"
-  },
-  {
     "source": "ITmedia AI+",
     "title": "Gartnerが警鐘 プライバシー法執行が本格化、CISOは何を見直すべきか？",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news077.html",
@@ -2905,17 +2916,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "画像生成AIのMidjourneyが医療参入、超音波全身スキャナとサウナ融合の「Midjourney Spa」構想を発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news090.html",
-    "summary": "Midjourneyが超音波ベースの全身スキャナと温浴施設を組み合わせる新事業を発表。初期は体組成マップ提供から始め、将来的な大規模展開を視野に入れるという構想。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "生成AI企業の医療分野参入は規制・安全性・ビジネスモデルの観点で注目すべきクロスセクター動向である",
-    "published_at": "2026-06-19 12:15:00",
-    "created_at": "2026-06-20 02:29:36"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "Waymo、ロボタクシーの高速道路走行を制限 工事区間に進入する不具合でリコール届け出",
     "url": "https://www.itmedia.co.jp/news/articles/2606/19/news082.html",
     "summary": "Waymoは高速道路の工事区間に誤進入する恐れがあるとして約3871台のロボタクシーをリコール登録。恒久対策を開発中は高速道路走行を制限する暫定措置を実施する。",
@@ -2923,17 +2923,6 @@
     "category": "企業IT",
     "reason": "自動運転の安全性・リコールは業界の規制対応と商用展開に直接影響する重大な運用課題",
     "published_at": "2026-06-19 10:36:00",
-    "created_at": "2026-06-20 02:29:36"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得 トランプ政権でAI政策を担ったディーン・ボール氏も",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news072.html",
-    "summary": "OpenAIがGoogleのGemini共同リードだったノーム・シャジーア氏や、トランプ政権でAI政策に携わったディーン・ボール氏を採用。研究・政策の人材を強化していると発表した。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "主要プレイヤーによる人材獲得は競争力やAI政策・規制対応の陣容に影響するため企業戦略上重要",
-    "published_at": "2026-06-19 08:49:00",
     "created_at": "2026-06-20 02:29:36"
   },
   {

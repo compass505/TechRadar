@@ -3099,62 +3099,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "b3142b4e2924",
-    "title": "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得 トランプ政権でAI政策を担ったディーン・ボール氏も",
-    "published_date": "2026-06-19",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "OpenAIがGoogleのGemini共同リードだったノーム・シャジーア氏や、トランプ政権でAI政策に携わったディーン・ボール氏を採用。研究・政策の人材を強化していると発表した。",
-    "reason": "主要プレイヤーによる人材獲得は競争力やAI政策・規制対応の陣容に影響するため企業戦略上重要",
-    "published_at": "2026-06-19 08:49:00",
-    "created_at": "2026-06-20 02:29:36",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/19/news072.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "0953fee85107",
-    "title": "Photoshopなど「Adobe Creative Cloud」にAIエージェント、アドビが全面導入 ChatGPTやClaudeとも連携",
-    "published_date": "2026-06-19",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "AdobeはCreative Cloud各アプリにAIエージェント機能を全面導入。外部AI（ChatGPT、Claude等）との連携でクリエイティブワークフローを統合する戦略を打ち出した。",
-    "reason": "大手ソフトのAI統合はクリエイティブ現場とサードパーティAIのビジネスモデルに影響を与えるため注目に値する",
-    "published_at": "2026-06-19 15:45:00",
-    "created_at": "2026-06-20 02:29:36",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/19/news110.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 4,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "ff6b068bbb73",
     "title": "Waymo、ロボタクシーの高速道路走行を制限 工事区間に進入する不具合でリコール届け出",
     "published_date": "2026-06-19",
@@ -3293,61 +3237,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 3,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "5e3fbd9b7ec4",
-    "title": "画像生成AIのMidjourneyが医療参入、超音波全身スキャナとサウナ融合の「Midjourney Spa」構想を発表",
-    "published_date": "2026-06-19",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Midjourneyが超音波ベースの全身スキャナと温浴施設を組み合わせる新事業を発表。初期は体組成マップ提供から始め、将来的な大規模展開を視野に入れるという構想。",
-    "reason": "生成AI企業の医療分野参入は規制・安全性・ビジネスモデルの観点で注目すべきクロスセクター動向である",
-    "published_at": "2026-06-19 12:15:00",
-    "created_at": "2026-06-20 02:29:36",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/19/news090.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "5ab41546393d",
-    "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
-    "published_date": "2026-06-19",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "OpenAIのCodexが新機能「Record & Replay」を公開。ユーザーがMac上で操作を実演すると、その手順を再利用可能な作業スキルに変換して自動化できる機能。",
-    "reason": "GUI操作の自動化と手順化は開発・運用効率に直結し、SREやデベロッパーツールの潮流に影響を与える",
-    "published_at": "2026-06-19 14:15:00",
-    "created_at": "2026-06-20 02:29:36",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
     "has_itmedia_article": true
   },
   {
@@ -10597,5 +10486,89 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
+  },
+  {
+    "id": "191a9ad89c0d",
+    "title": "AWS“兆ドル”誤見積は「ちょっとした計算ミス」 ジョークのつもり？ で大炎上→日本のAWS社員「あり得ない」と批判→対応",
+    "published_date": "2026-07-19",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "AWS公式の“兆ドル”規模の誤見積りジョーク投稿が炎上。日本の社員や顧客から強い批判が出ており、同社が対応に追われている。クラウド事業者の信頼・コミュニケーションリスクを浮き彫りに。",
+    "reason": "主要クラウド事業者の公的発言による顧客信頼・ブランドリスクで、情シスや経営判断に関連するため掲載価値あり。",
+    "published_at": "2026-07-19 07:40:00",
+    "created_at": "2026-07-20 01:16:21",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d504ef2f60a7",
+    "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
+    "published_date": "2026-07-19",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "27Bパラメータ級の大規模言語モデルをiPhone等の端末で動作可能な容量に最適化して公開。オンデバイスでの高性能推論やプライバシー、オフライン利用の可能性を示す。開発者向けの注目点あり。",
+    "reason": "エッジで動く大規模モデルは開発・運用方針や製品設計に影響するため開発者・事業担当者に有用。",
+    "published_at": "2026-07-19 08:40:43",
+    "created_at": "2026-07-20 01:16:21",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "96979f54c07b",
+    "title": "混雑する池袋駅でも通用する？ 都内初「顔認証改札」を詳細レポ （鈴木淳也）",
+    "published_date": "2026-07-19",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "東武鉄道が池袋と上板橋の2駅でウォークスルー型顔認証改札を導入・運用開始。混雑下での精度やUX、導入に伴うプライバシー・規制面の課題が焦点になっている。実地展開の詳細レポート。",
+    "reason": "公共交通での顔認証実運用は社会的影響と規制議論を引き起こす可能性が高く、企業IT・法務・政策担当者が注目すべき事例のため。",
+    "published_at": "2026-07-19 07:10:00",
+    "created_at": "2026-07-20 01:16:21",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35250754/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
   }
 ]
