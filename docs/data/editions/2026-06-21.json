@@ -11,16 +11,8 @@
       "ff6b068bbb73",
       "396e78c94afe"
     ],
-    "yesterday_ai": [
-      "375b8f45be74",
-      "c058fd483c5a"
-    ],
-    "yesterday_enterprise_it": [
-      "375b8f45be74",
-      "c058fd483c5a"
-    ],
-    "yesterday_development": [
-      "c058fd483c5a"
-    ]
+    "yesterday_ai": [],
+    "yesterday_enterprise_it": [],
+    "yesterday_development": []
   }
 }

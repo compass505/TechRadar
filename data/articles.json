@@ -1,5 +1,27 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "Hugging FaceにAI主導のサイバー攻撃 防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html",
+    "summary": "Hugging Faceが自律型AIエージェントによる本番インフラ侵入を検知。内部データセットと複数資格情報への不正アクセスを確認。ログ解析で商用モデルの制約により社内でGLM 5.2を実行して対応した。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AIエージェントによる実際の侵入・資格情報流出が発生し、AI運用とセキュリティの実務影響が大きいため。",
+    "published_at": "2026-07-20 10:08:00",
+    "created_at": "2026-07-21 01:49:36"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "【レビュー】Geminiで生まれ変わった新Google Homeスピーカー 「買い」だけれど発展途上",
+    "url": "https://www.watch.impress.co.jp/docs/review/review/2126335.html",
+    "summary": "Googleの新スマートスピーカー（16,800円）がGemini統合で進化。音声AI体験や機能面は評価できるが、まだ発展途上の部分もあるとするレビュー。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "主要な消費者向けAI搭載デバイスのレビューで興味深いが、業界や企業ITへの直接的影響は限定的なため。",
+    "published_at": "2026-07-20 09:20:00",
+    "created_at": "2026-07-21 01:49:36"
+  },
+  {
     "source": "ITmedia AI+",
     "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
     "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
@@ -712,17 +734,6 @@
     "category": "セキュリティ",
     "reason": "大規模な個人情報の誤送信でプライバシー・広告運用・ガバナンスに直接影響するため掲載価値高い。",
     "published_at": "2026-07-13 19:19:00",
-    "created_at": "2026-07-14 02:26:42"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "ローソンでステーブルコイン支払い KDDI・HashPortが技術実証へ 高輪ゲートウェイ店で8月実施",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/13/news098.html",
-    "summary": "HashPortとKDDI、ローソンが店頭で日本円ステーブルコインによるレジ決済の技術実証を8月に実施。POS連携やレジ運用面を検証する計画。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "実証実験段階だが小売店でのステーブルコイン導入は決済インフラの将来動向として注目される。",
-    "published_at": "2026-07-13 14:35:00",
     "created_at": "2026-07-14 02:26:42"
   },
   {
@@ -2858,28 +2869,6 @@
     "reason": "インフラ・調達コストと市場構造の変化は情シス・経営の判断に直接関わる重要な分析のため掲載に値する。",
     "published_at": "2026-06-21 08:00:00",
     "created_at": "2026-06-22 01:58:03"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "AIと機関銃 孫正義が語り始めたAIサイバー危機",
-    "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2118477.html",
-    "summary": "孫正義氏の発言を手がかりに、AIが引き起こすサイバーリスクと社会的影響を考察。企業や政策面での備えを促す論考。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "主要経営者の警告として業界の意識や投資・防御戦略に影響を与える可能性があり、注目に値するため。",
-    "published_at": "2026-06-20 09:00:00",
-    "created_at": "2026-06-21 01:57:22"
-  },
-  {
-    "source": "＠IT",
-    "title": "「若手はLinuxを学べ」「CLIで問題特定はもう古くなる」 AI時代に再定義されるエンジニアの基礎と現場の常識",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/20/news007.html",
-    "summary": "AI時代に求められるエンジニアの基礎知識や現場での常識を再検討。LinuxやCLIの扱い、スキルセットの変化と人材育成への示唆を提示。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発者やエンジニア育成、採用・現場運用に直接影響する実務的示唆があり、幅広い読者の判断に役立つため。",
-    "published_at": "2026-06-20 08:00:00",
-    "created_at": "2026-06-21 01:57:22"
   },
   {
     "source": "ITmedia NEWS",
