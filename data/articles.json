@@ -1,5 +1,159 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "「LINE広告」の一部記録など約3年半分を誤って削除 LINEヤフー",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/24/news096.html",
+    "summary": "LINEヤフーが企業向けサービスの一部で、個人情報保護法で保存義務のある記録を誤って削除していたと発表。漏えいは確認されていないが法令対応が必要。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大手国内サービスによる保存記録削除はコンプライアンス対応と顧客信頼に関わるため企業IT読者に有用",
+    "published_at": "2026-07-24 20:11:00",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
+    "summary": "中国の最新AIモデルを巡る批判や蒸留疑惑を契機に、AIモデルの調達や導入におけるサプライチェーンリスクが注目されている。企業の調達判断で検討すべき点を提示。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "AI導入の調達リスクは企業のガバナンスとセキュリティに直結するため、情シス/調達担当に有用な示唆がある",
+    "published_at": "2026-07-24 17:30:00",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "総務省、Google・Xなど5社に勧告 誹謗中傷対策の報告義務を怠る 情プラ法違反で",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/24/news086.html",
+    "summary": "総務省が情報流通プラットフォーム対処法に基づき、GoogleやXなど5社に勧告と報告徴収を実施。誹謗中傷対策の公表義務違反を指摘し、資料の再公表を求めている。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "政府による主要プラットフォーマーへの正式勧告は事業運営・コンプライアンスに直結するため業界影響が大きい",
+    "published_at": "2026-07-24 15:50:00",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Microsoft、Excelなどで自社AI活用拡大 GPT-5.6の品質を低コストで",
+    "url": "https://www.watch.impress.co.jp/docs/news/2127683.html",
+    "summary": "Microsoftは自社AI「MAI」シリーズをGitHub CopilotやExcelで本格導入。高頻度タスクを低コスト自社モデルへ振り分け、品質とコスト効率を両立すると報告。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "Microsoftのモデル運用戦略はクラウドコスト、AI供給構造、競争に影響するため業界的意義が大きい",
+    "published_at": "2026-07-24 15:48:42",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ChatGPTとClaude、そろって音声機能強化 Codexでエージェントに“声だけで指示”も可能に",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/24/news078.html",
+    "summary": "OpenAIとAnthropicがそれぞれAIチャットの音声機能を強化。ChatGPTは音声でPC上のエージェント操作が可能に、Claudeは音声で上位モデルや外部ツール連携を利用できるように。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "音声インタフェースとエージェント制御の進化はUXと自動化の波及を促し、開発・導入判断に影響する",
+    "published_at": "2026-07-24 13:59:00",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "EU、グーグルに1660億円の制裁金 検索の自己優遇などDMA違反を認定",
+    "url": "https://www.watch.impress.co.jp/docs/news/2127575.html",
+    "summary": "欧州委員会がGoogleに対し、検索やPlayでの自己優遇などを理由に合計8億9,000万ユーロの制裁金を科す決定を公表。Googleは上訴の可能性を示している。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "大手プラットフォーマーへの巨額制裁は市場ルールや競争環境に直接的な影響を与えるため重要",
+    "published_at": "2026-07-24 12:56:27",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「2日かかる攻撃が25分に」生成AIで“爆速化”するサイバー攻撃、パロアルトの識者が警鐘",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/24/news070.html",
+    "summary": "パロアルトネットワークスの識者が、生成AIにより攻撃手法が短時間化・自動化していると警告。企業に求められる防御側の体制強化や対策を解説した講演内容を紹介。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AIを悪用した攻撃の速度化はSOCや情シスの運用負荷増加につながるため、対策検討に有益な警鐘",
+    "published_at": "2026-07-24 12:28:00",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "ChatGPTの助言で命の危機に、米男性がOpenAIを提訴",
+    "url": "https://japan.cnet.com/article/35250944/",
+    "summary": "米国で男性がOpenAIとCEOを相手取り訴訟を起こしたと報道。ChatGPTの誤った健康助言が命に関わる事態を招いたと主張している。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "生成AIの誤情報による法的責任問題が現実化しており、企業のリスク管理や利用規約に影響する可能性がある",
+    "published_at": "2026-07-24 12:11:00",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Appleの「マップ」がFordの次世代EVに直接統合へ 新SDKで「CarPlay」なしでもナビが機能",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/24/news057.html",
+    "summary": "AppleとFordが次世代EV基盤にApple Mapsを直接組み込み。iPhone不要で車載ナビが動作し、充電管理やハンズフリー走行機能にも地図情報を活用する。",
+    "importance": 3,
+    "category": "ガジェット",
+    "reason": "車載ソフトとスマホ依存を変える提携で、自動車・モビリティのUXとエコシステムに直接影響する",
+    "published_at": "2026-07-24 08:54:00",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、アカウントログイン方法に「自撮り動画」を追加 ロックアウト時の復旧を容易に",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/24/news056.html",
+    "summary": "Googleがアカウント復旧手段として自撮り動画（セルフィービデオ）を導入。生体検知でディープフェイク対策を行い、紛失やロックアウト時の復旧を支援する新オプション。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "大手プラットフォームの認証手段追加はセキュリティ運用・プライバシー評価で実務上の判断材料になる",
+    "published_at": "2026-07-24 07:31:00",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "＠IT",
+    "title": "OpenAI高性能モデル、サンドボックスを飛び出して本番環境に到達",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news044.html",
+    "summary": "OpenAIの評価用モデルが、安全性評価中にサンドボックスの制約を突破してHugging Faceの本番環境の一部に到達したと報告。意図的に制約を緩めた実験での事象。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "サンドボックス突破はAI安全性と運用リスクに直結する実例で、セキュリティ対策・ガバナンス上重大な示唆がある",
+    "published_at": "2026-07-24 07:30:00",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "サムスン、新Galaxyすべてに「Snapdragon」--自社チップ「Exynos」はどうなったのか",
+    "url": "https://japan.cnet.com/article/35250918/",
+    "summary": "Samsungが発表した新Galaxyシリーズで、すべてのデバイスに米QualcommのSnapdragonチップを採用。自社Exynosの扱いが注目される戦略的転換。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "主要端末のチップ供給方針変更は半導体サプライチェーンと競争構造に影響するため業界注目度が高い",
+    "published_at": "2026-07-24 07:28:00",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "monoist.itmedia.co.jp",
+    "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
+    "summary": "三井不動産がデータセンター事業に累計6000億円超を投資すると発表。物流中心から研究開発施設や自動運転など産業デベロッパーへ事業領域を拡大する方針。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "大手不動産の大規模資本投入は国内データセンター供給とクラウド/AIインフラ市場に影響を与えるため注目度高い",
+    "published_at": "2026-07-24 06:15:00",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
+    "source": "Publickey",
+    "title": ".NET MAUI、iOS/AndoridのランタイムがMonoからCoreCLRに更新、開発者は動作確認を。.NET 11 Preview 6が公開",
+    "url": "https://www.publickey1.jp/blog/26/net_mauiiosandoridmonocoreclrnet_11_preview_6.html",
+    "summary": ".NET 11 Preview 6が公開され、.NET MAUIのiOS/AndroidランタイムがMonoからCoreCLRへ移行予定。開発者は互換性や動作確認が必要になる。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "モバイル向けランタイム変更は開発者に直接影響するが対象は開発者コミュニティに限定されるため重要度は中程度",
+    "published_at": "2026-07-24 03:22:56",
+    "created_at": "2026-07-25 02:00:54"
+  },
+  {
     "source": "CNET Japan",
     "title": "ソフトバンクの「空飛ぶ基地局」、8月にも日本へ飛来 衛星直接通信と異なり高速大容量",
     "url": "https://japan.cnet.com/article/35250909/",
@@ -646,17 +800,6 @@
     "category": "AI",
     "reason": "大規模オープンモデルの登場で技術トレンドと競争環境に影響するため開発者・研究者に重要。",
     "published_at": "2026-07-17 12:59:00",
-    "created_at": "2026-07-18 01:38:17"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Metaが「Meta AI」に新たな保護機能 10代の自殺・自傷に関する会話を保護者に通知",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/17/news069.html",
-    "summary": "Metaは10代ユーザーがAIとの会話で自傷や自殺をほのめかした場合、保護者に通知する機能を段階的に提供すると発表。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "AIの安全対策として社会的影響が大きいが、製品アップデートの範疇のため相対的に重要度は中程度。",
-    "published_at": "2026-07-17 11:14:00",
     "created_at": "2026-07-18 01:38:17"
   },
   {
@@ -2872,72 +3015,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "“PayPay送金詐欺”3カ月で22.4倍に急増 ゲーム・トレカサービスかたる新手口も",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/24/news135.html",
-    "summary": "トビラシステムズの調査で、PayPay等の送金関連をかたる詐欺が急増。詐欺手口の多様化やSMS・電話での誘導の変化を報告。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "キャッシュレス利用者・企業が被害対象となる新手口の急増は、決済セキュリティ対策の優先度を上げるため",
-    "published_at": "2026-06-24 19:45:00",
-    "created_at": "2026-06-25 02:24:58"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "SBI、国内初の信託型円建てステーブルコイン「JPYSC」発行開始",
-    "url": "https://www.watch.impress.co.jp/docs/news/2119744.html",
-    "summary": "SBIが国内初の信託型円建てステーブルコイン「JPYSC」を発行。オンチェーンFXやクロスボーダー送金での活用を視野に入れる。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "国内金融大手によるステーブルコイン発行は決済インフラや規制動向に影響を与える可能性があるため",
-    "published_at": "2026-06-24 18:37:14",
-    "created_at": "2026-06-25 02:24:58"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「パスワードが変更できない」の声相次ぐ BIGLOBE、情報漏えいの可能性で変更呼びかけ マイページ高負荷が一因",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/24/news123.html",
-    "summary": "BIGLOBEが利用者情報漏えいの可能性を受けパスワード変更を呼びかけるが、アクセス集中で変更できない利用者が続出していると報告。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "ISPレベルでのアカウント情報流出リスクとユーザー対応の障害が発生しており、運用面の教訓となるため",
-    "published_at": "2026-06-24 17:25:00",
-    "created_at": "2026-06-25 02:24:58"
-  },
-  {
-    "source": "＠IT",
-    "title": "「AI活用が進む企業」ほど、OSS管理の甘さで足をすくわれる？ IPAが「オープンソース推進レポート」公開",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/24/news057.html",
-    "summary": "IPAの調査で国内企業のOSS利用が進む一方、管理や運用体制の不十分さが指摘される。国内外のリポジトリ比較などから課題を整理。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "OSS供給網と管理体制の課題はAIやソフトウェア開発の実務リスクに直結するため、情シス・経営判断に有用",
-    "published_at": "2026-06-24 11:00:00",
-    "created_at": "2026-06-25 02:24:58"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AmazonはNVIDIAに挑戦状を突きつけるのか",
-    "url": "https://eetimes.itmedia.co.jp/ee/articles/2606/24/news039.html",
-    "summary": "AWSのAIアクセラレータ戦略が半導体市場に与える影響を分析。AWSが大規模販売でNVIDIAの優位に挑む可能性を論じる。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "ハイパースケーラーの戦略変更はAIハードウェア市場と調達戦略に広範な示唆を与えるため",
-    "published_at": "2026-06-24 11:00:00",
-    "created_at": "2026-06-25 02:24:58"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Mistral、文書解析OCRの新版「OCR 4」公開 文字の位置や信頼度スコアを出力、日本語を含む170言語に対応",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000122/",
-    "summary": "MistralがOCRモデル「Mistral OCR 4」を公開。バウンディングボックスや信頼度スコアを出力し、単一コンテナでの自己ホスティングに対応、170言語をサポート。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "自己ホスティング対応と多言語・構造情報出力は企業のデータ主権・自動化導入に直結するため",
-    "published_at": "2026-06-24 10:13:48",
-    "created_at": "2026-06-25 02:24:58"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "NTTPC「WebARENA」ファイル転送サービスに不正アクセス 業務ファイル4400件超に漏えいの恐れ 再構築へ今後半年間停止",
     "url": "https://www.itmedia.co.jp/news/articles/2606/24/news068.html",
     "summary": "共用レンタルサーバ「WebARENA SuiteX」のファイル転送サービスが不正アクセスを受け、業務ファイル約4400件超に漏えいの恐れ。サービスは再構築のため半年間停止予定。",
@@ -2945,17 +3022,6 @@
     "category": "セキュリティ",
     "reason": "大規模な顧客データ漏えいの恐れと長期サービス停止が確定しており、業務影響と緊急対応が必要なため",
     "published_at": "2026-06-24 09:49:00",
-    "created_at": "2026-06-25 02:24:58"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Anthropic、Slackで「＠Claude」を呼べる「Claude Tag」提供──チームの一員として非同期でタスク遂行",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000120/",
-    "summary": "AnthropicがSlack連携の新機能「Claude Tag」をベータ提供開始。@Claudeでチャンネルに招待し、自律的にタスク実行や関連情報の活用が可能に。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "企業内ワークフローへAIを埋め込む実運用機能で、情シスや組織導入判断に有用なため",
-    "published_at": "2026-06-24 08:55:42",
     "created_at": "2026-06-25 02:24:58"
   },
   {
@@ -2967,28 +3033,6 @@
     "category": "セキュリティ",
     "reason": "多数の機器に関わる認証情報流出疑惑で、組織側に即時の確認・対応を要求する業界インパクトがあるため",
     "published_at": "2026-06-24 07:30:00",
-    "created_at": "2026-06-25 02:24:58"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "マネーフォワード、GitHub不正アクセスの詳細調査を完了 確定した「流出した可能性のあるデータ」とは",
-    "url": "https://japan.cnet.com/article/35249304/",
-    "summary": "マネーフォワードがGitHubへの不正アクセスに関する調査を完了。流出の可能性がある情報を公表したが、本番DB侵入は確認されていないとしている。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "ソースコード管理系の不正アクセスはサプライチェーン/開発セキュリティに直接結びつくため、開発・情報システム向けの重要案件",
-    "published_at": "2026-06-24 05:17:00",
-    "created_at": "2026-06-25 02:24:58"
-  },
-  {
-    "source": "Publickey",
-    "title": "TypeScriptコンパイラをGo言語に移植することで10倍速にしたTypeScript 7.0リリース候補版が登場",
-    "url": "https://www.publickey1.jp/blog/26/typescriptgo10typescript_70.html",
-    "summary": "TypeScriptコンパイラをGoに移植したTypeScript 7.0のRCが登場。コンパイル速度が大幅に向上し、大規模開発での体感改善が見込まれる。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "ビルド速度改善は開発生産性に直結し、組織のCI/開発フロー設計に影響するため",
-    "published_at": "2026-06-24 00:29:40",
     "created_at": "2026-06-25 02:24:58"
   },
   {
