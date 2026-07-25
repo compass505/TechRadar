@@ -3747,64 +3747,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "a4344e5ccb81",
-    "title": "AIコーディング導入企業の8割が「ガバナンス整備が追いついていない」と回答 GitLabがAIパラドックスと新たな技術的負債への警鐘を鳴らす",
-    "published_date": "2026-06-25",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "GitLabの調査で、AIコーディング導入企業の約8割がガバナンス整備の遅れを実感。品質管理や技術的負債の新リスクを指摘し、管理体制の強化を推奨している。",
-    "reason": "開発現場でのAI導入に伴う運用・ガバナンス課題は多くの企業が直面している実務的な問題であるため",
-    "published_at": "2026-06-25 17:13:00",
-    "created_at": "2026-06-26 02:27:49",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news121.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "b721902484fb",
-    "title": "AWS Lambda MicroVMs登場。サーバレスの手軽さでステートフルかつ隔離された実行環境を提供",
-    "published_date": "2026-06-25",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "AWSがLambda上で一時的にステートフルな隔離実行環境を提供する「AWS Lambda Micro VMs」を発表。サーバレスの利便性とより強い隔離を両立する新機能。",
-    "reason": "サーバレス設計の運用モデルを拡張し、開発者のアーキテクチャ選択に影響を与えるため",
-    "published_at": "2026-06-25 00:40:24",
-    "created_at": "2026-06-26 02:27:49",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/aws_lambda_microvms.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "3600c5bceee4",
     "title": "Google Play、手数料を30％から引き下げ 独自決済や外部サイト誘導も開放 日本は12月から",
     "published_date": "2026-06-25",
@@ -3915,33 +3857,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "c836f6a2d6dc",
-    "title": "OpenAI、「GPT-5.5 Instant」をアップデート 会話の文脈維持や箇条書き減など「読みやすさ」を改善",
-    "published_date": "2026-06-25",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "OpenAIが標準モデルGPT-5.5 Instantを更新。文脈維持や応答の簡潔化、位置情報利用の改善などで日常利用の品質を向上させる調整を導入。",
-    "reason": "広く使われるモデルの改善はサービス運用や開発者UXに直接影響するため重要",
-    "published_at": "2026-06-25 09:23:00",
-    "created_at": "2026-06-26 02:27:49",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/25/news062.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "9decf6cc4b8a",
     "title": "OpenAI、初の独自AIチップ「Jalapeno」発表──Broadcomと共同開発の推論用アクセラレータ",
     "published_date": "2026-06-25",
@@ -4024,35 +3939,6 @@
     "urgency_score": 0,
     "utility_score": 2,
     "has_itmedia_article": true
-  },
-  {
-    "id": "29852ec8bad4",
-    "title": "Windowsの脆弱性探索に100超のAIエージェント活用 Microsoftの月例パッチの裏で稼働するシステムとは",
-    "published_date": "2026-06-25",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "Microsoftがマルチモデルエージェント型システム「MDASH」で100超のAIエージェントを活用し、Windowsの未知脆弱性発見に寄与している取り組みを解説。自動化とスケールでセキュリティ強化を図る。",
-    "reason": "自動化されたAIによる脆弱性探索はセキュリティ運用の方法論に変化をもたらすため注目に値する",
-    "published_at": "2026-06-25 13:00:00",
-    "created_at": "2026-06-26 02:27:49",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news045.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
   },
   {
     "id": "238ef52892ae",
@@ -9630,58 +9516,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "c2642b7bac30",
-    "title": "ガラケーみたいなAndroidゲーム機「RG Rotate」",
-    "published_date": "2026-07-18",
-    "importance_score": 1,
-    "category": "ガジェット",
-    "summary": "画面を回転させるとボタンが現れるガラケー風のAndroidゲーム機。Android 12搭載で携帯性を重視した新型ハードの紹介記事。",
-    "reason": "技術トレンドや業界を左右する話ではなくガジェット紹介のため重要度は低め。",
-    "published_at": "2026-07-18 12:00:00",
-    "created_at": "2026-07-19 01:15:32",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35250323/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "bf0004563455",
-    "title": "グーグル「AIモード検索」、CanvaやYouTube Musicと連携",
-    "published_date": "2026-07-18",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "Google検索のAIモードが外部サービス連携を強化。CanvaやInstacart、YouTube Musicなどと統合し、検索UI内での機能活用が可能に。まず米国向けに提供開始。",
-    "reason": "検索プラットフォームのAI統合強化はユーザー体験と連携エコシステムに影響するが即時の危機度は低いため中程度。",
-    "published_at": "2026-07-18 08:30:00",
-    "created_at": "2026-07-19 01:15:32",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2126233.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "7fcef7c54c14",
     "title": "佐川急便、約7万人分の個人情報漏えいか 「スマートクラブ」通知メールに別人の氏名など表示",
     "published_date": "2026-07-18",
@@ -11302,5 +11136,142 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
+  },
+  {
+    "id": "6d4f5e126284",
+    "title": "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
+    "published_date": "2026-07-25",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Anthropicが新モデル「Claude Opus 5」を公開。上位モデルに迫る性能を半額で提供し、推論深度や安全性連動の自動フォールバックなど運用向け機能を搭載している。",
+    "reason": "価格性能比や運用機能が開発者・導入検討者にとって有益だが、重大リスクの報告ではないため3。",
+    "published_at": "2026-07-25 07:28:00",
+    "created_at": "2026-07-26 01:15:31",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a88c2c70f015",
+    "title": "「165日→30分」に短縮 「1万9000人の全社RAG」 大企業が明かすAI共通基盤のリアル",
+    "published_date": "2026-07-25",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "大企業が全社規模のRAG（Retrieval-Augmented Generation）基盤を展開し、処理時間を165日から30分に短縮した事例を紹介。1万9000人規模の適用や運用課題、設計上の工夫に触れる。",
+    "reason": "大規模企業のAI共通基盤導入と運用ノウハウは情シス・経営判断に直結する実務的な重要ニュース。",
+    "published_at": "2026-07-25 08:00:00",
+    "created_at": "2026-07-26 01:15:31",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/25/news010.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "8d204f7ccc9e",
+    "title": "【レビュー】楽しいカメラ、AIはこれから AIグラスの新標準「Ray-Ban Meta」を2カ月使った",
+    "published_date": "2026-07-25",
+    "importance_score": 2,
+    "category": "ガジェット",
+    "summary": "Metaのスマートグラス「Ray-Ban Meta」を2カ月使用したレビュー。カメラ機能やUI、AI機能の現状と今後の改善点を実地評価している。",
+    "reason": "AIグラスのユーザー体験と課題が具体的に示され、ガジェット・プロダクト戦略に示唆を与えるため掲載価値あり。",
+    "published_at": "2026-07-25 09:30:00",
+    "created_at": "2026-07-26 01:15:31",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/review/review/2127069.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0f58fa3fa0e6",
+    "title": "仕事外のネット利用「平日4時間以上」で抑うつ傾向 富山大が調査",
+    "published_date": "2026-07-25",
+    "importance_score": 2,
+    "category": "その他",
+    "summary": "富山大学の調査で、地方公務員を対象に仕事外で平日4時間以上インターネット利用する人は抑うつ傾向が高いと報告。勤務者の健康とデジタル習慣の関係を示す研究結果。",
+    "reason": "職場のデジタル利用とメンタルヘルスの関連は企業の働き方・社員支援に関わるため実務的に有用。",
+    "published_at": "2026-07-25 08:30:00",
+    "created_at": "2026-07-26 01:15:31",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/24/news098.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c3e520da02f4",
+    "title": "米国にはオープンなAIモデルが必要 MSやNVIDIAらが拙速な規制に反対声明",
+    "published_date": "2026-07-25",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "MicrosoftやNVIDIA、Metaなど主要テック企業がオープンウェイトモデルの重要性を訴え、拙速な規制を回避するよう米政府に求める共同声明を発表した。規制の枠組みを巡る業界の立場表明。",
+    "reason": "AI規制の枠組みに対する主要企業の共同声明は政策動向と市場戦略に大きな影響を与えるため重要。",
+    "published_at": "2026-07-25 00:55:30",
+    "created_at": "2026-07-26 01:15:31",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2127828.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
   }
 ]
