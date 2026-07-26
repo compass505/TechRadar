@@ -1,5 +1,49 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "Meta、Facebookに無料の認証バッジ「Facebook Verified」 自撮り動画で登録、「Meta Verified」とは別",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/26/news015.html",
+    "summary": "MetaがFacebook向けに無料の認証バッジを導入。短い自撮り動画で本人確認し、プロフィールやMarketplace、グループに表示。既存の有料「Meta Verified」とは別扱い。",
+    "importance": 2,
+    "category": "ビジネス",
+    "reason": "プラットフォームの信頼性・アカウント対策に関わる施策で事業戦略上の意味はあるが影響範囲は中程度。",
+    "published_at": "2026-07-26 09:42:00",
+    "created_at": "2026-07-27 01:26:53"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "スマホの値上げが止まらない フォルダブル時代に期待したい「売り方」競争",
+    "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2127477.html",
+    "summary": "スマートフォン価格の上昇トレンドと、フォルダブル時代における販売戦略の重要性を論じるコラム。売り方の工夫が市場競争のカギになると指摘。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "市場動向の分析としては有益だが、技術的・業界影響は限定的で掲載優先度は低め。",
+    "published_at": "2026-07-26 09:00:00",
+    "created_at": "2026-07-27 01:26:53"
+  },
+  {
+    "source": "＠IT",
+    "title": "AIコーディングだけでは「塩漬けレガシーの刷新」がうまくいかないワケ",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/26/news006.html",
+    "summary": "AIツール導入だけではレガシーシステム刷新が完遂しない理由を事例とともに解説。組織体制、運用、コスト面の課題と効果的な進め方のポイントを提示。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発者・情シス向けに実務的示唆を与える記事で、導入判断やプロジェクト設計に有用。",
+    "published_at": "2026-07-26 08:00:00",
+    "created_at": "2026-07-27 01:26:53"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+    "summary": "米大手30社以上が、オープンウェイトAIモデルへの過度な規制に反対する共同書簡を公表。オープンモデルを開発・評価の基盤と位置付け、イノベーション維持を訴える。Anthropicは署名していない。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要企業による政策働きかけで、AI規制の方向性と産業戦略に直接影響するため優先度高。",
+    "published_at": "2026-07-26 06:51:00",
+    "created_at": "2026-07-27 01:26:53"
+  },
+  {
     "source": "Impress Watch",
     "title": "【レビュー】楽しいカメラ、AIはこれから AIグラスの新標準「Ray-Ban Meta」を2カ月使った",
     "url": "https://www.watch.impress.co.jp/docs/review/review/2127069.html",
@@ -2750,28 +2794,6 @@
     "created_at": "2026-06-28 01:36:16"
   },
   {
-    "source": "CNET Japan",
-    "title": "「Windows 10」のセキュリティ更新、さらに1年延長 2027年10月12日まで 個人向け",
-    "url": "https://japan.cnet.com/article/35249496/",
-    "summary": "MicrosoftがWindows 10の拡張セキュリティ更新（ESU）を個人向けに1年延長。登録済みデバイスは2027年10月12日まで更新を受ける。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "OSライフサイクル延長は移行計画やセキュリティ管理方針に影響するため、多くのユーザー/管理者が押さえるべきニュース。",
-    "published_at": "2026-06-26 16:07:00",
-    "created_at": "2026-06-27 02:13:15"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "OpenAI、「GPT-5.6」のリリースは特定のパートナーに限定か 上場は来年への延期を検討",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/26/news104.html",
-    "summary": "OpenAIがGPT-5.6の一般提供を限定的にする方針や、上場時期を来年へ延期する検討を報じられている。提供戦略の見直しが示唆される。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "主要モデルの提供方式や上場時期の変更はAIサービスの利用・提携戦略に影響するため注目度が高い。",
-    "published_at": "2026-06-26 15:30:00",
-    "created_at": "2026-06-27 02:13:15"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "防衛省は“認知戦”にどう挑む ウクライナ脅かすAIフェイク、偽アカウントへの対応は 分析資料を公開",
     "url": "https://www.itmedia.co.jp/news/articles/2606/26/news091.html",
@@ -2783,28 +2805,6 @@
     "created_at": "2026-06-27 02:13:15"
   },
   {
-    "source": "＠IT",
-    "title": "「AIでコスト削減」のはずが予算超過 企業が見落とすトークン課金のわな",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/27/news005.html",
-    "summary": "生成AIのトークン課金や従量制モデルで予算超過する事例を解説。コスト管理やガバナンス策の必要性を提示している。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "AI導入で現実に発生する運用コストリスクに直結する実務的課題で、情シス・経営の判断に役立つため。",
-    "published_at": "2026-06-26 13:25:00",
-    "created_at": "2026-06-27 02:13:15"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「OpenAIはAzureだけ」の時代が終了 「GPT-5.5」「Codex」をAWSで利用するメリットは何か",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news045.html",
-    "summary": "OpenAIとAWSの戦略的提携拡大により、GPTシリーズやCodexなどをAWS環境で利用可能に。企業側の選択肢が増える狙いを解説する。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "主要モデルのクラウド提供先が拡大することで、クラウド選定やデータ統制戦略に実務的影響が出るため。",
-    "published_at": "2026-06-26 13:00:00",
-    "created_at": "2026-06-27 02:13:15"
-  },
-  {
     "source": "Impress Watch",
     "title": "欧州委、AWSやAzureをデジタル規制対象に DMAをクラウド適用",
     "url": "https://www.watch.impress.co.jp/docs/news/2120254.html",
@@ -2813,61 +2813,6 @@
     "category": "法規制",
     "reason": "欧州で主要クラウド事業者に対するデジタル規制適用の動きは、クラウド事業者と顧客双方に広範な影響を与えるため。",
     "published_at": "2026-06-26 11:17:14",
-    "created_at": "2026-06-27 02:13:15"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Amazon Bedrockのトークン処理量、26年1Qだけで過去累計超え AWSが目指す、AIのための「信頼できるインフラ」",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2606/26/2000000131/",
-    "summary": "Amazon Bedrockのトークン処理が2026年1Qだけで過去累計を上回る急増。AWSはAI推論負荷に耐えるインフラ整備を強調している。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "推論負荷の急増はクラウドインフラ需要とコスト設計に直結するため、企業ITにとって重要な指標。",
-    "published_at": "2026-06-26 11:00:17",
-    "created_at": "2026-06-27 02:13:15"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "企業のAI支出そろそろ“様子見”は終わり？ Gartner予測、本格投資の行方は",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news055.html",
-    "summary": "Gartnerは2026年の世界AI支出が前年比47％増の約2.6兆ドルに達すると予測。企業のAI支出が拡大局面へ移る転換点と位置付ける。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "企業投資の大規模転換はIT戦略・予算配分に直接影響するため経営・情シスに有用。",
-    "published_at": "2026-06-26 11:00:00",
-    "created_at": "2026-06-27 02:13:15"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "ITインフラの要件に“大変化” なぜ「電力」と「冷却」にAI活用が縛られるのか？",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/26/news023.html",
-    "summary": "AI時代でデータセンター選定が電力・冷却制約に左右される現実を解説。IT部門が対応すべき設計・運用の要点を示す。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "データセンター立地やコストに直接影響する、AI導入時のインフラ制約を解説しており情シス判断に有益。",
-    "published_at": "2026-06-26 08:00:00",
-    "created_at": "2026-06-27 02:13:15"
-  },
-  {
-    "source": "＠IT",
-    "title": "「検知してから対応」はもう遅い――WithSecureが語る“AI時代の敗北条件”",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news040.html",
-    "summary": "WithSecureがAIにより攻撃が自動化される現状を指摘し、従来の検知→対応モデルの限界と新たな防御アプローチを議論した。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "攻撃自動化時代の防御戦略は企業のセキュリティ設計・投資判断に直接関わるため重要。",
-    "published_at": "2026-06-26 08:00:00",
-    "created_at": "2026-06-27 02:13:15"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Notion、メールアプリ「Notion Mail」終了へ AIエージェントに全面移行",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/26/news060.html",
-    "summary": "Notionが9月22日にNotion Mailを終了し、AIエージェントによる受信トレイ運用へ全面移行すると発表。利用実態の変化を受けた判断。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "業務ツールのメール運用をエージェントに移す示例で、企業のワークフロー設計やガバナンス議論に示唆を与えるため。",
-    "published_at": "2026-06-26 07:32:00",
     "created_at": "2026-06-27 02:13:15"
   },
   {
