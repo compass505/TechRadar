@@ -4191,34 +4191,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "297b188057d2",
-    "title": "官民投資フィジカルAIに10.5兆円示す、「実証から実装へ」動き出す現場",
-    "published_date": "2026-06-27",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "フィジカル領域のAI実装に向け、官民で約10.5兆円規模の投資が見込まれていることを伝え、実証から実装へ移行する現場の動きをまとめた特集。",
-    "reason": "大規模投資案件は産業応用やベンダー戦略に影響するが即時の緊急性は低く、解説として有益なため中程度の重要度。",
-    "published_at": "2026-06-27 07:00:00",
-    "created_at": "2026-06-28 01:36:16",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2606/27/news009.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "dbf43163d462",
     "title": "東電出資に意欲 孫正義氏が「国内データセンター誘致」で狙うインフラ戦略",
     "published_date": "2026-06-27",
@@ -9401,33 +9373,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "d50618a676d0",
-    "title": "【レビュー】Geminiで生まれ変わった新Google Homeスピーカー 「買い」だけれど発展途上",
-    "published_date": "2026-07-20",
-    "importance_score": 1,
-    "category": "ガジェット",
-    "summary": "Googleの新スマートスピーカー（16,800円）がGemini統合で進化。音声AI体験や機能面は評価できるが、まだ発展途上の部分もあるとするレビュー。",
-    "reason": "主要な消費者向けAI搭載デバイスのレビューで興味深いが、業界や企業ITへの直接的影響は限定的なため。",
-    "published_at": "2026-07-20 09:20:00",
-    "created_at": "2026-07-21 01:49:36",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/review/review/2126335.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "82509c9737b6",
     "title": "AMDとMicrosoftが戦略的提携を拡大 新AIラックスケール「Helios」をAzureに大規模導入へ",
     "published_date": "2026-07-21",
@@ -11126,5 +11071,346 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
+  },
+  {
+    "id": "2b1598b6c741",
+    "title": "AIエージェントと共に働くリスクとは？ PwCが説く「実践的ガバナンス」から考察",
+    "published_date": "2026-07-27",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "PwCが提唱するAIエージェント活用に伴う包括的リスク管理とガバナンスの枠組みを紹介。サイバーだけでなく業務や法務リスクまで含めた実務的な対策論。",
+    "reason": "企業でのAIエージェント導入が進む中、経営・情シスが参照すべきガバナンス指針として有用。",
+    "published_at": "2026-07-27 12:00:00",
+    "created_at": "2026-07-28 02:15:07",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2607/27/news049.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "32b63d600fad",
+    "title": "MCP仕様が明日アップデート、7月28日版MCPからはステートレスな接続が正式仕様に。GitHub MCPサーバが早くも対応発表",
+    "published_date": "2026-07-27",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "AIツール接続の事実上の業界標準であるMCPが7月28日版でステートレス接続を正式仕様化。GitHubのMCPサーバが対応を表明するなどエコシステムの変化が始まる。",
+    "reason": "AIツール間接続の標準仕様変更は開発者・運用者に直接影響するため技術系読者に重要。",
+    "published_at": "2026-07-27 00:06:36",
+    "created_at": "2026-07-28 02:15:07",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "536074b92ff2",
+    "title": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明 Anthropic従業員は「CUDAのオープンソース化が楽しみ」と皮肉",
+    "published_date": "2026-07-27",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "主要AI企業がオープンモデル規制に反対する共同声明を発表。規制動向に対する業界の立場を明確化する動きで、意見対立の様相も伝える。",
+    "reason": "AIモデル規制を巡る業界の統一的な立場表明は政策議論に影響し得るため注目度が高い。",
+    "published_at": "2026-07-27 13:40:13",
+    "created_at": "2026-07-28 02:15:07",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000222/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d5037a606db4",
+    "title": "NVIDIA、「オープンなAIセキュリティ」掲げる業界連合 Microsoftなど30社超が参加",
+    "published_date": "2026-07-27",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "NVIDIAがAIセキュリティ向けの技術開発・共有を目指す業界連合「Open Secure AI Alliance」を設立。Microsoftなどを含む30社超が参加する。オープンな共通基盤を目指す動き。",
+    "reason": "主要企業が参加するAIセキュリティの業界横断的な取り組みで、技術標準化や運用に影響を与える事業ニュース。",
+    "published_at": "2026-07-27 19:42:07",
+    "created_at": "2026-07-28 02:15:07",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000224/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "18991fdf034e",
+    "title": "「生成AIは失敗だった？」 コーディング／開発現場で生産性が下がる3つの理由",
+    "published_date": "2026-07-27",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "DORA調査の知見を紹介し、AI支援によるソフトウェア開発で初期に生産性が低下する理由を整理。開発現場での運用上の懸念点と対策を解説している。",
+    "reason": "生成AI導入が現場の生産性に与える影響を定量調査に基づき解説し、開発・導入判断に役立つため掲載。",
+    "published_at": "2026-07-27 10:50:00",
+    "created_at": "2026-07-28 02:15:07",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/27/news044.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "4bd849b705ef",
+    "title": "もう「拠点間VPN」は安全じゃないのか？ 代替手段が浮上するのはなぜか",
+    "published_date": "2026-07-27",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "従来の拠点間VPNが抱えるリスクを整理し、Zscalerなどが提案する代替アーキテクチャの考え方を解説。企業ネットワークの設計見直しを促す内容。",
+    "reason": "ネットワーク設計の転換は情シスの意思決定に直結するため、実務的に有用な分析記事として掲載価値あり。",
+    "published_at": "2026-07-27 13:00:00",
+    "created_at": "2026-07-28 02:15:07",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/27/news042.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a2aa476e157d",
+    "title": "ゲームエンジン「Unity 7」発表、ランタイム基盤がMonoから.NET CoreCLRへ移行。高速化により、開発画面からほぼ瞬時にプレイモードが起動",
+    "published_date": "2026-07-27",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "Unity 7を発表。ランタイム基盤をMonoから.NET CoreCLRへ移行し、エディタ内での起動高速化など開発体験が大きく改善される。互換性や移行影響も解説。",
+    "reason": "主要ゲームエンジンのランタイム刷新は開発ワークフローやライブラリ互換性に影響し、開発コミュニティで注目度が高い。",
+    "published_at": "2026-07-27 00:02:22",
+    "created_at": "2026-07-28 02:15:07",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/unity_7mononet_coreclr.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6086ed937263",
+    "title": "レノボが「関西AI Hub」を創設--PoC止まりのAIを事業化まで運ぶ",
+    "published_date": "2026-07-27",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "レノボ・ジャパンが関西で産学連携のAI共創拠点『関西AI Hub』を創設。PoCから事業化、資金調達まで支援する環境を無料で提供し社会実装を後押しする。",
+    "reason": "地域のAI実装支援として有意義だが影響範囲が限定されるため重要度は中程度。",
+    "published_at": "2026-07-27 10:03:00",
+    "created_at": "2026-07-28 02:15:07",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35250958/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "15bd291818b7",
+    "title": "回避策なし、「BIND 9」に高深刻度7件の脆弱性 DNSキャッシュ汚染やDoSの恐れ",
+    "published_date": "2026-07-27",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "DNSサーバソフトBIND 9で9件の脆弱性が修正。うち7件は深刻度「高」で、DNSキャッシュ汚染やDoSにつながる可能性がある。現時点で有効な回避策が示されていない。",
+    "reason": "基幹インフラであるDNSに高深刻度脆弱性、回避策なしで運用者対応が必須のため掲載優先度高。",
+    "published_at": "2026-07-27 07:00:00",
+    "created_at": "2026-07-28 02:15:07",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/27/news033.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "4fbd71bc0b9c",
+    "title": "富士通と日本IBMが「COBOL脱却」でタッグ 移行先はJava 企業をどう支援？",
+    "published_date": "2026-07-27",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "富士通のメインフレーム事業撤退を受け、富士通と日本IBMがCOBOL資産のJava移行で協業。移行支援の枠組みや企業への影響を解説する。レガシーシステム対応が喫緊の課題。",
+    "reason": "多数企業の基幹系に関わるレガシー移行で大手同士の協業は長期的な経営・運用判断に直結するため高評価。",
+    "published_at": "2026-07-27 13:00:00",
+    "created_at": "2026-07-28 02:15:07",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/27/news041.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "72864bda4871",
+    "title": "検索結果に「詐欺ではありません」と表示させる詐欺手口、警視庁が注意喚起 AI要約も餌食に",
+    "published_date": "2026-07-27",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "SNS型投資詐欺グループが検索結果の仕組みを悪用し、肯定的情報を上位に並べることでAI要約や検索スニペットに『詐欺ではありません』と表示させる手口を確認。警視庁が注意を呼びかける。",
+    "reason": "検索エンジンとAI要約を組み合わせた新たな詐欺手法で、広範なユーザ被害や検出回避のリスクがあるため重要。",
+    "published_at": "2026-07-27 19:00:00",
+    "created_at": "2026-07-28 02:15:07",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/27/news076.html",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "74b569e86a29",
+    "title": "法人被害45億円、元警視庁が解説「会話もできるAI詐欺」の手口と対策",
+    "published_date": "2026-07-27",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "生成AIで経営者や上司の声を短時間で複製する手口が進化。元警視庁らが実演を交え、最新のボイスフィッシング被害事例と組織が取るべき対策を解説する。被害額は数十億規模に上る事例を紹介。",
+    "reason": "AI音声合成を悪用した大規模詐欺の実被害と対策提示は企業の即時対応が必要で掲載価値が高い。",
+    "published_at": "2026-07-27 07:00:00",
+    "created_at": "2026-07-28 02:15:07",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/articles/2607/27/news029.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
   }
 ]
