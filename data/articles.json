@@ -1,5 +1,170 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始【追記】",
+    "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000247/",
+    "summary": "熊本県で最大震度7の地震により一部地域で携帯サービスに障害発生。通信各社が他社回線利用のJAPANローミングを開始し対応中。被災地での通信確保が課題。",
+    "importance": 5,
+    "category": "その他",
+    "reason": "大規模地震による通信インフラ障害で即時性・広範な影響があり、復旧・代替手段が必要な重大事案のため",
+    "published_at": "2026-07-28 23:37:45",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NHKのネットサービスが受信契約なしで閲覧可能に 熊本地震受け緊急対応",
+    "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000250/",
+    "summary": "熊本地震を受け、NHKのネットサービス「NHK ONE」を受信契約なしで誰でも閲覧可能に。防災情報を優先公開し被災者向け情報提供を強化。緊急時の情報アクセシビリティ向上。",
+    "importance": 3,
+    "category": "その他",
+    "reason": "公的メディアの緊急対応は被災地の情報流通に直結し、読者の理解に役立つため",
+    "published_at": "2026-07-28 22:13:12",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "熊本で非常時Wi-Fi「00000JAPAN」発動中 KDDIが無料開放、他社ユーザーも利用可",
+    "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000246/",
+    "summary": "KDDIとワイヤ・アンド・ワイヤレスが災害用統一SSID「00000JAPAN」を無料開放。ID不要で他社ユーザーも利用可能に。被災地での通信手段拡充を図る施策。",
+    "importance": 2,
+    "category": "その他",
+    "reason": "被災者の通信確保に直結する実務的措置だが影響範囲は地域的なため重要度は中程度",
+    "published_at": "2026-07-28 22:03:11",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "はてな、11億円流出の調査報告書を公開 偽警察、口外禁止、残業・休出200時間超、孤立……ほころびが連鎖",
+    "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000238/",
+    "summary": "はてなが約11億円の資金流出事案に関する調査報告書を公開。経理部長が詐欺グループの指示でリモート操作アプリを実行しPCが乗っ取られた点など、内部統制の脆弱性が明らかに。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "大規模な資金流出と管理体制の欠陥は、企業のIT統制・ガバナンス事例として重要な教訓を含むため",
+    "published_at": "2026-07-28 20:37:14",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "台湾半導体大手TSMC、熊本工場の状況確認中、従業員は屋外避難 所在エリアは震度5強",
+    "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000243/",
+    "summary": "TSMC日本法人は熊本の工場について状況確認中。従業員は屋外へ避難しており、安全確認を待機中と報告。半導体サプライチェーンへの影響注視。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "主要半導体企業の国内拠点に関する事象は供給網と製造稼働に関わるため注目に値する",
+    "published_at": "2026-07-28 20:29:00",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Claude、一部チャットがGoogle検索で“丸見え”に 過去には「ChatGPT」でも 漏えいの原因は？",
+    "url": "https://www.itmedia.co.jp/business/articles/2607/28/news089.html",
+    "summary": "Anthropicのチャットサービス「Claude」の一部チャットがGoogle検索で参照可能になっている問題が判明。過去の類似事例と原因、対処について報告。ユーザーデータ露出のリスクが指摘される。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "生成AIサービスでのチャット露出はプライバシー・コンプライアンス上の重大リスクで広範な影響を与えるため",
+    "published_at": "2026-07-28 17:35:00",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「Kimi K3」のモデルウェイトと技術レポート公開 日本でも「NVIDIA B300×8」環境での利用報告",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/28/2000000236/",
+    "summary": "中国Moonshot AIが最新モデル「Kimi K3」のウェイトと技術レポートを公開。日本での利用報告もあり、オープンウェイトの拡散が進む状況を示す。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "モデルウェイト公開は開発者コミュニティと悪用リスクの両面で注目されるため開発者向けに重要",
+    "published_at": "2026-07-28 16:57:16",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "新「マイナアプリ」8月25日提供開始 “端末ロック”必須に",
+    "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000228/",
+    "summary": "デジタル庁が新「マイナアプリ」を8月25日に提供開始。第三者による不正利用防止のため端末ロック（PIN/生体認証等）が必須となる仕様に変更。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "国のデジタルIDアプリの仕様変更はセキュリティ要件と利用者運用に直接影響するため重要",
+    "published_at": "2026-07-28 16:52:46",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NVIDIA、サツケバー氏のSSIと長期提携 「Vera Rubin」提供と出資で計算資源を10倍に",
+    "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000233/",
+    "summary": "NVIDIAがSafe Superintelligence（SSI）と長期提携し、次世代プラットフォーム「Vera Rubin」へのアクセスや出資でSSIの計算資源を約10倍に拡大。研究協力と資源供給を強化。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要GPUベンダーと先端AI研究組織の提携は業界動向と計算資源配分に大きな影響を与えるため",
+    "published_at": "2026-07-28 16:37:41",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「Claudeより4割安い」 M365のExcel/メール操作を丸投げる「Copilot Cowork」“従量課金”の落とし穴",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/28/news053.html",
+    "summary": "Microsoft 365 Copilotの新機能「Copilot Cowork」が一般提供開始。Excelやメール操作を代行するが、従量課金のコスト構造や運用上の落とし穴が指摘されている。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業向け生産性AIの普及は運用・コスト判断に直結するためIT担当者にとって重要",
+    "published_at": "2026-07-28 13:00:00",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "KDDIとGoogle、国内AIスタートアップを共同支援 出資に加え「Gemini」早期アクセスも",
+    "url": "https://japan.cnet.com/article/35251010/",
+    "summary": "KDDIとGoogleの投資ファンドが国内AIスタートアップ支援プログラムを開始。出資に加えGemini等への早期アクセス提供など支援を行い、国内AIエコシステム育成を狙う。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大手通信とAIベンダーによる資金・モデルアクセス提供は地域の技術エコシステムに影響するため",
+    "published_at": "2026-07-28 10:28:00",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Amazon Leo、スマホと直接つながる衛星5105基をFCCに申請 2028年配備へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/28/news061.html",
+    "summary": "Amazonが低軌道衛星「Amazon Leo」でスマホと直接通信するため最大5,105基の衛星網をFCCに申請。2028年から配備開始予定で圏外エリアでの音声・データ提供を目指す。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "大規模衛星ネットワーク計画は通信インフラとサービスモデルに長期的影響を与えるため",
+    "published_at": "2026-07-28 07:51:00",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
+    "summary": "複数の大手企業がAIオープンモデルの安全性向上とサイバー防御ツールの共同開発を目指す「Open Secure AI Alliance」を設立。オープン技術で防御資産を構築する狙い。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "業界横断での防御インフラ構築はAIの安全運用やサプライチェーンに影響するため重要",
+    "published_at": "2026-07-28 07:16:00",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Microsoft、ミュトス超えの新セキュリティAI「MAI-Cyber-1-Flash」発表",
+    "url": "https://japan.cnet.com/article/35251000/",
+    "summary": "Microsoftがサイバーセキュリティ向けAIモデル「MAI-Cyber-1-Flash」を発表。既存ベンチマークで高性能を示し、AIを用いた攻撃防御の新たな製品ポートフォリオを打ち出す。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AIを用いた防御製品の進化は企業のセキュリティ運用に影響を与えるため注目度が高い",
+    "published_at": "2026-07-28 06:40:00",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
+    "source": "Publickey",
+    "title": "AWSの公式オンラインワークショップ、無料のAWSサンドボックス環境を提供開始。学習用にAWSのサービスやコード実行など利用可能に",
+    "url": "https://www.publickey1.jp/blog/26/awsawsaws.html",
+    "summary": "AWSの公式ワークショップ向けに、無料でAWSのサービスやコード実行を試せるサンドボックス環境を提供開始。学習・実証を手軽に行える環境を提供。",
+    "importance": 2,
+    "category": "クラウド",
+    "reason": "開発者と教育用途で利便性が高く、クラウド学習コストを下げる実務的なニュースのため",
+    "published_at": "2026-07-28 00:15:59",
+    "created_at": "2026-07-29 01:55:47"
+  },
+  {
     "source": "ITmedia AI+",
     "title": "NVIDIA、「オープンなAIセキュリティ」掲げる業界連合 Microsoftなど30社超が参加",
     "url": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000224/",
@@ -683,17 +848,6 @@
   },
   {
     "source": "Publickey",
-    "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
-    "url": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
-    "summary": "Oktaのアクセスデータ分析で、企業向けAIツールの導入状況を発表。Anthropicが成長率トップ、アカウント数はMicrosoft 365が最多などの傾向が示された。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "企業導入トレンドの実データはベンダー選定や戦略立案に参考になるが緊急度は中程度。",
-    "published_at": "2026-07-21 22:51:42",
-    "created_at": "2026-07-22 01:51:00"
-  },
-  {
-    "source": "Publickey",
     "title": "AWS、デプロイ速度が最大4倍になる「AWS CloudFormation Expressモード」を提供開始",
     "url": "https://www.publickey1.jp/blog/26/aws4aws_cloudformation_express.html",
     "summary": "AWSがCloudFormationの新機能『Expressモード』を提供開始。デプロイ速度が最大4倍に向上し、IaCの反復開発とCI/CDが高速化される。",
@@ -755,17 +909,6 @@
     "importance": 3,
     "category": "セキュリティ",
     "reason": "企業のAI導入に伴う情報漏えいリスクとガバナンス不足は情シス・経営にとって即時対処すべき課題。",
-    "published_at": "2026-07-21 13:00:00",
-    "created_at": "2026-07-22 01:51:00"
-  },
-  {
-    "source": "＠IT",
-    "title": "「AIのクレジット浪費」をどう防ぐ？ Visual Studio Codeに「コスト管理」機能追加",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news050.html",
-    "summary": "MicrosoftがVS Code 1.127を公開。新たにAI利用の『コスト管理』機能を追加し、エージェントやAPI利用のコスト可視化・制御が可能になった。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発現場での生成AIコスト管理は実務的ニーズ。開発者向けの便利機能として注目度あり。",
     "published_at": "2026-07-21 13:00:00",
     "created_at": "2026-07-22 01:51:00"
   },
@@ -2824,17 +2967,6 @@
     "category": "AI",
     "reason": "米政府介入による提供制限はAIプラットフォーム戦略と規制対応に直結し、企業や開発者の導入判断に大きな影響を与えるため。",
     "published_at": "2026-06-28 08:20:00",
-    "created_at": "2026-06-29 01:39:49"
-  },
-  {
-    "source": "＠IT",
-    "title": "「MFAだけでは防げない」 狙われる企業のクラウド環境、明日からできる対策は？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/28/news002.html",
-    "summary": "OAuthトークン窃取、管理者になりすまし正規ツールを悪用する手口など、クラウドを狙う攻撃が高度化。多要素認証だけでは不十分な事例と、即日実施可能な防御策を整理して解説している。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "企業のクラウド防御に直結する実践的対策記事で、情シスや開発チームの迅速な対応に役立つため。",
-    "published_at": "2026-06-28 08:00:00",
     "created_at": "2026-06-29 01:39:49"
   },
   {
