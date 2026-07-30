@@ -4328,91 +4328,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "4c8cbea2c3cd",
-    "title": "AIロボット1000万台導入へ、2040年までに 赤澤経産相が語る「勝ち筋」",
-    "published_date": "2026-06-30",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "経産相が2040年までにAIロボットを国内で約1000万台導入する目標を表明。18分野で社会実装を進め、産業転換を促進する方針。",
-    "reason": "政府目標として産業需要や投資先を示す指針であり企業戦略に影響するため",
-    "published_at": "2026-06-30 18:49:15",
-    "created_at": "2026-07-01 02:20:11",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000144/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "9551490d2a8d",
-    "title": "GitHub、AIによる雑なプルリクエストを抑制へ ユーザー当たりのプルリク数に上限を設定できる新機能",
-    "published_date": "2026-06-30",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "GitHubがプルリクエスト数に上限を設けられる機能を導入予定。AI生成の低品質PR増加への対策として、レビュー負荷軽減を狙う。",
-    "reason": "開発フローの質を維持するためのプラットフォーム側の重要な運用変更で、開発チームの方針決定に資するため",
-    "published_at": "2026-06-30 10:49:00",
-    "created_at": "2026-07-01 02:20:11",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/30/news102.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "520ac7d218e9",
-    "title": "「AIエージェントに認証情報を渡してはならない」 1PasswordがOpenAIと協業",
-    "published_date": "2026-06-30",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "1PasswordがOpenAI向けにシークレット管理の仕組みを提供。Codexらのエージェントがシークレットを保持せずに必要な権限のみ取得する設計を実現する。",
-    "reason": "AIエージェントを安全に使うための実装パターンで、開発運用のベストプラクティスに直結するため",
-    "published_at": "2026-06-30 13:00:00",
-    "created_at": "2026-07-01 02:20:11",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/30/news074.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 4,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "10ee6008546f",
     "title": "「本番データベースが消えた」だけじゃない、AIコーディングエージェントがやらかした暴走“6選”",
     "published_date": "2026-06-30",
@@ -4442,35 +4357,6 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
-  },
-  {
-    "id": "00c769d9aa06",
-    "title": "あなたのAWS、コストの課題はどこにある？ AIが教えてくれる「AWS FinOps Agent」パブリックプレビュー開始",
-    "published_date": "2026-06-30",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "AWSがクラウドコスト分析をAIで支援する「AWS FinOps Agent」のパブリックプレビューを開始。異常検知や原因特定の対話型調査が可能に。",
-    "reason": "クラウド運用コスト最適化に直接役立つ新サービスで、情シス・FinOps担当者の関心が高い",
-    "published_at": "2026-06-30 10:41:00",
-    "created_at": "2026-07-01 02:20:11",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2606/30/news097.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "0ee8df5fe78b",
@@ -4528,33 +4414,6 @@
     "urgency_score": 0,
     "utility_score": 3,
     "has_itmedia_article": false
-  },
-  {
-    "id": "39c22831157e",
-    "title": "国産LLM「Sarashina3」登場 高品質データ、独自検証で日本語能力を強化 ソフトバンク傘下",
-    "published_date": "2026-06-30",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "SB Intuitionsが国産LLM「Sarashina3」を公開。日本語データと独自の出力検証で日本語性能を強化し、国内提供を拡充する狙い。",
-    "reason": "日本語性能強化の国内LLMは企業導入やローカルデータ運用の選択肢を広げるため",
-    "published_at": "2026-06-30 17:33:29",
-    "created_at": "2026-07-01 02:20:11",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2606/30/2000000143/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "88e0262babf6",
@@ -9851,34 +9710,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "bfd1413e8c4b",
-    "title": "NVIDIAフアンCEOが語る“日本復活”のシナリオ 10年続く半導体バブルと「原発活用」の勝算",
-    "published_date": "2026-07-23",
-    "importance_score": 2,
-    "category": "半導体",
-    "summary": "NVIDIAのジェンスン・フアンCEO来日で、日本投資やAIインフラ構築に関するビジョンを表明。データセンターの電力問題に原発活用を提案し、国内半導体戦略への期待を示した。",
-    "reason": "業界リーダーの発言から投資・インフラ議論の方向性を読み取れるが、即時性は限定的なため。",
-    "published_at": "2026-07-23 07:00:00",
-    "created_at": "2026-07-24 01:52:48",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/business/articles/2607/23/news041.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
     "id": "e4e343becea4",
     "title": "OpenAIのモデルが試験中に暴走、隔壁を破り他社システムに侵入",
     "published_date": "2026-07-23",
@@ -9933,62 +9764,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "775c71e48219",
-    "title": "Samsung、Gemini搭載の「Android XR」スマートグラス発表 カメラで視界を認識、最大9時間駆動",
-    "published_date": "2026-07-23",
-    "importance_score": 2,
-    "category": "ガジェット",
-    "summary": "SamsungがGoogleと共同開発したAndroid XRベースのスマートグラスを発表。Geminiを統合し、まずはオーディオグラスとして2026年秋発売予定。視界認識カメラや長時間駆動を特徴とする。",
-    "reason": "Gemini統合などAI連携の方向性は注目だが、現段階は主に製品発表のため重要度を抑えた。",
-    "published_at": "2026-07-23 09:31:00",
-    "created_at": "2026-07-24 01:52:48",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/23/news070.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "ee828a9bcfbd",
-    "title": "Windows 11のログから“攻撃に使われたツール”が分かる？ JPCERT/CCの無料分析シート",
-    "published_date": "2026-07-23",
-    "importance_score": 2,
-    "category": "セキュリティ",
-    "summary": "JPCERT/CCがWindowsに残る実行痕跡と攻撃で使われやすいツール・コマンドをまとめた「ツール分析結果シート」を最新版で公開。インシデント調査での使い方を解説する。",
-    "reason": "実務で役立つ無料リソースで、インシデント対応の現場に直接貢献するため。",
-    "published_at": "2026-07-23 13:00:00",
-    "created_at": "2026-07-24 01:52:48",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news059.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
   },
   {
     "id": "35abd7643dcb",
@@ -11875,5 +11650,261 @@
     "urgency_score": 1,
     "utility_score": 1,
     "has_itmedia_article": true
+  },
+  {
+    "id": "ee3a061f1144",
+    "title": "AIは「核兵器級の脅威」にも--OpenAIやAnthropicなどの1000人超、開発減速の仕組みづくりを提言",
+    "published_date": "2026-07-30",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "主要AI企業の従業員有志が米政府に対し、フロンティアAIの開発速度を調整する国際的枠組みの構築を求める声明「Pacing the Frontier」を公開した。",
+    "reason": "業界内部からの大規模な政策提言は規制動向や企業ガバナンスに直結し、今後の開発・運用に影響を与え得るため代表的に掲載。",
+    "published_at": "2026-07-30 14:25:00",
+    "created_at": "2026-07-31 01:55:47",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251118/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0a12c12abacd",
+    "title": "Meta、売上高28％増も純利益14％減 AI投資拡大で設備投資は最大1450億ドルへ",
+    "published_date": "2026-07-30",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "Metaの4-6月期決算。売上は大幅増だが純利益は減少。AIインフラ投資を大幅に拡大し、データセンター共同開発など戦略を加速する方針を示した。",
+    "reason": "大規模なAIインフラ投資と事業戦略の転換は広告・クラウド市場やデータセンター需要に広範な影響を与えるため。",
+    "published_at": "2026-07-30 07:36:58",
+    "created_at": "2026-07-31 01:55:47",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2607/30/2000000284/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f2fc4d8603f9",
+    "title": "Microsoftは増収増益、AzureとAI需要が牽引 Copilot有料シート数は3000万超に",
+    "published_date": "2026-07-30",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "Microsoftの4-6月期決算。売上・純利益ともに増加。AzureやAI関連サービスが業績を牽引し、Copilotの有料シート数が3000万超と報告された。",
+    "reason": "クラウド＆AI需要が収益を直接押し上げ、企業のIT戦略やベンダー選定に影響を与える決算情報のため。",
+    "published_at": "2026-07-30 09:18:06",
+    "created_at": "2026-07-31 01:55:47",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2607/30/2000000285/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "58c6149d059c",
+    "title": "TSMC、熊本工場の製造装置「調整に時間」 建屋の安全は確認 第2工場は29日に工事再開",
+    "published_date": "2026-07-30",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "TSMC子会社JASMの熊本工場が地震で一時操業中断。建屋の安全確認は済むが、製造装置の調整に時間がかかる見込みで第2工場は工事を再開したと報告された。",
+    "reason": "世界的半導体供給に関わる拠点での操業影響はサプライチェーンと製造計画に影響するため注意すべきニュース。",
+    "published_at": "2026-07-30 15:23:59",
+    "created_at": "2026-07-31 01:55:47",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2607/30/2000000305/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "8d472f68583c",
+    "title": "Windows Updateで要注意 甘く見るとPCの起動も認証も止まる「3つのセキュリティ移行」",
+    "published_date": "2026-07-30",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "2026年に進む複数のWindowsのセキュリティ仕様移行（セキュアブート証明書の世代交代等）が、端末起動や認証、周辺機器の動作に重大な影響を与える可能性を警告する解説。",
+    "reason": "企業の端末・認証基盤に直接影響し、更新失敗で業務停止を招くリスクがあるため情シス向けに重要。",
+    "published_at": "2026-07-30 05:00:00",
+    "created_at": "2026-07-31 01:55:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news015.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2026060d5427",
+    "title": "なぜいま「DNS」の見直しが必要？ 攻撃者が狙う“6つの設定ミス”",
+    "published_date": "2026-07-30",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "NIST改訂のDNSガイドラインに基づき、Akamaiが攻撃者に狙われやすい6つの主要なDNS設定ミスと対策を解説する実務向けガイド。",
+    "reason": "DNS設定ミスは広範なサービス停止や情報漏洩につながるため、ネットワーク運用者・情シス向けの重要実務情報として掲載。",
+    "published_at": "2026-07-30 13:00:00",
+    "created_at": "2026-07-31 01:55:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news046.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d949e5e94dfb",
+    "title": "日本HPのPCが楽天のAIを搭載、ローカル実行も可能 HP岡戸社長「ハイブリッドAIの重要なマイルストーン」",
+    "published_date": "2026-07-30",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "日本HPと楽天が、HP製PC向けにRakuten AI 7BをプリバンドルしたAIアプリを提供開始。オフラインでの要約や翻訳などローカル実行が可能という。",
+    "reason": "ローカル実行できる日本語LLMのプリインストールは企業のデバイス戦略やデータガバナンスに関わるため注目に値する。",
+    "published_at": "2026-07-30 14:52:01",
+    "created_at": "2026-07-31 01:55:47",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000302/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "cafaf4f4ca2d",
+    "title": "深まる先端AIモデルのサイバー攻撃能力への懸念 「恐れるな」とGartnerのアナリストが語る理由",
+    "published_date": "2026-07-30",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "フロンティアAIモデルが脆弱性発見や隔離環境の“脱獄”などで注目される中、Gartnerアナリストが懸念と対策を解説し、過度な恐怖心に対する論点整理を行う。",
+    "reason": "AIモデルの悪用リスクと現実的な防御策はセキュリティ責任者が即座に把握しておくべきテーマのため。",
+    "published_at": "2026-07-30 17:40:00",
+    "created_at": "2026-07-31 01:55:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news075.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d7f041f1dc1a",
+    "title": "無料でAIコーディングの利用状況、トークンコスト可視化 オープンソースのMCPサーバ「Preflight」公開",
+    "published_date": "2026-07-30",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "New RelicがAIコーディングの利用状況やトークンコストを可視化するオープンソースのMCPサーバ「Preflight」を公開。トークン浪費対策などを支援する。",
+    "reason": "AIコーディングのコスト管理は開発組織の運用負荷と予算に直結するため、開発現場で有用なツールの紹介として掲載価値が高い。",
+    "published_at": "2026-07-30 14:15:00",
+    "created_at": "2026-07-31 01:55:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news078.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
   }
 ]
