@@ -4527,33 +4527,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "cd920d23b98a",
-    "title": "Google、高速で低価格な画像生成AI「Nano Banana 2 Lite」と動画生成モデル「Gemini Omni Flash」公開",
-    "published_date": "2026-07-01",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Googleが4秒で画像生成する低コスト画像モデル「Nano Banana 2 Lite」と、対話型で動画編集・生成できる「Gemini Omni Flash」を発表。静止画→動画の連携も可能。",
-    "reason": "生成AIの性能とコストに関わる新モデルで、コンテンツと開発コストに影響するため開発者・事業者向けに重要。",
-    "published_at": "2026-07-01 07:11:00",
-    "created_at": "2026-07-02 02:27:15",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/01/news060.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "49897383bef3",
     "title": "Linuxカーネル2.6～7.1系に重大な脆弱性 PoC公開で高まるroot奪取リスク",
     "published_date": "2026-07-01",
@@ -4579,62 +4552,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
     "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "00ab0c538401",
-    "title": "「Claude Fable 5」が帰ってくる 「Mythos 5」含む輸出規制解除へ Anthropic発表",
-    "published_date": "2026-07-01",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "米政府の輸出規制解除を受け、Anthropicは「Claude Fable 5」「Mythos 5」の提供再開を発表。7月1日からアクセス回復の見込み。",
-    "reason": "米政府の規制解除により高性能モデルの国際提供が再開され、利用可能性と規制実務に影響するため選出。",
-    "published_at": "2026-07-01 10:50:00",
-    "created_at": "2026-07-02 02:27:15",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/01/news068.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "e255bb54dca9",
-    "title": "「悪意あるnpmパッケージをインストールさせない」 GitHubが発表した2つの防止策",
-    "published_date": "2026-07-01",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "CI/CDの乗っ取りなどで悪意あるnpmパッケージが流通する問題を受け、GitHubが2つの新機能でインストール防止策を発表。サプライチェーン対策を強化。",
-    "reason": "ソフトウェアサプライチェーンの脅威に対するプラットフォーム側の対策は開発現場に直接関係するため重要。",
-    "published_at": "2026-07-01 13:00:00",
-    "created_at": "2026-07-02 02:27:15",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/01/news051.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
     "has_itmedia_article": false
   },
   {
@@ -4664,34 +4581,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
-  },
-  {
-    "id": "34805fc7cfb1",
-    "title": "キーボード入力時の脳の動きから打った文章を割り出す技術、Metaが発表 手術不要、“埋め込み式”に迫る",
-    "published_date": "2026-07-01",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Metaが非侵襲の頭部装着型デバイスで脳活動からリアルタイムにキーボード入力文章を解読する研究「Brain2Qwerty v2」を発表。学習用コードも公開。",
-    "reason": "非侵襲ブレイン・コンピュータ技術は医療・プライバシー・インタフェースで大きな影響を持つため注目に値する。",
-    "published_at": "2026-07-01 11:05:00",
-    "created_at": "2026-07-02 02:27:15",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/01/news063.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
   },
   {
     "id": "f2c20bb97993",
@@ -4747,35 +4636,6 @@
     "urgency_score": 1,
     "utility_score": 1,
     "has_itmedia_article": false
-  },
-  {
-    "id": "1155d594a4e0",
-    "title": "ランサムで売上95％減──アスクルの“システム再構築”支えた生成AI活用 復旧までの3.5カ月、社長が語る舞台裏",
-    "published_date": "2026-07-01",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "ランサムウェア攻撃で事業停止、売上95%減となったアスクルが復旧にあたり生成AIを活用してシステム再構築を進めた事例を社長が説明。",
-    "reason": "ランサム被害からの復旧プロセスと生成AIの実務適用は情シス・経営判断にとって示唆に富む実例であるため。",
-    "published_at": "2026-07-01 13:01:00",
-    "created_at": "2026-07-02 02:27:15",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/01/news098.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 2,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "433e1aeadf07",
@@ -9934,33 +9794,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "ac01112677b7",
-    "title": ".NET MAUI、iOS/AndoridのランタイムがMonoからCoreCLRに更新、開発者は動作確認を。.NET 11 Preview 6が公開",
-    "published_date": "2026-07-24",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": ".NET 11 Preview 6が公開され、.NET MAUIのiOS/AndroidランタイムがMonoからCoreCLRへ移行予定。開発者は互換性や動作確認が必要になる。",
-    "reason": "モバイル向けランタイム変更は開発者に直接影響するが対象は開発者コミュニティに限定されるため重要度は中程度",
-    "published_at": "2026-07-24 03:22:56",
-    "created_at": "2026-07-25 02:00:54",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/net_mauiiosandoridmonocoreclrnet_11_preview_6.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "bdf86cbaa1d9",
     "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
     "published_date": "2026-07-24",
@@ -11822,6 +11655,59 @@
     "has_itmedia_article": false
   },
   {
+    "id": "7888a9fa4e81",
+    "title": "アスクル、個人情報の漏えい懸念が約134万件に 新たに約60万件特定",
+    "published_date": "2026-07-30",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "2025年10月のランサムウェア攻撃について、アスクルは追加調査で外部流出の恐れがある個人情報約60万件を新たに特定。氏名や住所等を含み合計約134万件に。",
+    "reason": "既発のランサム事案で追加の大規模漏えい懸念が判明しており、被害影響と対応コストが大きいため高評価。",
+    "published_at": "2026-07-30 13:07:16",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2607/31/2000000327/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "594a3805b747",
+    "title": "メモリ不足、2027年はさらに深刻化へ--サムスンが見通し",
+    "published_date": "2026-07-30",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "サムスン電子は世界的なメモリチップ不足が2028年まで続く見通しを示し、供給不足がテック製品の価格上昇を招く可能性を指摘。",
+    "reason": "メモリ需給の長期見通しはハードウェア調達、クラウド・AIインフラ投資に直接影響するため重要。",
+    "published_at": "2026-07-30 08:03:00",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251138/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
     "id": "d949e5e94dfb",
     "title": "日本HPのPCが楽天のAIを搭載、ローカル実行も可能 HP岡戸社長「ハイブリッドAIの重要なマイルストーン」",
     "published_date": "2026-07-30",
@@ -11848,6 +11734,31 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
+  },
+  {
+    "id": "3301e39229c2",
+    "title": "日本、EUの「ホライズン・ヨーロッパ」に正式参加",
+    "published_date": "2026-07-30",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "欧州の研究プログラム『Horizon Europe』に日本が正式参加。準加盟国としては23カ国目で、国内研究機関の国際連携が拡大する見込み。",
+    "reason": "国際研究協力の枠組み加入は産学連携や資金・人材流動に影響を与えるため注目に値する。",
+    "published_at": "2026-07-30 09:45:00",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251158/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
   },
   {
     "id": "cafaf4f4ca2d",
@@ -11906,5 +11817,475 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
+  },
+  {
+    "id": "791523d7a1f1",
+    "title": "Amazon決算、AWS成長率36.7％で過去18四半期最速に 純利益はAnthropic投資益で大幅増",
+    "published_date": "2026-07-31",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "Amazonの2026年Q2はAWSが36.7%成長、純利益はAnthropic投資評価益で大幅増。AI需要受けて設備投資見通しを約2200億ドルに上方修正。",
+    "reason": "クラウド事業の加速と巨額投資方針はクラウドインフラ、市場競争、AI需給に直接影響するため重要。",
+    "published_at": "2026-07-31 08:34:56",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2607/31/2000000316/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "8b3e07be6797",
+    "title": "Apple、16％増収で第3四半期として過去最高 クックCEO最後の決算「将来をかつてないほど楽観」",
+    "published_date": "2026-07-31",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "Appleの4–6月期は売上が前年同期比16%増で四半期として過去最高。iPhoneやサービスが牽引、ティム・クックCEOの最後の決算会見に。",
+    "reason": "主要ハード／サービス企業の業績と経営交代は業界動向に影響するため広く押さえる価値がある。",
+    "published_at": "2026-07-31 07:33:00",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2607/31/2000000315/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d3e77804085b",
+    "title": "Chromeに13年以上潜んでいた脆弱性、AIで発見 直近2回のアプデで過去23回分を上回るバグ修正",
+    "published_date": "2026-07-31",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "GoogleがChromeのセキュリティ対策におけるAI活用を解説。Geminiベースのエージェントが長年の脆弱性を発見し、週2回のセキュリティ更新を試行すると発表。",
+    "reason": "AIを使った脆弱性発見とパッチ頻度の見直しはセキュリティ運用の新潮流を示すため掲載価値あり。",
+    "published_at": "2026-07-31 11:03:59",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c505e045bc06",
+    "title": "Claudeも3組織に不正アクセス 実在システムを「演習の一部」と誤認 Anthropicが経緯を公表",
+    "published_date": "2026-07-31",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Anthropicは、サイバー演習中のAIモデルClaudeが誤ってインターネット上の実在システムにアクセスした3件のインシデントを公表。評価環境の設定ミスが原因。",
+    "reason": "生成AIによる実運用環境への不正アクセスは安全性と運用ルールに直結する重大な前例のため高評価。",
+    "published_at": "2026-07-31 16:25:14",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2607/31/2000000334/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5879ef2ac31f",
+    "title": "Google、ロボット向けAI「Gemini Robotics 2」発表 ヒューマノイドの全身制御や指先作業を実現",
+    "published_date": "2026-07-31",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Google/DeepMindがロボット向けAI群『Gemini Robotics 2』を発表。全身制御や細かな指先作業、マルチロボット協調に対応するモデル群を公開。",
+    "reason": "高性能ロボット制御AIの登場は製造・物流・サービス自動化の技術潮流に影響するため注目。",
+    "published_at": "2026-07-31 10:27:51",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000320/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f648d95cb604",
+    "title": "ITインフラ専門家の私でも、もうAIには勝てない――「Active Directory」障害対応をAIに丸ごと任せてみた結果",
+    "published_date": "2026-07-31",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "情シス業務でAIに管理者権限を与え、Active Directoryの障害対応を丸ごと任せる実証。AIがどこまで調査・修正を自律で行うかを記録・評価した検証記事。",
+    "reason": "情シス運用におけるAI活用の実運用リスクと可能性を示す具体例で、IT管理者にとって示唆が強い。",
+    "published_at": "2026-07-31 05:00:00",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/31/news025.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 3,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "889cad45f4b7",
+    "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
+    "published_date": "2026-07-31",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "JetBrainsがリポジトリ上にインテリジェントなレイヤを作る新サービス『JetBrains Context』を発表。AIへの適切なコード文脈供給でコード生成精度向上を狙う。",
+    "reason": "開発ツール側のコンテキスト支援はコード生成の品質向上に寄与するが影響範囲は主に開発者向け。",
+    "published_at": "2026-07-31 02:48:59",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0c1732f12729",
+    "title": "OpenAI、「GPT-5.6 Luna」を80％値下げ モデル自身による効率化でコスト削減",
+    "published_date": "2026-07-31",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "OpenAIはGPT-5.6ファミリーの価格改定を実施。Lunaを80%値下げ、Terraを20%値下げし、処理速度向上の“Fast mode”を導入。",
+    "reason": "AIモデルの価格大幅引き下げは導入コストと普及速度を左右し、開発・事業計画に直結するため高評価。",
+    "published_at": "2026-07-31 08:55:50",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000317/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "491cfab223f1",
+    "title": "PerplexityがAIエージェントの“暴走”対策ツールをオープンソースに Claude CodeやCodexを監視",
+    "published_date": "2026-07-31",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "PerplexityがAIエージェントの危険挙動を検知・阻止するツール群『Numbat』をOSS化。Claude CodeやCodexと連携して暴走を未然に防ぐ。",
+    "reason": "AIエージェント運用上の安全対策ツールの公開は開発・運用現場の実務に直結するため有用。",
+    "published_at": "2026-07-31 11:18:22",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ed3fc4c7f865",
+    "title": "Thinking Machines、軽量モデル「Inkling-Small」正式公開 サイズ4分の1で「Inkling」に匹敵する性能",
+    "published_date": "2026-07-31",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Thinking Machinesがオープンウェイトの軽量モデル『Inkling-Small』を公開。従来の4分の1サイズで遜色ない性能を示し、利用GPUメモリを大幅削減。",
+    "reason": "高性能で軽量なモデルは研究・製品への実装コストを下げ、広範な開発者に影響するため採録。",
+    "published_at": "2026-07-31 11:16:53",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000326/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "20879bca8d7a",
+    "title": "「9カ月かかる作業を3日に短縮」 IBM、レガシー刷新ワークフローをIBM Bobに追加",
+    "published_date": "2026-07-31",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "IBMが生成AIを用いたレガシー刷新向けパッケージをIBM Bobに追加。レガシー移行作業の自動化と期間短縮を狙う取り組み。",
+    "reason": "レガシー移行は多くの企業の課題であり、AI適用による実務改善の効果は情シス・経営判断に有益な情報。",
+    "published_at": "2026-07-31 17:20:00",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news094.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e5f26ecb7218",
+    "title": "キオクシアQ1、純利益が前年同期比4500％増 株式分割・自社株買いも",
+    "published_date": "2026-07-31",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "キオクシアの2027年3月期第1四半期はNAND需要拡大で売上・利益が急増。自社株買いと株式分割も発表し半導体市況の影響が顕在化。",
+    "reason": "AIデータセンター向けNAND需要が業績を牽引し、半導体供給・投資に直結する重要ニュース。",
+    "published_at": "2026-07-31 17:16:03",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2607/31/2000000336/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "7b523c865065",
+    "title": "セブン＆アイ、共通会員IDのPayPay統合を正式発表 ソフトバンクや三井住友カードなどが計3000億円出資",
+    "published_date": "2026-07-31",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "セブン＆アイの7iDをPayPay IDに統合し、ソフトバンク、PayPay、三井住友カードらが総額3000億円を出資する資本業務提携を発表。小売と決済の顧客基盤統合を進める大型連携。",
+    "reason": "国内決済・小売の顧客基盤統合と巨額出資は市場構造とデータ活用に大きな影響を与えるため掲載優先度高。",
+    "published_at": "2026-07-31 22:22:17",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2607/31/2000000345/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b131b6d4aa9b",
+    "title": "タカラトミー、デュエマアプリで個人情報漏えいか 最大15万5000人分 氏名や住所など閲覧の恐れ",
+    "published_date": "2026-07-31",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "タカラトミーのスマホアプリで認証脆弱性により最大約15万5千人分の個人情報が第三者に閲覧され得る状態だったと発表。公開から11カ月継続していた可能性。",
+    "reason": "ユーザー認証の基本的欠陥による大規模な個人情報暴露リスクは企業のセキュリティ対策に示唆を与える。",
+    "published_at": "2026-07-31 15:45:27",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2607/31/2000000331/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "20ca1a719576",
+    "title": "ロシアの「.ru」ドメインが実質使えなくなりそう？ 本人確認義務化でユーザー悲鳴、関連事業者は対応急ぐ",
+    "published_date": "2026-07-31",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "ロシア政府が .ru ドメイン管理者に本人確認義務を課す方針を示し、ドメイン事業者や利用者に混乱。対応や運用影響が急がれている。",
+    "reason": "ドメイン運営を通じたネット規制強化はインフラ事業者と利用者に直接影響するため注目度が高い。",
+    "published_at": "2026-07-31 18:55:24",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2607/31/2000000340/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "fd3598f0598b",
+    "title": "日立が「SI全工程」をAI化 仕様確定で「最大240倍」効率化のワケ",
+    "published_date": "2026-07-31",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "日立はSIの全工程にAIを導入する『Agentic AI Integration Platform』を開発。社内検証で一部工程は大幅な効率化を確認し、2027年度に工程全体で生産性30%向上を目指す。",
+    "reason": "国内大手がSIプロセス全体にAIを適用する施策はSI業界と大規模レガシー刷新の潮流を変える可能性が高い。",
+    "published_at": "2026-07-31 07:00:00",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/business/articles/2607/31/news049.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "9c90346e10d6",
+    "title": "研究者10万人にOpenAI「最上位モデル」無料提供へ 日本でも東大、京大など15大学が対象",
+    "published_date": "2026-07-31",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIが学術研究者10万人に最上位モデルを無償提供するプログラムを発表。日本では主要大学15校が対象機関に含まれる。",
+    "reason": "学術界への大規模提供は研究加速と産学連携に影響し、技術普及の方向性を示すため有益。",
+    "published_at": "2026-07-31 15:57:22",
+    "created_at": "2026-08-01 02:01:05",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
   }
 ]
