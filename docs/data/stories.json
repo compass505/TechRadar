@@ -4666,33 +4666,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "79dcb1a2b829",
-    "title": "DRAM価格操作か サムスン、マイクロン、SKハイニックスに集団訴訟",
-    "published_date": "2026-07-02",
-    "importance_score": 3,
-    "category": "半導体",
-    "summary": "DRAM価格高騰を巡り、消費者や中小企業グループがサムスン、Micron、SKハイニックスを相手取って集団訴訟を提起。価格形成や市場構造の監視が焦点になる可能性。",
-    "reason": "主要メモリメーカーを巡る訴訟は市場制度・価格動向に影響し、半導体業界と顧客にとって示唆が大きい。",
-    "published_at": "2026-07-02 11:47:00",
-    "created_at": "2026-07-03 02:06:49",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35249898/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "2899ac57a191",
     "title": "KDDIの最大1422万件の情報漏えい事件 その裏には陸自USB問題と同様に中国の影？",
     "published_date": "2026-07-02",
@@ -4748,62 +4721,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "cab44d99f0f5",
-    "title": "NISTのCVSSは本当に正しい？ 「全件分析断念」2カ月後に見えた意外な実態",
-    "published_date": "2026-07-02",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "NISTが全CVE分析方針を転換して約2カ月後の運用実態を調査。分析対象の絞り込みや脆弱性評価の課題が浮上しており、脆弱性管理運用への影響を指摘する。",
-    "reason": "脆弱性評価プロセスの変化はセキュリティ運用や優先順位付けに影響するため、情シス・セキュリティ担当者に重要。",
-    "published_at": "2026-07-02 07:00:00",
-    "created_at": "2026-07-03 02:06:49",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news037.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "031a2e171f31",
-    "title": "Windows上の「Linux開発環境」が変わる 使い慣れたコマンドも“そのまま利用可能”に",
-    "published_date": "2026-07-02",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "Build 2026で発表された、Windows上でLinuxコマンドやコンテナ環境がそのまま動くCoreutils for WindowsやWSLコンテナなどの刷新内容を解説。開発者のワークフロー改善が狙い。",
-    "reason": "多くの開発現場で影響する開発プラットフォームの改善で、生産性と移行コストに関係するため有用な技術ニュース。",
-    "published_at": "2026-07-02 11:00:00",
-    "created_at": "2026-07-03 02:06:49",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news046.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "9c32b939fbf4",
     "title": "「脆弱なコード、データ漏えい、侵害され得るモデル」 開発者の不安をMicrosoftはどう解消するのか",
     "published_date": "2026-07-02",
@@ -4834,34 +4751,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "adb0c7d1083d",
-    "title": "「賢さよりツール連携力が重要」 Microsoftが実験的な小型AIエージェント基盤を公開",
-    "published_date": "2026-07-02",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "Microsoft Researchが小型モデル向けエージェント基盤『MagenticLite』を公開。知識量よりもツール統合と実行ハーネスで実用性を出す設計思想を示している。",
-    "reason": "小型モデルで有用なエージェント構築の実践的基盤は開発者や製品化を目指す企業に役立つ技術情報。",
-    "published_at": "2026-07-02 13:00:00",
-    "created_at": "2026-07-03 02:06:49",
-    "representative_source": "Atmarkit (ITmedia AI+)",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news050.html",
-    "sources": [
-      "Atmarkit (ITmedia AI+)"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "200700b6500e",
     "title": "アップルの「メールを非公開」に脆弱性、本物のメアドが丸見えになるおそれ",
     "published_date": "2026-07-02",
@@ -4889,61 +4778,6 @@
     "urgency_score": 2,
     "utility_score": 0,
     "has_itmedia_article": false
-  },
-  {
-    "id": "869b4f89adf4",
-    "title": "光接続の標準規格「OCI」対応シリコン、GFが27年に投入",
-    "published_date": "2026-07-02",
-    "importance_score": 3,
-    "category": "半導体",
-    "summary": "GlobalFoundriesがAIインフラ向けの光インターコネクト規格『OCI MSA』をサポートするシリコンを2027年に投入予定と発表。AIデータセンターの接続アーキテクチャに関する動き。",
-    "reason": "AIインフラ向けインターコネクトのハードウェア対応はデータセンター設計と供給面で影響するため関連企業にとって重要。",
-    "published_at": "2026-07-02 11:00:00",
-    "created_at": "2026-07-03 02:06:49",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://eetimes.itmedia.co.jp/ee/articles/2607/02/news065.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "07cbd81c83da",
-    "title": "復活した「Fable 5」 米政府からのオーダーに対して、Anthropicはどう対策したのか",
-    "published_date": "2026-07-02",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "米Anthropicの上位モデル『Claude Fable 5』がサービス再開。米政府の指示による停止を受け、Anthropicが再開に向けて行った対策と経緯を詳細に公開している。",
-    "reason": "政府介入で停止した主要モデルの再開はAI安全・規制対応の事例として注目に値するが即時危機ではないため中程度の重要度。",
-    "published_at": "2026-07-02 16:40:00",
-    "created_at": "2026-07-03 02:06:49",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "83794e831de3",
@@ -10205,58 +10039,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "8d204f7ccc9e",
-    "title": "【レビュー】楽しいカメラ、AIはこれから AIグラスの新標準「Ray-Ban Meta」を2カ月使った",
-    "published_date": "2026-07-25",
-    "importance_score": 2,
-    "category": "ガジェット",
-    "summary": "Metaのスマートグラス「Ray-Ban Meta」を2カ月使用したレビュー。カメラ機能やUI、AI機能の現状と今後の改善点を実地評価している。",
-    "reason": "AIグラスのユーザー体験と課題が具体的に示され、ガジェット・プロダクト戦略に示唆を与えるため掲載価値あり。",
-    "published_at": "2026-07-25 09:30:00",
-    "created_at": "2026-07-26 01:15:31",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/review/review/2127069.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "0f58fa3fa0e6",
-    "title": "仕事外のネット利用「平日4時間以上」で抑うつ傾向 富山大が調査",
-    "published_date": "2026-07-25",
-    "importance_score": 2,
-    "category": "その他",
-    "summary": "富山大学の調査で、地方公務員を対象に仕事外で平日4時間以上インターネット利用する人は抑うつ傾向が高いと報告。勤務者の健康とデジタル習慣の関係を示す研究結果。",
-    "reason": "職場のデジタル利用とメンタルヘルスの関連は企業の働き方・社員支援に関わるため実務的に有用。",
-    "published_at": "2026-07-25 08:30:00",
-    "created_at": "2026-07-26 01:15:31",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/24/news098.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "c3e520da02f4",
     "title": "米国にはオープンなAIモデルが必要 MSやNVIDIAらが拙速な規制に反対声明",
     "published_date": "2026-07-25",
@@ -12282,6 +12064,111 @@
       "ai"
     ],
     "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "343771dc03d5",
+    "title": "Google EarthのNano Banana画像生成、フェイク対策のため開始1日で停止",
+    "published_date": "2026-08-01",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "GoogleがWeb版Google Earthで開始した画像生成機能「Nano Banana」を提供開始から1日で停止。フェイク画像対策としてガードレール強化を検討。",
+    "reason": "生成AI機能の即時停止はガバナンスと信頼性の問題を浮き彫りにし、AIサービス運用・規制の議論に影響するため注目度が高い。",
+    "published_at": "2026-08-01 19:53:10",
+    "created_at": "2026-08-02 01:27:08",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2129842.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "aad278a652f4",
+    "title": "Nature Remo、エアコンのリモコン操作がアプリに同期 ズレがなくなる",
+    "published_date": "2026-08-01",
+    "importance_score": 1,
+    "category": "ガジェット",
+    "summary": "スマートリモコンNature Remoが、エアコン付属リモコンで操作した内容をNature Homeアプリに同期する新機能を提供開始。操作のズレを解消。",
+    "reason": "消費者向けの機能改善だが、IoT UX改善として関心はある。企業ITや市場全体への影響は限定的。",
+    "published_at": "2026-08-01 08:30:00",
+    "created_at": "2026-08-02 01:27:08",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2129747.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0d7d2190db7a",
+    "title": "「Excel好き」では進化できない、「Excel/CSVでデータ連携」が残る今、AIをどう使うか",
+    "published_date": "2026-08-01",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "Excel/CSVベースのデータ連携が依然残る現場で、AIをどう活用して進化させるかを論じる特集記事。現場の実務課題と適用の示唆を提示。",
+    "reason": "現場のデータ連携とAI活用に関する実務的示唆は情シス・経営の判断に役立つが速報性は低い。",
+    "published_at": "2026-08-01 08:00:00",
+    "created_at": "2026-08-02 01:27:08",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/01/news003.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6966c31b3221",
+    "title": "ソニーの熊本工場、8月中旬には「地震前の稼働水準」に 早期復旧の理由を決算会見で明かす",
+    "published_date": "2026-08-01",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "ソニーCFOが熊本の半導体工場が8月中旬に地震前の稼働水準に戻る見通しを表明。2016年の復旧より早い理由として被害の程度の違いを説明。",
+    "reason": "主要半導体工場の復旧見通しはサプライチェーンと業界需給に直結するため、企業・市場判断に重要。",
+    "published_at": "2026-08-01 20:53:17",
+    "created_at": "2026-08-02 01:27:08",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2607/31/2000000341/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
