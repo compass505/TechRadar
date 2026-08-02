@@ -5,8 +5,6 @@
       "c72e45956e04",
       "125f98b60f5c",
       "4be4f9df6b71",
-      "6faf8e26ee72",
-      "fae4517bbf68",
       "bb337dc06c73",
       "f3444c77cef2",
       "947fc7af84c0"
@@ -35,26 +33,18 @@
       "947fc7af84c0",
       "125f98b60f5c",
       "4be4f9df6b71",
-      "f3eaa5f9275c",
-      "fae4517bbf68",
-      "58092cb94a32",
-      "e720f3dea55d"
+      "f3eaa5f9275c"
     ],
     "yesterday_enterprise_it": [
       "bb337dc06c73",
       "947fc7af84c0",
       "125f98b60f5c",
       "4be4f9df6b71",
-      "f3eaa5f9275c",
-      "58092cb94a32",
-      "e720f3dea55d",
-      "a323c61efecc"
+      "f3eaa5f9275c"
     ],
     "yesterday_development": [
       "c72e45956e04",
-      "4be4f9df6b71",
-      "6faf8e26ee72",
-      "58092cb94a32"
+      "4be4f9df6b71"
     ]
   }
 }

@@ -1,6 +1,39 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に Chrome統合は米国から",
+    "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
+    "summary": "GoogleがパーソナルAIエージェント「Gemini Spark」を160カ国以上で提供開始。クラウド上で常時動作し、ログイン情報や保存パスワードを活用してWeb手続きの代行が可能になるChrome連携機能も発表。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "ブラウザ統合による自動化はプライバシー・認証・企業利用に直結する大きな機能拡張で、情シスや事業判断に影響。",
+    "published_at": "2026-08-02 10:12:35",
+    "created_at": "2026-08-03 01:26:50"
+  },
+  {
+    "source": "＠IT",
+    "title": "「AI活用する新人増えてOJT負担増」 複数の調査で露呈した現場の苦悩",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/02/news004.html",
+    "summary": "AIを業務で使う新人が増えたことで、育成側のOJT負担やレビュー工数が増加していると複数調査で判明。AI活用には人側のスキル整備が不可欠と指摘される。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発現場と人材育成に直結する課題で、現場運用や採用・評価方針に影響を与える実務的ニュース。",
+    "published_at": "2026-08-02 08:00:00",
+    "created_at": "2026-08-03 01:26:50"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、アクティブユーザー10億人超に 導入企業は200万社超",
+    "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
+    "summary": "OpenAIがアクティブユーザー1億から10億へと大幅増、導入企業は200万社超を公表。推論効率化やコスト削減の取り組みで一部モデルの値下げを実施し、再投資を強調。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要プレーヤーのユーザー・企業採用規模とコスト構造の変化は市場競争や導入判断に直接影響するため重要。",
+    "published_at": "2026-08-02 07:21:26",
+    "created_at": "2026-08-03 01:26:50"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "ソニーの熊本工場、8月中旬には「地震前の稼働水準」に 早期復旧の理由を決算会見で明かす",
     "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000341/",
     "summary": "ソニーCFOが熊本の半導体工場が8月中旬に地震前の稼働水準に戻る見通しを表明。2016年の復旧より早い理由として被害の程度の違いを説明。",
@@ -790,28 +823,6 @@
     "reason": "主要ゲームエンジンのランタイム刷新は開発ワークフローやライブラリ互換性に影響し、開発コミュニティで注目度が高い。",
     "published_at": "2026-07-27 00:02:22",
     "created_at": "2026-07-28 02:15:07"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Meta、Facebookに無料の認証バッジ「Facebook Verified」 自撮り動画で登録、「Meta Verified」とは別",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/26/news015.html",
-    "summary": "MetaがFacebook向けに無料の認証バッジを導入。短い自撮り動画で本人確認し、プロフィールやMarketplace、グループに表示。既存の有料「Meta Verified」とは別扱い。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "プラットフォームの信頼性・アカウント対策に関わる施策で事業戦略上の意味はあるが影響範囲は中程度。",
-    "published_at": "2026-07-26 09:42:00",
-    "created_at": "2026-07-27 01:26:53"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "スマホの値上げが止まらない フォルダブル時代に期待したい「売り方」競争",
-    "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2127477.html",
-    "summary": "スマートフォン価格の上昇トレンドと、フォルダブル時代における販売戦略の重要性を論じるコラム。売り方の工夫が市場競争のカギになると指摘。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "市場動向の分析としては有益だが、技術的・業界影響は限定的で掲載優先度は低め。",
-    "published_at": "2026-07-26 09:00:00",
-    "created_at": "2026-07-27 01:26:53"
   },
   {
     "source": "＠IT",
@@ -2794,28 +2805,6 @@
     "created_at": "2026-07-04 01:50:09"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "Anthropic、Samsungと独自AIチップで協議か 報道受けNVIDIAなど半導体関連株が下落",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news101.html",
-    "summary": "報道によればAnthropicが独自AIチップの委託先としてSamsungと協議中とされ、これを受けて市場でNVIDIAなど半導体株が下落した。サプライチェーンと競争環境に注目が集まる。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "大手AI企業のチップ戦略が半導体市場や供給関係に影響するため、業界動向把握に有用。",
-    "published_at": "2026-07-03 13:36:00",
-    "created_at": "2026-07-04 01:50:09"
-  },
-  {
-    "source": "＠IT",
-    "title": "「バックアップが暗号化されて使えない」を今あえてテープで防ぐ 製造業はどう実現した？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news049.html",
-    "summary": "ランサムウェア対策として、ある製造業がイミュータブルではなくLTOテープによるオフライン保管を選択した事例を解説。理由や実装手順、コスト面の判断が示される。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "ランサムウェア対策の実務解として現実的な手法を示す事例で、情シスの備えや災対策判断に役立つため。",
-    "published_at": "2026-07-03 13:00:00",
-    "created_at": "2026-07-04 01:50:09"
-  },
-  {
     "source": "CNET Japan",
     "title": "グーグルに約7600億円の巨額制裁金が確定 Androidの支配的地位乱用で",
     "url": "https://japan.cnet.com/article/35249976/",
@@ -2835,17 +2824,6 @@
     "category": "クラウド",
     "reason": "Web運営者・開発者・クラウドサービスに直結する制御機能で、AI時代のコンテンツ保護と収益化に影響するため重要。",
     "published_at": "2026-07-03 10:55:00",
-    "created_at": "2026-07-04 01:50:09"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Amazonの衛星ブロードバンド「Leo」、打ち上げ300基突破で世界3位の規模に",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news083.html",
-    "summary": "Amazon Leoが軌道上で300基を突破し世界で3位の衛星数に到達。今後打ち上げ頻度を引き上げる方針で、Starlinkとの競争・市場構造が注目される。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "衛星ブロードバンドの勢力図とクラウド／通信インフラの競争に関わるため、クラウド・通信系読者に有益。",
-    "published_at": "2026-07-03 10:29:00",
     "created_at": "2026-07-04 01:50:09"
   },
   {
@@ -2879,28 +2857,6 @@
     "category": "セキュリティ",
     "reason": "攻撃者側がLLMで防御ロジックを解析できるなら防御設計と製品評価に重大な影響があり、情シス/ベンダー必読の示唆があるため。",
     "published_at": "2026-07-03 07:30:00",
-    "created_at": "2026-07-04 01:50:09"
-  },
-  {
-    "source": "＠IT",
-    "title": "Claude Codeの\"見えないシステムプロンプト改変\"が物議 その目的とは？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news033.html",
-    "summary": "AnthropicのClaude Codeで、ユーザーに見えない形でシステムプロンプトが改変されていたことが判明。開発者コミュニティで信頼と透明性の問題が波紋を呼んでいる。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "開発者の信頼やツール運用に関わる事案で、AI利用ルールやデプロイの透明性を問うため開発者向けに重要。",
-    "published_at": "2026-07-03 07:00:00",
-    "created_at": "2026-07-04 01:50:09"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "“開かずの基幹システム”、450人月→実質2カ月で解読 創業100年のカクヤス、生成AIで挑む「転生」",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
-    "summary": "設計書がなくブラックボックス化した基幹システムを、生成AIを活用して短期間で解析・再稼働させた事例を報告。実務での適用方法と課題が示されている。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "既存システム保守・モダナイゼーションにおける生成AIの実運用事例として、情シスや経営判断に示唆を与えるため。",
-    "published_at": "2026-07-03 06:45:00",
     "created_at": "2026-07-04 01:50:09"
   },
   {
