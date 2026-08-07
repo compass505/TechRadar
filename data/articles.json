@@ -1,6 +1,127 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "「声」の権利明記 生成AIで無断利用、法務省が民事責任の解釈指針を公表",
+    "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000454/",
+    "summary": "法務省が生成AIによる声の無断利用について、声も法的保護の対象となるとの解釈指針を公表。具体事例と事業者への注意喚起を含む。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "生成AIビジネスとクリエイター保護に直接影響する政府の法的指針で、サービス設計やコンプライアンスに重要。",
+    "published_at": "2026-08-07 19:08:04",
+    "created_at": "2026-08-08 01:13:13"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "KDDI、社内の全システムで脆弱性診断へ 1220万人分漏えいで「未知の脆弱性と片付けない」",
+    "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000453/",
+    "summary": "KDDIの大規模漏えいを受け、同社が保有システム群の脆弱性診断を全社的に実施する方針を表明。行政指導を受けた対応の一環として実施を急ぐ考え。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "通信事業者の大規模個人情報漏えい事案に関連する対応で、企業IT／インフラ運用に広範な示唆を与える。",
+    "published_at": "2026-08-07 18:53:41",
+    "created_at": "2026-08-08 01:13:13"
+  },
+  {
+    "source": "＠IT",
+    "title": "パスキー神話崩壊 Google Password Managerの同期機能を狙う新攻撃手法",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news030.html",
+    "summary": "普及が進むパスキーについて、研究者が同期機能を悪用する新攻撃手法を公表。暗号自体を破らずにGoogle Password Manager利用者の認証情報に到達する可能性を指摘。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "認証基盤に関わる新たな攻撃手法は企業の認証設計・移行判断に直接影響するため重要。",
+    "published_at": "2026-08-07 17:00:00",
+    "created_at": "2026-08-08 01:13:13"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "SpaceXとテスラ、1億平方フィートの超大型半導体工場「テラファブ」着工",
+    "url": "https://www.watch.impress.co.jp/docs/news/2131538.html",
+    "summary": "SpaceXとTeslaがテキサスに超大型垂直統合型半導体工場『Terafab』を着工。ロジック・メモリ・パッケージングを一体化し自社需要に対応する計画。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "AIコンピューティング需要に応えるための大型投資で、半導体生産とサプライチェーンに長期的影響を与える戦略案件。",
+    "published_at": "2026-08-07 14:33:43",
+    "created_at": "2026-08-08 01:13:13"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始 利用は申請制",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000443/",
+    "summary": "さくらインターネットの推論基盤『さくらのAI Engine』でPFNの国産LLM『PLaMo 3.0 Prime』の提供が開始。利用は申請制で無償プランは対象外。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "国産LLMの商用クラウド提供で国内企業のAI活用選択肢が増え、ガバナンスやデプロイ戦略に影響するため注目度あり。",
+    "published_at": "2026-08-07 13:07:21",
+    "created_at": "2026-08-08 01:13:13"
+  },
+  {
+    "source": "＠IT",
+    "title": "ここ1年で7倍に増えたn8nを悪用したデバイス追跡とマルウェア配布の手口",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news049.html",
+    "summary": "自動化プラットフォームn8nを悪用したフィッシングキャンペーンが急増。正規サービス経由でデバイス追跡やマルウェア配布を自動化する手口が確認された。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "クラウド／自動化ツールの悪用事例として、情シス・開発者が対策を検討すべき中規模リスク。",
+    "published_at": "2026-08-07 13:00:00",
+    "created_at": "2026-08-08 01:13:13"
+  },
+  {
+    "source": "＠IT",
+    "title": "GitHubリポジトリの「侵入口」をどうふさぐ？ 無料で使える6つのセキュリティ設定",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news062.html",
+    "summary": "GitHubが公開した、リポジトリを攻撃者に狙われにくくする6つの無料セキュリティ設定を紹介。30分以内に実装可能な対策を解説。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "実務で即適用できる開発／リポジトリ運用のベーシック指針として開発者・情シスに有益。",
+    "published_at": "2026-08-07 13:00:00",
+    "created_at": "2026-08-08 01:13:13"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Metaに約900億円の支払い命令、子どものSNS被害めぐる裁判で",
+    "url": "https://japan.cnet.com/article/35251406/",
+    "summary": "米ニューメキシコ州の裁判所が、Metaに対して子どものSNS被害に関する警告義務違反を理由に約5億6700万ドルの支払いを命じた判決。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "大手プラットフォームに対する巨額賠償判決で、企業の責任範囲や規制議論に直接波及する重要な判例的事件。",
+    "published_at": "2026-08-07 11:06:00",
+    "created_at": "2026-08-08 01:13:13"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "オープンソースAIワークスペース「Cloudflare OS」が公開",
+    "url": "https://www.watch.impress.co.jp/docs/news/2131290.html",
+    "summary": "Cloudflareがネットワーク上で稼働するオープンソースのAIワークスペース『Cloudflare OS』を公開。GitHubでソースを公開し開発者利用を促進。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発者向けのオープンAI基盤として導入・拡張の余地があり、開発ワークフローに影響を与える可能性があるため。",
+    "published_at": "2026-08-07 08:00:00",
+    "created_at": "2026-08-08 01:13:13"
+  },
+  {
+    "source": "＠IT",
+    "title": "開発者を狙う“自己拡散型npmワーム”の全貌 400超のパッケージに感染拡大",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news038.html",
+    "summary": "人気ライブラリ「keyv」の保守者アカウント侵害を起点に、自己増殖型マルウェアがnpmエコシステムで400超のパッケージに感染拡大。開発者側で緊急対応が必要とされる事案。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "開発者サプライチェーンを実際に侵害し広範囲に感染中で、即時の対応が必要な重大インシデント。",
+    "published_at": "2026-08-07 07:00:00",
+    "created_at": "2026-08-08 01:13:13"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
+    "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
+    "summary": "OpenAIがChatGPTの既定モデルを変更。有料向けに精度・速度向上の「Sol」、無料向けに「Luna」を提供し、無料テキストチャット無制限など機能差分を発表。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要LLMプラットフォームの仕様変更は開発者・企業利用方針やコスト感に影響する重要なプロダクトニュース。",
+    "published_at": "2026-08-07 06:32:08",
+    "created_at": "2026-08-08 01:13:13"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」 Microsoftがプレビュー公開",
     "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000434/",
     "summary": "MicrosoftがトレースログをAIで解析しアプリの遅延原因を診断する「Windows Performance Analyzer MCP」のプレビューを発表。",
@@ -855,17 +976,6 @@
     "category": "企業IT",
     "reason": "情シス運用におけるAI活用の実運用リスクと可能性を示す具体例で、IT管理者にとって示唆が強い。",
     "published_at": "2026-07-31 05:00:00",
-    "created_at": "2026-08-01 02:01:05"
-  },
-  {
-    "source": "Publickey",
-    "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
-    "url": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-    "summary": "JetBrainsがリポジトリ上にインテリジェントなレイヤを作る新サービス『JetBrains Context』を発表。AIへの適切なコード文脈供給でコード生成精度向上を狙う。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発ツール側のコンテキスト支援はコード生成の品質向上に寄与するが影響範囲は主に開発者向け。",
-    "published_at": "2026-07-31 02:48:59",
     "created_at": "2026-08-01 02:01:05"
   },
   {
@@ -3015,28 +3125,6 @@
   },
   {
     "source": "＠IT",
-    "title": "「事後対応」中心の運用から脱却する「AIセキュリティ」の始め方 Google解説",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/08/news059.html",
-    "summary": "Google CloudがCISO向けにAIを活用した防御の導入ガイドを公開。管理負荷軽減や脅威ハンティングへの段階的移行ロードマップを提示。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "政府機関や重要インフラ向けの実務的ガイドで、情シス／セキュリティ担当の導入判断に役立つため掲載価値が高い。",
-    "published_at": "2026-07-08 13:00:00",
-    "created_at": "2026-07-09 01:54:38"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "スクエニ、ECサイトが1週間以上使えず 決済など重要機能の不具合でメンテ長期化",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/08/news086.html",
-    "summary": "スクウェア・エニックスの通販サイトがリニューアルに伴う不具合で7月1日以降、決済機能等が停止。復旧のめどが立たない状態が続く。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "大手企業のEC長期停止はサプライチェーン・顧客信頼・決済運用の観点で示唆が大きく、運用・ガバナンス面で注目に値する。",
-    "published_at": "2026-07-08 11:55:00",
-    "created_at": "2026-07-09 01:54:38"
-  },
-  {
-    "source": "＠IT",
     "title": "KDDIメール漏えいの全容判明 ゼロデイ悪用で761万人分パスワードが流出",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/08/news051.html",
     "summary": "KDDIのISP向けメール基盤への不正アクセス調査で、メールアドレス1223万件が漏えい。うち761万件超でパスワード流出を確認。ゼロデイ脆弱性が悪用されたと報告。",
@@ -3044,39 +3132,6 @@
     "category": "セキュリティ",
     "reason": "大規模な実被害（数百万件のパスワード流出）で影響範囲が広く緊急対応が必要なため最高レベルに該当。",
     "published_at": "2026-07-08 07:30:00",
-    "created_at": "2026-07-09 01:54:38"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "NTTドコモビジネスがIOWN活用の分散GPU環境を提供、25GBを2秒で転送",
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/08/news052.html",
-    "summary": "NTTドコモビジネスがIOWN APNを活用し、全国8拠点分散GPUを統合利用する実証環境を提供開始。大容量低遅延転送で分散AI基盤の実用性を検証可能に。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "国内事業者による次世代ネットワークを使った分散AI基盤の実証は、企業のAIインフラ戦略に影響する。",
-    "published_at": "2026-07-08 07:30:00",
-    "created_at": "2026-07-09 01:54:38"
-  },
-  {
-    "source": "＠IT",
-    "title": "QRコード攻撃はなぜメールセキュリティを無力化できるのか？ その理由を解説",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/08/news048.html",
-    "summary": "QRコードを悪用したフィッシングがメールゲートウェイの検査を回避する仕組みと、その対策を解説。企業での検知/運用上の注意点を提示。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "現実的で回避可能な攻撃手法の解説は情シス・セキュリティ担当の即効性ある対策に直結する。",
-    "published_at": "2026-07-08 07:00:00",
-    "created_at": "2026-07-09 01:54:38"
-  },
-  {
-    "source": "atmarkit",
-    "title": "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news009.html",
-    "summary": "ソフトバンクが全社でのAIエージェント運用に向け、セキュリティ・ガバナンス・性能を担保する内製ゲートウェイ「Cloud Proxy」を構築。マルチLLM対応や自動スケールなどを解説。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "大手企業の実装設計は他社の全社AI展開モデルとして実務的示唆を与えるため有用。",
-    "published_at": "2026-07-08 05:00:00",
     "created_at": "2026-07-09 01:54:38"
   },
   {

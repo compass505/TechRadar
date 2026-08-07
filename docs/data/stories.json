@@ -5448,35 +5448,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "cf61ce9712e9",
-    "title": "NTTドコモビジネスがIOWN活用の分散GPU環境を提供、25GBを2秒で転送",
-    "published_date": "2026-07-08",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "NTTドコモビジネスがIOWN APNを活用し、全国8拠点分散GPUを統合利用する実証環境を提供開始。大容量低遅延転送で分散AI基盤の実用性を検証可能に。",
-    "reason": "国内事業者による次世代ネットワークを使った分散AI基盤の実証は、企業のAIインフラ戦略に影響する。",
-    "published_at": "2026-07-08 07:30:00",
-    "created_at": "2026-07-09 01:54:38",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2607/08/news052.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "173103a42695",
     "title": "OpenAI、次世代モデル「GPT-5.6」を7月9日に一般公開",
     "published_date": "2026-07-08",
@@ -5501,124 +5472,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "3e29bfa1bd12",
-    "title": "QRコード攻撃はなぜメールセキュリティを無力化できるのか？ その理由を解説",
-    "published_date": "2026-07-08",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "QRコードを悪用したフィッシングがメールゲートウェイの検査を回避する仕組みと、その対策を解説。企業での検知/運用上の注意点を提示。",
-    "reason": "現実的で回避可能な攻撃手法の解説は情シス・セキュリティ担当の即効性ある対策に直結する。",
-    "published_at": "2026-07-08 07:00:00",
-    "created_at": "2026-07-09 01:54:38",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/08/news048.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 5,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 1,
-    "utility_score": 3,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "586c1bc3aa73",
-    "title": "「事後対応」中心の運用から脱却する「AIセキュリティ」の始め方 Google解説",
-    "published_date": "2026-07-08",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "Google CloudがCISO向けにAIを活用した防御の導入ガイドを公開。管理負荷軽減や脅威ハンティングへの段階的移行ロードマップを提示。",
-    "reason": "政府機関や重要インフラ向けの実務的ガイドで、情シス／セキュリティ担当の導入判断に役立つため掲載価値が高い。",
-    "published_at": "2026-07-08 13:00:00",
-    "created_at": "2026-07-09 01:54:38",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/08/news059.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "bded3143c618",
-    "title": "スクエニ、ECサイトが1週間以上使えず 決済など重要機能の不具合でメンテ長期化",
-    "published_date": "2026-07-08",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "スクウェア・エニックスの通販サイトがリニューアルに伴う不具合で7月1日以降、決済機能等が停止。復旧のめどが立たない状態が続く。",
-    "reason": "大手企業のEC長期停止はサプライチェーン・顧客信頼・決済運用の観点で示唆が大きく、運用・ガバナンス面で注目に値する。",
-    "published_at": "2026-07-08 11:55:00",
-    "created_at": "2026-07-09 01:54:38",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/08/news086.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "ab0c87cc2596",
-    "title": "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体",
-    "published_date": "2026-07-08",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "ソフトバンクが全社でのAIエージェント運用に向け、セキュリティ・ガバナンス・性能を担保する内製ゲートウェイ「Cloud Proxy」を構築。マルチLLM対応や自動スケールなどを解説。",
-    "reason": "大手企業の実装設計は他社の全社AI展開モデルとして実務的示唆を与えるため有用。",
-    "published_at": "2026-07-08 05:00:00",
-    "created_at": "2026-07-09 01:54:38",
-    "representative_source": "atmarkit",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news009.html",
-    "sources": [
-      "atmarkit"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
     "has_itmedia_article": false
   },
   {
@@ -11189,34 +11042,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "889cad45f4b7",
-    "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
-    "published_date": "2026-07-31",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "JetBrainsがリポジトリ上にインテリジェントなレイヤを作る新サービス『JetBrains Context』を発表。AIへの適切なコード文脈供給でコード生成精度向上を狙う。",
-    "reason": "開発ツール側のコンテキスト支援はコード生成の品質向上に寄与するが影響範囲は主に開発者向け。",
-    "published_at": "2026-07-31 02:48:59",
-    "created_at": "2026-08-01 02:01:05",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "0c1732f12729",
     "title": "OpenAI、「GPT-5.6 Luna」を80％値下げ モデル自身による効率化でコスト削減",
     "published_date": "2026-07-31",
@@ -13230,5 +13055,309 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
+  },
+  {
+    "id": "1560afb06696",
+    "title": "GitHubリポジトリの「侵入口」をどうふさぐ？ 無料で使える6つのセキュリティ設定",
+    "published_date": "2026-08-07",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "GitHubが公開した、リポジトリを攻撃者に狙われにくくする6つの無料セキュリティ設定を紹介。30分以内に実装可能な対策を解説。",
+    "reason": "実務で即適用できる開発／リポジトリ運用のベーシック指針として開発者・情シスに有益。",
+    "published_at": "2026-08-07 13:00:00",
+    "created_at": "2026-08-08 01:13:13",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news062.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "aa73e75d5727",
+    "title": "KDDI、社内の全システムで脆弱性診断へ 1220万人分漏えいで「未知の脆弱性と片付けない」",
+    "published_date": "2026-08-07",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "KDDIの大規模漏えいを受け、同社が保有システム群の脆弱性診断を全社的に実施する方針を表明。行政指導を受けた対応の一環として実施を急ぐ考え。",
+    "reason": "通信事業者の大規模個人情報漏えい事案に関連する対応で、企業IT／インフラ運用に広範な示唆を与える。",
+    "published_at": "2026-08-07 18:53:41",
+    "created_at": "2026-08-08 01:13:13",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/07/2000000453/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5c581469c3fb",
+    "title": "Metaに約900億円の支払い命令、子どものSNS被害めぐる裁判で",
+    "published_date": "2026-08-07",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "米ニューメキシコ州の裁判所が、Metaに対して子どものSNS被害に関する警告義務違反を理由に約5億6700万ドルの支払いを命じた判決。",
+    "reason": "大手プラットフォームに対する巨額賠償判決で、企業の責任範囲や規制議論に直接波及する重要な判例的事件。",
+    "published_at": "2026-08-07 11:06:00",
+    "created_at": "2026-08-08 01:13:13",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251406/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5612d189b575",
+    "title": "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始 利用は申請制",
+    "published_date": "2026-08-07",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "さくらインターネットの推論基盤『さくらのAI Engine』でPFNの国産LLM『PLaMo 3.0 Prime』の提供が開始。利用は申請制で無償プランは対象外。",
+    "reason": "国産LLMの商用クラウド提供で国内企業のAI活用選択肢が増え、ガバナンスやデプロイ戦略に影響するため注目度あり。",
+    "published_at": "2026-08-07 13:07:21",
+    "created_at": "2026-08-08 01:13:13",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000443/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5cc650c2b165",
+    "title": "SpaceXとテスラ、1億平方フィートの超大型半導体工場「テラファブ」着工",
+    "published_date": "2026-08-07",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "SpaceXとTeslaがテキサスに超大型垂直統合型半導体工場『Terafab』を着工。ロジック・メモリ・パッケージングを一体化し自社需要に対応する計画。",
+    "reason": "AIコンピューティング需要に応えるための大型投資で、半導体生産とサプライチェーンに長期的影響を与える戦略案件。",
+    "published_at": "2026-08-07 14:33:43",
+    "created_at": "2026-08-08 01:13:13",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2131538.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "aa3f34748df1",
+    "title": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
+    "published_date": "2026-08-07",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "OpenAIがChatGPTの既定モデルを変更。有料向けに精度・速度向上の「Sol」、無料向けに「Luna」を提供し、無料テキストチャット無制限など機能差分を発表。",
+    "reason": "主要LLMプラットフォームの仕様変更は開発者・企業利用方針やコスト感に影響する重要なプロダクトニュース。",
+    "published_at": "2026-08-07 06:32:08",
+    "created_at": "2026-08-08 01:13:13",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e5115dd623b9",
+    "title": "「声」の権利明記 生成AIで無断利用、法務省が民事責任の解釈指針を公表",
+    "published_date": "2026-08-07",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "法務省が生成AIによる声の無断利用について、声も法的保護の対象となるとの解釈指針を公表。具体事例と事業者への注意喚起を含む。",
+    "reason": "生成AIビジネスとクリエイター保護に直接影響する政府の法的指針で、サービス設計やコンプライアンスに重要。",
+    "published_at": "2026-08-07 19:08:04",
+    "created_at": "2026-08-08 01:13:13",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/07/2000000454/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "87cbfbd2a9a2",
+    "title": "ここ1年で7倍に増えたn8nを悪用したデバイス追跡とマルウェア配布の手口",
+    "published_date": "2026-08-07",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "自動化プラットフォームn8nを悪用したフィッシングキャンペーンが急増。正規サービス経由でデバイス追跡やマルウェア配布を自動化する手口が確認された。",
+    "reason": "クラウド／自動化ツールの悪用事例として、情シス・開発者が対策を検討すべき中規模リスク。",
+    "published_at": "2026-08-07 13:00:00",
+    "created_at": "2026-08-08 01:13:13",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news049.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9756250ca11a",
+    "title": "オープンソースAIワークスペース「Cloudflare OS」が公開",
+    "published_date": "2026-08-07",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "Cloudflareがネットワーク上で稼働するオープンソースのAIワークスペース『Cloudflare OS』を公開。GitHubでソースを公開し開発者利用を促進。",
+    "reason": "開発者向けのオープンAI基盤として導入・拡張の余地があり、開発ワークフローに影響を与える可能性があるため。",
+    "published_at": "2026-08-07 08:00:00",
+    "created_at": "2026-08-08 01:13:13",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2131290.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 3,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "bd7e38b87bfb",
+    "title": "パスキー神話崩壊 Google Password Managerの同期機能を狙う新攻撃手法",
+    "published_date": "2026-08-07",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "普及が進むパスキーについて、研究者が同期機能を悪用する新攻撃手法を公表。暗号自体を破らずにGoogle Password Manager利用者の認証情報に到達する可能性を指摘。",
+    "reason": "認証基盤に関わる新たな攻撃手法は企業の認証設計・移行判断に直接影響するため重要。",
+    "published_at": "2026-08-07 17:00:00",
+    "created_at": "2026-08-08 01:13:13",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news030.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2a9a69dce01b",
+    "title": "開発者を狙う“自己拡散型npmワーム”の全貌 400超のパッケージに感染拡大",
+    "published_date": "2026-08-07",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "人気ライブラリ「keyv」の保守者アカウント侵害を起点に、自己増殖型マルウェアがnpmエコシステムで400超のパッケージに感染拡大。開発者側で緊急対応が必要とされる事案。",
+    "reason": "開発者サプライチェーンを実際に侵害し広範囲に感染中で、即時の対応が必要な重大インシデント。",
+    "published_at": "2026-08-07 07:00:00",
+    "created_at": "2026-08-08 01:13:13",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news038.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
   }
 ]
