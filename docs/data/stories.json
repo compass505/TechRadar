@@ -5805,33 +5805,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "0637d3e58ddf",
-    "title": "なんでPSのディスク版ゲームがなくなるの？ 不満たらたらのゲーム好きマンガ家を黙らせた担当の一言とは",
-    "published_date": "2026-07-12",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "ソニーが2028年1月にPlayStation用ゲームの物理ディスク生産を終了すると発表。デジタル移行に伴う流通・小売・コレクターへの影響が懸念される。",
-    "reason": "主要プラットフォーマーの流通戦略の転換は業界・市場に影響。小売や保存、ライセンス運用の判断材料として重要。",
-    "published_at": "2026-07-12 07:14:00",
-    "created_at": "2026-07-13 01:25:29",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/12/news013.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "437c0866bffd",
     "title": "GMOグループ、AI時代に「エンジニア含む組織体制見直し」 熊谷代表が「AI変革最高責任者」に",
     "published_date": "2026-07-13",
@@ -11426,33 +11399,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "5fa37e206db3",
-    "title": "PC操作を録画→「Copilot」で作業を代理可能に Microsoftがアプリを無料公開 主にmacOS向け、Windows対応も",
-    "published_date": "2026-08-04",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "Microsoftが画面操作を録画してAIに作業を再現させる「Skill Recorder」を公開。Copilot向けスキル作成に使えるツール。",
-    "reason": "生産性ツールとして有用だが導入時の権限管理やセキュリティ留意点が必要で、実務向けの関心は高い。",
-    "published_at": "2026-08-04 08:00:00",
-    "created_at": "2026-08-05 02:10:44",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "3fa7d895e841",
     "title": "RedisのRCE脆弱性、PoC公開で危険度増す 修正済み脆弱性の“抜け穴”が判明",
     "published_date": "2026-08-04",
@@ -11482,34 +11428,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "6a691381741d",
-    "title": "Rust製のフルスタックWebアプリフレームワーク「Topcoat」登場。非同期ランタイム「Tokio」上でサーバサイドレンダリング、ルーティング、コンポーネントライブラリなど",
-    "published_date": "2026-08-04",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "Tokioの開発チームがRust製フルスタックWebフレームワークTopcoatを公開。SSR、ルーティング、コンポーネント等を提供する新フレームワーク。",
-    "reason": "開発者コミュニティ向けの新技術で、RustでのWeb開発エコシステムに影響するが緊急性は低いため中程度の重要度。",
-    "published_at": "2026-08-04 00:42:58",
-    "created_at": "2026-08-05 02:10:44",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/rustwebtopcoattokio.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
     "id": "bcb0f37d54c1",
     "title": "VMware管理基盤に“認証突破”の穴 Broadcom「回避策を用意せず」",
     "published_date": "2026-08-04",
@@ -11536,34 +11454,6 @@
     "urgency_score": 1,
     "utility_score": 0,
     "has_itmedia_article": false
-  },
-  {
-    "id": "fe79b659f3ea",
-    "title": "iPaaS、AIで広がる「使いどころ」とは？ 2030年度まで年平均20.7％成長の背景",
-    "published_date": "2026-08-04",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "AI活用を前提としたiPaaS需要が高まり、国内市場は2030年度までCAGR20.7％の成長が見込まれる。用途と導入ポイントを解説。",
-    "reason": "企業IT基盤のトレンドと投資判断に役立つ市場見通しで、情シス向けに有益な情報。",
-    "published_at": "2026-08-04 08:00:00",
-    "created_at": "2026-08-05 02:10:44",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2608/04/news041.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "0d236f705e7f",
@@ -11651,33 +11541,6 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
-  },
-  {
-    "id": "d4e3c2d52a5e",
-    "title": "ドコモ・バイクシェア、サービス一時停止 不具合の復旧見通し立たず",
-    "published_date": "2026-08-04",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "ドコモ・バイクシェアがシステム不具合でサービスを一時停止。再開時期は未定で、利用者への影響が出ている。",
-    "reason": "全国サービス停止は運用・SaaS依存のリスクを示す事例として情報システム部門が押さえるべきため掲載価値あり。",
-    "published_at": "2026-08-04 15:56:07",
-    "created_at": "2026-08-05 02:10:44",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/04/2000000378/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "16050a25c8aa",
@@ -13475,6 +13338,256 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ead29d828908",
+    "title": "2028年にSOCの人手対応、30％減へ 常態化する攻撃に企業は勝てるのか",
+    "published_date": "2026-08-11",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "ガートナーの見解を紹介し、AI活用でSOCの人手対応が2028年までに約30%減少すると予測。攻撃の常態化に対する優先事項や対応戦略を提示している。",
+    "reason": "情シス／SOC運用に直接関わる予測と優先課題は実務判断に有用なため掲載価値あり。",
+    "published_at": "2026-08-11 08:00:00",
+    "created_at": "2026-08-12 01:14:51",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "df811f9b78eb",
+    "title": "Meta、ローカル動作に特化したオープンモデル「Muse Glimmer」公開 Apache 2.0で提供",
+    "published_date": "2026-08-11",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "Metaが約296億パラメータのオープンウェイトモデルMuse GlimmerをApache 2.0で公開。ローカルGPU一基での稼働を想定した蒸留・量子化が施され、エッジや開発者利用に最適化されている。",
+    "reason": "オープンでローカル稼働可能なモデルの公開は開発者・企業の導入・セキュリティ選択に大きな影響を与えるため高評価。",
+    "published_at": "2026-08-11 07:11:40",
+    "created_at": "2026-08-12 01:14:51",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/11/2000000493/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "61c426acb70c",
+    "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入",
+    "published_date": "2026-08-11",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "OpenAIがサイバー防御者向けイニシアチブDaybreakを拡張。Blue/Redの二階層アクセスと、Red向け専用モデルGPT-5.6-Cyberを導入し、正当なセキュリティ研究での過度な拒否を抑制する設計。",
+    "reason": "防御とレッドチーム両面で使える専用AIはセキュリティ実務・脅威モデリングに直接影響するため重要度高めに評価。",
+    "published_at": "2026-08-11 11:48:40",
+    "created_at": "2026-08-12 01:14:51",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f80dac5fc943",
+    "title": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に",
+    "published_date": "2026-08-11",
+    "importance_score": 2,
+    "category": "ビジネス",
+    "summary": "YouTubeが2027年2月からパートナープログラムの参加基準を大幅に引き上げ。新規は再生時間8000時間またはショート2000万回再生が必要となるなど条件を厳格化する。",
+    "reason": "クリエイター経済やプラットフォーム戦略に影響するが技術的インパクトは限定的のため中程度評価。",
+    "published_at": "2026-08-11 09:21:44",
+    "created_at": "2026-08-12 01:14:51",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/11/2000000495/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0d293d48a665",
+    "title": "「全面ガラスのiPhone」開発頓挫か 歩留まりの低さが原因との報道",
+    "published_date": "2026-08-11",
+    "importance_score": 2,
+    "category": "ガジェット",
+    "summary": "報道によればAppleの全面ガラスiPhone開発は歩留まりの低さで開発中止の可能性。製品デザインや供給戦略に影響する可能性があると伝えられている。",
+    "reason": "製品ロードマップ関連の業界動向として消費者・業界で関心が高いが噂段階のため重要度は抑えめ。",
+    "published_at": "2026-08-11 07:21:00",
+    "created_at": "2026-08-12 01:14:51",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251481/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "bffbb9cbbca5",
+    "title": "ザッカーバーグCEO、超知能の集中化に警鐘 「単一の善意ある超知能は存在しない」とオープンモデル公開再開へ",
+    "published_date": "2026-08-11",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Metaのザッカーバーグが超知能の分散化と個人エンパワーメントを主張。独立審査や政府向けチェックポイントの提案とともにオープンモデル公開の再開方針を表明した。",
+    "reason": "大手プラットフォーマーのAI公開方針とガバナンス提案は業界の議論を左右するため注目に値する。",
+    "published_at": "2026-08-11 07:21:33",
+    "created_at": "2026-08-12 01:14:51",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/11/2000000494/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "82ffffeb25e7",
+    "title": "ソニーとTSMC、熊本にスマホ向け次世代センサー新拠点 29年量産へ",
+    "published_date": "2026-08-11",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "ソニーとTSMCが熊本にスマートフォン向け次世代イメージセンサーの開発・製造拠点を設立し、2029年の量産開始を目指すことで合意した。",
+    "reason": "グローバルなセンサー供給や国内半導体投資に関わる産業動向として重要性があるため選定。",
+    "published_at": "2026-08-11 20:12:46",
+    "created_at": "2026-08-12 01:14:51",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2132147.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9a1b49f57a64",
+    "title": "デジ庁が個人情報漏えいを公表 「対象者を絞る」だけの処理はなぜ失敗した？",
+    "published_date": "2026-08-11",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "デジタル庁の国家資格システムで150人分の個人情報が別省庁へ送付される事案。フィルタ処理や運用の前提誤りが原因とされ、開発・運用上の教訓が示された。",
+    "reason": "公的システムでの運用ミスはITガバナンスや個人情報管理に関する実務的示唆が強いため重要度中程度で掲載。",
+    "published_at": "2026-08-11 07:00:00",
+    "created_at": "2026-08-12 01:14:51",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/11/news010.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "85f313be86e0",
+    "title": "親が子にAIを使わせる理由は「勉強に役立つ」ではなく「うちの子だけは遅れさせたくない」？ 2000人を調査",
+    "published_date": "2026-08-11",
+    "importance_score": 1,
+    "category": "その他",
+    "summary": "PNAS掲載の研究で、親が子どもに生成AIを使わせる判断は学習効果よりも周囲との競争回避が大きな動機になっていると報告。",
+    "reason": "社会的示唆はあるが技術・ビジネスへの直接的影響は小さいため低め評価。",
+    "published_at": "2026-08-11 07:00:00",
+    "created_at": "2026-08-12 01:14:51",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
     "has_itmedia_article": true
   }
 ]
