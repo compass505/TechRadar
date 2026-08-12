@@ -1,5 +1,137 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "Google新スマホ「Pixel 11シリーズ」正式発表 「Gemini Intelligence」向けに設計 カメラも強化",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
+    "summary": "GoogleがPixel 11/11 Pro/11 Pro XLを発表。新Tensor G6搭載でGemini Intelligenceを前提とした設計、カメラや通知機能を強化して8月20日発売予定。",
+    "importance": 2,
+    "category": "ガジェット",
+    "reason": "主要プラットフォーマーのAI統合型スマホ新世代として注目度はあるが製品発表寄りのため重要度は抑えめ。",
+    "published_at": "2026-08-12 23:03:56",
+    "created_at": "2026-08-13 01:15:22"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
+    "summary": "GoogleのGeminiアプリの月間アクティブユーザーが10億人を突破。検索等を除いたアプリ単体での到達で、成長スピードが注目されている。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要AIサービスの大規模普及は競合環境・エコシステムに影響する重要な指標。",
+    "published_at": "2026-08-12 18:59:59",
+    "created_at": "2026-08-13 01:15:22"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "RIZAP運営のECサイトに不正アクセス カード情報含む個人情報が流出の可能性 サイトは一時閉鎖",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000512/",
+    "summary": "RIZAPの通販サイトが不正アクセスを受け、利用者の個人情報とクレジットカード情報が流出した可能性があると発表。サイトは一時閉鎖中で再開時期未定。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "実際の顧客データ流出の可能性がある事案で、実務的な対応や注意喚起の価値が高い。",
+    "published_at": "2026-08-12 18:19:37",
+    "created_at": "2026-08-13 01:15:22"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「10月以降も継続」 楽天のKDDIローミング終了について三木谷氏がコメント 縮小はカバー済みエリアのみ",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000510/",
+    "summary": "楽天モバイルのKDDIローミング契約見直しについて、三木谷氏は一部エリアでは10月以降も継続する方針を表明。十分カバーされた地域は縮小する見通し。",
+    "importance": 2,
+    "category": "ビジネス",
+    "reason": "通信事業のサービス提供/戦略に関わる実務的な変更で、事業者とユーザー双方に影響するため注目。",
+    "published_at": "2026-08-12 16:52:24",
+    "created_at": "2026-08-13 01:15:22"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SpaceXAI、AIエージェント「Grok Bot」発表 クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000506/",
+    "summary": "SpaceXAIが常時稼働型AIエージェント『Grok Bot』のβを発表。チャットでタスクを渡すとアプリやWebを操作し、複数Botの並列実行も可能とするサービス。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "業務自動化の実用化を加速し、セキュリティ・運用課題も伴うため注目度高い新サービス。",
+    "published_at": "2026-08-12 15:33:57",
+    "created_at": "2026-08-13 01:15:22"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "NVIDIAが30Bのオープンモデル公開 「OpenClaw」など常時稼働エージェント向けに設計",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
+    "summary": "NVIDIAが30Bのオープンモデル『Nemotron 3.5 Lightning』を公開。常時稼働エージェント向けに設計され、効率良く高性能を実現するとしている。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "エージェント／常時稼働用途向けのオープンモデル公開は開発者エコシステムに影響するため注目。",
+    "published_at": "2026-08-12 12:55:52",
+    "created_at": "2026-08-13 01:15:22"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ソニーとTSMC、熊本に新会社 計7470億円を拠出、29年にスマホ向けセンサー量産開始",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000501/",
+    "summary": "ソニーとTSMCが熊本に合弁会社を設立。段階的に約7470億円を拠出し、2029年に次世代スマホ向けイメージセンサーの量産を開始する計画が確定契約に至った。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "巨大投資と生産拠点整備が国内外の供給チェーンと市場に大きく影響するため重要。",
+    "published_at": "2026-08-12 12:28:05",
+    "created_at": "2026-08-13 01:15:22"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "NEC、部門長も現場もAI 新社内組織「コーポレートAI・Workforce部門」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2132221.html",
+    "summary": "NECが社内でAIが業務遂行を担う新組織『コーポレートAI・Workforce部門』を設置。最終判断とガバナンスは人が担う運用を明示している。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大企業の社内AI組織化とガバナンス実践の先行事例として、企業ITの導入設計に示唆を与える。",
+    "published_at": "2026-08-12 12:15:54",
+    "created_at": "2026-08-13 01:15:22"
+  },
+  {
+    "source": "＠IT",
+    "title": "「AIによる攻撃からOSSを守れ」ビッグテックや金融、通信企業が取り組むAkritesプロジェクトとは",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news017.html",
+    "summary": "Linux Foundationが中心となり、OSS公開リポジトリを標的にした攻撃やAI悪用からオープンソースを守る『Akrites』プロジェクトに大手企業が参加している取り組みを紹介。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "OSS供給網の安全性に大手が関与する重要な動きで、ソフトウェアサプライチェーン全体に影響するため高評価。",
+    "published_at": "2026-08-12 10:30:00",
+    "created_at": "2026-08-13 01:15:22"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "37兆円のSaaS支出が2030年までに「消える」 Gartnerが予測するエージェントAIの破壊力",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news044.html",
+    "summary": "Gartnerはエージェント型AIの普及で最大2340億ドル（約37兆円）の企業向けソフト支出が影響を受けると予測。従来のシート課金モデルの崩壊を指摘している。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "エンタープライズ購買モデルとSaaS市場構造の根本的変化を予測するため、経営・調達戦略に直結する重要ニュース。",
+    "published_at": "2026-08-12 08:00:00",
+    "created_at": "2026-08-13 01:15:22"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
+    "summary": "AnthropicがClaudeの生成テキストに電子透かしとC2PA準拠の署名付きメタデータを付与。EU AI Actの透明性要件に対応し、全世界のモデルとサービスに適用する方針。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AI出力のトレーサビリティ・規制対応に直結する措置で、コンプライアンスと検出技術の動向を示す。",
+    "published_at": "2026-08-12 07:16:45",
+    "created_at": "2026-08-13 01:15:22"
+  },
+  {
+    "source": "＠IT",
+    "title": "【急ぎ適用を】Windows 11にゼロデイ攻撃リスク 2026年8月更新プログラム「KB5121003」の内容と注意点",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news074.html",
+    "summary": "Windows 11向け8月更新で約400件の脆弱性修正を含む。既に悪用が確認されているAFD.sysの権限昇格脆弱性が含まれ、緊急適用が推奨されている。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "悪用確認済みの重大脆弱性を含む月例更新。即時対応が必要なため重要度5相当。",
+    "published_at": "2026-08-12 05:00:00",
+    "created_at": "2026-08-13 01:15:22"
+  },
+  {
     "source": "Impress Watch",
     "title": "ソニーとTSMC、熊本にスマホ向け次世代センサー新拠点 29年量産へ",
     "url": "https://www.watch.impress.co.jp/docs/news/2132147.html",
@@ -628,17 +760,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "「Xであなたをブロックした人が分かる」サイト拡散 ソースコードを見たら、IDとパスワード外部送信",
-    "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000403/",
-    "summary": "「ブロック確認」と称するサイトがX上で拡散。ソース確認で入力したID・パスワードを外部送信するマルウェア的な動作が判明、利用者に注意喚起。",
-    "importance": 2,
-    "category": "セキュリティ",
-    "reason": "ソーシャル上の誘導を介した認証情報詐取は広く発生し得るためユーザー啓発の価値あり。",
-    "published_at": "2026-08-05 19:51:43",
-    "created_at": "2026-08-06 01:57:19"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "最大6万件の個人情報流出か 「ITトレンド」など運営のイノベーション、GitHubの認証情報漏えいで",
     "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000396/",
     "summary": "イノベーションが使用するGitHubの認証情報が漏えいし、第三者による不正アクセスで最大約6万件の氏名やメールアドレスが流出した可能性を公表。",
@@ -715,28 +836,6 @@
     "created_at": "2026-08-06 01:57:19"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "エージェント型AIは「過度な期待」のピークへ ガートナー、日本におけるデジタルワークプレースのハイプサイクルを発表",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000393/",
-    "summary": "ガートナージャパンが日本のデジタルワークプレースのハイプサイクルを公表。エージェント型AIを過度な期待のピークに位置づけ、シャドーAI等のリスクを指摘。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "トレンド整理として経営判断や導入計画に有益だが速報性は中程度。",
-    "published_at": "2026-08-05 13:40:35",
-    "created_at": "2026-08-06 01:57:19"
-  },
-  {
-    "source": "＠IT",
-    "title": "「データのコピー」をやめて工数を8分の1に 古河電工は「100システムのデータ統合」をどう実現？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/05/news050.html",
-    "summary": "古河電工が分散する約100システムのデータ統合に成功。コピー集約からの脱却で工数大幅削減を実現した具体的手法を解説。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "大規模企業のデータ統合実例は情シスやDX推進の参考になり実務的価値が高い。",
-    "published_at": "2026-08-05 13:00:00",
-    "created_at": "2026-08-06 01:57:19"
-  },
-  {
     "source": "Impress Watch",
     "title": "クラウドフレア、AIエージェントに“身元と財布”持たせる新機能",
     "url": "https://www.watch.impress.co.jp/docs/news/2130686.html",
@@ -767,17 +866,6 @@
     "category": "法規制",
     "reason": "大手AI企業とプラットフォーマー間の訴訟は業界ルール・データ管理慣行に影響するため重要。",
     "published_at": "2026-08-05 07:16:06",
-    "created_at": "2026-08-06 01:57:19"
-  },
-  {
-    "source": "Publickey",
-    "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
-    "url": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
-    "summary": "1Passwordが組織向けに複数AIサービス（Anthropic/Calude、OpenAI/ChatGPT等）の支出状況を単一ダッシュボードで可視化・管理する機能を発表。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "企業のAI利用コスト管理とガバナンスに直接関わる実務的なツール追加で情シス関係者に有益。",
-    "published_at": "2026-08-05 00:38:32",
     "created_at": "2026-08-06 01:57:19"
   },
   {
@@ -2960,17 +3048,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "リチウムイオン電池の出火、都内で過去最多382件 26年は1.5倍ペースで急増 東京消防庁",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/13/news129.html",
-    "summary": "東京消防庁の集計で、リチウムイオン電池を搭載した製品による出火が急増。2025年は年間382件で過去最多、2026年は前年同期比1.5倍のペースで増加している。",
-    "importance": 3,
-    "category": "ガジェット",
-    "reason": "モバイル・家電の安全性とリスク管理に関する継続的トレンドで、メーカーとユーザー両方に影響するため掲載価値あり。",
-    "published_at": "2026-07-13 20:23:00",
-    "created_at": "2026-07-14 02:26:42"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "ニチレイに不正アクセス、冷凍食品の出荷に支障 システムに障害",
     "url": "https://www.itmedia.co.jp/news/articles/2607/13/news128.html",
     "summary": "ニチレイで不正アクセスに伴うシステム障害が発生し、冷蔵倉庫の入出庫や出荷業務に影響が出ていると発表された。業務復旧に向け対応中。",
@@ -2992,17 +3069,6 @@
     "created_at": "2026-07-14 02:26:42"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "OpenAIのブラウザ「ChatGPT Atlas」終了へ 公開から1年足らずで",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
-    "summary": "OpenAIがAIブラウザ「ChatGPT Atlas」を2026年8月9日に停止すると案内。データ移行手順を公開し、代替としてデスクトップアプリやChrome拡張を案内している。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "OpenAIによる製品撤退はAI製品戦略の変化を示し、ユーザー運用や開発者に影響があるため報じる価値あり。",
-    "published_at": "2026-07-13 14:20:00",
-    "created_at": "2026-07-14 02:26:42"
-  },
-  {
     "source": "＠IT",
     "title": "RHEL 8、9、10に影響 CVSS 9.8の脆弱性、「修正済み」のはずが再発",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/13/news043.html",
@@ -3011,17 +3077,6 @@
     "category": "セキュリティ",
     "reason": "主要エンタープライズOSに近い高CVSS脆弱性の再発は迅速な対策が求められ、情シス向け要注意情報。",
     "published_at": "2026-07-13 14:18:00",
-    "created_at": "2026-07-14 02:26:42"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "GMOグループ、AI時代に「エンジニア含む組織体制見直し」 熊谷代表が「AI変革最高責任者」に",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/13/news093.html",
-    "summary": "GMO代表の熊谷氏がグループCAIOを兼務。組織体制や人材育成を含むAI変革をトップ自ら牽引すると表明した。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業トップが直接AI変革責任を担う動きはガバナンス・人材戦略の指標として読み解けるため有用。",
-    "published_at": "2026-07-13 14:02:00",
     "created_at": "2026-07-14 02:26:42"
   },
   {
@@ -3044,28 +3099,6 @@
     "category": "法規制",
     "reason": "主要テック企業間の法的対立はAI業界の競争・ガバナンスに大きく影響するため重要度高い。",
     "published_at": "2026-07-13 10:15:00",
-    "created_at": "2026-07-14 02:26:42"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Instagram、他人の公開写真からAI動画を自動生成する機能を無効化 フィードバック受け",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/13/news059.html",
-    "summary": "MetaはInstagramのAI動画自動生成機能を、ユーザーの懸念を受けて無効化した。公開アカウントの写真を本人許諾なく素材にする仕様が問題視された。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "プラットフォーム側のAI機能停止は生成AIの利用規範とプライバシー対応の前例となるため注目に値する。",
-    "published_at": "2026-07-13 08:59:00",
-    "created_at": "2026-07-14 02:26:42"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "論文サイト「arXiv」、投稿の約9割で非公開情報が“丸見え状態”か パスワードや秘密鍵、自宅のGPS座標なども 270万件を調査",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/13/news021.html",
-    "summary": "研究者らの調査で、arXivに投稿されたソースファイルの多くにパスワードや秘密鍵、個人情報など意図せぬ機密情報が含まれていることが判明した。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "学術公開物からの機密漏洩は研究機関・企業の知財管理とセキュリティ教育の見直しにつながるため有益。",
-    "published_at": "2026-07-13 07:00:00",
     "created_at": "2026-07-14 02:26:42"
   },
   {
