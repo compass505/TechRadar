@@ -1,5 +1,137 @@
 [
   {
+    "source": "ITmedia AI+",
+    "title": "中国DeepSeek、API料金を「最大12倍」に値上げ ピーク時価格も導入 8月17日から",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000533/",
+    "summary": "DeepSeekがAPI料金を最大12倍に値上げ、さらにピーク時価格を導入する新料金体系を発表。新体系は8月17日から適用される。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要AIプロバイダの大幅値上げはAI導入コストと事業計画に影響するため事業者は注視すべき",
+    "published_at": "2026-08-13 23:12:24",
+    "created_at": "2026-08-14 01:15:14"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Google、「Gemini」開発遅延で焦りか 共同創業者ブリン氏が“全力投球”促す",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
+    "summary": "Google内で旗艦モデル『Gemini』の公開が競合に遅れて2カ月延期に。共同創業者ブリン氏が関係者にリソース集中を促していると伝える。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要プレーヤーの開発遅延と経営レベルの介入はAI競争と製品ロードマップに影響するため業界重要ニュース",
+    "published_at": "2026-08-13 22:16:13",
+    "created_at": "2026-08-14 01:15:14"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "東京ガス子会社、社員が飲酒後にPCを紛失 個人情報約2万件を保存",
+    "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000531/",
+    "summary": "東京ガスネットワークの業務用PCを社員が紛失。顧客の個人情報約2万件が保存されており、現時点で不正利用は確認されていないと発表。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "大量の個人情報流出リスクを伴う人的管理の失敗は企業の情報ガバナンス課題として重要",
+    "published_at": "2026-08-13 18:07:24",
+    "created_at": "2026-08-14 01:15:14"
+  },
+  {
+    "source": "＠IT",
+    "title": "Amazon S3侵害から「わずか8分」――LLMによる自動化で“AWS管理者権限”を奪取",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/13/news020.html",
+    "summary": "LLMを使ってAWS環境侵入を自動化する攻撃を観測。攻撃者は約8分で管理者権限を奪取し、複数のAWSプリンシパルに横断的侵害を行ったと報告。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "クラウド管理者権限を短時間で奪う新手法の実運用観測は重大インシデントで、企業の即時対応と脆弱性管理方針見直しが必要",
+    "published_at": "2026-08-13 17:00:00",
+    "created_at": "2026-08-14 01:15:14"
+  },
+  {
+    "source": "＠IT",
+    "title": "総務省のAIセキュリティガイドライン「知っているが生かせない」企業が7割 対策を阻む事情とは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/13/news047.html",
+    "summary": "総務省ガイドラインを知っていても活用できていない企業が多数。調査から、組織的・技術的制約がAIセキュリティ対策の実行を妨げている実態が示された。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "政府ガイドラインと企業の実装ギャップは政策評価や企業コンプライアンスに直結するため重要",
+    "published_at": "2026-08-13 13:00:00",
+    "created_at": "2026-08-14 01:15:14"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Google AI Studio、API課金を前払い制に変更",
+    "url": "https://www.watch.impress.co.jp/docs/news/2132505.html",
+    "summary": "GoogleはGemini APIの課金を後払いから前払いへ切り替え。10月12日までにプロジェクト単位で前払いプランへ移行が必要になる。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "API課金方式の変更は開発・予算管理に直接影響するためクラウド利用企業や開発者に重要",
+    "published_at": "2026-08-13 12:16:31",
+    "created_at": "2026-08-14 01:15:14"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "OpenAI「Codex」1500万ユーザー突破 利用制限リセット「/fastでどうぞ」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000525/",
+    "summary": "OpenAIのプログラミング支援サービス「Codex」が1500万ユーザーを突破。利用制限のリセット方法など運用上の案内も示された。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "利用者規模の拡大は開発ツール市場のトレンド把握に有用だが即時の影響度は限定的",
+    "published_at": "2026-08-13 11:39:02",
+    "created_at": "2026-08-14 01:15:14"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "「Windows 11」のOEMライセンス料が7～10％値上げ？ PC価格高騰に拍車か",
+    "url": "https://japan.cnet.com/article/35251530/",
+    "summary": "PCメーカー向けのWindows 11 OEMライセンス料が最大10％上昇しているとの報道。ハードウェア価格への影響が懸念されている。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "OEMライセンス上昇はPC調達コストに直結し、企業のIT予算やサプライチェーンに影響を及ぼす可能性がある",
+    "published_at": "2026-08-13 11:11:00",
+    "created_at": "2026-08-14 01:15:14"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "【注目記事まとめ】NEC、日立、富士通――Anthropicとの電撃的協業、その舞台裏 経営陣の狙いは？",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/13/news025.html",
+    "summary": "NEC、日立、富士通がAnthropicと相次いで協業を発表。各社の狙いや日本市場における生成AI戦略の意味を整理したまとめ記事。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "国内大手が外資AIベンダーと提携する動きは企業IT戦略と市場構造に影響を与えるため掲載価値が高い",
+    "published_at": "2026-08-13 07:30:00",
+    "created_at": "2026-08-14 01:15:14"
+  },
+  {
+    "source": "＠IT",
+    "title": "「パッチパンデミック」で現場が阿鼻叫喚 フロンティアAI時代の脆弱性管理“新常識”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/13/news023.html",
+    "summary": "フロンティアAI登場で脆弱性管理の常識が変化。深刻度のみで優先度を決める旧来方針が通用しなくなり、対応手法の見直しが必要だと解説する。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AI時代に適した脆弱性管理の再設計はセキュリティ運用チームにとって喫緊の課題",
+    "published_at": "2026-08-13 07:00:00",
+    "created_at": "2026-08-14 01:15:14"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
+    "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
+    "summary": "SpaceXAIが新モデル『Grok 4.6』を発表。長時間実行エージェントや対話・視覚成果物の強化を打ち出し、APIや関連ツールを同日提供開始。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "競合モデルの技術進化とAPI提供は開発者とAI製品戦略に直接関わるため注目に値する",
+    "published_at": "2026-08-13 06:32:01",
+    "created_at": "2026-08-14 01:15:14"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "メルカリが明かす「Claude Code全社展開」「シャドーAI対策」を支える仕組み",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html",
+    "summary": "メルカリはClaude Code等を全社展開。ローカルで強力な操作が可能なツール配布に伴うガバナンス課題と、それを支える仕組みを紹介している。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "全社的なAI導入とシャドーAI対策の実装事例は他社の導入・ガバナンス設計に有益",
+    "published_at": "2026-08-13 05:00:00",
+    "created_at": "2026-08-14 01:15:14"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "Google新スマホ「Pixel 11シリーズ」正式発表 「Gemini Intelligence」向けに設計 カメラも強化",
     "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
@@ -656,17 +788,6 @@
     "importance": 3,
     "category": "企業IT",
     "reason": "大企業のAIガバナンスと内製ソリューション事例は情シス・経営判断に直接参考になるため。",
-    "published_at": "2026-08-06 13:00:00",
-    "created_at": "2026-08-07 09:45:45"
-  },
-  {
-    "source": "＠IT",
-    "title": "トークンコストを10分の1に 「GitHub Copilot」はどう削減したのか",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/06/news050.html",
-    "summary": "MicrosoftがVS CodeでのGitHub Copilotにおいて、エージェントハーネスでトークン効率を改善しコストを大幅削減した手法を紹介。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "コスト構造の改善は開発ツールの導入判断に有益だが技術的影響範囲は限定的。",
     "published_at": "2026-08-06 13:00:00",
     "created_at": "2026-08-07 09:45:45"
   },
@@ -2915,17 +3036,6 @@
     "created_at": "2026-07-15 01:42:40"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "Google Play手数料引き下げ、日本導入を前倒し 12月→9月中に 公取委との協議踏まえ",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/14/news112.html",
-    "summary": "GoogleがGoogle Playの手数料引き下げと課金オプション拡大を日本で当初予定より前倒しし、2026年9月30日までに実施すると発表した。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "アプリ開発者の収益モデルに直接影響する施策であり、日本市場の開発エコシステムに短期的な効果があるため。",
-    "published_at": "2026-07-14 18:45:00",
-    "created_at": "2026-07-15 01:42:40"
-  },
-  {
     "source": "CNET Japan",
     "title": "パラマウントによるワーナーの超大型買収に待った--米12州が提訴",
     "url": "https://japan.cnet.com/article/35250548/",
@@ -2934,39 +3044,6 @@
     "category": "ビジネス",
     "reason": "大規模M&Aが法的に争われることでメディア・プラットフォーム市場に不確実性を生み、業界戦略に影響するため。",
     "published_at": "2026-07-14 17:40:00",
-    "created_at": "2026-07-15 01:42:40"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "スマホ出荷台数が13年ぶりの低水準に、AIブームによるメモリ不足が直撃",
-    "url": "https://japan.cnet.com/article/35250545/",
-    "summary": "世界のスマホ出荷が過去3カ月で11％減、13年ぶりの低水準。CounterpointはAIブームによるメモリチップ不足と価格高騰を主因と分析している。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "メモリ需給が消費デバイス市場に直撃し、サプライチェーンとメーカー戦略に影響を与えるため市場観測上重要。",
-    "published_at": "2026-07-14 16:54:00",
-    "created_at": "2026-07-15 01:42:40"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "アップル、AI競争でチップ開発を加速か--「M6」上位版をスキップし「M7」へ",
-    "url": "https://japan.cnet.com/article/35250542/",
-    "summary": "報道によれば、AppleがMシリーズのロードマップを変更し、M6上位版を飛ばしてM7へ進む可能性があると報じられている。AI競争をにらんだ開発加速との観測。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "主要プラットフォーマーのチップ設計戦略変更はAI時代の競争力やサプライチェーンに直接影響するため注目度が高い。",
-    "published_at": "2026-07-14 16:36:00",
-    "created_at": "2026-07-15 01:42:40"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "ソフトバンク、AIが脆弱性診断・修正する「Patching as a Service」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2124945.html",
-    "summary": "ソフトバンクとSB OAI JapanがAI駆動型の脆弱性診断・修正サービス「Patching as a Service」を3,000社対象で本格提供。OpenAI技術と運用ノウハウを組み合わせる。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AIを活用した大規模なパッチ運用サービスは、重要インフラ企業を含む多数の組織の脆弱性対応プロセスに影響するため。",
-    "published_at": "2026-07-14 14:02:08",
     "created_at": "2026-07-15 01:42:40"
   },
   {
@@ -2989,28 +3066,6 @@
     "category": "法規制",
     "reason": "プラットフォーム規制の実務的要求となり得るEUの措置は、国際的なサービス設計・コンプライアンスに重大な影響を及ぼすため。",
     "published_at": "2026-07-14 11:01:00",
-    "created_at": "2026-07-15 01:42:40"
-  },
-  {
-    "source": "＠IT",
-    "title": "GitHub Copilotは危険な指示を拒否しても止まらない 研究が暴いたAI安全評価の穴",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/14/news045.html",
-    "summary": "研究で、チャットで拒否される有害指示が通常の開発ワークフローに組み込まれると異なる挙動を示すことが判明。ツール組み込み時の安全評価の不備を指摘している。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "開発支援AIの安全評価が実運用で欠落すると有害なコードが混入し得る点は、開発プロセスとセキュリティに重要な示唆を与えるため。",
-    "published_at": "2026-07-14 07:30:00",
-    "created_at": "2026-07-15 01:42:40"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「We Must Act Now」 AIによる急激な変革に著名経済学者やIT重鎮が警鐘",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2607/14/2000000188/",
-    "summary": "ノーベル賞受賞者らを含む200人超の経済学者・研究者が、AIが短期間で大規模な経済変革をもたらす可能性に対し政策対応の迅速化を訴える声明を公開した。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "学術や政策界の共同声明は規制・社会対応を促す圧力になり得るため、政策担当者や企業判断に参考となるため。",
-    "published_at": "2026-07-14 07:04:56",
     "created_at": "2026-07-15 01:42:40"
   },
   {
