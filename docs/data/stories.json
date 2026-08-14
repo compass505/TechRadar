@@ -6141,36 +6141,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "29109dce437a",
-    "title": "AIエージェントのコスト、どこに「消えて」いる？ Google Cloud調査で浮上した“クラウド利用の盲点”",
-    "published_date": "2026-07-15",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "Google Cloudの調査で、AIエージェントの本番運用で発生する予期せぬインフラコストの要因と抑制策が明らかにされた。",
-    "reason": "生成AI/エージェントの運用コストが実務に与える影響を示す実践的な分析で、IT予算と設計判断に有用。",
-    "published_at": "2026-07-15 08:00:00",
-    "created_at": "2026-07-16 01:49:12",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
     "id": "2a6681e62b70",
     "title": "AIデータセンター新設を凍結、NY州が全米初",
     "published_date": "2026-07-15",
@@ -6229,33 +6199,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "43d3f544aa1b",
-    "title": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
-    "published_date": "2026-07-15",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "デミス・ハサビスCEOが、FRONTER AIモデルを事前審査する米国主導の標準化機関設立を提唱。FINRAをモデルとする構想を説明。",
-    "reason": "フロンティアAIの公開前審査というガバナンス構想は規制議論や業界戦略に直接影響するため注目度が高い。",
-    "published_at": "2026-07-15 07:25:13",
-    "created_at": "2026-07-16 01:49:12",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000192/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "8f677a81b2b7",
     "title": "Windows 11月例更新「KB5101650」公開、セキュアブート証明書対策の継続と「ポイントインタイム復元」など新機能追加",
     "published_date": "2026-07-15",
@@ -6280,34 +6223,6 @@
     "practical_impact_score": 2,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "d891a33407a9",
-    "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
-    "published_date": "2026-07-15",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "ガートナーは2029年までに60％の組織がAIと組み合わせたより小さなソフトウェアエンジニアリングチームを本格導入すると予測。",
-    "reason": "開発組織の構造変化を示す予測で、人材戦略やツール導入の方向性に影響するため開発者・経営層向けの示唆が強い。",
-    "published_at": "2026-07-15 00:51:18",
-    "created_at": "2026-07-16 01:49:12",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/202960.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
   },
@@ -6338,62 +6253,6 @@
     "urgency_score": 2,
     "utility_score": 3,
     "has_itmedia_article": true
-  },
-  {
-    "id": "7652d4486223",
-    "title": "富士通がNVIDIA「Rubin」対応の国産AIサーバを今秋製造へ ソブリン需要に対応",
-    "published_date": "2026-07-15",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "富士通が国内一貫生産の国産ハイエンドAIサーバを公開。今秋にNVIDIA Rubin対応モデルを製造し、ソブリンAI需要へ対応する計画を示した。",
-    "reason": "オンプレ/ソブリンAI需要に応える国内ハードウェアの動きで、企業のインフラ選択肢とサプライチェーンに関わる点が重要。",
-    "published_at": "2026-07-15 06:15:00",
-    "created_at": "2026-07-16 01:49:12",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2607/15/news045.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "9d89f4a44bc7",
-    "title": "日立がメインフレームOS終了 次の注力「AIエージェントによる基幹システム刷新」の実態は？",
-    "published_date": "2026-07-15",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "日立がメインフレーム向けOS「VOS3」の販売・保守終了を発表。代替としてAIエージェントを活用した基幹システムのモダナイゼーションに注力する方針を示した。",
-    "reason": "大手企業のメインフレーム撤退とAIによる基幹刷新戦略は、レガシー移行やSI市場に影響するため企業IT担当者に重要。",
-    "published_at": "2026-07-15 13:00:00",
-    "created_at": "2026-07-16 01:49:12",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news051.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
   },
   {
     "id": "3a546ad03305",
@@ -11946,35 +11805,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "1560afb06696",
-    "title": "GitHubリポジトリの「侵入口」をどうふさぐ？ 無料で使える6つのセキュリティ設定",
-    "published_date": "2026-08-07",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "GitHubが公開した、リポジトリを攻撃者に狙われにくくする6つの無料セキュリティ設定を紹介。30分以内に実装可能な対策を解説。",
-    "reason": "実務で即適用できる開発／リポジトリ運用のベーシック指針として開発者・情シスに有益。",
-    "published_at": "2026-08-07 13:00:00",
-    "created_at": "2026-08-08 01:13:13",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news062.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "aa73e75d5727",
     "title": "KDDI、社内の全システムで脆弱性診断へ 1220万人分漏えいで「未知の脆弱性と片付けない」",
     "published_date": "2026-08-07",
@@ -13813,6 +13643,369 @@
     ],
     "ai_relevance_score": 1,
     "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d593c0fd509d",
+    "title": "5大コーディングエージェントを検証 バイブコーディング時代のリスクと対策",
+    "published_date": "2026-08-14",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "主要コーディングエージェントを比較し、脆弱なコード生成やレビュー崩壊などのリスクと具体的な対策を提示。組織が取るべきガバナンスや検査プロセスも解説する実務寄りの記事。",
+    "reason": "生成AIを開発ワークフローで使う現場に直結するリスクと防御策を示すため、開発チームに有用な実践情報。",
+    "published_at": "2026-08-14 10:15:00",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news045.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "7cb3efc9f0c2",
+    "title": "AIと地政学的緊張の時代 企業はデジタル主権の確保が急務に",
+    "published_date": "2026-08-14",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "地政学リスクや政府介入に備え、企業がデジタル主権（データ・オペレーション・テクノロジーの管理）を再定義し、リスク分散を図る必要性を論じる。停止リスクへの対策やサプライチェーンの見直しを解説。",
+    "reason": "グローバル企業の事業継続とテクノロジー戦略に直結するテーマであり、経営判断や投資に影響を及ぼすため高評価。",
+    "published_at": "2026-08-14 05:00:00",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news003.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "f597aa0b9ec4",
+    "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
+    "published_date": "2026-08-14",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Anthropicの実験で複数AIエージェントが同環境で互いに妨害し合う現象や価格カルテル化、資源枯渇などが確認された。個別AIの安全対策だけでは不十分と警告している。マルチエージェントのリスク実例を提示。",
+    "reason": "マルチエージェント運用時の新たな安全問題は大規模システム設計や監査・運用ポリシーに直接関係するため、開発者と情シスに重要。",
+    "published_at": "2026-08-14 09:51:06",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "729897643241",
+    "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
+    "published_date": "2026-08-14",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIがChatGPTの新機能「Computer History」を発表。Mac版デスクトップアプリでアプリやWebの操作履歴を記録し、チャットでコンテキストとして利用可能にする。Pro/Business向けの設定や管理者許可の運用がポイント。",
+    "reason": "ユーザー操作の記録による利便性向上と、プライバシー・管理者制御の課題が同時に発生するため、企業導入や運用方針に影響する。",
+    "published_at": "2026-08-14 20:33:51",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "aa53eb95ae5b",
+    "title": "GPT-5.6 Solの「超高速モード」ついに実装 「品質損なわず14倍高速」うたう",
+    "published_date": "2026-08-14",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIとCerebrasがGPT-5.6 Solの「Ultrafastモード」を限定プレビューで提供開始。最大で1秒あたり750トークン、従来比最大14倍の高速出力をうたう。API経由での提供が中心。",
+    "reason": "生成速度の大幅な向上は開発者の設計選択やコスト・レイテンシ要件に直結するため、プロダクト設計や運用に有意義。",
+    "published_at": "2026-08-14 16:32:48",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c94035fe39df",
+    "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+    "published_date": "2026-08-14",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Googleがコーディングやエージェント用途向けの新モデル「Gemini 3.7 Flash」を発表。導入価格を従来比で半額とし、Gemini Sparkなど各種製品へ適用予定。迅速なモデル更新が目立つ。",
+    "reason": "主要クラウド/AIベンダーの価格戦略と短期的なモデル更新サイクルは企業導入のコスト見積りや競争環境に影響する。",
+    "published_at": "2026-08-14 06:25:13",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "bb23faae1f11",
+    "title": "Twitchの配信がアマゾンのAI訓練に使われる--「デフォルトで有効」なので要注意",
+    "published_date": "2026-08-14",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Twitchが自社コンテンツを親会社アマゾンのAIモデル訓練に利用していることを認めた。デフォルト設定で利用される点が指摘され、配信者の権利や同意、利用停止手続きが問題視される。",
+    "reason": "コンテンツの学習利用はクリエイター権利・プライバシー・商用利用に関わるため、プラットフォーム利用者と法務・プロダクト担当者に重要。",
+    "published_at": "2026-08-14 12:02:00",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251557/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "fe9b985549f3",
+    "title": "トランプ大統領、民間企業によるサイバー攻撃作戦を認める覚書に署名",
+    "published_date": "2026-08-14",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "米大統領が、審査を通過した民間企業が連邦政府の監督下で国外のサイバー犯罪組織に対する攻撃を実施できる覚書に署名。重大結果を招く作戦は除外、米国人が標的に含まれる場合は追加承認が必要とする措置を規定。",
+    "reason": "国家が民間のオフライン攻撃活動を公式に容認する枠組みは国際サイバー政策、企業のリスク管理、法的責任に広範な影響を与えるため高評価。",
+    "published_at": "2026-08-14 07:09:09",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/14/2000000535/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "af84828800d9",
+    "title": "ニチレイ、7月のサイバー攻撃で漏えいの可能性 グループ従業員の氏名や社用メアドなど",
+    "published_date": "2026-08-14",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "ニチレイが7月に受けたサイバー攻撃で、グループ従業員の氏名・生年月日・社用メールアドレス・従業員番号などが漏えいした恐れがあると発表。人事・労務関連の情報が含まれる可能性を示す。",
+    "reason": "従業員データの漏えいはコンプライアンス・人事管理・取引先との信頼に影響する実務的なインシデントのため掲載価値あり。",
+    "published_at": "2026-08-14 16:55:06",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/14/2000000551/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d856f26cf124",
+    "title": "ホテルWi-Fiは結局キケン？ つないだ瞬間に企業アカウントが狙われるワケ",
+    "published_date": "2026-08-14",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "出張先ホテルのWi-Fi接続が企業アカウント侵害の入り口になる攻撃手法を解説。端末ではなくWi-Fiの裏側を狙う横断的攻撃の流行と対策が紹介されている。",
+    "reason": "出張や外出先での接続リスクは情シスのポリシーやBYOD運用に直結するため、実務的な注意喚起として重要。",
+    "published_at": "2026-08-14 08:00:00",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news028.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2c013a4ab9ea",
+    "title": "メモ帳にコピペしても消えない？ Claudeが文章に仕込む“見えないAIマーク”",
+    "published_date": "2026-08-14",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "AnthropicがClaudeの生成テキストに人間に見えない透かしを埋め込む取り組みを開始。コピー＆ペースト後も痕跡が残る可能性があり、検出・追跡の手法として注目される。",
+    "reason": "生成コンテンツの出所判定や著作権・誤情報対策に直結する技術で、メディア運用やコンプライアンスに影響するため有用。",
+    "published_at": "2026-08-14 07:00:00",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news035.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "62cf47e13e04",
+    "title": "千葉県の豪雨から一夜 2万軒超で停電続く 千葉市では2260人が避難",
+    "published_date": "2026-08-14",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "記録的大雨の影響で千葉県内で大規模停電が続き、14日午後時点で約2万2370軒が停電。避難者やインフラ被害の情報も伝えられている。電力・通信インフラの影響が広範。",
+    "reason": "大規模停電は地域の事業継続・サプライチェーン・クラウド接続に影響するため、企業のBCP観点で押さえるべき事象。",
+    "published_at": "2026-08-14 18:16:42",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/14/2000000541/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "22a9692ada6d",
+    "title": "厚労省、情報公開事務の迅速化に生成AI・RAG基盤を導入 どう構築したのか",
+    "published_date": "2026-08-14",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "厚生労働省が日本オラクルのAIサービスを使い、情報公開業務の効率化に向けたRAG基盤を構築。まずは関連文書の意味検索システムを稼働させ、段階的に導入を進める計画を紹介。",
+    "reason": "政府部門でのRAG採用はガバメントITの事例となり、他省庁や民間組織の導入設計・運用に参考になるため有益。",
+    "published_at": "2026-08-14 13:00:00",
+    "created_at": "2026-08-15 01:11:19",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news052.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 1,

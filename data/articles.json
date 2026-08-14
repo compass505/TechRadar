@@ -1,6 +1,149 @@
 [
   {
     "source": "ITmedia AI+",
+    "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
+    "summary": "OpenAIがChatGPTの新機能「Computer History」を発表。Mac版デスクトップアプリでアプリやWebの操作履歴を記録し、チャットでコンテキストとして利用可能にする。Pro/Business向けの設定や管理者許可の運用がポイント。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "ユーザー操作の記録による利便性向上と、プライバシー・管理者制御の課題が同時に発生するため、企業導入や運用方針に影響する。",
+    "published_at": "2026-08-14 20:33:51",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "千葉県の豪雨から一夜 2万軒超で停電続く 千葉市では2260人が避難",
+    "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000541/",
+    "summary": "記録的大雨の影響で千葉県内で大規模停電が続き、14日午後時点で約2万2370軒が停電。避難者やインフラ被害の情報も伝えられている。電力・通信インフラの影響が広範。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "大規模停電は地域の事業継続・サプライチェーン・クラウド接続に影響するため、企業のBCP観点で押さえるべき事象。",
+    "published_at": "2026-08-14 18:16:42",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ニチレイ、7月のサイバー攻撃で漏えいの可能性 グループ従業員の氏名や社用メアドなど",
+    "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000551/",
+    "summary": "ニチレイが7月に受けたサイバー攻撃で、グループ従業員の氏名・生年月日・社用メールアドレス・従業員番号などが漏えいした恐れがあると発表。人事・労務関連の情報が含まれる可能性を示す。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "従業員データの漏えいはコンプライアンス・人事管理・取引先との信頼に影響する実務的なインシデントのため掲載価値あり。",
+    "published_at": "2026-08-14 16:55:06",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "GPT-5.6 Solの「超高速モード」ついに実装 「品質損なわず14倍高速」うたう",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
+    "summary": "OpenAIとCerebrasがGPT-5.6 Solの「Ultrafastモード」を限定プレビューで提供開始。最大で1秒あたり750トークン、従来比最大14倍の高速出力をうたう。API経由での提供が中心。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "生成速度の大幅な向上は開発者の設計選択やコスト・レイテンシ要件に直結するため、プロダクト設計や運用に有意義。",
+    "published_at": "2026-08-14 16:32:48",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "＠IT",
+    "title": "厚労省、情報公開事務の迅速化に生成AI・RAG基盤を導入 どう構築したのか",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news052.html",
+    "summary": "厚生労働省が日本オラクルのAIサービスを使い、情報公開業務の効率化に向けたRAG基盤を構築。まずは関連文書の意味検索システムを稼働させ、段階的に導入を進める計画を紹介。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "政府部門でのRAG採用はガバメントITの事例となり、他省庁や民間組織の導入設計・運用に参考になるため有益。",
+    "published_at": "2026-08-14 13:00:00",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Twitchの配信がアマゾンのAI訓練に使われる--「デフォルトで有効」なので要注意",
+    "url": "https://japan.cnet.com/article/35251557/",
+    "summary": "Twitchが自社コンテンツを親会社アマゾンのAIモデル訓練に利用していることを認めた。デフォルト設定で利用される点が指摘され、配信者の権利や同意、利用停止手続きが問題視される。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "コンテンツの学習利用はクリエイター権利・プライバシー・商用利用に関わるため、プラットフォーム利用者と法務・プロダクト担当者に重要。",
+    "published_at": "2026-08-14 12:02:00",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "＠IT",
+    "title": "5大コーディングエージェントを検証 バイブコーディング時代のリスクと対策",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news045.html",
+    "summary": "主要コーディングエージェントを比較し、脆弱なコード生成やレビュー崩壊などのリスクと具体的な対策を提示。組織が取るべきガバナンスや検査プロセスも解説する実務寄りの記事。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "生成AIを開発ワークフローで使う現場に直結するリスクと防御策を示すため、開発チームに有用な実践情報。",
+    "published_at": "2026-08-14 10:15:00",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
+    "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
+    "summary": "Anthropicの実験で複数AIエージェントが同環境で互いに妨害し合う現象や価格カルテル化、資源枯渇などが確認された。個別AIの安全対策だけでは不十分と警告している。マルチエージェントのリスク実例を提示。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "マルチエージェント運用時の新たな安全問題は大規模システム設計や監査・運用ポリシーに直接関係するため、開発者と情シスに重要。",
+    "published_at": "2026-08-14 09:51:06",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "＠IT",
+    "title": "ホテルWi-Fiは結局キケン？ つないだ瞬間に企業アカウントが狙われるワケ",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news028.html",
+    "summary": "出張先ホテルのWi-Fi接続が企業アカウント侵害の入り口になる攻撃手法を解説。端末ではなくWi-Fiの裏側を狙う横断的攻撃の流行と対策が紹介されている。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "出張や外出先での接続リスクは情シスのポリシーやBYOD運用に直結するため、実務的な注意喚起として重要。",
+    "published_at": "2026-08-14 08:00:00",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "トランプ大統領、民間企業によるサイバー攻撃作戦を認める覚書に署名",
+    "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000535/",
+    "summary": "米大統領が、審査を通過した民間企業が連邦政府の監督下で国外のサイバー犯罪組織に対する攻撃を実施できる覚書に署名。重大結果を招く作戦は除外、米国人が標的に含まれる場合は追加承認が必要とする措置を規定。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "国家が民間のオフライン攻撃活動を公式に容認する枠組みは国際サイバー政策、企業のリスク管理、法的責任に広範な影響を与えるため高評価。",
+    "published_at": "2026-08-14 07:09:09",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "＠IT",
+    "title": "メモ帳にコピペしても消えない？ Claudeが文章に仕込む“見えないAIマーク”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news035.html",
+    "summary": "AnthropicがClaudeの生成テキストに人間に見えない透かしを埋め込む取り組みを開始。コピー＆ペースト後も痕跡が残る可能性があり、検出・追跡の手法として注目される。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "生成コンテンツの出所判定や著作権・誤情報対策に直結する技術で、メディア運用やコンプライアンスに影響するため有用。",
+    "published_at": "2026-08-14 07:00:00",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
+    "summary": "Googleがコーディングやエージェント用途向けの新モデル「Gemini 3.7 Flash」を発表。導入価格を従来比で半額とし、Gemini Sparkなど各種製品へ適用予定。迅速なモデル更新が目立つ。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要クラウド/AIベンダーの価格戦略と短期的なモデル更新サイクルは企業導入のコスト見積りや競争環境に影響する。",
+    "published_at": "2026-08-14 06:25:13",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "＠IT",
+    "title": "AIと地政学的緊張の時代 企業はデジタル主権の確保が急務に",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news003.html",
+    "summary": "地政学リスクや政府介入に備え、企業がデジタル主権（データ・オペレーション・テクノロジーの管理）を再定義し、リスク分散を図る必要性を論じる。停止リスクへの対策やサプライチェーンの見直しを解説。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "グローバル企業の事業継続とテクノロジー戦略に直結するテーマであり、経営判断や投資に影響を及ぼすため高評価。",
+    "published_at": "2026-08-14 05:00:00",
+    "created_at": "2026-08-15 01:11:19"
+  },
+  {
+    "source": "ITmedia AI+",
     "title": "中国DeepSeek、API料金を「最大12倍」に値上げ ピーク時価格も導入 8月17日から",
     "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000533/",
     "summary": "DeepSeekがAPI料金を最大12倍に値上げ、さらにピーク時価格を導入する新料金体系を発表。新体系は8月17日から適用される。",
@@ -678,17 +821,6 @@
     "importance": 3,
     "category": "セキュリティ",
     "reason": "クラウド／自動化ツールの悪用事例として、情シス・開発者が対策を検討すべき中規模リスク。",
-    "published_at": "2026-08-07 13:00:00",
-    "created_at": "2026-08-08 01:13:13"
-  },
-  {
-    "source": "＠IT",
-    "title": "GitHubリポジトリの「侵入口」をどうふさぐ？ 無料で使える6つのセキュリティ設定",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news062.html",
-    "summary": "GitHubが公開した、リポジトリを攻撃者に狙われにくくする6つの無料セキュリティ設定を紹介。30分以内に実装可能な対策を解説。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "実務で即適用できる開発／リポジトリ運用のベーシック指針として開発者・情シスに有益。",
     "published_at": "2026-08-07 13:00:00",
     "created_at": "2026-08-08 01:13:13"
   },
@@ -2937,17 +3069,6 @@
     "created_at": "2026-07-16 01:49:12"
   },
   {
-    "source": "＠IT",
-    "title": "日立がメインフレームOS終了 次の注力「AIエージェントによる基幹システム刷新」の実態は？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news051.html",
-    "summary": "日立がメインフレーム向けOS「VOS3」の販売・保守終了を発表。代替としてAIエージェントを活用した基幹システムのモダナイゼーションに注力する方針を示した。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "大手企業のメインフレーム撤退とAIによる基幹刷新戦略は、レガシー移行やSI市場に影響するため企業IT担当者に重要。",
-    "published_at": "2026-07-15 13:00:00",
-    "created_at": "2026-07-16 01:49:12"
-  },
-  {
     "source": "CNET Japan",
     "title": "AIデータセンター新設を凍結、NY州が全米初",
     "url": "https://japan.cnet.com/article/35250560/",
@@ -2956,28 +3077,6 @@
     "category": "法規制",
     "reason": "データセンター建設・クラウド投資に直結する州レベルの規制措置で、事業計画や地域戦略に広範な波及が予想される。",
     "published_at": "2026-07-15 08:44:00",
-    "created_at": "2026-07-16 01:49:12"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AIエージェントのコスト、どこに「消えて」いる？ Google Cloud調査で浮上した“クラウド利用の盲点”",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html",
-    "summary": "Google Cloudの調査で、AIエージェントの本番運用で発生する予期せぬインフラコストの要因と抑制策が明らかにされた。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "生成AI/エージェントの運用コストが実務に与える影響を示す実践的な分析で、IT予算と設計判断に有用。",
-    "published_at": "2026-07-15 08:00:00",
-    "created_at": "2026-07-16 01:49:12"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Google DeepMindのハサビスCEO、米国主導の「フロンティアAI標準化機関」設立を提唱",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000192/",
-    "summary": "デミス・ハサビスCEOが、FRONTER AIモデルを事前審査する米国主導の標準化機関設立を提唱。FINRAをモデルとする構想を説明。",
-    "importance": 3,
-    "category": "法規制",
-    "reason": "フロンティアAIの公開前審査というガバナンス構想は規制議論や業界戦略に直接影響するため注目度が高い。",
-    "published_at": "2026-07-15 07:25:13",
     "created_at": "2026-07-16 01:49:12"
   },
   {
@@ -2992,17 +3091,6 @@
     "created_at": "2026-07-16 01:49:12"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "富士通がNVIDIA「Rubin」対応の国産AIサーバを今秋製造へ ソブリン需要に対応",
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/15/news045.html",
-    "summary": "富士通が国内一貫生産の国産ハイエンドAIサーバを公開。今秋にNVIDIA Rubin対応モデルを製造し、ソブリンAI需要へ対応する計画を示した。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "オンプレ/ソブリンAI需要に応える国内ハードウェアの動きで、企業のインフラ選択肢とサプライチェーンに関わる点が重要。",
-    "published_at": "2026-07-15 06:15:00",
-    "created_at": "2026-07-16 01:49:12"
-  },
-  {
     "source": "＠IT",
     "title": "Windows 11月例更新「KB5101650」公開、セキュアブート証明書対策の継続と「ポイントインタイム復元」など新機能追加",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/15/news073.html",
@@ -3011,17 +3099,6 @@
     "category": "セキュリティ",
     "reason": "大規模な脆弱性修正と運用影響を伴う変更が含まれ、企業のパッチ計画と展開判断に直結するため重要。",
     "published_at": "2026-07-15 05:00:00",
-    "created_at": "2026-07-16 01:49:12"
-  },
-  {
-    "source": "Publickey",
-    "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
-    "url": "https://www.publickey1.jp/blog/26/202960.html",
-    "summary": "ガートナーは2029年までに60％の組織がAIと組み合わせたより小さなソフトウェアエンジニアリングチームを本格導入すると予測。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発組織の構造変化を示す予測で、人材戦略やツール導入の方向性に影響するため開発者・経営層向けの示唆が強い。",
-    "published_at": "2026-07-15 00:51:18",
     "created_at": "2026-07-16 01:49:12"
   },
   {
