@@ -1,5 +1,82 @@
 [
   {
+    "source": "＠IT",
+    "title": "NASでもテープでもない、ランサムウェア時代の「バックアップ保存先」トップは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news014.html",
+    "summary": "arcserve Japanの調査で、ランサムウェア被害企業の89％でバックアップが暗号化されていたと報告。実務での保存先選定や対策の実態を分析。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "バックアップ設計・復旧戦略に直接関わる実務データで、情シス・経営の判断に役立つため掲載価値が高い。",
+    "published_at": "2026-08-15 17:00:00",
+    "created_at": "2026-08-16 00:41:23"
+  },
+  {
+    "source": "＠IT",
+    "title": "AI時代は「Go言語」が理想の言語に？ Googleが解説する「Goの価値」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news013.html",
+    "summary": "GoogleがAI支援開発時代におけるGo言語の利点を解説。性能や生産性、エコシステム面での主張を整理。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "言語選定や開発生産性に関する主要ベンダーの示唆で、開発組織の技術戦略に参考になるが即時性は限定的。",
+    "published_at": "2026-08-15 13:00:00",
+    "created_at": "2026-08-16 00:41:23"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Claudeで生成した文章に「電子透かし」導入 編集しても残る",
+    "url": "https://www.watch.impress.co.jp/docs/news/2132925.html",
+    "summary": "AnthropicがClaude出力に恒久的な電子透かしを付与すると発表。EUのAI規制（AI Act）対応の一環で、編集後も透かしが残る仕様の詳細を公表。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要AIベンダーによる出力透かし導入はコンテンツ検出・法規対応・サービス設計に広範な影響を与えるため重要。",
+    "published_at": "2026-08-15 11:27:05",
+    "created_at": "2026-08-16 00:41:23"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "ドコモ、スターリンクを使った音声・高速通信対応へ 28年度開始",
+    "url": "https://www.watch.impress.co.jp/docs/news/2132905.html",
+    "summary": "NTTドコモがStarlink Japanと次世代衛星Starlink Mobile V2の契約に合意。2028年度に音声通話や高速データの直接通信サービスを提供予定。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "大手キャリアと衛星通信の提携は通信インフラと市場競争、IoT／災害対応などに長期的影響を及ぼすため掲載価値が高い。",
+    "published_at": "2026-08-15 08:00:00",
+    "created_at": "2026-08-16 00:41:23"
+  },
+  {
+    "source": "＠IT",
+    "title": "「無線LANがつながりにくい」どう解決？ 「年代物のCOBOL」なぜ読みにくい？ IT実務の疑問に答える",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news007.html",
+    "summary": "＠ITの注目記事ランキングの紹介。無線LANトラブルやCOBOLの可読性など、実務で関心が高かったテーマを取り上げる。",
+    "importance": 1,
+    "category": "企業IT",
+    "reason": "読者関心の高い実務トピックのまとめで情報収集には便利だが速報性・影響は限定的。",
+    "published_at": "2026-08-15 08:00:00",
+    "created_at": "2026-08-16 00:41:23"
+  },
+  {
+    "source": "＠IT",
+    "title": "ニチレイ、ランサム被害で従業員情報漏えいか 問われる「復旧後」の対応",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news011.html",
+    "summary": "ニチレイの7月のランサム被害に伴い、氏名や生年月日、メールアドレス等の従業員情報が漏えいした可能性を公表。復旧後の対応が問われている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "実際の企業データ流出案件で、法令遵守・被害対応・人事管理に直接影響するため業界向け重要ニュース。",
+    "published_at": "2026-08-15 07:00:00",
+    "created_at": "2026-08-16 00:41:23"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「Qwen3.8-27B」ウェイト公開 一部「Opus 4.6 Max」超えか ライセンスは商用可のApache 2.0",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/",
+    "summary": "Alibaba Cloudが大型言語モデルQwen3.8-27Bの重みをHugging Face/ModelScopeで公開。商用利用可のApache 2.0で配布され、一部ベンチマークでClaude Opus 4.6 Maxを上回ると主張。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要クラウド事業者による商用可のモデル重み公開は開発・導入や競争構造に直結するため業界影響が大きい。",
+    "published_at": "2026-08-15 02:26:12",
+    "created_at": "2026-08-16 00:41:23"
+  },
+  {
     "source": "ITmedia AI+",
     "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
     "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
@@ -690,39 +767,6 @@
     "category": "ビジネス",
     "reason": "ソーシャルプラットフォームの収益化ルール変更はコンテンツ戦略とクリエイター収益に直接影響するため",
     "published_at": "2026-08-08 17:00:00",
-    "created_at": "2026-08-09 00:51:50"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/08/news011.html",
-    "summary": "GoogleはChromeの新機能「Skills」を発表。AIプロンプトを保存してワンクリックで再利用できる機能で、日常のAI利用効率を改善する狙い。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "ブラウザ上でのプロンプト管理はユーザー生産性に寄与するが、戦略的影響は限定的なため中程度の評価",
-    "published_at": "2026-08-08 13:00:00",
-    "created_at": "2026-08-09 00:51:50"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "熊本県の「トラック通れた道マップ」、日野コンピューターシステムが公開",
-    "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000461/",
-    "summary": "日野コンピューターシステムが熊本県周辺でトラックが通行可能だった経路を可視化する地図「トラック通れた道マップ」を公開。物流・現場運用向けの情報提供が目的。",
-    "importance": 1,
-    "category": "その他",
-    "reason": "地域・物流向けの有用なサービスだが影響範囲は限定的なため低重要度と判断",
-    "published_at": "2026-08-08 09:30:00",
-    "created_at": "2026-08-09 00:51:50"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "LINEMO、追加料金なしで「Starlink Direct」利用可能に",
-    "url": "https://www.watch.impress.co.jp/docs/news/2131710.html",
-    "summary": "ソフトバンクはLINEMOのプランで追加料金なしに「Starlink Direct」を利用可能に。モバイル回線と衛星接続の組み合わせが利用しやすくなる。",
-    "importance": 2,
-    "category": "クラウド",
-    "reason": "衛星通信の一般利用拡大に関する商用展開で、通信インフラ面の選択肢が増える点は注目に値するため",
-    "published_at": "2026-08-08 08:30:00",
     "created_at": "2026-08-09 00:51:50"
   },
   {
@@ -2992,17 +3036,6 @@
     "created_at": "2026-07-17 01:47:52"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "OpenAI、自動レッドチームAI「GPT-Red」発表──人間の攻撃成功率13％に対し84％",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000199/",
-    "summary": "OpenAIがモデル脆弱性を自動発見する内部用レッドチームモデルGPT-Redを発表。人間より高い攻撃成功率を示し、GPT-5.6の耐性改善に活用したとする。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AIセーフティとレッドチーミングの自動化はモデル運用と脆弱性対策の方向性を示すため業界で注目度が高い。",
-    "published_at": "2026-07-16 12:10:19",
-    "created_at": "2026-07-17 01:47:52"
-  },
-  {
     "source": "CNET Japan",
     "title": "「Google Play」でサードパーティーのアプリストア解禁 米国で来週から",
     "url": "https://japan.cnet.com/article/35250654/",
@@ -3014,28 +3047,6 @@
     "created_at": "2026-07-17 01:47:52"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "Thinking Machines、初のAIモデル「Inkling」公開──オープンウェイトで「自分のものにできる」基盤モデル",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000197/",
-    "summary": "Thinking MachinesがMoE型のオープンウェイト基盤モデルInklingを公開。Hugging Faceで全ウェイトを公開し、カスタマイズ基盤として位置付ける。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "オープンウェイトの基盤モデル公開は企業や研究者のカスタム開発・導入に直結するため開発者に有用。",
-    "published_at": "2026-07-16 09:47:00",
-    "created_at": "2026-07-17 01:47:52"
-  },
-  {
-    "source": "＠IT",
-    "title": "PHP向けパッケージ管理ツール「Composer」に脆弱性 更新前に確認したい3つのリスク",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/16/news040.html",
-    "summary": "Composerの複数脆弱性が判明。悪意ある依存パッケージが混入すると、通常のインストールや更新でプロジェクト外のファイルを書き換えられる恐れがある。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "日常的に使われるパッケージマネージャーの脆弱性は開発・運用現場で即時確認が必要なため掲載価値が高い。",
-    "published_at": "2026-07-16 08:00:00",
-    "created_at": "2026-07-17 01:47:52"
-  },
-  {
     "source": "＠IT",
     "title": "npmサプライチェーン攻撃は新段階に ClaudeやCursorを狙う自己増殖マルウェアの正体",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/16/news039.html",
@@ -3044,17 +3055,6 @@
     "category": "セキュリティ",
     "reason": "ソフトウェアサプライチェーンがAI開発ツールまで標的になった点は広範な被害リスクがあり重要。",
     "published_at": "2026-07-16 07:30:00",
-    "created_at": "2026-07-17 01:47:52"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "マスク氏「Xの全コードを例外なくオープンソース化」 本番環境との一致も第三者が検証へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/16/news054.html",
-    "summary": "イーロン・マスク氏がXの全コードベースを脆弱性レビュー完了後に例外なくオープンソース化すると投稿。第三者検証や本番環境との一致確認も言及されている。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "主要SNSプラットフォームでのオープン化方針は運用・セキュリティ・競争環境に影響し、開発者や情シスの関心事であるため掲載。",
-    "published_at": "2026-07-16 06:35:00",
     "created_at": "2026-07-17 01:47:52"
   },
   {
