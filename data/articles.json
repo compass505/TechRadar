@@ -1,6 +1,28 @@
 [
   {
     "source": "＠IT",
+    "title": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/16/news007.html",
+    "summary": "トヨタが4年以上かけてゼロトラストや復旧体制を見直した事例を紹介。単なる製品導入ではなく組織・業務プロセスや復旧基準の再設計が重要だと論じる。取引先やサプライチェーン影響も踏まえた議論。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "大手企業の長期的な方針転換が示す実務的教訓で、情シス・経営のセキュリティ／BCP判断に直結するため掲載価値が高い。",
+    "published_at": "2026-08-16 08:00:00",
+    "created_at": "2026-08-17 00:41:40"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
+    "url": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
+    "summary": "AnthropicがClaude生成テキストに埋める電子透かしの技術を公開。秘密鍵付き乱数で統計的パターンを残し、品質や速度に影響を与えないと説明。EU AI Act対応を想定する一方、短文やコードでは検出困難などの限界も示す。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "EU AI Act準拠や生成物の出自証明に直結する技術説明で、企業の生成AI運用・規制対応に影響するため優先度高め。",
+    "published_at": "2026-08-16 07:58:11",
+    "created_at": "2026-08-17 00:41:40"
+  },
+  {
+    "source": "＠IT",
     "title": "NASでもテープでもない、ランサムウェア時代の「バックアップ保存先」トップは？",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news014.html",
     "summary": "arcserve Japanの調査で、ランサムウェア被害企業の89％でバックアップが暗号化されていたと報告。実務での保存先選定や対策の実態を分析。",
@@ -723,17 +745,6 @@
     "category": "開発",
     "reason": "開発者向けAIツールの安全設計と運用ポリシーに関わる変更で、作業フローと安全対策に直接影響するため採択。",
     "published_at": "2026-08-09 12:12:07",
-    "created_at": "2026-08-10 00:53:44"
-  },
-  {
-    "source": "＠IT",
-    "title": "なぜ若手こそインフラを学ぶべき？ 無料で学べるネットワーク、Linux、サーバ＆ストレージのeBook",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/09/news004.html",
-    "summary": "クラウドやAIの普及で見えにくくなった基礎インフラの重要性を指摘。障害対応や生成コードの確認に役立つ、無料で読めるネットワークやLinux、サーバ・ストレージのeBookを紹介している。",
-    "importance": 1,
-    "category": "企業IT",
-    "reason": "教育・スキル向上に有用なリソースだが影響範囲は限定的なため低めに評価。",
-    "published_at": "2026-08-09 08:00:00",
     "created_at": "2026-08-10 00:53:44"
   },
   {
@@ -2872,61 +2883,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "1Password、Claudeに「パスワードを見せず」目的のサイトにログインする新機能 生体認証→アクセス権限付与",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/17/news088.html",
-    "summary": "1PasswordがAnthropicのClaudeと連携し、パスワードを明かさずにサイトへログインできる機能「1Password for Claude」を発表。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "パスワード管理とAI連携の実装で認証運用に影響、実務での採用判断に関わるため掲載に値する。",
-    "published_at": "2026-07-17 15:15:00",
-    "created_at": "2026-07-18 01:38:17"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "Visa、既存決済にステーブルコインを組み込める新基盤「VSP」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2126089.html",
-    "summary": "Visaがステーブルコイン関連サービスを統合運用できるプラットフォーム「Visa Stablecoin Platform(VSP)」を発表。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "既存決済インフラと暗号資産の融合をうたう大手の新基盤で、金融サービスやフィンテック事業に影響するため注目。",
-    "published_at": "2026-07-17 14:29:24",
-    "created_at": "2026-07-18 01:38:17"
-  },
-  {
-    "source": "＠IT",
-    "title": "「12倍高速化」したTypeScript 7.0、メモリ使用量は？ 互換性、移行時の注意点",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news055.html",
-    "summary": "TypeScriptコンパイラと言語サービスをGoに移植したTypeScript 7.0が公開。大幅な高速化とメモリ削減を実現した。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "広範な開発者コミュニティに直結するランタイム/ツールチェンジで移行判断と開発効率に影響するため有用。",
-    "published_at": "2026-07-17 13:00:00",
-    "created_at": "2026-07-18 01:38:17"
-  },
-  {
-    "source": "＠IT",
-    "title": "「データを社外に出さずAIを使えるインフラ」を1カ月で構築 Skyはどう実現した？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news052.html",
-    "summary": "機密データを外に出さずにAIを使うオンプレ環境を約1カ月で構築した事例。実現要因と運用面の工夫を解説。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "機密データを扱う企業のAI導入・ガバナンスに直結する実践的な事例で情シス向けに有益。",
-    "published_at": "2026-07-17 13:00:00",
-    "created_at": "2026-07-18 01:38:17"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "中国AIも“ミュトス級”に到達か Moonshot AIが「Kimi K3」発表、一部ベンチでFable 5抜き首位",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/17/news079.html",
-    "summary": "Moonshot AIが2.8兆パラメータの大規模言語モデル「Kimi K3」を発表。一部ベンチでClaude Fable 5を上回る結果を示した。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "大規模オープンモデルの登場で技術トレンドと競争環境に影響するため開発者・研究者に重要。",
-    "published_at": "2026-07-17 12:59:00",
-    "created_at": "2026-07-18 01:38:17"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "欧州委員会、GoogleにAIアシスタントの相互運用と検索データ共有を命令──Googleは「安全性を損なう」と反発",
     "url": "https://www.itmedia.co.jp/news/articles/2607/17/news063.html",
     "summary": "欧州委はDMAに基づき、Android上で競合AIにGemini同等のアクセスを認め、検索データの共有を義務付ける決定を下した。Googleは反発。",
@@ -2934,28 +2890,6 @@
     "category": "法規制",
     "reason": "主要プラットフォーマーに対する法的拘束でAI競争とデータ利用のルールを変える可能性が高い。",
     "published_at": "2026-07-17 08:57:00",
-    "created_at": "2026-07-18 01:38:17"
-  },
-  {
-    "source": "＠IT",
-    "title": "GETでもPOSTでもない HTTP新メソッド「QUERY」が標準化へ",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news049.html",
-    "summary": "IETFが検索専用のHTTPメソッド「QUERY」を公開。URL長や検索APIの課題解決を目指す新仕様の内容と実装影響を解説。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "Web標準の変更はインフラ・開発実装に影響するため開発者や運用担当者が押さえるべきニュース。",
-    "published_at": "2026-07-17 08:00:00",
-    "created_at": "2026-07-18 01:38:17"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Google検索の「AIモード」、検索結果からそのままアプリで作業可能に CanvaやYouTube Musicなど",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/17/news061.html",
-    "summary": "Googleの検索AIモードで外部アプリと直接連携し、検索画面上でデザイン作成やカート追加などが完結できる機能を提供開始。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "検索→アプリ連携でユーザージャーニーとプラットフォームエコシステムが進化し、企業側の統合戦略に影響するため掲載価値あり。",
-    "published_at": "2026-07-17 06:51:00",
     "created_at": "2026-07-18 01:38:17"
   },
   {
@@ -2978,17 +2912,6 @@
     "category": "セキュリティ",
     "reason": "食品サプライチェーンに広範な影響を与える攻撃事例で、業務継続とサプライチェーン対策の教訓になるため重要。",
     "published_at": "2026-07-17 06:30:00",
-    "created_at": "2026-07-18 01:38:17"
-  },
-  {
-    "source": "Publickey",
-    "title": ".NET 8と.NET 9は今年の11月でサポート終了、マイクロソフトが警告",
-    "url": "https://www.publickey1.jp/blog/26/net_8net_911.html",
-    "summary": ".NET 8／9のサポートが2026年11月10日に終了。移行計画やセキュリティ対応が必要になる旨を告知。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "企業の保守・運用に直結するサポート終了通知で、情シス・開発チームの対応が必要なため重要。",
-    "published_at": "2026-07-17 03:30:28",
     "created_at": "2026-07-18 01:38:17"
   },
   {

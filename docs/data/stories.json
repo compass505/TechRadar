@@ -6425,146 +6425,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "5d072e14dae5",
-    "title": ".NET 8と.NET 9は今年の11月でサポート終了、マイクロソフトが警告",
-    "published_date": "2026-07-17",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": ".NET 8／9のサポートが2026年11月10日に終了。移行計画やセキュリティ対応が必要になる旨を告知。",
-    "reason": "企業の保守・運用に直結するサポート終了通知で、情シス・開発チームの対応が必要なため重要。",
-    "published_at": "2026-07-17 03:30:28",
-    "created_at": "2026-07-18 01:38:17",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/net_8net_911.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "cd3dd74f1ed1",
-    "title": "1Password、Claudeに「パスワードを見せず」目的のサイトにログインする新機能 生体認証→アクセス権限付与",
-    "published_date": "2026-07-17",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "1PasswordがAnthropicのClaudeと連携し、パスワードを明かさずにサイトへログインできる機能「1Password for Claude」を発表。",
-    "reason": "パスワード管理とAI連携の実装で認証運用に影響、実務での採用判断に関わるため掲載に値する。",
-    "published_at": "2026-07-17 15:15:00",
-    "created_at": "2026-07-18 01:38:17",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/17/news088.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "aa6d057e4425",
-    "title": "GETでもPOSTでもない HTTP新メソッド「QUERY」が標準化へ",
-    "published_date": "2026-07-17",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "IETFが検索専用のHTTPメソッド「QUERY」を公開。URL長や検索APIの課題解決を目指す新仕様の内容と実装影響を解説。",
-    "reason": "Web標準の変更はインフラ・開発実装に影響するため開発者や運用担当者が押さえるべきニュース。",
-    "published_at": "2026-07-17 08:00:00",
-    "created_at": "2026-07-18 01:38:17",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news049.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "12805b584fdd",
-    "title": "Google検索の「AIモード」、検索結果からそのままアプリで作業可能に CanvaやYouTube Musicなど",
-    "published_date": "2026-07-17",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Googleの検索AIモードで外部アプリと直接連携し、検索画面上でデザイン作成やカート追加などが完結できる機能を提供開始。",
-    "reason": "検索→アプリ連携でユーザージャーニーとプラットフォームエコシステムが進化し、企業側の統合戦略に影響するため掲載価値あり。",
-    "published_at": "2026-07-17 06:51:00",
-    "created_at": "2026-07-18 01:38:17",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/17/news061.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "a3eab8fe67ab",
-    "title": "Visa、既存決済にステーブルコインを組み込める新基盤「VSP」",
-    "published_date": "2026-07-17",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "Visaがステーブルコイン関連サービスを統合運用できるプラットフォーム「Visa Stablecoin Platform(VSP)」を発表。",
-    "reason": "既存決済インフラと暗号資産の融合をうたう大手の新基盤で、金融サービスやフィンテック事業に影響するため注目。",
-    "published_at": "2026-07-17 14:29:24",
-    "created_at": "2026-07-18 01:38:17",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2126089.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "9819e1556a63",
     "title": "「1.5兆ドルの請求が来た」？ AWSでまたトラブル、誤ったコスト見積が表示される状態に",
     "published_date": "2026-07-17",
@@ -6592,62 +6452,6 @@
     "urgency_score": 1,
     "utility_score": 1,
     "has_itmedia_article": true
-  },
-  {
-    "id": "18203d90a2f6",
-    "title": "「12倍高速化」したTypeScript 7.0、メモリ使用量は？ 互換性、移行時の注意点",
-    "published_date": "2026-07-17",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "TypeScriptコンパイラと言語サービスをGoに移植したTypeScript 7.0が公開。大幅な高速化とメモリ削減を実現した。",
-    "reason": "広範な開発者コミュニティに直結するランタイム/ツールチェンジで移行判断と開発効率に影響するため有用。",
-    "published_at": "2026-07-17 13:00:00",
-    "created_at": "2026-07-18 01:38:17",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news055.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "7b202025370d",
-    "title": "「データを社外に出さずAIを使えるインフラ」を1カ月で構築 Skyはどう実現した？",
-    "published_date": "2026-07-17",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "機密データを外に出さずにAIを使うオンプレ環境を約1カ月で構築した事例。実現要因と運用面の工夫を解説。",
-    "reason": "機密データを扱う企業のAI導入・ガバナンスに直結する実践的な事例で情シス向けに有益。",
-    "published_at": "2026-07-17 13:00:00",
-    "created_at": "2026-07-18 01:38:17",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news052.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
   },
   {
     "id": "cb2dcf41a290",
@@ -6730,33 +6534,6 @@
     "practical_impact_score": 3,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "046ead5d9c5b",
-    "title": "中国AIも“ミュトス級”に到達か Moonshot AIが「Kimi K3」発表、一部ベンチでFable 5抜き首位",
-    "published_date": "2026-07-17",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Moonshot AIが2.8兆パラメータの大規模言語モデル「Kimi K3」を発表。一部ベンチでClaude Fable 5を上回る結果を示した。",
-    "reason": "大規模オープンモデルの登場で技術トレンドと競争環境に影響するため開発者・研究者に重要。",
-    "published_at": "2026-07-17 12:59:00",
-    "created_at": "2026-07-18 01:38:17",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/17/news079.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
   },
@@ -12161,36 +11938,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "54c342fb3ff6",
-    "title": "なぜ若手こそインフラを学ぶべき？ 無料で学べるネットワーク、Linux、サーバ＆ストレージのeBook",
-    "published_date": "2026-08-09",
-    "importance_score": 1,
-    "category": "企業IT",
-    "summary": "クラウドやAIの普及で見えにくくなった基礎インフラの重要性を指摘。障害対応や生成コードの確認に役立つ、無料で読めるネットワークやLinux、サーバ・ストレージのeBookを紹介している。",
-    "reason": "教育・スキル向上に有用なリソースだが影響範囲は限定的なため低めに評価。",
-    "published_at": "2026-08-09 08:00:00",
-    "created_at": "2026-08-10 00:53:44",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/09/news004.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 1,
-    "utility_score": 4,
-    "has_itmedia_article": false
-  },
-  {
     "id": "661da7c501cf",
     "title": "5週間で340超の企業が被害に Microsoft 365のアクセスを奪う新型フィッシングに注意",
     "published_date": "2026-08-10",
@@ -14008,6 +13755,61 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "e4b2a01714d3",
+    "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
+    "published_date": "2026-08-16",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "AnthropicがClaude生成テキストに埋める電子透かしの技術を公開。秘密鍵付き乱数で統計的パターンを残し、品質や速度に影響を与えないと説明。EU AI Act対応を想定する一方、短文やコードでは検出困難などの限界も示す。",
+    "reason": "EU AI Act準拠や生成物の出自証明に直結する技術説明で、企業の生成AI運用・規制対応に影響するため優先度高め。",
+    "published_at": "2026-08-16 07:58:11",
+    "created_at": "2026-08-17 00:41:40",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d25fe377e87e",
+    "title": "ゼロトラストの壁は「製品」ではなかった トヨタが4年以上かけて見直したもの",
+    "published_date": "2026-08-16",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "トヨタが4年以上かけてゼロトラストや復旧体制を見直した事例を紹介。単なる製品導入ではなく組織・業務プロセスや復旧基準の再設計が重要だと論じる。取引先やサプライチェーン影響も踏まえた議論。",
+    "reason": "大手企業の長期的な方針転換が示す実務的教訓で、情シス・経営のセキュリティ／BCP判断に直結するため掲載価値が高い。",
+    "published_at": "2026-08-16 08:00:00",
+    "created_at": "2026-08-17 00:41:40",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/16/news007.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
     "has_itmedia_article": false
   }
 ]

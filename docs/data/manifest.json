@@ -1,5 +1,5 @@
 {
-  "default_edition_date": "2026-08-16",
+  "default_edition_date": "2026-08-17",
   "editions": [
     {
       "date": "2026-05-24",
@@ -340,6 +340,10 @@
     {
       "date": "2026-08-16",
       "path": "data/editions/2026-08-16.json"
+    },
+    {
+      "date": "2026-08-17",
+      "path": "data/editions/2026-08-17.json"
     }
   ]
 }
