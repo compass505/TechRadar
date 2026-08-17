@@ -6594,88 +6594,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "91b5e0e6d41a",
-    "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
-    "published_date": "2026-07-18",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Anthropicは最上位モデル「Claude Fable 5」を7月20日から有料プランの一部に標準組み込みに変更。高位プランは追加費用なしで一定量利用可能になり、下位プランは従量制に移行する。",
-    "reason": "企業と開発者のコストと利用可否に直接影響するAIモデル提供方針の変更で、導入判断に重要。",
-    "published_at": "2026-07-18 12:50:00",
-    "created_at": "2026-07-19 01:15:32",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "b7f407288745",
-    "title": "「脱・PC購入」「脱Windows」「脱・PC操作」――企業PCの“前提”が変わり始めた",
-    "published_date": "2026-07-18",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "AIの進化を背景に企業PC運用の前提が変化している点を分析。PC購入やOS依存、操作前提の見直しと情シスが取るべき対応を事例と共に解説する。",
-    "reason": "企業のIT戦略・資産管理に直結するトレンド解説で、情シスや経営判断に役立つため掲載価値が高い。",
-    "published_at": "2026-07-18 08:00:00",
-    "created_at": "2026-07-19 01:15:32",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/18/news005.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "6b50d8d5baf5",
-    "title": "アップル、iPhoneを一斉値上げ Watch・AirPodsも",
-    "published_date": "2026-07-18",
-    "importance_score": 3,
-    "category": "ガジェット",
-    "summary": "Appleが日本のApple StoreでiPhone／Apple Watch／AirPodsを一斉に値上げ。為替影響と見られ、事前告知なしの価格改定。海外ストアでは未改定。",
-    "reason": "ハード調達コストと消費行動に直結する大手ベンダーの価格改定で、購買・予算計画に影響が出るため代表的に掲載。",
-    "published_at": "2026-07-18 01:50:00",
-    "created_at": "2026-07-19 01:15:32",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "7fcef7c54c14",
     "title": "佐川急便、約7万人分の個人情報漏えいか 「スマートクラブ」通知メールに別人の氏名など表示",
     "published_date": "2026-07-18",
@@ -12110,33 +12028,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "99b8bd8c0006",
-    "title": "VAIO、内蔵カメラで血管や心拍情報を測定できる世界初PC",
-    "published_date": "2026-08-10",
-    "importance_score": 1,
-    "category": "ガジェット",
-    "summary": "VAIOが内蔵カメラから血管情報と心拍を推定するアプリ「VAIO ウェルネスケア」を先行提供。個人向けPCに標準搭載して無償提供する。",
-    "reason": "技術的に興味深い消費者向け機能だが、報道面では製品導入の範疇で影響範囲は限定的。",
-    "published_at": "2026-08-10 14:27:25",
-    "created_at": "2026-08-11 01:13:49",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2131974.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "e5863c152e1c",
     "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
     "published_date": "2026-08-10",
@@ -13808,6 +13699,563 @@
     "ai_relevance_score": 0,
     "practical_impact_score": 1,
     "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6aa4a2f9625d",
+    "title": "Ankerのスピーカーでまた発火事故 過去にも5回の火災で回収・交換中 消費者庁「直ちに使用中止を」",
+    "published_date": "2026-08-17",
+    "importance_score": 2,
+    "category": "ガジェット",
+    "summary": "Ankerの充電式スピーカー「Soundcore 3」で発火事故が発生。過去にも複数の火災があり同モデルはリコール対象、消費者庁が使用中止を呼びかけ。",
+    "reason": "消費者安全とリコール対応の観点で重要だがIT業界全体への影響は限定的なため中程度評価。",
+    "published_at": "2026-08-17 11:40:09",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/17/2000000562/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "4ccc8d6ec341",
+    "title": "ChatGPT、Macでのクリックや文字入力を記憶する新機能--「あのファイルはどこ？」にも回答",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIのMac版ChatGPTアプリに「Computer History」機能を追加。操作履歴を記録してChatGPTが参照できるようにし、作業の追跡・検索を支援する。",
+    "reason": "ローカル操作履歴をAIが参照する機能は利便性とプライバシー・ガバナンスの両面で企業導入判断に影響するため掲載。",
+    "published_at": "2026-08-17 08:23:00",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251587/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "8340e2403658",
+    "title": "Claude Fable 5が早速脱獄される ある研究者が検証結果を公開",
+    "published_date": "2026-08-17",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "Anthropicの新モデルClaude Fable 5のガードレールに対し、研究者が複数手法を組合せて突破（脱獄）した検証結果を公開。",
+    "reason": "主要商用モデルでのガード回避の検証はAI安全・企業導入方針に直結する重大な示唆を含むため高重要度と判断。",
+    "published_at": "2026-08-17 17:00:00",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news040.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0a3668999667",
+    "title": "Claudeで障害 アクセスできず（復旧）",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "AnthropicのAIサービスClaudeで障害が発生しアクセス不能に。公式ステータスでの告知とユーザー報告が相次いだが復旧済み。",
+    "reason": "AIサービスの可用性障害は導入企業の運用リスクを示すため、SRE/情シス向けに重要。",
+    "published_at": "2026-08-17 07:17:00",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251584/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d5588b660987",
+    "title": "Google Meet、リアル会議の議事録生成も可能に スマホ1つで録音→要約",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Google Meetの自動メモ機能を対面会議でも利用可能に。スマホで録音するとGeminiが文字起こし・要約を生成しGoogleドキュメントへ保存する。",
+    "reason": "企業の会議記録・ナレッジ共有の自動化に直結する機能で、導入・契約面での考慮点が多いため有用。",
+    "published_at": "2026-08-17 08:36:00",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251588/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "575616c0aa34",
+    "title": "Hugging Face分析、中国のオープンモデルが台頭 Qwenは派生モデル15万件超",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Hugging Faceのレポートで中国勢の大規模モデル台頭が示される一方、実ダウンロードの8割超は10億パラメータ未満の小型モデルだった。AlibabaのQwenが派生数で台頭。",
+    "reason": "オープンモデルの地政学的・エコシステム変化は開発者選定や事業戦略に影響するため有益な業界動向。",
+    "published_at": "2026-08-17 08:42:45",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "dc9f75c2d8cd",
+    "title": "RBACもままならないのに「もう古い」 AIエージェント時代に迫られる権限管理の再設計",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "AIエージェントの台頭に伴い、従来のRBAC中心の権限管理では不十分になる可能性を指摘。Gartnerの提言を踏まえた再設計の考え方を解説。",
+    "reason": "企業がAI導入を進める上での権限設計は実運用・リスク管理に直結するため、情シス・経営向けに重要。",
+    "published_at": "2026-08-17 05:00:00",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news006.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "44a404be3f14",
+    "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "高速エディタZedの開発チームが、AIと人間の対話およびコード変更履歴を一元的に保存・共有するツールDeltaを発表。開発ワークフローの可視化を狙う。",
+    "reason": "AIと開発者の協働ワークフローに直接影響するツールであり、開発現場の生産性・運用に示唆を与える。",
+    "published_at": "2026-08-17 00:05:36",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "f236f5fa4a0c",
+    "title": "「うんこミュージアム」公式サイト改ざん被害、個人情報4人分流出のおそれ",
+    "published_date": "2026-08-17",
+    "importance_score": 2,
+    "category": "セキュリティ",
+    "summary": "観光施設の公式サイトが第三者製ソフトの脆弱性を悪用され改ざんされ、4人分の個人情報流出のおそれがあると発表。",
+    "reason": "中小サイトの脆弱性悪用は典型的な攻撃例で、運営側・中堅事業者にとって注意喚起になるため掲載。",
+    "published_at": "2026-08-17 08:40:29",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/17/2000000556/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "35c6d2f2c1f7",
+    "title": "「さくらのレンタルサーバ」に不正アクセス 583アカウントが不正ログイン被害、個人データなど漏えいのおそれ",
+    "published_date": "2026-08-17",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "さくらのレンタルサーバで583アカウントの不正ログインが確認され、一部顧客情報の閲覧・取得のおそれがあると発表。影響範囲や原因は調査中。",
+    "reason": "ホスティング系サービスで多数アカウントの不正ログイン・個人データ流出の恐れは事業継続性・顧客信頼に直結するため優先掲載。",
+    "published_at": "2026-08-17 12:13:57",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/17/2000000563/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "cb4cbc0ccadf",
+    "title": "「ただのアプリ」がroot権限を取得？ macOSの脆弱性を研究者が実演",
+    "published_date": "2026-08-17",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "研究者がmacOSの権限境界を突破してroot権限取得に至る脆弱性を実演。Appleは当該問題を修正したとされるが実証が注目される。",
+    "reason": "OSレベルの権限昇格脆弱性は広範な被害や企業対応を招くため、情シスやセキュリティ担当者にとって重要。",
+    "published_at": "2026-08-17 13:00:00",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news039.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a0abd2481986",
+    "title": "「ネオクラウドは独走」「電力求めて宇宙へ」 データセンターの常識が変わる5大潮流",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "ABI Researchによるデータセンター市場の今後10年トレンド。ネオクラウド、AIワークロードの比重逆転、軌道上データセンターなど5つの潮流を解説。",
+    "reason": "クラウド事業・インフラ投資の中長期戦略に有用な市場予測で、事業企画や設備投資の判断材料になる。",
+    "published_at": "2026-08-17 08:00:00",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news046.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0a72faa060fa",
+    "title": "「社内情報をAIに食わせればいい」だけでは足りない、情報検索精度向上の鉄則",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "RAG導入で期待外れに終わったケースを紹介し、検索精度向上と権限制御の現実的な設計についてSkyの判断事例を通じて解説。",
+    "reason": "RAGや社内向けLLM導入の現場課題と設計判断は多くの企業情シスにとって実務的に役立つため優先。",
+    "published_at": "2026-08-17 08:00:00",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/articles/2608/17/news010.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f380b4dc605d",
+    "title": "なぜPFNは「国産AI」をゼロから開発するのか 担当者に聞く“自家製ならではの利点”",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Preferred Networksがフルスクラッチで国産AIを開発する理由を担当者に聞く。自社設計の利点や国内での実運用を見据えた方針を解説。",
+    "reason": "国産モデル開発の戦略的意義は業界・政府・企業のAI調達・運用方針に関わるため掲載価値が高い。",
+    "published_at": "2026-08-17 15:05:21",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000441/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a5d797b44f24",
+    "title": "グーグルに「外部アプリストアのインストールを容易にせよ」と米裁判所が命令",
+    "published_date": "2026-08-17",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "米連邦判事がGoogleに対し、米国の消費者がサードパーティのAndroidアプリストアをインストールしにくくする措置をやめるよう命じた。",
+    "reason": "Androidエコシステムの配布規約・競争環境に直接影響する裁判判断で、事業戦略やプラットフォーム政策に重大。",
+    "published_at": "2026-08-17 17:25:00",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251621/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ba1b5fcceb5e",
+    "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "CloudflareがAIエージェント向けの軽量ヘッドレスブラウザKitesurfを発表。Rust/Wasmで実装され、エージェント運用に特化した設計。",
+    "reason": "AIエージェントのインフラ設計やセキュリティに関わる新技術で、クラウド/開発者視点で注目に値する。",
+    "published_at": "2026-08-17 00:10:13",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5c2002649063",
+    "title": "ドコモのStarlink Direct、次世代衛星「V2」で通話とウェブ閲覧に対応 28年度",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "NTTドコモがStarlinkと連携し、2028年度中にStarlink Mobile V2を使って音声通話や高速インターネットをスマホで直接利用可能にする計画を発表。",
+    "reason": "携帯キャリアと衛星通信の連携は通信インフラと事業モデルに影響を与え、通信事業者・企画部門が注視すべきニュース。",
+    "published_at": "2026-08-17 07:09:00",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251583/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ca52e5732cff",
+    "title": "ランサムウェアを「経営リスク」と8割が認識、だが「侵入後の被害を評価できる」のは2割 なぜなのか",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "MOTEXの調査でランサムウェアを経営リスクと認識する割合は高いが、侵入後の被害評価ができる組織は少数にとどまる実態を報告。",
+    "reason": "経営層と情シスのギャップを示す調査結果で、リスク管理・投資判断に直結するため有用。",
+    "published_at": "2026-08-17 13:00:00",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news015.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "263d45dca87b",
+    "title": "両毛システムズ、社内システムに不正アクセス被害",
+    "published_date": "2026-08-17",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "両毛システムズが社内システムへの不正アクセスを受けたと発表。情報流出の有無など詳細は確認中。",
+    "reason": "SIer系の不正アクセスは顧客二次被害リスクがあり、情シスやベンダー対応の示唆が必要なため掲載価値あり。",
+    "published_at": "2026-08-17 14:26:44",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/17/2000000566/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "882b83d04bac",
+    "title": "無料で使える「Delphi 13 Community Edtion」提供開始。Windows x86/Arm、Mac、iOS、Androidのネイティブアプリなど開発可能",
+    "published_date": "2026-08-17",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "エンバカデロがDelphi 13のCommunity Editionを無料提供開始。マルチプラットフォームのネイティブ開発環境が利用可能になる。",
+    "reason": "開発者向けの重要なツール更新だが影響範囲は主にネイティブアプリ開発者に限定されるためやや低めの評価。",
+    "published_at": "2026-08-17 00:01:16",
+    "created_at": "2026-08-18 00:46:57",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/delphi_13_community_edtionwindows_x86armmaciosandroid.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false

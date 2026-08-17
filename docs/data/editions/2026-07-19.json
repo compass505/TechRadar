@@ -2,9 +2,7 @@
   "edition_date": "2026-07-19",
   "surfaces": {
     "top_yesterday": [
-      "7fcef7c54c14",
-      "91b5e0e6d41a",
-      "6b50d8d5baf5"
+      "7fcef7c54c14"
     ],
     "recent_important": [
       "51fd230fddd8",
@@ -21,14 +19,9 @@
       "350cf92000ac",
       "3ed6edce6895"
     ],
-    "yesterday_ai": [
-      "91b5e0e6d41a",
-      "b7f407288745",
-      "6b50d8d5baf5"
-    ],
+    "yesterday_ai": [],
     "yesterday_enterprise_it": [
-      "7fcef7c54c14",
-      "b7f407288745"
+      "7fcef7c54c14"
     ],
     "yesterday_development": []
   }
