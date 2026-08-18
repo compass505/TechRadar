@@ -1,5 +1,192 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "ドコモ・バイクシェア障害、なぜ起きた？ 同社が原因と再発防止策を公表 返金は9月末までに",
+    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000601/",
+    "summary": "7月末から続いたバイクシェアの大規模システム障害で、新システム移行後の利用集中が処理能力不足を招いたと公表。対象期間の利用料金は順次返金予定。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "新システム移行失敗による公共モビリティ停止で運用・設計・SREの教訓を提供するため。",
+    "published_at": "2026-08-18 18:17:28",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "生成AIで巧妙化するデマ──熊本地震で露見した「10年前にはなかった新たな手法」 識者に聞く",
+    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000600/",
+    "summary": "熊本地震発災直後からSNS上で生成AIを悪用したデマやフェイク情報が拡散。識者は過去と比べ手口の巧妙化や対処の難しさを指摘している。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "生成AIが情報流通と災害対応に与える実害と対策の必要性が高く、広範な社会影響があるため。",
+    "published_at": "2026-08-18 18:03:55",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開 基礎から本番実装まで学べる",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html",
+    "summary": "GoogleがAIエージェントの基礎から本番実装までを扱う5つの無償ガイドを公開。Kaggleと共同の研修プログラムに基づく実務的な内容。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "開発者や導入担当者が実務で参照できる公式ガイドだが即時性は限定的なため。",
+    "published_at": "2026-08-18 17:00:00",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "災害便乗の“〇〇Pay詐欺”に注意喚起 最初は多めに返金→信用したら10万円被害 国民生活センター",
+    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000587/",
+    "summary": "国民生活センターが熊本地震に便乗するコード決済詐欺の手口を警告。「〇〇Payで返金します」と誘うDMに注意を促している。",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "災害時の詐欺手口は被害が発生しやすく注意喚起による防止効果が期待できるため掲載価値あり。",
+    "published_at": "2026-08-18 16:16:59",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "＠IT",
+    "title": "GPUから光接続まで、AI基盤の「本命5社」 Gartnerが選んだ理由",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news020.html",
+    "summary": "Gartnerが生成AI本番利用を支えるAIインフラ領域で「Companies to Beat」として主要ベンダー5社を選定。GPU、ネットワーク、光接続などの評価理由を解説。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "AIインフラ競争の現状分析は購買・設計判断に直結するため、業界動向把握に有用。",
+    "published_at": "2026-08-18 14:55:00",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "2.5次元アイドル「いれいす」事務所のBIツールに不正アクセス ファンの氏名・電話番号や“推し”情報漏えい",
+    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000589/",
+    "summary": "アイドル事務所のBIツールに不正アクセスがあり、氏名・住所・電話番号・購買履歴・“推し”情報などが漏えい。ファンの個人情報や決済関連データが含まれる。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "顧客情報と購買データの漏えいで運営側のITセキュリティ体制と法的責任が問われるため。",
+    "published_at": "2026-08-18 14:19:55",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "＠IT",
+    "title": "Microsoft Entra ID、パスキーをデフォルトの認証に SMS・音声認証は廃止",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news039.html",
+    "summary": "MicrosoftがEntra IDのデフォルトサインインをパスキーに切り替え、SMS/音声によるMFAは2027年2月1日で提供終了を発表。企業側の認証設計に影響。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "大手クラウド/IDプラットフォームの認証方針変更が広範な企業セキュリティ運用に波及するため。",
+    "published_at": "2026-08-18 13:00:00",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "＠IT",
+    "title": "ブラウザ内AI推論を「最大60倍」速く Web AIランタイム「LiteRT.js」をGoogleが発表",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news049.html",
+    "summary": "Googleがオンデバイス推論ライブラリLiteRTのJavaScriptバインディング「LiteRT.js」を公開。ブラウザ内推論の大幅高速化と主要フレームワーク互換を謳う。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "Web上でのオンデバイスAI性能が大幅向上し、開発者やサービスのアーキテクチャ選定に影響するため。",
+    "published_at": "2026-08-18 13:00:00",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ライフカード、信用情報の不適切利用が判明 アイフルの顧客情報94万件超を保険営業の対象選定に",
+    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000585/",
+    "summary": "ライフカードがグループ会社から提供された信用情報を保険案内の対象選定に利用していたことが判明。対象は重複除き約94.4万件で、内部監査で発覚した。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "個人情報の不適切利用で消費者保護・法令順守の観点から企業対応と監督が注目されるため。",
+    "published_at": "2026-08-18 12:13:36",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "アマゾンやグーグルらが建設する巨大データセンター、CO2排出量は「ガソリン車2400万台分」試算",
+    "url": "https://japan.cnet.com/article/35251635/",
+    "summary": "米大手クラウド事業者が建設中の大規模データセンター60施設を分析した結果、全面稼働で年間約1.01億トンのCO2排出に相当する試算が示された。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "データセンター拡大に伴う環境影響がサプライチェーンや規制、企業ESG戦略に影響を与えるため。",
+    "published_at": "2026-08-18 11:29:00",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "UberとZiplineが戦略的提携 Uber Eatsで数分以内のドローン配送を全米展開へ",
+    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000578/",
+    "summary": "Uberとドローン物流のZiplineが提携し、Uber Eatsで数分以内のドローン配送を年内に開始、全米数十都市へ展開目標。2029年末までに日100万件を目指す。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "都市物流とラストワンマイルの商用ドローン展開で規制や事業モデルに大きく影響する戦略的提携のため。",
+    "published_at": "2026-08-18 09:38:26",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Cursor、コードホスティング機能「Origin」の初期βを提供開始 GitHubとの双方向同期に対応",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000575/",
+    "summary": "AIコードエディタCursor上でコードホスティングできる新機能「Origin」の初期βを有料プラン向けに開始。GitHub双方向同期やCI連携を想定した機能群を提供。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "AI支援開発ワークフローに直結するプラットフォーム機能で、開発プロセスや運用に影響するため（同種の報道は代表1件で選定）。",
+    "published_at": "2026-08-18 08:40:47",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "YouTube、再生回数のカウント基準をショート動画と同じに 収益算定への影響はなし",
+    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000573/",
+    "summary": "YouTubeが公開再生回数の数え方を最初のフレーム表示で1回とする方式に統一。表示数字は変わるが広告収益算定のエンゲージビューには影響しないと説明。",
+    "importance": 2,
+    "category": "ビジネス",
+    "reason": "クリエイター指標の見かけ上の変化とプラットフォーム運用方針の変更で関係者の理解が必要なため。",
+    "published_at": "2026-08-18 07:39:58",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "＠IT",
+    "title": "さくらインターネットで583アカウントに不正ログイン 「顧客領域」まで到達",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news046.html",
+    "summary": "さくらのレンタルサーバで不正ログインが確認され、583アカウントで顧客環境へのマルウェア設置などが発生。通信の秘密に関わる情報へ到達した可能性があると報告。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "ホスティング事業者の侵害で顧客影響が広範かつ機密性高く、被害把握と対策が急務なため。",
+    "published_at": "2026-08-18 07:30:00",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NVIDIA、OpenAIのオハイオAIデータセンターに最大1050億ドルの債務保証──SB Energyと提携",
+    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000572/",
+    "summary": "NVIDIAがオハイオで建設中の大規模AIデータセンターに計算基盤を独占提供し、最大1050億ドルの債務保証を負うと発表。OpenAIがテナント、最大8GW規模で段階的に展開予定。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "AIインフラと資本供給を巡る大規模案件で業界競争・データセンター市場に直接影響するため。",
+    "published_at": "2026-08-18 06:55:32",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス マネーフォワード",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000571/",
+    "summary": "マネーフォワードが法人向けにAIサービスの利用量とコストを一元管理する「クラウドAIトークン管理」を無償提供開始。共通IDで利用可能。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "企業のAIコスト可視化・ガバナンスニーズに応えるが影響範囲は企業ユーザーに限定されるため。",
+    "published_at": "2026-08-18 06:50:00",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
+    "source": "Publickey",
+    "title": "Pythonライクで高速な「Mojo言語」がバージョン1.0に到達、今後はコンパイラをオープンソース化すると表明",
+    "url": "https://www.publickey1.jp/blog/26/pythonmojo10.html",
+    "summary": "AI実行向けのPythonライク言語Mojoがv1.0に到達。今後コンパイラのオープンソース化を表明し、高速AI実行環境のエコシステム拡大を示唆。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "AI向け実行性能と開発生態系に関わる言語・コンパイラの進展は研究開発とプロダクション導入に影響するため。",
+    "published_at": "2026-08-18 00:40:38",
+    "created_at": "2026-08-19 00:53:31"
+  },
+  {
     "source": "CNET Japan",
     "title": "グーグルに「外部アプリストアのインストールを容易にせよ」と米裁判所が命令",
     "url": "https://japan.cnet.com/article/35251621/",
@@ -748,17 +935,6 @@
     "created_at": "2026-08-12 01:14:51"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に",
-    "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000495/",
-    "summary": "YouTubeが2027年2月からパートナープログラムの参加基準を大幅に引き上げ。新規は再生時間8000時間またはショート2000万回再生が必要となるなど条件を厳格化する。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "クリエイター経済やプラットフォーム戦略に影響するが技術的インパクトは限定的のため中程度評価。",
-    "published_at": "2026-08-11 09:21:44",
-    "created_at": "2026-08-12 01:14:51"
-  },
-  {
     "source": "ITmedia AI+",
     "title": "2028年にSOCの人手対応、30％減へ 常態化する攻撃に企業は勝てるのか",
     "url": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html",
@@ -781,17 +957,6 @@
     "created_at": "2026-08-12 01:14:51"
   },
   {
-    "source": "CNET Japan",
-    "title": "「全面ガラスのiPhone」開発頓挫か 歩留まりの低さが原因との報道",
-    "url": "https://japan.cnet.com/article/35251481/",
-    "summary": "報道によればAppleの全面ガラスiPhone開発は歩留まりの低さで開発中止の可能性。製品デザインや供給戦略に影響する可能性があると伝えられている。",
-    "importance": 2,
-    "category": "ガジェット",
-    "reason": "製品ロードマップ関連の業界動向として消費者・業界で関心が高いが噂段階のため重要度は抑えめ。",
-    "published_at": "2026-08-11 07:21:00",
-    "created_at": "2026-08-12 01:14:51"
-  },
-  {
     "source": "ITmedia AI+",
     "title": "Meta、ローカル動作に特化したオープンモデル「Muse Glimmer」公開 Apache 2.0で提供",
     "url": "https://www.itmedia.co.jp/aiplus/article/2608/11/2000000493/",
@@ -810,17 +975,6 @@
     "importance": 3,
     "category": "企業IT",
     "reason": "公的システムでの運用ミスはITガバナンスや個人情報管理に関する実務的示唆が強いため重要度中程度で掲載。",
-    "published_at": "2026-08-11 07:00:00",
-    "created_at": "2026-08-12 01:14:51"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "親が子にAIを使わせる理由は「勉強に役立つ」ではなく「うちの子だけは遅れさせたくない」？ 2000人を調査",
-    "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
-    "summary": "PNAS掲載の研究で、親が子どもに生成AIを使わせる判断は学習効果よりも周囲との競争回避が大きな動機になっていると報告。",
-    "importance": 1,
-    "category": "その他",
-    "reason": "社会的示唆はあるが技術・ビジネスへの直接的影響は小さいため低め評価。",
     "published_at": "2026-08-11 07:00:00",
     "created_at": "2026-08-12 01:14:51"
   },
@@ -2979,28 +3133,6 @@
     "reason": "AIエージェントによる実際の侵入・資格情報流出が発生し、AI運用とセキュリティの実務影響が大きいため。",
     "published_at": "2026-07-20 10:08:00",
     "created_at": "2026-07-21 01:49:36"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
-    "summary": "27Bパラメータ級の大規模言語モデルをiPhone等の端末で動作可能な容量に最適化して公開。オンデバイスでの高性能推論やプライバシー、オフライン利用の可能性を示す。開発者向けの注目点あり。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "エッジで動く大規模モデルは開発・運用方針や製品設計に影響するため開発者・事業担当者に有用。",
-    "published_at": "2026-07-19 08:40:43",
-    "created_at": "2026-07-20 01:16:21"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "AWS“兆ドル”誤見積は「ちょっとした計算ミス」 ジョークのつもり？ で大炎上→日本のAWS社員「あり得ない」と批判→対応",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html",
-    "summary": "AWS公式の“兆ドル”規模の誤見積りジョーク投稿が炎上。日本の社員や顧客から強い批判が出ており、同社が対応に追われている。クラウド事業者の信頼・コミュニケーションリスクを浮き彫りに。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "主要クラウド事業者の公的発言による顧客信頼・ブランドリスクで、情シスや経営判断に関連するため掲載価値あり。",
-    "published_at": "2026-07-19 07:40:00",
-    "created_at": "2026-07-20 01:16:21"
   },
   {
     "source": "CNET Japan",
