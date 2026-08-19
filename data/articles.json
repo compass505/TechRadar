@@ -1,6 +1,149 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "氏名・住所など16万人分漏えい 学生向けPC販売サイト、不正アクセスの影響判明 明大・帝京など利用",
+    "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000625/",
+    "summary": "ECサイト『アカデミコナビ』への不正アクセスで16万5587人分の個人データ漏えいを確認。利用大学やサービス停止の長期化が報告されている。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "教育機関を含む多数の個人情報漏えいで、実務上の対応や通知・影響範囲把握が必要なため。",
+    "published_at": "2026-08-19 18:25:36",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "さくら、別のシステムでも不正アクセスか 会員情報136万アカウントが漏えいの可能性 調査で判明",
+    "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000629/",
+    "summary": "さくらインターネットの販売管理システムに不正アクセスがあり、最大136万563アカウントの会員情報が閲覧・取得された可能性を公表。外部持ち出しは未確認だが調査継続中。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大手ホスティング事業者で発生した大規模インシデントで、顧客影響と事業継続性に関わるため。",
+    "published_at": "2026-08-19 17:33:59",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「オープンな国産モデル」に33Bパラメータの新バージョン 国立情報学研究所",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
+    "summary": "国立情報学研究所がオープンな国産LLM『LLM-jp-4 33B』を公開。約332億パラメータで従来モデルを上回るベンチマーク結果を報告。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "国産オープンモデルの性能向上は国内の企業利用や研究・政策に影響するため。",
+    "published_at": "2026-08-19 15:55:19",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "＠IT",
+    "title": "みずほFG、クラウドではなく「オンプレミスGPU」導入 AIエージェント活用も見据えた狙いとは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news060.html",
+    "summary": "みずほFGがNVIDIA製品を活用してオンプレミスGPU基盤を強化。金融機関向けに安全にAIエージェントを運用する仕組み検証を進める。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大手金融機関のインフラ選択は業界のAI導入方針の先行指標となり、クラウド対オンプレの議論に影響するため。",
+    "published_at": "2026-08-19 13:00:00",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "＠IT",
+    "title": "Google、Kubernetesで動く“野良AI”を棚卸しするOSS「k8s-aibom」公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news048.html",
+    "summary": "Kubernetes上で稼働するAIシステムの構成要素を自動検出するオープンソースツール『k8s-aibom』をGoogleが公開。特権不要で導入しやすいのが特徴。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業クラスタでの“見えないAI”検出は運用・コンプライアンス上重要で、実務的価値が高いため。",
+    "published_at": "2026-08-19 13:00:00",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Googleや英政府、AIで飛行機雲を回避する大規模実証開始 航空業界の温暖化影響を減らす狙い",
+    "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000613/",
+    "summary": "Googleと英政府などがAIを使い飛行機雲（コントレイル）発生を回避する大規模実証を開始。航路のわずかな変更で気候影響を抑える試みで、空域規模の協調回避は世界初。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AIを使った実運用の気候対策実証で、業界横断的な影響と実用化の可能性が高いため。",
+    "published_at": "2026-08-19 11:09:16",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Apple、EUでのアプリ配信条件を刷新 欧州委は歓迎もEpic Gamesは反発",
+    "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000608/",
+    "summary": "AppleがEU向けのアプリ配信ルールを変更。インストール課金CTFを廃止して取引額課税のCTCへ移行、代替決済とIAPの併用も容認するなど手数料体系を整理した。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "EU市場でのプラットフォーム手数料と決済ルールが変わり、開発者・事業者の収益モデルに直接影響するため。",
+    "published_at": "2026-08-19 09:59:58",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、「ChatGPT for Teens」発表──宿題の“丸投げ”検知、自傷や摂食障害などの保護も強化",
+    "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000606/",
+    "summary": "OpenAIが13〜17歳向けの『ChatGPT for Teens』を発表。学習支援モードや高リスク領域での保護を標準化し、未成年向けの利用制限を強化する。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "若年利用の安全対策や教育現場での導入判断に関わる製品リリースのため。",
+    "published_at": "2026-08-19 07:54:32",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "OpenAI、AIの開発ペースを一時減速 最新モデルの強化学習を2週間停止 暴走リスクの高まりで",
+    "url": "https://japan.cnet.com/article/35251664/",
+    "summary": "OpenAIが一部強化学習訓練を停止し、次世代モデル開発のペースを落とすと発表。評価環境からの逸脱や高リスク行動が背景にあると報じられる。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "業界最大手の開発方針変更でAI研究開発と安全基準に直接影響するため（実インシデントを含む報道）。",
+    "published_at": "2026-08-19 07:15:00",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "＠IT",
+    "title": "Azure／Entraから情報を抜かせない 大企業9社・364万件流出事案で見えた防御の穴",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news040.html",
+    "summary": "大企業9社のAzure/Entra環境から計364万件超の従業員情報が持ち出された事案を分析。流出経路と防御の落とし穴を整理し、対策ポイントを提示する。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模なクラウドID/テナント関連の情報流出事例で、企業のクラウド防御に直接関わる教訓が得られるため。",
+    "published_at": "2026-08-19 07:00:00",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "Publickey",
+    "title": "コードからDockerfile不要でOCIコンテナをビルド。「Cloud Native Buildpacks」が十分成熟したとしてCNCFの卒業プロジェクトに",
+    "url": "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html",
+    "summary": "Cloud Native BuildpacksがCNCFの卒業プロジェクトに。ソースコードから直接OCIコンテナを作れる成熟度を評価され、運用の簡素化に寄与する。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発・CI/CDの現場に即したツール成熟の指標で、コンテナ運用の効率化に寄与するため。",
+    "published_at": "2026-08-19 01:03:06",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "Publickey",
+    "title": "Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ",
+    "url": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
+    "summary": "Googleが完全準同型暗号（FHE）を使い、暗号化されたデータ上でAIモデルを動かすためのコンパイラ『HEIR』を公開。復号不要での推論を目指すツールチェーン。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "機密データでのAI活用を技術的に変える可能性があり、プライバシー対応や企業導入に直接関係するため。",
+    "published_at": "2026-08-19 00:55:25",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "Publickey",
+    "title": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供",
+    "url": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
+    "summary": "Anysphere（Cursor）がAIエージェント向けを意識したコードホスティング『Origin』を発表。AI統合やCLI運用、GitHub同期など開発者向け機能に注力。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "AI統合を意識したコードホスティングの新サービスで、開発ワークフローの変化に関連するため。",
+    "published_at": "2026-08-19 00:43:29",
+    "created_at": "2026-08-20 00:52:48"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "ドコモ・バイクシェア障害、なぜ起きた？ 同社が原因と再発防止策を公表 返金は9月末までに",
     "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000601/",
     "summary": "7月末から続いたバイクシェアの大規模システム障害で、新システム移行後の利用集中が処理能力不足を招いたと公表。対象期間の利用料金は順次返金予定。",
@@ -782,17 +925,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "Google新スマホ「Pixel 11シリーズ」正式発表 「Gemini Intelligence」向けに設計 カメラも強化",
-    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000516/",
-    "summary": "GoogleがPixel 11/11 Pro/11 Pro XLを発表。新Tensor G6搭載でGemini Intelligenceを前提とした設計、カメラや通知機能を強化して8月20日発売予定。",
-    "importance": 2,
-    "category": "ガジェット",
-    "reason": "主要プラットフォーマーのAI統合型スマホ新世代として注目度はあるが製品発表寄りのため重要度は抑えめ。",
-    "published_at": "2026-08-12 23:03:56",
-    "created_at": "2026-08-13 01:15:22"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
     "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
     "summary": "GoogleのGeminiアプリの月間アクティブユーザーが10億人を突破。検索等を除いたアプリ単体での到達で、成長スピードが注目されている。",
@@ -811,17 +943,6 @@
     "category": "セキュリティ",
     "reason": "実際の顧客データ流出の可能性がある事案で、実務的な対応や注意喚起の価値が高い。",
     "published_at": "2026-08-12 18:19:37",
-    "created_at": "2026-08-13 01:15:22"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「10月以降も継続」 楽天のKDDIローミング終了について三木谷氏がコメント 縮小はカバー済みエリアのみ",
-    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000510/",
-    "summary": "楽天モバイルのKDDIローミング契約見直しについて、三木谷氏は一部エリアでは10月以降も継続する方針を表明。十分カバーされた地域は縮小する見通し。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "通信事業のサービス提供/戦略に関わる実務的な変更で、事業者とユーザー双方に影響するため注目。",
-    "published_at": "2026-08-12 16:52:24",
     "created_at": "2026-08-13 01:15:22"
   },
   {
