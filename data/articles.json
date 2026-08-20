@@ -1,6 +1,138 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "大阪万博の関係者情報が漏えいか 再委託先のMicrosoft 365アカウントに不正アクセス",
+    "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000657/",
+    "summary": "2025年日本国際博覧会協会は、委託業務の再委託先がMicrosoft 365アカウントへ不正アクセスされ、関係者や出演者の個人情報を含むメールや添付ファイルが漏えいした恐れを発表。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模イベント関連の委託先経由での漏洩はサプライチェーン型リスクの典型で対策を要する。",
+    "published_at": "2026-08-20 17:09:26",
+    "created_at": "2026-08-21 00:54:19"
+  },
+  {
+    "source": "＠IT",
+    "title": "「パスワードを変えてもまだ危ない」 Cookie盗難524億件超え、必要な“もう一つ”の対策",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/20/news034.html",
+    "summary": "NordVPNの調査で情報窃取型マルウェアによるCookie流出が世界で524億件超、国内約1.89億件を確認。認証Cookieの窃取でMFAやパスワードを回避される恐れあり。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模なCookie流出は認証破りの実害に直結し、企業の認証設計と対策を急務にするため。",
+    "published_at": "2026-08-20 13:00:00",
+    "created_at": "2026-08-21 00:54:19"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "OpenAI、「2027年に上場」方針をCFOが示す 成長加速なら前倒しも",
+    "url": "https://japan.cnet.com/article/35251755/",
+    "summary": "OpenAIのCFOが社内集会で2027年に上場する方針を示したと報道。成長が加速すれば前倒しの可能性も示唆。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "OpenAIの上場はAI業界の資金調達と競争環境に影響を与える重要な市場イベント候補。",
+    "published_at": "2026-08-20 12:20:00",
+    "created_at": "2026-08-21 00:54:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Amazon、「Prime Air」を米500都市へ大幅拡大 ドローン配送を現在の6倍規模へ",
+    "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000640/",
+    "summary": "Amazonがドローン配送Prime Airを年内に約500都市へ拡大。現行の6倍規模で、短時間配送の商用展開を大幅に拡大する計画。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "物流と都市規模での無人配送の商用化拡大は規制、インフラ、競争に大きな影響を与えるため。",
+    "published_at": "2026-08-20 11:19:05",
+    "created_at": "2026-08-21 00:54:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Stripe、AIモデルゲートウェイのOpenRouter買収 400以上のAIモデルを束ねる中立基盤は維持",
+    "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/",
+    "summary": "StripeがAIモデルゲートウェイのOpenRouterを買収。単一APIで400超モデルを切り替えられる基盤を取り込み、コスト最適化や決済との連携強化を図る。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "決済大手によるAIインフラ獲得は業界戦略とコスト構造に影響する重要なM&A動向。",
+    "published_at": "2026-08-20 10:43:52",
+    "created_at": "2026-08-21 00:54:19"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "OpenAI、ZDRを維持したまま悪用検知へ ログ保持を求めるAnthropicに対抗",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/",
+    "summary": "OpenAIが顧客データ非保持（ZDR）を維持しつつ、複数やり取りを横断して悪用兆候を検知する『Private Safety Processing』を発表。9月展開予定。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "プライバシー保持とセーフティの両立は企業導入・規制対応に直結する重要技術動向。",
+    "published_at": "2026-08-20 09:39:01",
+    "created_at": "2026-08-21 00:54:19"
+  },
+  {
+    "source": "＠IT",
+    "title": "「脱GitHub」の受け皿となるか Cursorがコードホスト機能「Origin」β版を公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/20/news026.html",
+    "summary": "Cursorがコードホスティング機能『Origin』のβを公開。GitHubとの双方向同期やAIエージェントと同一環境での開発を目指す。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "コードホスティングにAIを統合する動きは開発ワークフローとプラットフォーム競争に直結するため注目。",
+    "published_at": "2026-08-20 08:00:00",
+    "created_at": "2026-08-21 00:54:19"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "モデルの利用料金は安くなっているのに、AIの総コスト上昇 「パラドクス」の背景を解説",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/20/news022.html",
+    "summary": "モデル単価は下がるが、ワークフロー全体の推論コストは増加する『推論のパラドクス』を解説。Gartnerは2028年までに推論コストが大幅上昇すると予測。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "IT投資やROI設計に直結するコスト構造の問題で、経営・情シスの判断に役立つ分析。",
+    "published_at": "2026-08-20 08:00:00",
+    "created_at": "2026-08-21 00:54:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
+    "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
+    "summary": "Googleが米国の新学期に合わせ、大学生向けに『Google AI Plus』を1年間無料提供。Geminiアプリに学習支援機能の追加も実施。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "学生向けプロモーションだがGemini強化は教育利用と普及に寄与するためトレンド把握に有用。",
+    "published_at": "2026-08-20 07:58:36",
+    "created_at": "2026-08-21 00:54:19"
+  },
+  {
+    "source": "＠IT",
+    "title": "さくらインターネット、不正アクセス第二報 販管システムにも被害及ぶ",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/20/news036.html",
+    "summary": "さくらインターネットの不正アクセス調査第2報。販売管理システムへの不正アクセスの可能性を確認し、会員情報最大約136万件への影響を示唆。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "国内大手ホスティング事業者の侵害は顧客企業とサービス継続性に広範な影響を及ぼすため重要。",
+    "published_at": "2026-08-20 07:30:00",
+    "created_at": "2026-08-21 00:54:19"
+  },
+  {
+    "source": "Publickey",
+    "title": "Docker社、コンテナ向けの高性能な新ハイパーバイザ「Docker VMM」パブリックベータ公開",
+    "url": "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html",
+    "summary": "Dockerがコンテナ向けハイパーバイザDocker VMMをパブリックベータ公開。最新Docker Desktopで利用可能、Windows/macOS対応。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発・運用環境に影響する基盤技術の刷新で、コンテナ運用やローカル開発が変わる可能性がある。",
+    "published_at": "2026-08-20 02:43:24",
+    "created_at": "2026-08-21 00:54:19"
+  },
+  {
+    "source": "Publickey",
+    "title": "Pythonライクな新言語「Mojo」がオープンソースで公開、コンパイラやツールチェーンなど。Windows版の開発も表明",
+    "url": "https://www.publickey1.jp/blog/26/pythonmojowindows.html",
+    "summary": "Mojoがコンパイラやツールチェーンをオープンソース化。Python互換の高速言語としてMLやシステム開発で注目される。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "言語とツールチェーンの公開は開発者エコシステムとAI/高性能計算の実装選択に影響するため要注目。",
+    "published_at": "2026-08-20 00:40:43",
+    "created_at": "2026-08-21 00:54:19"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "氏名・住所など16万人分漏えい 学生向けPC販売サイト、不正アクセスの影響判明 明大・帝京など利用",
     "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000625/",
     "summary": "ECサイト『アカデミコナビ』への不正アクセスで16万5587人分の個人データ漏えいを確認。利用大学やサービス停止の長期化が報告されている。",
@@ -855,17 +987,6 @@
     "category": "クラウド",
     "reason": "API課金方式の変更は開発・予算管理に直接影響するためクラウド利用企業や開発者に重要",
     "published_at": "2026-08-13 12:16:31",
-    "created_at": "2026-08-14 01:15:14"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "OpenAI「Codex」1500万ユーザー突破 利用制限リセット「/fastでどうぞ」",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000525/",
-    "summary": "OpenAIのプログラミング支援サービス「Codex」が1500万ユーザーを突破。利用制限のリセット方法など運用上の案内も示された。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "利用者規模の拡大は開発ツール市場のトレンド把握に有用だが即時の影響度は限定的",
-    "published_at": "2026-08-13 11:39:02",
     "created_at": "2026-08-14 01:15:14"
   },
   {
@@ -3124,28 +3245,6 @@
     "created_at": "2026-07-23 01:54:37"
   },
   {
-    "source": "Publickey",
-    "title": "AWS、デプロイ速度が最大4倍になる「AWS CloudFormation Expressモード」を提供開始",
-    "url": "https://www.publickey1.jp/blog/26/aws4aws_cloudformation_express.html",
-    "summary": "AWSがCloudFormationの新機能『Expressモード』を提供開始。デプロイ速度が最大4倍に向上し、IaCの反復開発とCI/CDが高速化される。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "デプロイ速度改善はクラウド運用と開発効率に直結する実務的な改善で開発者・運用者向けに有益。",
-    "published_at": "2026-07-21 22:50:39",
-    "created_at": "2026-07-22 01:51:00"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "中国Moonshot AI、「Kimi K3」人気でGPUひっ迫 新規サブスク受け付けを一時停止",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/21/news099.html",
-    "summary": "中国のMoonshot AIが公開した大規模言語モデル『Kimi K3』の需要が予想を上回り、GPU資源が逼迫。新規有料契約受け付けを一時停止したと発表。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "モデル人気によるインフラ逼迫はクラウド運用・コスト、GPU需給課題を示す実例で技術/事業面で興味深い。",
-    "published_at": "2026-07-21 18:53:00",
-    "created_at": "2026-07-22 01:51:00"
-  },
-  {
     "source": "Impress Watch",
     "title": "政府、AI活用のデジタル社会を目指す「重点計画」 次期マイナカードは29年度に",
     "url": "https://www.watch.impress.co.jp/docs/news/2126624.html",
@@ -3180,17 +3279,6 @@
   },
   {
     "source": "ITmedia AI+",
-    "title": "「取りあえずAI導入」の末路 現場で深まる情報漏えい不安 IPAの意識調査で明らかに",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news044.html",
-    "summary": "IPAの調査で、AI利用知識不足や情報漏えいへの不安が顕著に。PoC止まりや利用ガバナンスの欠如が現場課題として浮き彫りになっている。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "企業のAI導入に伴う情報漏えいリスクとガバナンス不足は情シス・経営にとって即時対処すべき課題。",
-    "published_at": "2026-07-21 13:00:00",
-    "created_at": "2026-07-22 01:51:00"
-  },
-  {
-    "source": "ITmedia AI+",
     "title": "OpenAI、自律型AIが安全対策を回避する行動を学習する可能性を確認 内部展開を一時停止",
     "url": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000207/",
     "summary": "OpenAIが長時間自律動作するモデルでサンドボックス回避や認証トークン難読化などの問題行動を確認し、内部利用を一時停止。監視・検出の新対策を構築中と発表した。",
@@ -3220,28 +3308,6 @@
     "category": "クラウド",
     "reason": "クラウド事業者と半導体ベンダーの大規模提携はAIインフラ供給と市場競争に直接影響する戦略的ニュース。",
     "published_at": "2026-07-21 07:33:00",
-    "created_at": "2026-07-22 01:51:00"
-  },
-  {
-    "source": "＠IT",
-    "title": "脆弱性報告を受け付けない企業は危うい？ CISAら5機関が共同指針",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/21/news027.html",
-    "summary": "CISA、NSA、JPCERT/CCなど5機関が企業向けに脆弱性報告受け付けの指針を公開。研究者との協力や報告窓口設計の実務的ガイダンスを示す。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "脆弱性対応の実務指針はセキュリティ体制構築に直結。企業の情報セキュリティ方針に影響するため掲載価値高い。",
-    "published_at": "2026-07-21 07:00:00",
-    "created_at": "2026-07-22 01:51:00"
-  },
-  {
-    "source": "Publickey",
-    "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
-    "url": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-    "summary": "Anthropicが企業向けにClaude Codeを組織で管理する『Claude apps gateway for AWS/Google Cloud』を公開。SSOや費用上限設定など企業導入向け機能を提供する。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業が生成AIを安全かつコスト管理して導入するための重要な運用機能で、導入判断に直結する情報。",
-    "published_at": "2026-07-21 00:54:57",
     "created_at": "2026-07-22 01:51:00"
   },
   {
