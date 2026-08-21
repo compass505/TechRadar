@@ -6,7 +6,6 @@
       "b0787d54c897",
       "57c823c5a504",
       "fa1fd08284d3",
-      "44eb2aa83d3c",
       "59e5306dd025",
       "3c3bb3b15eea",
       "5cf754b24868"
@@ -29,10 +28,7 @@
     ],
     "yesterday_ai": [
       "f10c39501ff0",
-      "57c823c5a504",
-      "44eb2aa83d3c",
-      "1b8fef5d946e",
-      "674dc2b990c2"
+      "57c823c5a504"
     ],
     "yesterday_enterprise_it": [
       "f10c39501ff0",
@@ -41,14 +37,10 @@
       "3c3bb3b15eea",
       "5cf754b24868",
       "57c823c5a504",
-      "fa1fd08284d3",
-      "44eb2aa83d3c",
-      "1b8fef5d946e"
+      "fa1fd08284d3"
     ],
     "yesterday_development": [
-      "57c823c5a504",
-      "5f168370bbc4",
-      "674dc2b990c2"
+      "57c823c5a504"
     ]
   }
 }

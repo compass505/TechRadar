@@ -6875,119 +6875,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "44eb2aa83d3c",
-    "title": "AIを悪用した攻撃、どう対抗する？ EDR導入の“次”にやるべきこと",
-    "published_date": "2026-07-22",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "EDR普及が進む一方で、AI悪用の高度化にはEDRだけでは不十分。中堅中小企業が取るべき検知・対応策や運用面での拡充点を解説する。",
-    "reason": "現場での具体的対策と運用指針を示す内容で、情シスや中小企業のセキュリティ判断に直接役立つため掲載価値がある。",
-    "published_at": "2026-07-22 09:35:00",
-    "created_at": "2026-07-23 01:54:37",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2607/22/news025.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "1b8fef5d946e",
-    "title": "AIトークン消費「24倍」の衝撃 本番運用に向けて絶対に“やってはいけない”コストの捉え方",
-    "published_date": "2026-07-22",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "AIの試験導入から本番移行に伴うトークン消費増を分析し、運用コスト見積もりで陥りがちな誤りと持続可能な運用設計の条件を解説する。",
-    "reason": "企業がAIを本番運用する際のコスト管理とガバナンスに直結する実務的な示唆を含むため価値が高い。",
-    "published_at": "2026-07-22 05:00:00",
-    "created_at": "2026-07-23 01:54:37",
-    "representative_source": "atmarkit.itmedia.co.jp",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/22/news005.html",
-    "sources": [
-      "atmarkit.itmedia.co.jp"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "5f168370bbc4",
-    "title": "AWS、デプロイ速度が最大4倍になる「AWS CloudFormation Expressモード」を提供開始",
-    "published_date": "2026-07-22",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "AWSがCloudFormationにExpressモードを追加し、デプロイ速度を最大4倍に改善。大規模テンプレートや頻繁なデプロイにメリットがあるとされる。",
-    "reason": "DevOps／インフラの運用効率に直結する機能改善で、クラウド運用コストと開発速度に影響するため掲載価値あり。",
-    "published_at": "2026-07-22 15:26:00",
-    "created_at": "2026-07-23 01:54:37",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/22/news094.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "674dc2b990c2",
-    "title": "Google、「Gemini 3.6 Flash」など3モデルを発表 出力トークンを削減しつつ値下げ、「Gemini 4」も予告",
-    "published_date": "2026-07-22",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "GoogleがGeminiの新シリーズ「3.6 Flash」ほか3モデルを公開。効率と低遅延を重視し出力価格を引き下げ、次世代「Gemini 4」開発も予告。",
-    "reason": "主要クラウド事業者のモデル改善・価格動向は企業のAI導入コストと設計に影響するため開発者・情シスが押さえるべき。",
-    "published_at": "2026-07-22 07:07:13",
-    "created_at": "2026-07-23 01:54:37",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000212/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "f10c39501ff0",
     "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
     "published_date": "2026-07-22",
@@ -7100,31 +6987,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
     "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "dac38632f387",
-    "title": "サムスンGalaxyに新スマートグラス Android XR採用",
-    "published_date": "2026-07-22",
-    "importance_score": 3,
-    "category": "ガジェット",
-    "summary": "サムスンがGalaxyブランドのスマートグラスを発表。Android XR採用で視線を使わない体験を目指し、今秋発売予定。仕事や移動中の利用を想定。",
-    "reason": "主要メーカーのスマートグラス市場参入はAR／XRエコシステムとデバイス戦略に影響するためガジェット界隈で注目度が高い。",
-    "published_at": "2026-07-22 23:29:00",
-    "created_at": "2026-07-23 01:54:37",
-    "representative_source": "watch.impress.co.jp",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2127084.html",
-    "sources": [
-      "watch.impress.co.jp"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
     "has_itmedia_article": false
   },
   {
@@ -14768,6 +14630,34 @@
     "has_itmedia_article": true
   },
   {
+    "id": "80a837c58188",
+    "title": "2.5次元アイドル「いれいす」事務所への不正アクセス、最大17万人に影響 “推し”情報や購買履歴も漏えいか",
+    "published_date": "2026-08-20",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "アイドル事務所が利用するBIツールへの不正アクセスで個人情報漏えい。最大約17万人が対象で、推し情報や購買履歴等が含まれる可能性があると発表。",
+    "reason": "中規模の顧客データ漏えいは、ファン管理やBIツール運用のセキュリティ対策とインシデント対応の教訓として企業読者に重要。",
+    "published_at": "2026-08-20 13:16:17",
+    "created_at": "2026-08-22 00:54:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/21/2000000677/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
     "id": "42807d76d873",
     "title": "Amazon、「Prime Air」を米500都市へ大幅拡大 ドローン配送を現在の6倍規模へ",
     "published_date": "2026-08-20",
@@ -15100,5 +14990,282 @@
     "urgency_score": 0,
     "utility_score": 2,
     "has_itmedia_article": true
+  },
+  {
+    "id": "63951961c1a8",
+    "title": "Anthropic、8月末にもIPO申請書類を公開か 調達額はSpaceXの過去最大に匹敵と米報道",
+    "published_date": "2026-08-21",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "米Anthropicが近くIPO申請書類を公開する準備。調達規模は大規模で、AIベンダーの資本動向に注目が集まるという報道。",
+    "reason": "主要AIベンダーの上場・資本調達は業界構造や競争環境、顧客選定に広く影響するため掲載価値が高い。",
+    "published_at": "2026-08-21 17:44:56",
+    "created_at": "2026-08-22 00:54:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/21/2000000688/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "bfa72b998bc3",
+    "title": "Fluter 3.47正式リリース。UIライブラリが分離され独立してアップデート可能、デフォルトでWebAssemblyを生成する方向に、など新機能",
+    "published_date": "2026-08-21",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "GoogleのFlutter 3.47が正式リリース。UIライブラリの分離やWebAssembly生成のデフォルト化など、開発とデプロイに関わる変更を導入。",
+    "reason": "クロスプラットフォーム開発の基盤的技術変更で、モバイル／Web開発者やプロダクト判断に影響するため有用。",
+    "published_at": "2026-08-21 00:02:15",
+    "created_at": "2026-08-22 00:54:56",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "f3bfa0f6e9ef",
+    "title": "Google、読者がワンクリックで“推しメディア”登録できるボタン公開",
+    "published_date": "2026-08-21",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "Googleが検索／Discover／Googleニュースのパーソナライズ機能を強化。パブリッシャーサイトに設置できる「優先するニュース提供元」ボタンを導入し、Discoverのフィード調整も拡充。",
+    "reason": "コンテンツ流通とパーソナライズの仕組み変更はメディアのトラフィック戦略や収益モデルに直接関わるため掲載価値あり。",
+    "published_at": "2026-08-21 08:15:55",
+    "created_at": "2026-08-22 00:54:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/21/2000000668/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f25c38ee1316",
+    "title": "Googleのオープンモデル「Gemma」、累計10億ダウンロード超 GitHubに公式ディレクトリ公開",
+    "published_date": "2026-08-21",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "GoogleのオープンモデルGemmaが累計10億ダウンロードを突破。派生モデルが10万種超、公式ディレクトリ「Awesome Gemma」を公開し多様な活用事例を紹介。",
+    "reason": "オープンモデルの普及とエコシステム拡大は開発者や企業のAI導入戦略に直接影響する重要トレンド。",
+    "published_at": "2026-08-21 10:14:33",
+    "created_at": "2026-08-22 00:54:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/21/2000000670/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d2c7c4442da7",
+    "title": "Slack、AIとチームで協働する「Slack Code」を発表 ClaudeやDevinを専用チャネルで操作",
+    "published_date": "2026-08-21",
+    "importance_score": 4,
+    "category": "開発",
+    "summary": "Slack上でAIコーディングエージェントと共同開発する「Slack Code」を発表。専用のコードチャネルで計画・差分・プレビューを確認しつつ複数エージェントを操作、承認フローも組込む。",
+    "reason": "開発ワークフローとガバナンスに直接影響する大手プラットフォームの機能拡張で、企業の導入判断やSWE現場に重要。",
+    "published_at": "2026-08-21 06:37:48",
+    "created_at": "2026-08-22 00:54:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "871c99b9ebe7",
+    "title": "SpaceX、100万機のAI衛星「スターマインド」計画は実現するか?",
+    "published_date": "2026-08-21",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "SpaceXが軌道上AIデータセンター衛星「Starmind」を構想。第1世代にNVIDIA Rubin GPUなどを採用し、大規模衛星群でAI計算を実行するビジョンを提示。",
+    "reason": "地上クラウドの制約を超える新たなインフラ構想で、クラウド事業やデータセンター・サプライチェーンに長期的影響を与える可能性がある。",
+    "published_at": "2026-08-21 09:00:00",
+    "created_at": "2026-08-22 00:54:56",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/topic/2133658.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "78797e6d6ef0",
+    "title": "Stripe、AIモデルゲートウェイのOpenRouterを買収",
+    "published_date": "2026-08-21",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "決済大手StripeがAIモデルのゲートウェイ／ルーティングプラットフォームOpenRouterを買収することで合意。",
+    "reason": "決済プラットフォーム企業によるAIインフラ参入は、モデル提供の中立性・ルーティング基盤の競争環境に影響を与える戦略的M&A。",
+    "published_at": "2026-08-21 07:30:00",
+    "created_at": "2026-08-22 00:54:56",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2134389.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "229d62865d0a",
+    "title": "「Fable禁止」で仕事が止まったあの日々を振り返る 日本企業が取るべき「脱・単一モデル」戦略",
+    "published_date": "2026-08-21",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "米政府の輸出管理でClaude Fable 5の提供が突如停止し業務が停止した事例を踏まえ、単一モデル依存の地政学リスクと対策（オンプレ化、マルチモデル統合など）を整理する。",
+    "reason": "AIモデル依存が現実の業務停止リスクを生む事例として、情シス・経営判断に直結する戦略的示唆を含むため高評価。",
+    "published_at": "2026-08-21 09:00:00",
+    "created_at": "2026-08-22 00:54:56",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "4a8d82c1c6de",
+    "title": "ミリ秒起動・追加コストゼロでAI生成コードを隔離実行 「Cloud Run sandboxes」公開",
+    "published_date": "2026-08-21",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "GoogleがAI生成コードや不審バイナリを隔離して実行する「Cloud Run sandboxes」をパブリックプレビューで提供開始。既存インスタンス内で追加費用なしに起動可能。",
+    "reason": "AI生成コード実行のセキュリティ・運用リスクに対する実用的なクラウド対策で、デベロッパーと情シスに有用。",
+    "published_at": "2026-08-21 13:00:00",
+    "created_at": "2026-08-22 00:54:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/21/news057.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "614a4ea1cbff",
+    "title": "人によって価格が違う「パーソナライズド・プライシング」、米FTCが規制案を公開",
+    "published_date": "2026-08-21",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "米FTCが消費者ごとに価格を変える「パーソナライズド・プライシング」への規制案を公開。オンライン行動に基づく差別的価格設定への懸念を示す。",
+    "reason": "アルゴリズムによる価格決定を規制する動きは、データ利用・ビジネスモデル・コンプライアンスに広範な影響を与えるため重要。",
+    "published_at": "2026-08-21 12:33:00",
+    "created_at": "2026-08-22 00:54:56",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251798/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
   }
 ]
