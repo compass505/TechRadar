@@ -7131,35 +7131,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "ae844616968e",
-    "title": "Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手",
-    "published_date": "2026-07-23",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Google CloudがAIエージェント間でナレッジ共有を可能にするオープンフォーマット「Open Knowledge Format」を提案。Markdownベースでベンダー非依存の知識標準化を目指す。",
-    "reason": "エージェント間のナレッジ互換は企業内AI活用とベンダーロックイン回避に直結するため。",
-    "published_at": "2026-07-23 13:00:00",
-    "created_at": "2026-07-24 01:52:48",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "e4e343becea4",
     "title": "OpenAIのモデルが試験中に暴走、隔壁を破り他社システムに侵入",
     "published_date": "2026-07-23",
@@ -7213,174 +7184,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "35abd7643dcb",
-    "title": "「クレカが使えない！」 16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
-    "published_date": "2026-07-23",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "7月16日の全国的なカード決済障害の原因を提供基盤Cybersourceに求め、決済ゲートウェイの役割や迂回ルートを取った事業者の仕組みを解説する記事。",
-    "reason": "決済インフラ障害の仕組みと回避策は事業継続や情シス判断に参考となるため。",
-    "published_at": "2026-07-23 12:00:00",
-    "created_at": "2026-07-24 01:52:48",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "3024a0d2c84a",
-    "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
-    "published_date": "2026-07-23",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "AtlassianがJiraに生成AI機能を統合し、要件自動生成やタスク洗い出し、外部AIエージェントへの割当てを可能にする新機能を発表。開発ワークフローの自動化を強化。",
-    "reason": "プロジェクト管理ツールへのAI統合は開発プロセスとツールチェーンを変えるため、実務的意義が高い。",
-    "published_at": "2026-07-23 00:35:19",
-    "created_at": "2026-07-24 01:52:48",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 5,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "1dd67b27f8c6",
-    "title": "グーグル、脆弱性を「自分で攻撃して」確かめるAIエージェント「CodeMender」 修正パッチも自動生成",
-    "published_date": "2026-07-23",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "Google Cloudが脆弱性を攻撃的に検証し、修正パッチを自動生成するAIエージェント「CodeMender」のプレビュー提供を開始。まずは一部政府機関・特定組織向け。",
-    "reason": "脆弱性検出・修正の自動化は開発プロセスとセキュリティの両面で影響度が高いため。",
-    "published_at": "2026-07-23 05:40:00",
-    "created_at": "2026-07-24 01:52:48",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35250869/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 2,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "0d500e85bdb1",
-    "title": "ソフトバンクの「空飛ぶ基地局」、8月にも日本へ飛来 衛星直接通信と異なり高速大容量",
-    "published_date": "2026-07-23",
-    "importance_score": 3,
-    "category": "その他",
-    "summary": "ソフトバンクが成層圏の飛行船型HAPSを8月中旬以降に日本上空で試験飛行し、スマートフォンとの音声・データ通信を検証する。商用化は2027年を予定。",
-    "reason": "上空基地局のプレ商用試験は災害対応や通信インフラの新たな選択肢として重要性があるため。",
-    "published_at": "2026-07-23 17:14:00",
-    "created_at": "2026-07-24 01:52:48",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35250909/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "f1ef0729aa9e",
-    "title": "企業向けAIツールの成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365 Okta調査",
-    "published_date": "2026-07-23",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "Oktaの匿名化アクセスデータに基づく調査で、企業内でのAIツール利用実態を発表。成長率トップはAnthropic、アカウント数トップはMicrosoft 365という結果になった。",
-    "reason": "企業のAIツール導入傾向を示すデータは情シスや経営判断に有用なため。",
-    "published_at": "2026-07-23 10:19:00",
-    "created_at": "2026-07-24 01:52:48",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/23/news076.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "9b699903e3a6",
-    "title": "米政府、中国AI「Kimi K3」開発元を批判 Anthropic「Fable」を蒸留したとして",
-    "published_date": "2026-07-23",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "米ホワイトハウスの官員が、中国Moonshot AIのモデルKimi K3がAnthropicのFableを蒸留した可能性を指摘し、米技術の無断利用を批判。高まるAIモデルの知財・政策リスクを示唆する。",
-    "reason": "AIモデルの蒸留・知財問題が国際的な政策・制裁議論につながるリスクがあるため。",
-    "published_at": "2026-07-23 15:35:00",
-    "created_at": "2026-07-24 01:52:48",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/23/news105.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
     "has_itmedia_article": true
   },
   {
@@ -12980,35 +12783,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "624d2f7b865d",
-    "title": "AI時代は「Go言語」が理想の言語に？ Googleが解説する「Goの価値」",
-    "published_date": "2026-08-15",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "GoogleがAI支援開発時代におけるGo言語の利点を解説。性能や生産性、エコシステム面での主張を整理。",
-    "reason": "言語選定や開発生産性に関する主要ベンダーの示唆で、開発組織の技術戦略に参考になるが即時性は限定的。",
-    "published_at": "2026-08-15 13:00:00",
-    "created_at": "2026-08-16 00:41:23",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news013.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "6bc1a012edb8",
     "title": "Claudeで生成した文章に「電子透かし」導入 編集しても残る",
     "published_date": "2026-08-15",
@@ -13091,33 +12865,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "647097e3e72b",
-    "title": "「無線LANがつながりにくい」どう解決？ 「年代物のCOBOL」なぜ読みにくい？ IT実務の疑問に答える",
-    "published_date": "2026-08-15",
-    "importance_score": 1,
-    "category": "企業IT",
-    "summary": "＠ITの注目記事ランキングの紹介。無線LANトラブルやCOBOLの可読性など、実務で関心が高かったテーマを取り上げる。",
-    "reason": "読者関心の高い実務トピックのまとめで情報収集には便利だが速報性・影響は限定的。",
-    "published_at": "2026-08-15 08:00:00",
-    "created_at": "2026-08-16 00:41:23",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news007.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
   },
   {
     "id": "fb2e8297c9a3",
@@ -15266,6 +15013,276 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6e10c21d423b",
+    "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
+    "published_date": "2026-08-22",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Anthropicが最上位モデル「Claude Mythos 5」を脆弱性検出用途で企業向けに提供開始。モデル本体への直接アクセスは制限し、出力はパッチ提案等に限定。オープンソース保護のための基金も公表。",
+    "reason": "大手AIモデルを企業向けセキュリティワークフローに組み込む発表は、セキュリティ運用とAI導入戦略に直接影響するため重要。",
+    "published_at": "2026-08-22 07:09:30",
+    "created_at": "2026-08-23 00:41:38",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ec8b2aa640eb",
+    "title": "FANZA、成人向けAIコンテンツを作成→公開できる新サービス「スタジオ」24日から先行体験",
+    "published_date": "2026-08-22",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "FANZAがAIで成人向けコンテンツを生成・公開できる新サービス「FANZAスタジオ」を発表。先行体験を8月24日から実施し、クリエイターが生成作品をそのまま配信可能にする。",
+    "reason": "成人向け領域でのAI生成コンテンツ提供はコンプライアンス・倫理・規制の観点で注目を要するため掲載に値する。",
+    "published_at": "2026-08-22 07:05:00",
+    "created_at": "2026-08-23 00:41:38",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251821/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "eafbe305e242",
+    "title": "Xiaomi、スマホやタブレット11モデルを値上げ--メモリー高騰で吸収しきれず 対象機種一覧",
+    "published_date": "2026-08-22",
+    "importance_score": 2,
+    "category": "半導体",
+    "summary": "Xiaomi Japanがスマートフォン・タブレット11モデルの価格を値上げ。メモリ価格上昇が要因で、最大2万円の引き上げが行われる。新価格は9月1日から順次適用。",
+    "reason": "メモリ市況が製品価格に直結する事例はサプライチェーンと半導体市場動向の指標として有益。",
+    "published_at": "2026-08-22 07:26:00",
+    "created_at": "2026-08-23 00:41:38",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251822/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0f126af34dfe",
+    "title": "「Pythonを超えた人気言語」「AI時代の新職種FDE」、急速に変わる開発現場のいま",
+    "published_date": "2026-08-22",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "開発現場で注目された記事をランキング形式で紹介。人気言語の変化やAI時代に求められる新職種（FDE）など、トレンドの俯瞰ができる構成。",
+    "reason": "開発トレンドの動向把握に役立つまとめ記事で、技術者やマネージャーの情報収集に有用。",
+    "published_at": "2026-08-22 08:00:00",
+    "created_at": "2026-08-23 00:41:38",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/22/news011.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "496980615842",
+    "title": "「出社しないとつながりが薄れる」は誤解？ 約7700人の追跡調査が示す実態",
+    "published_date": "2026-08-22",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "コロラド大学の追跡調査は、一律の出社義務化が離職や生産性に悪影響を及ぼす可能性を指摘。自律性や柔軟性を重視した働き方が職場維持に有効だと結論づけている。",
+    "reason": "出社政策はIT部門や経営の働き方設計に直接関係するため、判断材料として価値が高い。",
+    "published_at": "2026-08-22 13:00:00",
+    "created_at": "2026-08-23 00:41:38",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/22/news015.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d317d95209fd",
+    "title": "中国の動画サイト「bilibili」にグローバル版アプリ 日本でも配信開始 まずはAndroidから",
+    "published_date": "2026-08-22",
+    "importance_score": 2,
+    "category": "ビジネス",
+    "summary": "中国の動画サービスbilibiliがグローバル版アプリをリリース、まずAndroidで配信開始。本人確認書類不要でアカウント登録できる仕様で日本でも利用可能に。",
+    "reason": "プラットフォームの国際展開とID運用方針はコンテンツ管理や規制対応の観点で注目に値するため掲載価値あり。",
+    "published_at": "2026-08-22 00:52:31",
+    "created_at": "2026-08-23 00:41:38",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/20/2000000643/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f019a6691fcb",
+    "title": "情シスの8割が直面する「長期休暇明けに“残業の山”」問題 なくすには？",
+    "published_date": "2026-08-22",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "情報システム部門で長期休暇明けに業務が集中する原因と、負担軽減のための具体的な取り組みを調査結果から整理。業務フローや自動化の対策例を提示している。",
+    "reason": "情シス現場の定常的な運用リスクと対策はIT運用担当者にとって実務的価値が高い。",
+    "published_at": "2026-08-22 08:00:00",
+    "created_at": "2026-08-23 00:41:38",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/22/news016.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "7fd0b92077ee",
+    "title": "新型スマートウォッチ「Pixel Watch 5」何ができる？ 「41mm」「45mm」どちらを選ぶべきか？",
+    "published_date": "2026-08-22",
+    "importance_score": 1,
+    "category": "ガジェット",
+    "summary": "Googleの新スマートウォッチPixel Watch 5を紹介。41mmと45mmのサイズ差や機能面の違い、利用シーンに応じた選び方を解説するレビュー記事。",
+    "reason": "消費者向け製品レビューの代表例として掲載可だが、技術的影響は限定的なため重要度は低め。",
+    "published_at": "2026-08-22 10:35:00",
+    "created_at": "2026-08-23 00:41:38",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251655/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "7d2c1d6d1c31",
+    "title": "残業するくらいなら「年収100万円ダウン」でいい “稼げるだけ”では入社しない今どきの人々",
+    "published_date": "2026-08-22",
+    "importance_score": 2,
+    "category": "ビジネス",
+    "summary": "エフペリの調査で、従業員は年収より労働時間やワークライフバランスを重視する傾向が明らかに。採用・定着戦略の見直しが必要と示唆されている。",
+    "reason": "人材獲得・定着に影響する労働条件の変化は経営判断やIT人材戦略で参考になるため掲載価値がある。",
+    "published_at": "2026-08-22 17:00:00",
+    "created_at": "2026-08-23 00:41:38",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/22/news014.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "928feeb80436",
+    "title": "非携帯キャリアのJTOWERが「電波オークション」で周波数を落札--その使い道とは 同社説明",
+    "published_date": "2026-08-22",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "インフラ共有事業者のJTOWERが26GHz帯ミリ波を落札、国内のインフラシェア事業者として初の取得。複数キャリアでの無線設備共用を軸に通信インフラの効率化を本格展開する計画。",
+    "reason": "周波数取得とインフラ共有モデルはキャリア戦略やネットワーク投資に大きく影響する業界ニュース。",
+    "published_at": "2026-08-22 06:45:00",
+    "created_at": "2026-08-23 00:41:38",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251820/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
     "has_itmedia_article": false
   }
 ]
