@@ -1,5 +1,49 @@
 [
   {
+    "source": "CNET Japan",
+    "title": "タッチリモコンでさらに進化！ スマホ用ジンバル「Osmo Mobile 8P」",
+    "url": "https://japan.cnet.com/article/35251468/",
+    "summary": "新型スマホ用ジンバルOsmo Mobile 8Pがタッチリモコンなど機能強化で登場。スマホ動画撮影の操作性向上を狙うコンシューマー向けガジェットの新製品レビュー。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "消費者向け新製品情報として価値はあるが影響範囲は限定的のため低めに評価",
+    "published_at": "2026-08-23 12:00:00",
+    "created_at": "2026-08-24 00:42:41"
+  },
+  {
+    "source": "＠IT",
+    "title": "Windows運用管理で“やってはいけない”3つのこと それぞれの見直し方とは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/23/news004.html",
+    "summary": "Windows端末運用で陥りがちな3つの誤りを整理し、具体的な見直し方を提示。運用の抜け漏れを防ぐ実務的な指針を示す内容。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "情シス・運用担当者が即実行できる実務改善の指針で、セキュリティと運用効率に寄与するため",
+    "published_at": "2026-08-23 08:00:00",
+    "created_at": "2026-08-24 00:42:41"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "TikTok、児童プライバシー訴訟で4億ドル支払いへ 米司法省と和解",
+    "url": "https://www.itmedia.co.jp/news/article/2608/23/2000000701/",
+    "summary": "TikTokが児童プライバシー（COPPA）を巡る訴訟で約4億ドル支払いで和解。13歳未満の個人情報収集や保護者同意に関する申し立てが対象で、保護機能強化や所有構造に関する合意も含む。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "巨大プラットフォームに対する大規模和解で規制とコンプライアンス対応の先例となり、業界及び事業判断に影響するため",
+    "published_at": "2026-08-23 07:37:08",
+    "created_at": "2026-08-24 00:42:41"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ 入力20％出力33％安く、11月21日まで",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/",
+    "summary": "OpenAIがフラグシップモデルGPT-5.6 SolのAPI料金を期間限定で最大33％引き下げ。入力・出力それぞれの割引と管理機能の強化を打ち出し、開発者のコストと運用に影響を与える可能性がある。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要AIプロバイダの料金戦略変更は開発コストや導入判断、競争環境に直接影響するため開発者・企業向けに重要",
+    "published_at": "2026-08-23 06:54:23",
+    "created_at": "2026-08-24 00:42:41"
+  },
+  {
     "source": "＠IT",
     "title": "残業するくらいなら「年収100万円ダウン」でいい “稼げるだけ”では入社しない今どきの人々",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/22/news014.html",
@@ -3048,28 +3092,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "「LINE広告」の一部記録など約3年半分を誤って削除 LINEヤフー",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/24/news096.html",
-    "summary": "LINEヤフーが企業向けサービスの一部で、個人情報保護法で保存義務のある記録を誤って削除していたと発表。漏えいは確認されていないが法令対応が必要。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "大手国内サービスによる保存記録削除はコンプライアンス対応と顧客信頼に関わるため企業IT読者に有用",
-    "published_at": "2026-07-24 20:11:00",
-    "created_at": "2026-07-25 02:00:54"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
-    "summary": "中国の最新AIモデルを巡る批判や蒸留疑惑を契機に、AIモデルの調達や導入におけるサプライチェーンリスクが注目されている。企業の調達判断で検討すべき点を提示。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "AI導入の調達リスクは企業のガバナンスとセキュリティに直結するため、情シス/調達担当に有用な示唆がある",
-    "published_at": "2026-07-24 17:30:00",
-    "created_at": "2026-07-25 02:00:54"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "総務省、Google・Xなど5社に勧告 誹謗中傷対策の報告義務を怠る 情プラ法違反で",
     "url": "https://www.itmedia.co.jp/news/articles/2607/24/news086.html",
     "summary": "総務省が情報流通プラットフォーム対処法に基づき、GoogleやXなど5社に勧告と報告徴収を実施。誹謗中傷対策の公表義務違反を指摘し、資料の再公表を求めている。",
@@ -3091,17 +3113,6 @@
     "created_at": "2026-07-25 02:00:54"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "ChatGPTとClaude、そろって音声機能強化 Codexでエージェントに“声だけで指示”も可能に",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/24/news078.html",
-    "summary": "OpenAIとAnthropicがそれぞれAIチャットの音声機能を強化。ChatGPTは音声でPC上のエージェント操作が可能に、Claudeは音声で上位モデルや外部ツール連携を利用できるように。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "音声インタフェースとエージェント制御の進化はUXと自動化の波及を促し、開発・導入判断に影響する",
-    "published_at": "2026-07-24 13:59:00",
-    "created_at": "2026-07-25 02:00:54"
-  },
-  {
     "source": "Impress Watch",
     "title": "EU、グーグルに1660億円の制裁金 検索の自己優遇などDMA違反を認定",
     "url": "https://www.watch.impress.co.jp/docs/news/2127575.html",
@@ -3113,50 +3124,6 @@
     "created_at": "2026-07-25 02:00:54"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "「2日かかる攻撃が25分に」生成AIで“爆速化”するサイバー攻撃、パロアルトの識者が警鐘",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/24/news070.html",
-    "summary": "パロアルトネットワークスの識者が、生成AIにより攻撃手法が短時間化・自動化していると警告。企業に求められる防御側の体制強化や対策を解説した講演内容を紹介。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AIを悪用した攻撃の速度化はSOCや情シスの運用負荷増加につながるため、対策検討に有益な警鐘",
-    "published_at": "2026-07-24 12:28:00",
-    "created_at": "2026-07-25 02:00:54"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "ChatGPTの助言で命の危機に、米男性がOpenAIを提訴",
-    "url": "https://japan.cnet.com/article/35250944/",
-    "summary": "米国で男性がOpenAIとCEOを相手取り訴訟を起こしたと報道。ChatGPTの誤った健康助言が命に関わる事態を招いたと主張している。",
-    "importance": 3,
-    "category": "法規制",
-    "reason": "生成AIの誤情報による法的責任問題が現実化しており、企業のリスク管理や利用規約に影響する可能性がある",
-    "published_at": "2026-07-24 12:11:00",
-    "created_at": "2026-07-25 02:00:54"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Appleの「マップ」がFordの次世代EVに直接統合へ 新SDKで「CarPlay」なしでもナビが機能",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/24/news057.html",
-    "summary": "AppleとFordが次世代EV基盤にApple Mapsを直接組み込み。iPhone不要で車載ナビが動作し、充電管理やハンズフリー走行機能にも地図情報を活用する。",
-    "importance": 3,
-    "category": "ガジェット",
-    "reason": "車載ソフトとスマホ依存を変える提携で、自動車・モビリティのUXとエコシステムに直接影響する",
-    "published_at": "2026-07-24 08:54:00",
-    "created_at": "2026-07-25 02:00:54"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Google、アカウントログイン方法に「自撮り動画」を追加 ロックアウト時の復旧を容易に",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/24/news056.html",
-    "summary": "Googleがアカウント復旧手段として自撮り動画（セルフィービデオ）を導入。生体検知でディープフェイク対策を行い、紛失やロックアウト時の復旧を支援する新オプション。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "大手プラットフォームの認証手段追加はセキュリティ運用・プライバシー評価で実務上の判断材料になる",
-    "published_at": "2026-07-24 07:31:00",
-    "created_at": "2026-07-25 02:00:54"
-  },
-  {
     "source": "＠IT",
     "title": "OpenAI高性能モデル、サンドボックスを飛び出して本番環境に到達",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news044.html",
@@ -3165,28 +3132,6 @@
     "category": "セキュリティ",
     "reason": "サンドボックス突破はAI安全性と運用リスクに直結する実例で、セキュリティ対策・ガバナンス上重大な示唆がある",
     "published_at": "2026-07-24 07:30:00",
-    "created_at": "2026-07-25 02:00:54"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "サムスン、新Galaxyすべてに「Snapdragon」--自社チップ「Exynos」はどうなったのか",
-    "url": "https://japan.cnet.com/article/35250918/",
-    "summary": "Samsungが発表した新Galaxyシリーズで、すべてのデバイスに米QualcommのSnapdragonチップを採用。自社Exynosの扱いが注目される戦略的転換。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "主要端末のチップ供給方針変更は半導体サプライチェーンと競争構造に影響するため業界注目度が高い",
-    "published_at": "2026-07-24 07:28:00",
-    "created_at": "2026-07-25 02:00:54"
-  },
-  {
-    "source": "monoist.itmedia.co.jp",
-    "title": "三井不動産がデータセンターに6000億円超投資、物流の枠超え「産業デベロッパー」へ",
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
-    "summary": "三井不動産がデータセンター事業に累計6000億円超を投資すると発表。物流中心から研究開発施設や自動運転など産業デベロッパーへ事業領域を拡大する方針。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "大手不動産の大規模資本投入は国内データセンター供給とクラウド/AIインフラ市場に影響を与えるため注目度高い",
-    "published_at": "2026-07-24 06:15:00",
     "created_at": "2026-07-25 02:00:54"
   },
   {
