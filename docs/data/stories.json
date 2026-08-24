@@ -7294,35 +7294,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "6d4f5e126284",
-    "title": "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
-    "published_date": "2026-07-25",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Anthropicが新モデル「Claude Opus 5」を公開。上位モデルに迫る性能を半額で提供し、推論深度や安全性連動の自動フォールバックなど運用向け機能を搭載している。",
-    "reason": "価格性能比や運用機能が開発者・導入検討者にとって有益だが、重大リスクの報告ではないため3。",
-    "published_at": "2026-07-25 07:28:00",
-    "created_at": "2026-07-26 01:15:31",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "a88c2c70f015",
     "title": "「165日→30分」に短縮 「1万9000人の全社RAG」 大企業が明かすAI共通基盤のリアル",
     "published_date": "2026-07-25",
@@ -12730,31 +12701,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "6aa4a2f9625d",
-    "title": "Ankerのスピーカーでまた発火事故 過去にも5回の火災で回収・交換中 消費者庁「直ちに使用中止を」",
-    "published_date": "2026-08-17",
-    "importance_score": 2,
-    "category": "ガジェット",
-    "summary": "Ankerの充電式スピーカー「Soundcore 3」で発火事故が発生。過去にも複数の火災があり同モデルはリコール対象、消費者庁が使用中止を呼びかけ。",
-    "reason": "消費者安全とリコール対応の観点で重要だがIT業界全体への影響は限定的なため中程度評価。",
-    "published_at": "2026-08-17 11:40:09",
-    "created_at": "2026-08-18 00:46:57",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/17/2000000562/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "4ccc8d6ec341",
     "title": "ChatGPT、Macでのクリックや文字入力を記憶する新機能--「あのファイルはどこ？」にも回答",
     "published_date": "2026-08-17",
@@ -12949,34 +12895,6 @@
     "urgency_score": 0,
     "utility_score": 2,
     "has_itmedia_article": false
-  },
-  {
-    "id": "f236f5fa4a0c",
-    "title": "「うんこミュージアム」公式サイト改ざん被害、個人情報4人分流出のおそれ",
-    "published_date": "2026-08-17",
-    "importance_score": 2,
-    "category": "セキュリティ",
-    "summary": "観光施設の公式サイトが第三者製ソフトの脆弱性を悪用され改ざんされ、4人分の個人情報流出のおそれがあると発表。",
-    "reason": "中小サイトの脆弱性悪用は典型的な攻撃例で、運営側・中堅事業者にとって注意喚起になるため掲載。",
-    "published_at": "2026-08-17 08:40:29",
-    "created_at": "2026-08-18 00:46:57",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/17/2000000556/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "35c6d2f2c1f7",
@@ -13258,33 +13176,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "882b83d04bac",
-    "title": "無料で使える「Delphi 13 Community Edtion」提供開始。Windows x86/Arm、Mac、iOS、Androidのネイティブアプリなど開発可能",
-    "published_date": "2026-08-17",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "エンバカデロがDelphi 13のCommunity Editionを無料提供開始。マルチプラットフォームのネイティブ開発環境が利用可能になる。",
-    "reason": "開発者向けの重要なツール更新だが影響範囲は主にネイティブアプリ開発者に限定されるためやや低めの評価。",
-    "published_at": "2026-08-17 00:01:16",
-    "created_at": "2026-08-18 00:46:57",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/delphi_13_community_edtionwindows_x86armmaciosandroid.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
   },
   {
     "id": "45d69b31c516",
@@ -15143,5 +15034,364 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
+  },
+  {
+    "id": "f4b2f40f9cba",
+    "title": "2026年上半期ランサムウェア動向まとめ アサヒを襲ったQilinが首位",
+    "published_date": "2026-08-24",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "2026年上半期のランサムウェア勢力図をまとめ、Qilinなどの動向や小規模化する傾向などを報告する分析記事。",
+    "reason": "最近の攻撃動向と脅威グループの変化はセキュリティ戦略立案に直接役立つため、情シスやCISO向けに重要。",
+    "published_at": "2026-08-24 13:00:00",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news023.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d1b83bcbbbe6",
+    "title": "Anthropic、ミュトスの提供を拡大 ツール経由でセキュリティ対策強化",
+    "published_date": "2026-08-24",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "Anthropicが最上位モデル「Claude Mythos 5」を「Claude Security」経由で利用可能にし、パートナーのサイバー防衛ツールにも統合する。",
+    "reason": "高性能モデルのセキュリティツール統合は防御側の能力を高める一方、誤用リスクや依存の問題も含み、守備側戦略に影響するため。",
+    "published_at": "2026-08-24 10:49:23",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2134847.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5a6250c6f5f6",
+    "title": "ChatGPTでアップルの「メッセージ」代筆が可能に でも本当に使いたいと思いますか？",
+    "published_date": "2026-08-24",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIがChatGPTにAppleメッセージ連携機能を追加。ユーザーの許可でメッセージを読み作成・送信できるようになるが、プライバシー懸念が指摘されている。",
+    "reason": "プライバシーとプラットフォーム統合の実装は消費者向けに留まらず企業利用やデータ管理方針にも影響するため。",
+    "published_at": "2026-08-24 17:40:00",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35251863/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "76325c84c360",
+    "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
+    "published_date": "2026-08-24",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "サーバサイドJSランタイムBunの最新版1.4が正式リリース。ZigからRustへ移植され、互換性改善とパフォーマンス向上を実現した。",
+    "reason": "ランタイムの言語移植と互換性改善は開発者・運用者に直接恩恵があり、エコシステムやCI/CDに影響するため。",
+    "published_at": "2026-08-24 00:58:41",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "3e30051680ee",
+    "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
+    "published_date": "2026-08-24",
+    "importance_score": 4,
+    "category": "開発",
+    "summary": "SlackにAIエージェントが加わり、開発チームの会話を把握してコーディングやドキュメント作成を行う新機能「Slack Code」を提供開始。",
+    "reason": "チャット主体の開発ワークフローにAIが直接介入する変化は開発プロセス、権限管理、セキュリティに大きな影響を与えるため。",
+    "published_at": "2026-08-24 00:52:28",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "acfe91311f86",
+    "title": "「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
+    "published_date": "2026-08-24",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "国際度量衡総会でうるう秒を用いない協定世界時への移行案が審議される見込み。採択されれば2027年5月から実施の可能性がある。",
+    "reason": "時刻同期に依存するシステム設計・運用（クラウド、金融、通信、インフラ等）に広範な影響を及ぼす国際決定であるため。",
+    "published_at": "2026-08-24 15:10:09",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/24/2000000718/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "063b5af22e7c",
+    "title": "【復旧済み】「Claude」で障害発生中",
+    "published_date": "2026-08-24",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "AnthropicのAIサービス「Claude」「Claude Code」などで障害が発生。ステータスで原因特定と修正作業中と報告された（後に復旧）。",
+    "reason": "主要AIサービスの可用性問題は運用・SLA観点で注意が必要だが、短期的に復旧しており深刻被害報告は無いため厳しめ評価で中程度以下。",
+    "published_at": "2026-08-24 17:55:15",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000719/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "44f2d921d166",
+    "title": "【西田宗千佳のイマトミライ】ChatGPTがMacの全操作を記憶して起こること AIの競争は「文脈」「ナレッジ」に",
+    "published_date": "2026-08-24",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIのChatGPTに搭載された「Computer History」機能がMac操作を記録する点を論評。文脈保持とナレッジ管理がAI競争の鍵になるとの考察。",
+    "reason": "ユーザーデータの取り扱いとコンテキスト保持が開発・運用・プライバシー方針に影響するため、技術経営層にも重要な示唆を含む記事。",
+    "published_at": "2026-08-24 08:20:00",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/series/nishida/2134846.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5159415de836",
+    "title": "こんなところに野良AIが？ 事例で解説、実際にあった2つの発覚パターンと防衛策",
+    "published_date": "2026-08-24",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "企業で把握されないまま使われる『野良AI』の実例と発覚パターン、現実的な防衛策を解説。約500社の商談分析に基づく知見も共有。",
+    "reason": "AIガバナンスやデータ漏洩リスクに直結する現場問題で、即時の管理・対応策が求められるため情シスに有益。",
+    "published_at": "2026-08-24 07:00:00",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/articles/2608/24/news039.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "047886055cb4",
+    "title": "なぜいま30Bクラスのオープンモデルが“熱い”のか 「27BパラメータでOpus 4.6超え」も",
+    "published_date": "2026-08-24",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "MetaやNVIDIA、Alibabaの30Bクラスオープンモデルや国産33Bモデルの登場を受け、30B帯の利点と留意点を解説する考察記事。",
+    "reason": "モデル設計やインフラ選定、研究開発の方向性に関わるトレンドで、開発者や研究者に有用な分析だから。",
+    "published_at": "2026-08-24 16:30:16",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "2a379c1095db",
+    "title": "優秀なAIでも「ファイル破壊」は防げない？ Dockerが説く「モデルの性能」より重要なこと",
+    "published_date": "2026-08-24",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "DockerがAIエージェントの仕組みと安全運用条件を解説。自律AIの誤作動で被害が拡大する可能性があり、モデル性能よりインフラ設計が重要と指摘。",
+    "reason": "自律AI導入時のインフラ・権限設計に関する実践的注意点で、技術担当者の導入判断に直結するため。",
+    "published_at": "2026-08-24 13:00:00",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news028.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "001b96c2e4e6",
+    "title": "日本企業のAI投資「成果あり」はわずか13％ アクセンチュアが指摘する“人任せ”の限界",
+    "published_date": "2026-08-24",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "アクセンチュア調査で日本企業のAI投資成果実感率は13％に留まる。組織・人材・実装戦略の不足が主因と分析している。",
+    "reason": "経営判断と投資効果に直結する調査結果で、CIOや事業責任者の戦略議論に有用なため。",
+    "published_at": "2026-08-24 08:00:00",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news047.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f41a799d2a55",
+    "title": "消費者庁、「ダークパターン」規制へ 特商法改正視野に中間取りまとめ案",
+    "published_date": "2026-08-24",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "消費者庁がダークパターン（誤認や不安を煽るUI）への規律を盛り込んだ中間とりまとめ案を公表。特定商取引法改正を視野に入れている。",
+    "reason": "企業のUX/マーケ戦略や法的コンプライアンスに直結する規制動向で、事業設計や情シス・法務対応が必要になるため。",
+    "published_at": "2026-08-24 18:23:27",
+    "created_at": "2026-08-25 01:00:51",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/24/2000000728/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
   }
 ]
