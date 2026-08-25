@@ -1,5 +1,137 @@
 [
   {
+    "source": "ITmedia AI+",
+    "title": "政府、AI事業者向け「知財保護ルール」策定 対象範囲・運用方針は？",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000767/",
+    "summary": "政府が生成AI事業者向けの透明性確保と知財保護を促す『プリンシプル・コード』を策定した。対象範囲や運用方針の概要を示す。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "事業者のモデル運用・データ利用ルールに影響し、企業戦略やコンプライアンス対応が必要になるため",
+    "published_at": "2026-08-25 19:28:22",
+    "created_at": "2026-08-26 01:05:39"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "国産迎撃ドローン「Terra B1」量産開始--9月ごろ納入、まず海自向け テラドローン開発",
+    "url": "https://japan.cnet.com/article/35251903/",
+    "summary": "Terra Droneの迎撃ドローン『Terra B1』が実証試験を通過し量産段階へ。防衛装備庁と短期間で契約、9月ごろから納入予定と報告されている。",
+    "importance": 3,
+    "category": "その他",
+    "reason": "国産迎撃ドローンの量産調達は防衛技術と供給体制に関わる重要な動きのため",
+    "published_at": "2026-08-25 18:37:00",
+    "created_at": "2026-08-26 01:05:39"
+  },
+  {
+    "source": "＠IT",
+    "title": "MCPが最新ロードマップを発表 エージェンティックAI、非同期通信、セキュリティなど5つの重点分野を定義",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news095.html",
+    "summary": "Model Context Protocol（MCP）のコアメンテナーチームが新ロードマップを公開。エージェント型AIの安全連携や非同期通信など5分野を重点に標準化を進める。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "エージェント連携の基盤プロトコルが進化すると、開発・運用の設計方針に直結するため",
+    "published_at": "2026-08-25 17:59:00",
+    "created_at": "2026-08-26 01:05:39"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "KDDI、au Starlink Directを閉域網で利用可能に",
+    "url": "https://www.watch.impress.co.jp/docs/news/2135414.html",
+    "summary": "KDDIが法人向け閉域リモートアクセスで『au Starlink Direct』を利用できるオプション提供を開始。スマホやIoT機器が衛星と直接通信する閉域接続は国内初としている。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "衛星通信の閉域利用は企業のIoT設計や可用性・セキュリティ戦略に直接影響するため",
+    "published_at": "2026-08-25 17:00:19",
+    "created_at": "2026-08-26 01:05:39"
+  },
+  {
+    "source": "＠IT",
+    "title": "Claude Mythos発表後、CVEが異常増加 7月は発表前の5倍に",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news036.html",
+    "summary": "AnthropicのClaude Mythos公開以降、CVE公表件数が急増していると調査が示す。AIによる脆弱性発見の現実化が指摘されている。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AIが脆弱性検出を加速することで脆弱性運用や脅威対応の戦略が変わるため、セキュリティ関係者は注視が必要",
+    "published_at": "2026-08-25 17:00:00",
+    "created_at": "2026-08-26 01:05:39"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "話題のステルスモデル「Ox Alpha」はナニモノか うわさをまとめてみた",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000748/",
+    "summary": "開発元を伏せたAIモデル『Ox Alpha』がOpenRouterで広く使われ利用シェア1位に。中国Z.aiのGLM系との関連が有力視されるなど出自が不明瞭だ。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "出自不明のモデルが急速に普及することはサプライチェーンや利用リスクに直結するため",
+    "published_at": "2026-08-25 16:50:42",
+    "created_at": "2026-08-26 01:05:39"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "パスポートのオンライン申請で「iPhoneのマイナカード」利用可能に 実物カードの読み取り不要",
+    "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000740/",
+    "summary": "マイナポータルのパスポートオンライン申請がiPhone内のマイナンバーカードに対応。暗証番号や実物カードの読み取り不要で顔/指紋認証を使って申請できるようになった。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "本人確認フローの簡素化は行政システムとID運用に直結し、広範な影響を持つため",
+    "published_at": "2026-08-25 13:43:05",
+    "created_at": "2026-08-26 01:05:39"
+  },
+  {
+    "source": "Atmarkit(Mozillaレポート)",
+    "title": "中国製AIが上位を占有、米国製AIに3倍差 Mozillaレポートが明かす「オープンモデル」の現在地",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news055.html",
+    "summary": "Mozillaの『The State of Open Source AI』で、オープンウェイトのAIモデル利用動向を分析。中国製モデルが上位を占め、米国製との差が大きい現状を示した。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "オープンモデルの地理的偏りは技術選定やリスク評価、サプライチェーン戦略に影響を与えるため",
+    "published_at": "2026-08-25 13:00:00",
+    "created_at": "2026-08-26 01:05:39"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "NVIDIA、エージェント型AIを最大4倍高速化する「Groq 3 LPX」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2135283.html",
+    "summary": "NVIDIAがインタラクティブAI推論アクセラレータ『Groq 3 LPX』の量産開始を発表。エージェント型AI向けにトークン生成性能を大幅向上する製品。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "推論ハードの性能向上はエージェントAIの運用コストやアーキテクチャ選定に影響するため",
+    "published_at": "2026-08-25 12:32:47",
+    "created_at": "2026-08-26 01:05:39"
+  },
+  {
+    "source": "＠IT",
+    "title": "Entra IDにCVSS 10.0の脆弱性 認証不要でコード実行の恐れ、必要な対策は？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news046.html",
+    "summary": "Microsoft Entra IDで認証不要かつネットワーク経由でコード実行される恐れのある脆弱性が報告された。CVSS基本値は10.0。Microsoft 365/Azureの認証基盤に影響。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "認証基盤に関わる高危険度脆弱性で、企業側の迅速な対応と影響範囲確認が必要なため",
+    "published_at": "2026-08-25 11:30:00",
+    "created_at": "2026-08-26 01:05:39"
+  },
+  {
+    "source": "＠IT",
+    "title": "「100万行コード移行は4年がかり」はもう昔話 Claude Codeで「2週間」に縮める6ステップ／ベストプラクティス",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news053.html",
+    "summary": "AnthropicがClaude Codeを用いた大規模コード移行の実例と6ステップのベストプラクティスを公開。従来長期化していた移行作業を大幅短縮する手法を提示している。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "AIを活用した大規模コード移行は開発プロジェクトのコストとスケジュール設計を変えるため",
+    "published_at": "2026-08-25 11:00:00",
+    "created_at": "2026-08-26 01:05:39"
+  },
+  {
+    "source": "Publickey",
+    "title": "シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能",
+    "url": "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
+    "summary": "DuckDB 2.0のプレビューを紹介。クライアント/サーバ機能の安定化やVARIANT型、トリガー、非同期I/Oなどデータ処理面の拡張が予定されている。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "データ基盤の進化はデータエンジニア／開発者に有益だが、影響範囲は主に技術者に限定されるため",
+    "published_at": "2026-08-25 00:29:33",
+    "created_at": "2026-08-26 01:05:39"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "消費者庁、「ダークパターン」規制へ 特商法改正視野に中間取りまとめ案",
     "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000728/",
@@ -715,28 +847,6 @@
     "created_at": "2026-08-19 00:53:31"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開 基礎から本番実装まで学べる",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html",
-    "summary": "GoogleがAIエージェントの基礎から本番実装までを扱う5つの無償ガイドを公開。Kaggleと共同の研修プログラムに基づく実務的な内容。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "開発者や導入担当者が実務で参照できる公式ガイドだが即時性は限定的なため。",
-    "published_at": "2026-08-18 17:00:00",
-    "created_at": "2026-08-19 00:53:31"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "災害便乗の“〇〇Pay詐欺”に注意喚起 最初は多めに返金→信用したら10万円被害 国民生活センター",
-    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000587/",
-    "summary": "国民生活センターが熊本地震に便乗するコード決済詐欺の手口を警告。「〇〇Payで返金します」と誘うDMに注意を促している。",
-    "importance": 2,
-    "category": "セキュリティ",
-    "reason": "災害時の詐欺手口は被害が発生しやすく注意喚起による防止効果が期待できるため掲載価値あり。",
-    "published_at": "2026-08-18 16:16:59",
-    "created_at": "2026-08-19 00:53:31"
-  },
-  {
     "source": "＠IT",
     "title": "GPUから光接続まで、AI基盤の「本命5社」 Gartnerが選んだ理由",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news020.html",
@@ -825,17 +935,6 @@
     "created_at": "2026-08-19 00:53:31"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "YouTube、再生回数のカウント基準をショート動画と同じに 収益算定への影響はなし",
-    "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000573/",
-    "summary": "YouTubeが公開再生回数の数え方を最初のフレーム表示で1回とする方式に統一。表示数字は変わるが広告収益算定のエンゲージビューには影響しないと説明。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "クリエイター指標の見かけ上の変化とプラットフォーム運用方針の変更で関係者の理解が必要なため。",
-    "published_at": "2026-08-18 07:39:58",
-    "created_at": "2026-08-19 00:53:31"
-  },
-  {
     "source": "＠IT",
     "title": "さくらインターネットで583アカウントに不正ログイン 「顧客領域」まで到達",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news046.html",
@@ -855,17 +954,6 @@
     "category": "クラウド",
     "reason": "AIインフラと資本供給を巡る大規模案件で業界競争・データセンター市場に直接影響するため。",
     "published_at": "2026-08-18 06:55:32",
-    "created_at": "2026-08-19 00:53:31"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス マネーフォワード",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000571/",
-    "summary": "マネーフォワードが法人向けにAIサービスの利用量とコストを一元管理する「クラウドAIトークン管理」を無償提供開始。共通IDで利用可能。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "企業のAIコスト可視化・ガバナンスニーズに応えるが影響範囲は企業ユーザーに限定されるため。",
-    "published_at": "2026-08-18 06:50:00",
     "created_at": "2026-08-19 00:53:31"
   },
   {
@@ -3144,17 +3232,6 @@
     "reason": "主要ゲームエンジンのランタイム刷新は開発ワークフローやライブラリ互換性に影響し、開発コミュニティで注目度が高い。",
     "published_at": "2026-07-27 00:02:22",
     "created_at": "2026-07-28 02:15:07"
-  },
-  {
-    "source": "＠IT",
-    "title": "AIコーディングだけでは「塩漬けレガシーの刷新」がうまくいかないワケ",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/26/news006.html",
-    "summary": "AIツール導入だけではレガシーシステム刷新が完遂しない理由を事例とともに解説。組織体制、運用、コスト面の課題と効果的な進め方のポイントを提示。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発者・情シス向けに実務的示唆を与える記事で、導入判断やプロジェクト設計に有用。",
-    "published_at": "2026-07-26 08:00:00",
-    "created_at": "2026-07-27 01:26:53"
   },
   {
     "source": "ITmedia NEWS",
