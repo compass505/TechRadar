@@ -1,5 +1,137 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "韓国SK Hynix、宮城県に半導体工場の計画浮上 「何か知り得ているものはない」と村井知事",
+    "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000820/",
+    "summary": "SKハイニックスが宮城県にメモリ工場建設の計画が浮上。県知事はアプローチはあるが現時点で正式情報は把握していないと表明した。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "大手メモリメーカーの投資動向は国内サプライチェーンや地域経済に影響を与えるため業界注目度が高い",
+    "published_at": "2026-08-26 17:55:22",
+    "created_at": "2026-08-27 01:36:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Microsoft Teams」障害か 朝から「会議に入れない」【復旧】",
+    "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000784/",
+    "summary": "午前9時過ぎから多くのユーザーがTeamsの障害を報告、会議に参加できないなどの影響が出たと報告（復旧情報あり）。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "主要ビジネス向けコミュニケーションツールの障害は業務影響が大きく、運用・BCP視点で注目に値する",
+    "published_at": "2026-08-26 14:37:24",
+    "created_at": "2026-08-27 01:36:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ANA子会社のデジタルギフト「選べるe-GIFT」に不正アクセス 担当者情報漏えいか、不正交換も",
+    "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000798/",
+    "summary": "全日空商事の法人向けデジタルギフトサービスが不正アクセスを受け、契約企業担当者の情報漏えいとギフトの不正交換が確認された可能性があると発表。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "法人向けサービスの情報漏えいと不正利用は顧客企業に直接被害が波及するため、広範な注意と対応が必要",
+    "published_at": "2026-08-26 13:24:59",
+    "created_at": "2026-08-27 01:36:06"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「AIエージェントを本番運用中」日本が最下位 “PoC止まり”の原因と、抜け出す方法は？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news040.html",
+    "summary": "Confluent調査で日本企業の自律型AI（AIエージェント）本番導入率が低い実態を報告。PoC止まりの技術的・組織的課題と解決策を解説する。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "企業のAI導入状況と障壁を示す調査は経営・情シスの意思決定に直結するため役立つ",
+    "published_at": "2026-08-26 13:00:00",
+    "created_at": "2026-08-27 01:36:06"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "ChatGPT Work、ログイン必要なサイトも操作可能に 「パスワードは一切見ない」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/26/2000000788/",
+    "summary": "ChatGPT Workがユーザー自身のログインを維持した状態で、ログインが必要なサイト上の作業を自動実行可能に。パスワードはAI側で直接参照しないと説明している。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業導入でのSaaS連携と認証・権限管理に関わるため、情シスやセキュリティ対策に影響する機能変更",
+    "published_at": "2026-08-26 11:27:57",
+    "created_at": "2026-08-27 01:36:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "「Windows 10が残存する」企業の言い分、だが一台でも見過ごしてはいけない“その代償”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news046.html",
+    "summary": "サポート終了後も企業内に残るWindows 10端末が持つリスクと、運用上の事情・対策をIT資産管理の視点から解説する。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "サポート切れOSの運用は重大なセキュリティリスクとなるため、情シスの優先課題として有用な実務情報を含む",
+    "published_at": "2026-08-26 11:00:00",
+    "created_at": "2026-08-27 01:36:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "OpenAI、自社チップ「ハラペーニョ」の性能を公表 電力効率やレイテンシ向上",
+    "url": "https://www.watch.impress.co.jp/docs/news/2135607.html",
+    "summary": "OpenAIが自社設計チップ「Jalapeño（ハラペーニョ）」のベンチマークを公開。推論効率やレイテンシ改善をアピールしている。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "大手AI事業者の独自チップはクラウド／推論インフラの競争構造を変える可能性があり業界影響が大きい",
+    "published_at": "2026-08-26 10:28:39",
+    "created_at": "2026-08-27 01:36:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "アップル、初の2nmプロセス「M6」チップ発表 4ダイ構成の「M5 Ultra」も登場",
+    "url": "https://japan.cnet.com/article/35251910/",
+    "summary": "Appleが新チップ「M6」（初の2nm）と大規模構成の「M5 Ultra」を発表。新チップはMac mini／Mac Studioの新モデルに搭載される。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "最先端プロセスと新アーキテクチャの投入は半導体・PC市場やローカルAI実行に直接影響するため業界重要度が高い",
+    "published_at": "2026-08-26 07:11:00",
+    "created_at": "2026-08-27 01:36:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "攻撃元に政府が「アクセス・無害化」 AI時代に変わる日本のサイバー安全保障",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news013.html",
+    "summary": "AI時代の脆弱性増加を受け、政府が攻撃元への介入（アクセス・無害化）を議論・実施する動きについて国家サイバー統括室の見解を取材。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "国家レベルでの対応方針の変化は企業の脆弱性対策や法的リスクに直結するため重要度が高い",
+    "published_at": "2026-08-26 05:00:00",
+    "created_at": "2026-08-27 01:36:06"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "あなたが使うAIの「中身」、実は中国モデルかも 米企業のAPI利用で58％",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news010.html",
+    "summary": "米企業のAPI経由のトークンのうち中国製モデルへ流れる割合が高い実態を報告。利用者や企業には見えないAIモデルの出自に関する問題を整理する。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AIの供給チェーンとモデル出自はコンプライアンス・セキュリティ・品質の観点で企業が押さえるべき情報である",
+    "published_at": "2026-08-26 05:00:00",
+    "created_at": "2026-08-27 01:36:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "クアルコム、日本にロボット研究拠点設立 トヨタやソニー、ドコモなど日本の大企業群が支援",
+    "url": "https://japan.cnet.com/article/35251908/",
+    "summary": "Qualcommが日本でロボット研究開発拠点「Qualcomm Japan Robotics Center」を設立、産学や大企業と連携して研究・人材育成に投資する計画を発表。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "半導体系大手の現地研究拠点設立はロボット産業とエコシステム形成に影響するため注目に値する",
+    "published_at": "2026-08-26 04:48:00",
+    "created_at": "2026-08-27 01:36:06"
+  },
+  {
+    "source": "Publickey",
+    "title": "Next.js 16.3正式版リリース。Turbopackのメモリ使用量が最大90％減、SSRが最大22％高速化、TypeScript 7による型チェック高速化など",
+    "url": "https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html",
+    "summary": "VercelがNext.js 16.3を正式リリース。Turbopackのメモリ削減やSSR高速化、TypeScript 7対応による開発体験改善などが含まれる。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "主要Webフレームワークの性能改善は開発者生産性や運用コストに直結するため多くの技術者に重要",
+    "published_at": "2026-08-26 02:58:38",
+    "created_at": "2026-08-27 01:36:06"
+  },
+  {
     "source": "ITmedia AI+",
     "title": "政府、AI事業者向け「知財保護ルール」策定 対象範囲・運用方針は？",
     "url": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000767/",
@@ -759,17 +891,6 @@
     "created_at": "2026-08-20 00:52:48"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "OpenAI、「ChatGPT for Teens」発表──宿題の“丸投げ”検知、自傷や摂食障害などの保護も強化",
-    "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000606/",
-    "summary": "OpenAIが13〜17歳向けの『ChatGPT for Teens』を発表。学習支援モードや高リスク領域での保護を標準化し、未成年向けの利用制限を強化する。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "若年利用の安全対策や教育現場での導入判断に関わる製品リリースのため。",
-    "published_at": "2026-08-19 07:54:32",
-    "created_at": "2026-08-20 00:52:48"
-  },
-  {
     "source": "CNET Japan",
     "title": "OpenAI、AIの開発ペースを一時減速 最新モデルの強化学習を2週間停止 暴走リスクの高まりで",
     "url": "https://japan.cnet.com/article/35251664/",
@@ -793,17 +914,6 @@
   },
   {
     "source": "Publickey",
-    "title": "コードからDockerfile不要でOCIコンテナをビルド。「Cloud Native Buildpacks」が十分成熟したとしてCNCFの卒業プロジェクトに",
-    "url": "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html",
-    "summary": "Cloud Native BuildpacksがCNCFの卒業プロジェクトに。ソースコードから直接OCIコンテナを作れる成熟度を評価され、運用の簡素化に寄与する。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発・CI/CDの現場に即したツール成熟の指標で、コンテナ運用の効率化に寄与するため。",
-    "published_at": "2026-08-19 01:03:06",
-    "created_at": "2026-08-20 00:52:48"
-  },
-  {
-    "source": "Publickey",
     "title": "Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ",
     "url": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
     "summary": "Googleが完全準同型暗号（FHE）を使い、暗号化されたデータ上でAIモデルを動かすためのコンパイラ『HEIR』を公開。復号不要での推論を目指すツールチェーン。",
@@ -811,17 +921,6 @@
     "category": "セキュリティ",
     "reason": "機密データでのAI活用を技術的に変える可能性があり、プライバシー対応や企業導入に直接関係するため。",
     "published_at": "2026-08-19 00:55:25",
-    "created_at": "2026-08-20 00:52:48"
-  },
-  {
-    "source": "Publickey",
-    "title": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供",
-    "url": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
-    "summary": "Anysphere（Cursor）がAIエージェント向けを意識したコードホスティング『Origin』を発表。AI統合やCLI運用、GitHub同期など開発者向け機能に注力。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "AI統合を意識したコードホスティングの新サービスで、開発ワークフローの変化に関連するため。",
-    "published_at": "2026-08-19 00:43:29",
     "created_at": "2026-08-20 00:52:48"
   },
   {
@@ -3135,17 +3234,6 @@
     "created_at": "2026-07-30 01:44:06"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明 Anthropic従業員は「CUDAのオープンソース化が楽しみ」と皮肉",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000222/",
-    "summary": "主要AI企業がオープンモデル規制に反対する共同声明を発表。規制動向に対する業界の立場を明確化する動きで、意見対立の様相も伝える。",
-    "importance": 3,
-    "category": "法規制",
-    "reason": "AIモデル規制を巡る業界の統一的な立場表明は政策議論に影響し得るため注目度が高い。",
-    "published_at": "2026-07-27 13:40:13",
-    "created_at": "2026-07-28 02:15:07"
-  },
-  {
     "source": "＠IT",
     "title": "富士通と日本IBMが「COBOL脱却」でタッグ 移行先はJava 企業をどう支援？",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/27/news041.html",
@@ -3154,39 +3242,6 @@
     "category": "企業IT",
     "reason": "多数企業の基幹系に関わるレガシー移行で大手同士の協業は長期的な経営・運用判断に直結するため高評価。",
     "published_at": "2026-07-27 13:00:00",
-    "created_at": "2026-07-28 02:15:07"
-  },
-  {
-    "source": "＠IT",
-    "title": "もう「拠点間VPN」は安全じゃないのか？ 代替手段が浮上するのはなぜか",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/27/news042.html",
-    "summary": "従来の拠点間VPNが抱えるリスクを整理し、Zscalerなどが提案する代替アーキテクチャの考え方を解説。企業ネットワークの設計見直しを促す内容。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "ネットワーク設計の転換は情シスの意思決定に直結するため、実務的に有用な分析記事として掲載価値あり。",
-    "published_at": "2026-07-27 13:00:00",
-    "created_at": "2026-07-28 02:15:07"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AIエージェントと共に働くリスクとは？ PwCが説く「実践的ガバナンス」から考察",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/27/news049.html",
-    "summary": "PwCが提唱するAIエージェント活用に伴う包括的リスク管理とガバナンスの枠組みを紹介。サイバーだけでなく業務や法務リスクまで含めた実務的な対策論。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業でのAIエージェント導入が進む中、経営・情シスが参照すべきガバナンス指針として有用。",
-    "published_at": "2026-07-27 12:00:00",
-    "created_at": "2026-07-28 02:15:07"
-  },
-  {
-    "source": "＠IT",
-    "title": "「生成AIは失敗だった？」 コーディング／開発現場で生産性が下がる3つの理由",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/27/news044.html",
-    "summary": "DORA調査の知見を紹介し、AI支援によるソフトウェア開発で初期に生産性が低下する理由を整理。開発現場での運用上の懸念点と対策を解説している。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "生成AI導入が現場の生産性に与える影響を定量調査に基づき解説し、開発・導入判断に役立つため掲載。",
-    "published_at": "2026-07-27 10:50:00",
     "created_at": "2026-07-28 02:15:07"
   },
   {
@@ -3209,28 +3264,6 @@
     "category": "セキュリティ",
     "reason": "AI音声合成を悪用した大規模詐欺の実被害と対策提示は企業の即時対応が必要で掲載価値が高い。",
     "published_at": "2026-07-27 07:00:00",
-    "created_at": "2026-07-28 02:15:07"
-  },
-  {
-    "source": "Publickey",
-    "title": "MCP仕様が明日アップデート、7月28日版MCPからはステートレスな接続が正式仕様に。GitHub MCPサーバが早くも対応発表",
-    "url": "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
-    "summary": "AIツール接続の事実上の業界標準であるMCPが7月28日版でステートレス接続を正式仕様化。GitHubのMCPサーバが対応を表明するなどエコシステムの変化が始まる。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "AIツール間接続の標準仕様変更は開発者・運用者に直接影響するため技術系読者に重要。",
-    "published_at": "2026-07-27 00:06:36",
-    "created_at": "2026-07-28 02:15:07"
-  },
-  {
-    "source": "Publickey",
-    "title": "ゲームエンジン「Unity 7」発表、ランタイム基盤がMonoから.NET CoreCLRへ移行。高速化により、開発画面からほぼ瞬時にプレイモードが起動",
-    "url": "https://www.publickey1.jp/blog/26/unity_7mononet_coreclr.html",
-    "summary": "Unity 7を発表。ランタイム基盤をMonoから.NET CoreCLRへ移行し、エディタ内での起動高速化など開発体験が大きく改善される。互換性や移行影響も解説。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "主要ゲームエンジンのランタイム刷新は開発ワークフローやライブラリ互換性に影響し、開発コミュニティで注目度が高い。",
-    "published_at": "2026-07-27 00:02:22",
     "created_at": "2026-07-28 02:15:07"
   },
   {
