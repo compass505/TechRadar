@@ -1,6 +1,149 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "トヨタ、28年にAI自動運転車を投入 「E2E」と事前ルール規定を組み合わせるハイブリッド方式",
+    "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000868/",
+    "summary": "トヨタはAIによる認識から操作までを担う自動運転車を2028年に実用化予定と発表。エンド・ツー・エンド手法と事前ルールを組み合わせるハイブリッド方式を採用する。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "自動車大手の実用化スケジュールは産業競争、規制、サプライチェーンに広範な影響を与える",
+    "published_at": "2026-08-27 18:14:54",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NASA・FRBなど米政府機関にサイバー攻撃 中国国家安全省の関係企業が関与、米司法省が発表",
+    "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000866/",
+    "summary": "米司法省は中国国家安全省と関係する企業が関与するとされるサイバー攻撃を公表。標的にはNASA、FRB、上院のほか医療・電力・金融など民間分野も含まれる。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "政府機関および重要インフラが標的の大規模サイバー作戦で、組織の対応と国際的影響が大きい",
+    "published_at": "2026-08-27 18:13:36",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Backlogの値上げエグすぎ」SNSで悲鳴 ユーザー無制限プラン、月最低1.6万円→3.6万円に",
+    "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000862/",
+    "summary": "プロジェクト管理ツールBacklogが無制限プランを大幅値上げ。ユーザーや企業のコスト負担増としてSNSで反発が拡大している。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "SaaS価格改定がIT調達・運用コストに即効で影響する実例のためIT管理者向けの注意喚起",
+    "published_at": "2026-08-27 17:12:55",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "NVIDIAが開発支援、約30秒で口腔がんの疑い検出する歯科用AI",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/27/news068.html",
+    "summary": "大阪大学らが開発した歯科用AI「Mucosight AI」が製造販売承認を取得。口腔粘膜画像から疾患の特徴を検出し、受診勧奨の判断を支援する医療機器となる。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "医療分野でのAI承認事例は規制・商用化の先行指標となるため注目に値する",
+    "published_at": "2026-08-27 15:00:00",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NVIDIA、Hugging Face買収で協議 2兆円規模で 海外報道",
+    "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000837/",
+    "summary": "報道によればNVIDIAがAI開発プラットフォーム運営のHugging Face買収を協議中。取引規模は約2兆円と伝えられる。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "AIインフラとツールチェーンの統合をもたらす大型M&Aで業界構造に影響する可能性が高い",
+    "published_at": "2026-08-27 13:04:08",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "2035年、AI推論需要の半分は「コード生成」に 推論市場の今と未来",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news046.html",
+    "summary": "ABI Researchの分析を基に、推論ワークロードの拡大予測を解説。2033年に推論がトレーニングを上回り、2035年には推論電力消費が大幅増となる見通しを示す。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "推論中心の需要シフトはクラウド・半導体・運用面での長期投資判断に重要な示唆を与える",
+    "published_at": "2026-08-27 13:00:00",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "＠IT",
+    "title": "キオクシアが「DRAMとSSDの間を埋める」新手法、メモリ不足をどう解消？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news049.html",
+    "summary": "AI需要によるメモリ逼迫に対し、キオクシアがDRAMとSSDのギャップを埋める新手法を提示。メインメモリの使用効率改善を目指す取り組みを解説する。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "メモリ需給への技術的対応はデータセンターとAI推論基盤のコスト・性能に直結する",
+    "published_at": "2026-08-27 13:00:00",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "10代のInstagram・Facebook利用を「1日2時間」に制限へ Meta、米訴訟で和解 最大約2.9兆円支払いも",
+    "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000836/",
+    "summary": "Metaが米州との訴訟で和解。10代ユーザーの利用制限や自動再生オフ等の措置と、最大約180億ドル（約2.9兆円）の支払いを含む合意を報道が伝える。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "大規模な和解・設計変更が示すプラットフォーム規制の潮流は事業戦略と法務に重大な示唆を与える",
+    "published_at": "2026-08-27 12:25:22",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「マイナアプリ」一部端末でログインできない不具合 リリースから2日",
+    "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000833/",
+    "summary": "リリース直後のマイナアプリで一部端末がログイン不可になる不具合が発生。シークレットモード解除や再インストールで改善する場合があると案内されている。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "国のデジタル施策に関わるサービス不具合は利用者と運用側双方に影響し、早期解決が求められる",
+    "published_at": "2026-08-27 11:11:49",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "＠IT",
+    "title": "「ゲーム開発もAIコーディングエージェントと」 次世代開発基盤「Unity 7」の5つの強化ポイント",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news040.html",
+    "summary": "Unityが次世代プラットフォーム「Unity 7」を発表。AIコーディングエージェントと協働する設計など、開発効率やワークフローを変える強化点を示す。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "主要ゲーム開発基盤へのAI統合は開発現場の生産性とツール業界に影響を与える",
+    "published_at": "2026-08-27 11:00:00",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "＠IT",
+    "title": "JPGでもPNGでもない 2026年内に主要ブラウザが「JXL」を正式採用へ",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news047.html",
+    "summary": "主要ブラウザがJPEG XL（JXL）を2026年内に正式採用する方針。FirefoxはRust製デコーダを採用、Chromeも同様の対応を示している。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "画像フォーマットの標準化はウェブパフォーマンス最適化と配信コストに直接影響するため開発者必読",
+    "published_at": "2026-08-27 08:00:00",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "＠IT",
+    "title": "「ただのファイル属性」がroot権限に化ける Linux ntfs3に潜んだ権限昇格のわな",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news038.html",
+    "summary": "LinuxカーネルのNTFSドライバー(ntfs3)に、一般ユーザーからrootに昇格できる脆弱性が報告。複雑な攻撃技術を必要としない点が指摘されている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "カーネル/ファイルシステムの権限昇格は広範囲のサーバ・端末に影響し、早急な対応が必要",
+    "published_at": "2026-08-27 07:00:00",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "Publickey",
+    "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
+    "url": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+    "summary": "Agentic AI FoundationがMCP(Model Context Protocol)の新ロードマップを公開。AIエージェント対応やHTTP統一、アイデンティティ等を優先課題に挙げている。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "AIエージェント連携の基盤仕様変更は開発者体験とエコシステム設計に直接影響するため注目に値する",
+    "published_at": "2026-08-27 00:29:13",
+    "created_at": "2026-08-28 09:29:15"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "韓国SK Hynix、宮城県に半導体工場の計画浮上 「何か知り得ているものはない」と村井知事",
     "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000820/",
     "summary": "SKハイニックスが宮城県にメモリ工場建設の計画が浮上。県知事はアプローチはあるが現時点で正式情報は把握していないと表明した。",
@@ -767,17 +910,6 @@
     "category": "企業IT",
     "reason": "IT投資やROI設計に直結するコスト構造の問題で、経営・情シスの判断に役立つ分析。",
     "published_at": "2026-08-20 08:00:00",
-    "created_at": "2026-08-21 00:54:19"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
-    "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
-    "summary": "Googleが米国の新学期に合わせ、大学生向けに『Google AI Plus』を1年間無料提供。Geminiアプリに学習支援機能の追加も実施。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "学生向けプロモーションだがGemini強化は教育利用と普及に寄与するためトレンド把握に有用。",
-    "published_at": "2026-08-20 07:58:36",
     "created_at": "2026-08-21 00:54:19"
   },
   {
@@ -3070,17 +3202,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "NHKのネットサービスが受信契約なしで閲覧可能に 熊本地震受け緊急対応",
-    "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000250/",
-    "summary": "熊本地震を受け、NHKのネットサービス「NHK ONE」を受信契約なしで誰でも閲覧可能に。防災情報を優先公開し被災者向け情報提供を強化。緊急時の情報アクセシビリティ向上。",
-    "importance": 3,
-    "category": "その他",
-    "reason": "公的メディアの緊急対応は被災地の情報流通に直結し、読者の理解に役立つため",
-    "published_at": "2026-07-28 22:13:12",
-    "created_at": "2026-07-29 01:55:47"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "はてな、11億円流出の調査報告書を公開 偽警察、口外禁止、残業・休出200時間超、孤立……ほころびが連鎖",
     "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000238/",
     "summary": "はてなが約11億円の資金流出事案に関する調査報告書を公開。経理部長が詐欺グループの指示でリモート操作アプリを実行しPCが乗っ取られた点など、内部統制の脆弱性が明らかに。",
@@ -3088,17 +3209,6 @@
     "category": "企業IT",
     "reason": "大規模な資金流出と管理体制の欠陥は、企業のIT統制・ガバナンス事例として重要な教訓を含むため",
     "published_at": "2026-07-28 20:37:14",
-    "created_at": "2026-07-29 01:55:47"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "台湾半導体大手TSMC、熊本工場の状況確認中、従業員は屋外避難 所在エリアは震度5強",
-    "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000243/",
-    "summary": "TSMC日本法人は熊本の工場について状況確認中。従業員は屋外へ避難しており、安全確認を待機中と報告。半導体サプライチェーンへの影響注視。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "主要半導体企業の国内拠点に関する事象は供給網と製造稼働に関わるため注目に値する",
-    "published_at": "2026-07-28 20:29:00",
     "created_at": "2026-07-29 01:55:47"
   },
   {
@@ -3110,17 +3220,6 @@
     "category": "セキュリティ",
     "reason": "生成AIサービスでのチャット露出はプライバシー・コンプライアンス上の重大リスクで広範な影響を与えるため",
     "published_at": "2026-07-28 17:35:00",
-    "created_at": "2026-07-29 01:55:47"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「Kimi K3」のモデルウェイトと技術レポート公開 日本でも「NVIDIA B300×8」環境での利用報告",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2607/28/2000000236/",
-    "summary": "中国Moonshot AIが最新モデル「Kimi K3」のウェイトと技術レポートを公開。日本での利用報告もあり、オープンウェイトの拡散が進む状況を示す。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "モデルウェイト公開は開発者コミュニティと悪用リスクの両面で注目されるため開発者向けに重要",
-    "published_at": "2026-07-28 16:57:16",
     "created_at": "2026-07-29 01:55:47"
   },
   {
@@ -3146,28 +3245,6 @@
     "created_at": "2026-07-29 01:55:47"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "「Claudeより4割安い」 M365のExcel/メール操作を丸投げる「Copilot Cowork」“従量課金”の落とし穴",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/28/news053.html",
-    "summary": "Microsoft 365 Copilotの新機能「Copilot Cowork」が一般提供開始。Excelやメール操作を代行するが、従量課金のコスト構造や運用上の落とし穴が指摘されている。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業向け生産性AIの普及は運用・コスト判断に直結するためIT担当者にとって重要",
-    "published_at": "2026-07-28 13:00:00",
-    "created_at": "2026-07-29 01:55:47"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "KDDIとGoogle、国内AIスタートアップを共同支援 出資に加え「Gemini」早期アクセスも",
-    "url": "https://japan.cnet.com/article/35251010/",
-    "summary": "KDDIとGoogleの投資ファンドが国内AIスタートアップ支援プログラムを開始。出資に加えGemini等への早期アクセス提供など支援を行い、国内AIエコシステム育成を狙う。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "大手通信とAIベンダーによる資金・モデルアクセス提供は地域の技術エコシステムに影響するため",
-    "published_at": "2026-07-28 10:28:00",
-    "created_at": "2026-07-29 01:55:47"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "Amazon Leo、スマホと直接つながる衛星5105基をFCCに申請 2028年配備へ",
     "url": "https://www.itmedia.co.jp/news/articles/2607/28/news061.html",
@@ -3187,17 +3264,6 @@
     "category": "セキュリティ",
     "reason": "業界横断での防御インフラ構築はAIの安全運用やサプライチェーンに影響するため重要",
     "published_at": "2026-07-28 07:16:00",
-    "created_at": "2026-07-29 01:55:47"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "Microsoft、ミュトス超えの新セキュリティAI「MAI-Cyber-1-Flash」発表",
-    "url": "https://japan.cnet.com/article/35251000/",
-    "summary": "Microsoftがサイバーセキュリティ向けAIモデル「MAI-Cyber-1-Flash」を発表。既存ベンチマークで高性能を示し、AIを用いた攻撃防御の新たな製品ポートフォリオを打ち出す。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AIを用いた防御製品の進化は企業のセキュリティ運用に影響を与えるため注目度が高い",
-    "published_at": "2026-07-28 06:40:00",
     "created_at": "2026-07-29 01:55:47"
   },
   {
