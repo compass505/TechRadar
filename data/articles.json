@@ -1,6 +1,160 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "イエローハット、最大180万人分の情報漏えいか 作業予約システムに不正アクセス",
+    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000922/",
+    "summary": "イエローハットの作業予約システムが不正アクセスを受け、最大180万1499人分の氏名や電話番号等が漏えいした可能性を発表。クレジット情報は含まれないとするが影響範囲が大きい。",
+    "importance": 4,
+    "category": "その他",
+    "reason": "大規模な個人情報漏えいの可能性で顧客対応・法務・情シスに即時影響するため重要。",
+    "published_at": "2026-08-28 18:27:36",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "＠IT",
+    "title": "AWSが「DuckDB」開発企業DuckLabsを買収 OSSは継続",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news052.html",
+    "summary": "AWSがオープンソース分析DB「DuckDB」の開発企業DuckLabsを買収する合意を発表。プロジェクトはMITライセンスで独立非営利組織の下に継続される見込みだ。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウド大手による人気OSSプロジェクトの買収はエコシステムとクラウド戦略に波及するため、開発者や情シスに重要。",
+    "published_at": "2026-08-28 17:00:00",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "トレファク子会社に不正アクセス、13万人超の顧客情報漏えい 二段階認証設定しておらず",
+    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000908/",
+    "summary": "トレジャー・ファクトリー子会社のECサイトがフィッシングで得た認証情報を使った不正アクセスを受け、13万6464人分の個人情報が漏えいしたと発表。二段階認証未設定が原因の一つとされる。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "フィッシングと認証管理の欠如による侵害は他社でも再現性が高く、対策の示唆が重要。",
+    "published_at": "2026-08-28 16:24:41",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Hugging Face、あひる型ロボット「Microduck」発表 399ドルで予約開始",
+    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000901/",
+    "summary": "Pollen Robotics（Hugging Face傘下）が二足歩行の小型ロボット「Microduck」を発表。強化学習向けにSSDやシミュレータ、SDKをOSSで提供し、教育・研究用途を想定している。",
+    "importance": 2,
+    "category": "ガジェット",
+    "reason": "教育・研究向けの実機プラットフォームとして開発エコシステムに寄与するが商業インパクトは限定的。",
+    "published_at": "2026-08-28 15:09:08",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "PC価格高騰、限られたIT予算をどう回す？ “再生PC”を選んだ企業のシステム担当者に聞く",
+    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000847/",
+    "summary": "PC価格上昇で企業がリファービッシュPC導入を検討。性能・保証・セキュリティ面の評価や調達判断の実例を紹介し、IT予算配分の実務的指南を提供する。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "実務的なIT調達とコスト最適化の事例は情シスの現場判断に役立つため掲載価値あり。",
+    "published_at": "2026-08-28 14:54:08",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
+    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
+    "summary": "AnthropicがAIエージェントによる実験・製造機器の安全制御向け共通仕様「Model Hardware Standard (MHS)」を発表。安全制限や基本命令の標準化を進め、将来的にOSS化する方針。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "物理機器へのAI制御基盤の標準化は産業用途の導入加速と安全運用に直結するため開発者・運用側で注目すべき。",
+    "published_at": "2026-08-28 14:20:45",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
+    "summary": "GoogleがExpert Intelligenceを発表。Google Playブックスで購入した電子書籍をGemini Notebookの情報源として追加できるようになり、初期で10万冊超が対象。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "信頼できる外部資料をAIに紐付ける取り組みで、企業の知識管理や研究利用に有用だが即時大規模影響は限定的。",
+    "published_at": "2026-08-28 13:25:21",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NISA口座「もぬけの殻」に 不正アクセス被害者らが証券4社に原状回復求め調停",
+    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000891/",
+    "summary": "不正アクセスで証券口座から有価証券が勝手に売却された被害を受けた79人が、大手証券4社に対して原状回復を求め民事調停を申し立て。金融機関の管理責任が問われている。",
+    "importance": 4,
+    "category": "その他",
+    "reason": "金融口座の不正操作は被害額・社会的影響が大きく、証券業界の運用と法的責任問題に直結するため高重要度。",
+    "published_at": "2026-08-28 13:10:56",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "＠IT",
+    "title": "なぜ「オンプレミスVPN」を使う企業はこれほど“ランサムウェア被害”に遭いやすい？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news031.html",
+    "summary": "オンプレミスVPNがランサムウェアの侵入口になりやすい背景を分析。管理不全・設定の古さ・アクセス制御不足が主因で、改善ポイントを提示する。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "ランサムウェア対策として依然重要なテーマで、企業のリモートアクセス設計と運用改善に直結する実務的記事。",
+    "published_at": "2026-08-28 10:15:00",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "キオクシアとSanDisk、日本に約5兆円投資へ フラッシュメモリ増産 政府の支援前提",
+    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000879/",
+    "summary": "キオクシアとSanDiskが日本国内で総額約5兆円を投資し、フラッシュメモリの増産を計画。政府支援を前提に工場設備や技術開発を進める方針だ。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "巨大投資でメモリ供給体制と国内半導体産業に影響を与え、政策・サプライチェーンに直結するため高重要度。",
+    "published_at": "2026-08-28 09:11:09",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000878/",
+    "summary": "Googleがマルチモーダル動画生成モデル「Gemini Omni 1.1 Flash」を発表。直前10秒の文脈参照で最大40秒の延長やフレーム指定生成、4K対応などAPI提供を含む強化が行われた。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "動画生成AIの機能拡張とAPI化はクリエイティブ領域とコンプライアンス両面で影響が大きく、開発者・企業が注視すべき。",
+    "published_at": "2026-08-28 09:07:14",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
+    "summary": "OpenAIがAIを悪用したサイバー攻撃に備えるべきだと産業界と政府に公開書簡を送付。AnthropicやGoogleら100以上の企業が署名し、防御用AIや国際連携を要請している。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AI悪用によるサイバー攻撃の高度化を業界横断で警告・対策呼びかけする内容で、政策・事業戦略に影響を及ぼすため重要。",
+    "published_at": "2026-08-28 07:56:31",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "OpenAIのAIエージェント、約700体の群れで企業を襲撃 ハッキングの痕跡隠蔽を試みる――事件の裏で何が？",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/28/news067.html",
+    "summary": "報告された事件では約700体のAIエージェントが連携して企業を攻撃し、痕跡の隠蔽を試みたとされる。事件の手口や背景、影響を分析している。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AIエージェントが実際に悪用されたという報告は運用リスクを具体化するため注目だが、5に相当する即時の広域危機情報ではない。",
+    "published_at": "2026-08-28 06:55:00",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "＠IT",
+    "title": "AI時代に拡大するAPIアタックサーフェス いかに保護するか",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news009.html",
+    "summary": "AIエージェントの台頭で企業のAPI利用が増え、APIが新たな攻撃対象に。可視化・認証・ライフサイクル保護など具体的対策を示し、セキュリティリーダー向けに解説する。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AI導入で増えるAPI接点は企業のアタックサーフェスを拡大するため、情シスとセキュリティチームにとって優先度の高い課題。",
+    "published_at": "2026-08-28 05:00:00",
+    "created_at": "2026-08-29 09:02:46"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "トヨタ、28年にAI自動運転車を投入 「E2E」と事前ルール規定を組み合わせるハイブリッド方式",
     "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000868/",
     "summary": "トヨタはAIによる認識から操作までを担う自動運転車を2028年に実用化予定と発表。エンド・ツー・エンド手法と事前ルールを組み合わせるハイブリッド方式を採用する。",
@@ -3069,17 +3223,6 @@
     "created_at": "2026-07-31 01:55:47"
   },
   {
-    "source": "Impress Watch",
-    "title": "PFN、自衛隊の作戦立案AIを開発へ",
-    "url": "https://www.watch.impress.co.jp/docs/news/2129000.html",
-    "summary": "Preferred Networks(PFN)が防衛装備庁の実証を受託し、生成AIを用いた自衛隊の作戦計画支援システムの開発・検証を行う。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "民間AI企業による防衛分野への応用で技術・倫理・調達の観点から注目すべき動きだが即時の広範被害はないため中評価。",
-    "published_at": "2026-07-29 18:29:17",
-    "created_at": "2026-07-30 01:44:06"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "ソニー、熊本の半導体工場で生産停止 令和8年熊本地震で 建屋などの被害状況を確認中",
     "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000274/",
@@ -3088,17 +3231,6 @@
     "category": "半導体",
     "reason": "国内重要半導体拠点の生産中断はサプライチェーンと顧客企業に即時影響を与えるため優先度が高い。",
     "published_at": "2026-07-29 16:43:16",
-    "created_at": "2026-07-30 01:44:06"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "デジタル庁、AI基盤「源内」を被災自治体などに緊急提供 「平時をはるかに超える業務」対応のため",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/",
-    "summary": "政府の生成AI環境『ガバメントAI 源内』を熊本地震の被災自治体や災害対策機関に対して約3週間緊急提供し、災害対応業務を支援する。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "自治体の業務負荷軽減と公的AI活用の実例で、自治体IT・クラウド導入の判断材料になるため。",
-    "published_at": "2026-07-29 12:52:12",
     "created_at": "2026-07-30 01:44:06"
   },
   {
@@ -3154,17 +3286,6 @@
     "category": "セキュリティ",
     "reason": "多要素認証が突破される手口の公開は即時に企業の認証設計と運用を見直す必要があり、情シスへの影響が大きい。",
     "published_at": "2026-07-29 07:30:00",
-    "created_at": "2026-07-30 01:44:06"
-  },
-  {
-    "source": "＠IT",
-    "title": "「いつものChrome」が攻撃の踏み台に？ マルウェア「msaRAT」の脅威と、情シスが今すぐやるべきこと",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/29/news029.html",
-    "summary": "ランサムウェアグループChaosが利用する新型RAT『msaRAT』を確認。マルウェアはブラウザを乗っ取り“通信役”として利用する特徴がある。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "新たな侵入手法として実運用での注意喚起が必要だが、範囲は特定の脅威グループにとどまるため中程度評価。",
-    "published_at": "2026-07-29 07:00:00",
     "created_at": "2026-07-30 01:44:06"
   },
   {
