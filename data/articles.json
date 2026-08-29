@@ -1,5 +1,60 @@
 [
   {
+    "source": "＠IT",
+    "title": "「トークン単価50％減でもAI請求額が跳ね上がる」なぜ？ Uberは4月で年間予算が枯渇",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/29/news009.html",
+    "summary": "IDCの調査を基に、生成AI・AIエージェント普及でトークン単価が下がっても総コストが増える実態と、ワークロード別の費用管理・ガバナンスの必要性を指摘。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業のAI導入で直面するコスト管理とガバナンス課題は情シスや経営の実務に直結するため有用。",
+    "published_at": "2026-08-29 17:00:00",
+    "created_at": "2026-08-30 03:40:50"
+  },
+  {
+    "source": "＠IT",
+    "title": "キオクシアが初の「SSDでも液冷」 GPUだけではないAI時代の“熱問題”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/29/news010.html",
+    "summary": "AI負荷増大に伴いGPU以外の部品も発熱対策が必要になり、キオクシアがSSD向け液冷ソリューションを発表。データセンターの冷却設計を再考する契機に。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "データセンター運用とハードウェア設計に影響する技術的進展で、インフラ担当や設計者にとって注目度が高い。",
+    "published_at": "2026-08-29 13:00:00",
+    "created_at": "2026-08-30 03:40:50"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "OpenAI、Cursorへのモデル提供を終了 理由は「SpaceXによる買収」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2136717.html",
+    "summary": "OpenAIはSpaceXによるCursor買収を受け、コーディングエージェントCursorへの最新モデル提供を終了すると発表。提供終了日は11月12日と通知。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "モデル提供停止は開発者エコシステムとサービス利用に直接影響する企業戦略上の重要ニュース。",
+    "published_at": "2026-08-29 12:50:04",
+    "created_at": "2026-08-30 03:40:50"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "動画カメラは混沌の時代へ？ ミラーレス一眼へ乗り出すアクションカムメーカーも現れた2026年前半の業界動向",
+    "url": "https://www.itmedia.co.jp/news/article/2608/29/2000000906/",
+    "summary": "2026年前半のカメラ業界を振り返り、動画重視へのシフトやアクションカムメーカーのミラーレス参入などの動向を整理。製品ポジショニングの変化と市場再編の兆しを解説。",
+    "importance": 2,
+    "category": "ガジェット",
+    "reason": "映像制作やプロ向け機材の投資判断に影響する業界トレンドだが対象は比較的限定的なため重要度中程度。",
+    "published_at": "2026-08-29 09:16:00",
+    "created_at": "2026-08-30 03:40:50"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "キオクシア5兆円投資、日米中韓の半導体投資競争はどこへゆく",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/29/news012.html",
+    "summary": "キオクシアの5兆円投資を起点に、日米中韓の半導体投資競争と政策・産業戦略の行方を分析。サプライチェーンや地域間の競争力に関する示唆を提供。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "大規模投資と国際的な投資競争はサプライチェーン・産業政策に大きく影響するため業界重要ニュース。",
+    "published_at": "2026-08-29 07:00:00",
+    "created_at": "2026-08-30 03:40:50"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "イエローハット、最大180万人分の情報漏えいか 作業予約システムに不正アクセス",
     "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000922/",
@@ -749,17 +804,6 @@
   },
   {
     "source": "＠IT",
-    "title": "残業するくらいなら「年収100万円ダウン」でいい “稼げるだけ”では入社しない今どきの人々",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/22/news014.html",
-    "summary": "エフペリの調査で、従業員は年収より労働時間やワークライフバランスを重視する傾向が明らかに。採用・定着戦略の見直しが必要と示唆されている。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "人材獲得・定着に影響する労働条件の変化は経営判断やIT人材戦略で参考になるため掲載価値がある。",
-    "published_at": "2026-08-22 17:00:00",
-    "created_at": "2026-08-23 00:41:38"
-  },
-  {
-    "source": "＠IT",
     "title": "「出社しないとつながりが薄れる」は誤解？ 約7700人の追跡調査が示す実態",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/22/news015.html",
     "summary": "コロラド大学の追跡調査は、一律の出社義務化が離職や生産性に悪影響を及ぼす可能性を指摘。自律性や柔軟性を重視した働き方が職場維持に有効だと結論づけている。",
@@ -767,17 +811,6 @@
     "category": "企業IT",
     "reason": "出社政策はIT部門や経営の働き方設計に直接関係するため、判断材料として価値が高い。",
     "published_at": "2026-08-22 13:00:00",
-    "created_at": "2026-08-23 00:41:38"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "新型スマートウォッチ「Pixel Watch 5」何ができる？ 「41mm」「45mm」どちらを選ぶべきか？",
-    "url": "https://japan.cnet.com/article/35251655/",
-    "summary": "Googleの新スマートウォッチPixel Watch 5を紹介。41mmと45mmのサイズ差や機能面の違い、利用シーンに応じた選び方を解説するレビュー記事。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "消費者向け製品レビューの代表例として掲載可だが、技術的影響は限定的なため重要度は低め。",
-    "published_at": "2026-08-22 10:35:00",
     "created_at": "2026-08-23 00:41:38"
   },
   {
@@ -789,28 +822,6 @@
     "category": "企業IT",
     "reason": "情シス現場の定常的な運用リスクと対策はIT運用担当者にとって実務的価値が高い。",
     "published_at": "2026-08-22 08:00:00",
-    "created_at": "2026-08-23 00:41:38"
-  },
-  {
-    "source": "＠IT",
-    "title": "「Pythonを超えた人気言語」「AI時代の新職種FDE」、急速に変わる開発現場のいま",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/22/news011.html",
-    "summary": "開発現場で注目された記事をランキング形式で紹介。人気言語の変化やAI時代に求められる新職種（FDE）など、トレンドの俯瞰ができる構成。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発トレンドの動向把握に役立つまとめ記事で、技術者やマネージャーの情報収集に有用。",
-    "published_at": "2026-08-22 08:00:00",
-    "created_at": "2026-08-23 00:41:38"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "Xiaomi、スマホやタブレット11モデルを値上げ--メモリー高騰で吸収しきれず 対象機種一覧",
-    "url": "https://japan.cnet.com/article/35251822/",
-    "summary": "Xiaomi Japanがスマートフォン・タブレット11モデルの価格を値上げ。メモリ価格上昇が要因で、最大2万円の引き上げが行われる。新価格は9月1日から順次適用。",
-    "importance": 2,
-    "category": "半導体",
-    "reason": "メモリ市況が製品価格に直結する事例はサプライチェーンと半導体市場動向の指標として有益。",
-    "published_at": "2026-08-22 07:26:00",
     "created_at": "2026-08-23 00:41:38"
   },
   {
@@ -844,17 +855,6 @@
     "category": "ビジネス",
     "reason": "周波数取得とインフラ共有モデルはキャリア戦略やネットワーク投資に大きく影響する業界ニュース。",
     "published_at": "2026-08-22 06:45:00",
-    "created_at": "2026-08-23 00:41:38"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "中国の動画サイト「bilibili」にグローバル版アプリ 日本でも配信開始 まずはAndroidから",
-    "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000643/",
-    "summary": "中国の動画サービスbilibiliがグローバル版アプリをリリース、まずAndroidで配信開始。本人確認書類不要でアカウント登録できる仕様で日本でも利用可能に。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "プラットフォームの国際展開とID運用方針はコンテンツ管理や規制対応の観点で注目に値するため掲載価値あり。",
-    "published_at": "2026-08-22 00:52:31",
     "created_at": "2026-08-23 00:41:38"
   },
   {
@@ -3091,39 +3091,6 @@
     "created_at": "2026-08-01 02:01:05"
   },
   {
-    "source": "＠IT",
-    "title": "深まる先端AIモデルのサイバー攻撃能力への懸念 「恐れるな」とGartnerのアナリストが語る理由",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news075.html",
-    "summary": "フロンティアAIモデルが脆弱性発見や隔離環境の“脱獄”などで注目される中、Gartnerアナリストが懸念と対策を解説し、過度な恐怖心に対する論点整理を行う。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AIモデルの悪用リスクと現実的な防御策はセキュリティ責任者が即座に把握しておくべきテーマのため。",
-    "published_at": "2026-07-30 17:40:00",
-    "created_at": "2026-07-31 01:55:47"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "TSMC、熊本工場の製造装置「調整に時間」 建屋の安全は確認 第2工場は29日に工事再開",
-    "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000305/",
-    "summary": "TSMC子会社JASMの熊本工場が地震で一時操業中断。建屋の安全確認は済むが、製造装置の調整に時間がかかる見込みで第2工場は工事を再開したと報告された。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "世界的半導体供給に関わる拠点での操業影響はサプライチェーンと製造計画に影響するため注意すべきニュース。",
-    "published_at": "2026-07-30 15:23:59",
-    "created_at": "2026-07-31 01:55:47"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "日本HPのPCが楽天のAIを搭載、ローカル実行も可能 HP岡戸社長「ハイブリッドAIの重要なマイルストーン」",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2607/30/2000000302/",
-    "summary": "日本HPと楽天が、HP製PC向けにRakuten AI 7BをプリバンドルしたAIアプリを提供開始。オフラインでの要約や翻訳などローカル実行が可能という。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "ローカル実行できる日本語LLMのプリインストールは企業のデバイス戦略やデータガバナンスに関わるため注目に値する。",
-    "published_at": "2026-07-30 14:52:01",
-    "created_at": "2026-07-31 01:55:47"
-  },
-  {
     "source": "CNET Japan",
     "title": "AIは「核兵器級の脅威」にも--OpenAIやAnthropicなどの1000人超、開発減速の仕組みづくりを提言",
     "url": "https://japan.cnet.com/article/35251118/",
@@ -3135,17 +3102,6 @@
     "created_at": "2026-07-31 01:55:47"
   },
   {
-    "source": "＠IT",
-    "title": "無料でAIコーディングの利用状況、トークンコスト可視化 オープンソースのMCPサーバ「Preflight」公開",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news078.html",
-    "summary": "New RelicがAIコーディングの利用状況やトークンコストを可視化するオープンソースのMCPサーバ「Preflight」を公開。トークン浪費対策などを支援する。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "AIコーディングのコスト管理は開発組織の運用負荷と予算に直結するため、開発現場で有用なツールの紹介として掲載価値が高い。",
-    "published_at": "2026-07-30 14:15:00",
-    "created_at": "2026-07-31 01:55:47"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "アスクル、個人情報の漏えい懸念が約134万件に 新たに約60万件特定",
     "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000327/",
@@ -3154,28 +3110,6 @@
     "category": "セキュリティ",
     "reason": "既発のランサム事案で追加の大規模漏えい懸念が判明しており、被害影響と対応コストが大きいため高評価。",
     "published_at": "2026-07-30 13:07:16",
-    "created_at": "2026-08-01 02:01:05"
-  },
-  {
-    "source": "＠IT",
-    "title": "なぜいま「DNS」の見直しが必要？ 攻撃者が狙う“6つの設定ミス”",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/30/news046.html",
-    "summary": "NIST改訂のDNSガイドラインに基づき、Akamaiが攻撃者に狙われやすい6つの主要なDNS設定ミスと対策を解説する実務向けガイド。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "DNS設定ミスは広範なサービス停止や情報漏洩につながるため、ネットワーク運用者・情シス向けの重要実務情報として掲載。",
-    "published_at": "2026-07-30 13:00:00",
-    "created_at": "2026-07-31 01:55:47"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "日本、EUの「ホライズン・ヨーロッパ」に正式参加",
-    "url": "https://japan.cnet.com/article/35251158/",
-    "summary": "欧州の研究プログラム『Horizon Europe』に日本が正式参加。準加盟国としては23カ国目で、国内研究機関の国際連携が拡大する見込み。",
-    "importance": 3,
-    "category": "法規制",
-    "reason": "国際研究協力の枠組み加入は産学連携や資金・人材流動に影響を与えるため注目に値する。",
-    "published_at": "2026-07-30 09:45:00",
     "created_at": "2026-08-01 02:01:05"
   },
   {

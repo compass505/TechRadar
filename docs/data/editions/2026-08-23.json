@@ -21,8 +21,7 @@
     ],
     "yesterday_ai": [
       "6e10c21d423b",
-      "ec8b2aa640eb",
-      "0f126af34dfe"
+      "ec8b2aa640eb"
     ],
     "yesterday_enterprise_it": [
       "6e10c21d423b",
@@ -30,8 +29,6 @@
       "496980615842",
       "f019a6691fcb"
     ],
-    "yesterday_development": [
-      "0f126af34dfe"
-    ]
+    "yesterday_development": []
   }
 }
