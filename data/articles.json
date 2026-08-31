@@ -1,5 +1,148 @@
 [
   {
+    "source": "＠IT",
+    "title": "VMwareが「ターンキー化」 AI基盤の構築を数週間から30～45分に短縮",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news103.html",
+    "summary": "Broadcom（VMware）がAI基盤のターンキー提供を強化。自前構築より短時間で導入でき、コストやセキュリティ面での優位を訴求する内容。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "企業のAI導入速度と運用選択に直結する製品戦略で、クラウド／インフラ担当読者に重要。",
+    "published_at": "2026-08-31 22:00:00",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "小中学校で「情報」を教科に、英語ではAI活用初明記 次期学習指導要領、中教審まとめ案",
+    "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000986/",
+    "summary": "中教審のまとめ案で、デジタル社会対応として小中学校で「情報」を教科化。英語ではAI活用が初めて明記され、教育現場のデジタル人材育成が前進する。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "教育カリキュラムの変更は長期的なIT人材供給と企業採用に影響するため注目に値する。",
+    "published_at": "2026-08-31 18:45:42",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "日産とホンダ、次世代SDVの中核技術を共同開発 ECUや車載OSなど",
+    "url": "https://www.watch.impress.co.jp/docs/news/2137053.html",
+    "summary": "日産とホンダが次世代ソフトウェア定義車（SDV）向けにECUや車載OS、ミドルウェアの共通化で共同開発契約を締結。2029年度以降の採用を目指す。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "自動車のソフトウェア/ECU共通化はサプライチェーン、半導体・ソフトウェア戦略に大きな影響を与える。",
+    "published_at": "2026-08-31 18:00:00",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
+    "source": "＠IT",
+    "title": "Rustでもソフトウェアサプライチェーン攻撃 「arrayref」など人気クレートで侵害",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news037.html",
+    "summary": "Rust Security Response Teamが複数の人気クレートに悪意ある改ざんがあったと発表。該当バージョンは削除済みで、開発者にローカル環境の確認を呼びかけている。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "言語コミュニティとサプライチェーン安全は開発現場に直接影響するため開発者向け必読。",
+    "published_at": "2026-08-31 17:00:00",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "アンソロピック、物理デバイスのAI制御標準規格「MHS」発表",
+    "url": "https://www.watch.impress.co.jp/docs/news/2136926.html",
+    "summary": "Anthropicが、AIエージェントが物理デバイスを安全に操作するための共通仕様「Model Hardware Standard（MHS）」の研究プレビューを公開した。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "物理デバイス制御の安全仕様はロボティクス／産業応用での標準化・規制議論に直結するため重要度あり。",
+    "published_at": "2026-08-31 15:00:00",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Anthropic、AIに「AIの安全性研究」を任せる実験 うそ、迎合などの問題行動を性能落とさず改善",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000964/",
+    "summary": "Anthropicが自社モデルに安全性研究を自律実行させる実験を公開。複数の問題行動を性能を落とさず改善できたと報告している。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AIの自己改善・安全性評価手法はプロダクト開発とガバナンスに資する技術的示唆があるため興味深い。",
+    "published_at": "2026-08-31 14:07:36",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "DuckDB開発元のDuckLabs、AWSの子会社に オープンソースのMITライセンスは維持",
+    "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000954/",
+    "summary": "DuckDBの開発組織DuckLabsがAWSの子会社化。ライセンスはMITのまま維持されるとされるが、クラウド事業者によるオープンソース主導権の移転が注目される。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "分析DBエンジンの開発組織が大手クラウド傘下に入る事はエコシステムとクラウド戦略に影響を与えるため重要。",
+    "published_at": "2026-08-31 14:05:04",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
+    "source": "＠IT",
+    "title": "「エラーログをAIに解析させる」だけで感染 社内のAIを乗っ取る攻撃、対策は？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news035.html",
+    "summary": "Kasperskyなどの調査で、社内導入済みの正規AIエージェントを自然言語で悪用し、機密情報の窃取や侵害につなげる手口が解説された。実例と対策も提示。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "企業環境に広がる「社内AI乗っ取り」は現場の運用・権限管理に直結する重大課題。",
+    "published_at": "2026-08-31 11:00:00",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "厚労省の調査書類、ヤマトが配送中に紛失 339人分の氏名や給与額など漏えいのおそれ",
+    "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000952/",
+    "summary": "厚労省の調査書類が配送中に紛失し、339人分の氏名・給与額等の個人情報漏えいの恐れがあると報告された。対応と原因調査が進行中。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "政府文書の配送紛失は個人情報管理と事業者の運用責任に関わる実務上の教訓を含むため掲載価値がある。",
+    "published_at": "2026-08-31 09:57:53",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "AIによる大規模サイバー攻撃に備えよ--OpenAIら155組織が防衛強化を呼びかけ",
+    "url": "https://japan.cnet.com/article/35252073/",
+    "summary": "OpenAIなど155組織が、AIを悪用した大規模サイバー攻撃のリスクに対して迅速な防衛強化を企業・政府に呼びかけた。対策の緊急性を強調している。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AIを悪用した大規模攻撃への国際的な警告は企業のセキュリティ方針・予算に直結するため掲載価値高い。",
+    "published_at": "2026-08-31 09:34:00",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴",
+    "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000950/",
+    "summary": "大手音楽出版社グループがAnthropicを著作権侵害で提訴。海賊版サイトからの歌詞取得や無断学習を巡り数十億ドル規模の損害賠償を請求している。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "大手出版社による訴訟はAI学習データや生成物の法的枠組みに直接影響するため業界的に重大。",
+    "published_at": "2026-08-31 08:21:28",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
+    "source": "Publickey",
+    "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
+    "url": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+    "summary": "JetBrainsがローカルで動くAIコーディングエージェント「Junie Local」を発表。API使用料不要でオフライン運用が可能、将来GPU対応も示唆。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "ローカルで動くコーディングAIは開発現場のコスト・プライバシー運用を変えるため開発者に有用。",
+    "published_at": "2026-08-31 00:07:47",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2136632.html",
+    "summary": "LINEヤフーがAIエージェントブランド「Agent i」の新機能公開と量産体制のための全社タスクフォースを発表。日常向けエージェント展開を加速する狙い。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大手プラットフォーマの社内横断的なAI量産化はサービス展開とビジネスモデルに直結するため企業IT層に有益。",
+    "published_at": "2026-08-31 00:00:00",
+    "created_at": "2026-09-01 05:54:44"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
     "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
@@ -657,17 +800,6 @@
     "category": "法規制",
     "reason": "企業のUX/マーケ戦略や法的コンプライアンスに直結する規制動向で、事業設計や情シス・法務対応が必要になるため。",
     "published_at": "2026-08-24 18:23:27",
-    "created_at": "2026-08-25 01:00:51"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "【復旧済み】「Claude」で障害発生中",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000719/",
-    "summary": "AnthropicのAIサービス「Claude」「Claude Code」などで障害が発生。ステータスで原因特定と修正作業中と報告された（後に復旧）。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "主要AIサービスの可用性問題は運用・SLA観点で注意が必要だが、短期的に復旧しており深刻被害報告は無いため厳しめ評価で中程度以下。",
-    "published_at": "2026-08-24 17:55:15",
     "created_at": "2026-08-25 01:00:51"
   },
   {
@@ -2912,17 +3044,6 @@
     "category": "半導体",
     "reason": "主要半導体工場の復旧見通しはサプライチェーンと業界需給に直結するため、企業・市場判断に重要。",
     "published_at": "2026-08-01 20:53:17",
-    "created_at": "2026-08-02 01:27:08"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "Google EarthのNano Banana画像生成、フェイク対策のため開始1日で停止",
-    "url": "https://www.watch.impress.co.jp/docs/news/2129842.html",
-    "summary": "GoogleがWeb版Google Earthで開始した画像生成機能「Nano Banana」を提供開始から1日で停止。フェイク画像対策としてガードレール強化を検討。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "生成AI機能の即時停止はガバナンスと信頼性の問題を浮き彫りにし、AIサービス運用・規制の議論に影響するため注目度が高い。",
-    "published_at": "2026-08-01 19:53:10",
     "created_at": "2026-08-02 01:27:08"
   },
   {

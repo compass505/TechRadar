@@ -8308,33 +8308,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "343771dc03d5",
-    "title": "Google EarthのNano Banana画像生成、フェイク対策のため開始1日で停止",
-    "published_date": "2026-08-01",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "GoogleがWeb版Google Earthで開始した画像生成機能「Nano Banana」を提供開始から1日で停止。フェイク画像対策としてガードレール強化を検討。",
-    "reason": "生成AI機能の即時停止はガバナンスと信頼性の問題を浮き彫りにし、AIサービス運用・規制の議論に影響するため注目度が高い。",
-    "published_at": "2026-08-01 19:53:10",
-    "created_at": "2026-08-02 01:27:08",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2129842.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "6966c31b3221",
     "title": "ソニーの熊本工場、8月中旬には「地震前の稼働水準」に 早期復旧の理由を決算会見で明かす",
     "published_date": "2026-08-01",
@@ -13904,34 +13877,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "063b5af22e7c",
-    "title": "【復旧済み】「Claude」で障害発生中",
-    "published_date": "2026-08-24",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "AnthropicのAIサービス「Claude」「Claude Code」などで障害が発生。ステータスで原因特定と修正作業中と報告された（後に復旧）。",
-    "reason": "主要AIサービスの可用性問題は運用・SLA観点で注意が必要だが、短期的に復旧しており深刻被害報告は無いため厳しめ評価で中程度以下。",
-    "published_at": "2026-08-24 17:55:15",
-    "created_at": "2026-08-25 01:00:51",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000719/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "44f2d921d166",
     "title": "【西田宗千佳のイマトミライ】ChatGPTがMacの全操作を記憶して起こること AIの競争は「文脈」「ナレッジ」に",
     "published_date": "2026-08-24",
@@ -15731,6 +15676,374 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "53e6c1aab456",
+    "title": "AIによる大規模サイバー攻撃に備えよ--OpenAIら155組織が防衛強化を呼びかけ",
+    "published_date": "2026-08-31",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "OpenAIなど155組織が、AIを悪用した大規模サイバー攻撃のリスクに対して迅速な防衛強化を企業・政府に呼びかけた。対策の緊急性を強調している。",
+    "reason": "AIを悪用した大規模攻撃への国際的な警告は企業のセキュリティ方針・予算に直結するため掲載価値高い。",
+    "published_at": "2026-08-31 09:34:00",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35252073/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "377748d85c51",
+    "title": "Anthropic、AIに「AIの安全性研究」を任せる実験 うそ、迎合などの問題行動を性能落とさず改善",
+    "published_date": "2026-08-31",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Anthropicが自社モデルに安全性研究を自律実行させる実験を公開。複数の問題行動を性能を落とさず改善できたと報告している。",
+    "reason": "AIの自己改善・安全性評価手法はプロダクト開発とガバナンスに資する技術的示唆があるため興味深い。",
+    "published_at": "2026-08-31 14:07:36",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000964/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "df100cd9b0ca",
+    "title": "DuckDB開発元のDuckLabs、AWSの子会社に オープンソースのMITライセンスは維持",
+    "published_date": "2026-08-31",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "DuckDBの開発組織DuckLabsがAWSの子会社化。ライセンスはMITのまま維持されるとされるが、クラウド事業者によるオープンソース主導権の移転が注目される。",
+    "reason": "分析DBエンジンの開発組織が大手クラウド傘下に入る事はエコシステムとクラウド戦略に影響を与えるため重要。",
+    "published_at": "2026-08-31 14:05:04",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/31/2000000954/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 3,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "fd0982d8dab7",
+    "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中",
+    "published_date": "2026-08-31",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "JetBrainsがローカルで動くAIコーディングエージェント「Junie Local」を発表。API使用料不要でオフライン運用が可能、将来GPU対応も示唆。",
+    "reason": "ローカルで動くコーディングAIは開発現場のコスト・プライバシー運用を変えるため開発者に有用。",
+    "published_at": "2026-08-31 00:07:47",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "02423e770d94",
+    "title": "LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」",
+    "published_date": "2026-08-31",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "LINEヤフーがAIエージェントブランド「Agent i」の新機能公開と量産体制のための全社タスクフォースを発表。日常向けエージェント展開を加速する狙い。",
+    "reason": "大手プラットフォーマの社内横断的なAI量産化はサービス展開とビジネスモデルに直結するため企業IT層に有益。",
+    "published_at": "2026-08-31 00:00:00",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2136632.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6f6c8d94e044",
+    "title": "Rustでもソフトウェアサプライチェーン攻撃 「arrayref」など人気クレートで侵害",
+    "published_date": "2026-08-31",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "Rust Security Response Teamが複数の人気クレートに悪意ある改ざんがあったと発表。該当バージョンは削除済みで、開発者にローカル環境の確認を呼びかけている。",
+    "reason": "言語コミュニティとサプライチェーン安全は開発現場に直接影響するため開発者向け必読。",
+    "published_at": "2026-08-31 17:00:00",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news037.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d40a7cdecb7d",
+    "title": "VMwareが「ターンキー化」 AI基盤の構築を数週間から30～45分に短縮",
+    "published_date": "2026-08-31",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "Broadcom（VMware）がAI基盤のターンキー提供を強化。自前構築より短時間で導入でき、コストやセキュリティ面での優位を訴求する内容。",
+    "reason": "企業のAI導入速度と運用選択に直結する製品戦略で、クラウド／インフラ担当読者に重要。",
+    "published_at": "2026-08-31 22:00:00",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news103.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "b53e482b9aa5",
+    "title": "「エラーログをAIに解析させる」だけで感染 社内のAIを乗っ取る攻撃、対策は？",
+    "published_date": "2026-08-31",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Kasperskyなどの調査で、社内導入済みの正規AIエージェントを自然言語で悪用し、機密情報の窃取や侵害につなげる手口が解説された。実例と対策も提示。",
+    "reason": "企業環境に広がる「社内AI乗っ取り」は現場の運用・権限管理に直結する重大課題。",
+    "published_at": "2026-08-31 11:00:00",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news035.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "520d206cf328",
+    "title": "アンソロピック、物理デバイスのAI制御標準規格「MHS」発表",
+    "published_date": "2026-08-31",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Anthropicが、AIエージェントが物理デバイスを安全に操作するための共通仕様「Model Hardware Standard（MHS）」の研究プレビューを公開した。",
+    "reason": "物理デバイス制御の安全仕様はロボティクス／産業応用での標準化・規制議論に直結するため重要度あり。",
+    "published_at": "2026-08-31 15:00:00",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2136926.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "870b8cd18ce4",
+    "title": "ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴",
+    "published_date": "2026-08-31",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "大手音楽出版社グループがAnthropicを著作権侵害で提訴。海賊版サイトからの歌詞取得や無断学習を巡り数十億ドル規模の損害賠償を請求している。",
+    "reason": "大手出版社による訴訟はAI学習データや生成物の法的枠組みに直接影響するため業界的に重大。",
+    "published_at": "2026-08-31 08:21:28",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/31/2000000950/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b8c335279483",
+    "title": "厚労省の調査書類、ヤマトが配送中に紛失 339人分の氏名や給与額など漏えいのおそれ",
+    "published_date": "2026-08-31",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "厚労省の調査書類が配送中に紛失し、339人分の氏名・給与額等の個人情報漏えいの恐れがあると報告された。対応と原因調査が進行中。",
+    "reason": "政府文書の配送紛失は個人情報管理と事業者の運用責任に関わる実務上の教訓を含むため掲載価値がある。",
+    "published_at": "2026-08-31 09:57:53",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/31/2000000952/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "3852a395b89c",
+    "title": "小中学校で「情報」を教科に、英語ではAI活用初明記 次期学習指導要領、中教審まとめ案",
+    "published_date": "2026-08-31",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "中教審のまとめ案で、デジタル社会対応として小中学校で「情報」を教科化。英語ではAI活用が初めて明記され、教育現場のデジタル人材育成が前進する。",
+    "reason": "教育カリキュラムの変更は長期的なIT人材供給と企業採用に影響するため注目に値する。",
+    "published_at": "2026-08-31 18:45:42",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2608/31/2000000986/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "737536033b4a",
+    "title": "日産とホンダ、次世代SDVの中核技術を共同開発 ECUや車載OSなど",
+    "published_date": "2026-08-31",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "日産とホンダが次世代ソフトウェア定義車（SDV）向けにECUや車載OS、ミドルウェアの共通化で共同開発契約を締結。2029年度以降の採用を目指す。",
+    "reason": "自動車のソフトウェア/ECU共通化はサプライチェーン、半導体・ソフトウェア戦略に大きな影響を与える。",
+    "published_at": "2026-08-31 18:00:00",
+    "created_at": "2026-09-01 05:54:44",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2137053.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
     "has_itmedia_article": false
   }
 ]
