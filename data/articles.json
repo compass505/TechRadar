@@ -1,5 +1,170 @@
 [
   {
+    "source": "ITmedia AI+",
+    "title": "総務省、「AX・新技術戦略室」を新設 AI推進に注力",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001044/",
+    "summary": "総務省がAI推進を取りまとめる「AX・新技術戦略室」を新設。関係省庁との連携や政策調整を主導する狙い。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "国内のAI政策体制強化で、自治体・事業者の対応に影響する可能性があるため掲載価値あり。",
+    "published_at": "2026-09-01 19:37:56",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "ChatGPT広告、開始200日足らずで年換算1600億円の売上に",
+    "url": "https://japan.cnet.com/article/35252141/",
+    "summary": "OpenAIはChatGPT内広告の年換算売上が10億ドル(約1600億円)に達したと発表。広告主向けセルフサービスを地域拡大し、収益の多角化を進める。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "生成AIサービスで広告が短期間に大規模収益化しており、ビジネスモデルの進化を示すため有用。",
+    "published_at": "2026-09-01 18:20:00",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "12TBのゲームデータがSteamから流出 開発中止タイトルや試作版も含む10年分",
+    "url": "https://japan.cnet.com/article/35252129/",
+    "summary": "Steam関連で約12TBに及ぶゲームデータが流出。開発中止タイトルや試作版など過去10年分に相当するデータが含まれると報じられている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模な知的財産・開発資産の流出は開発企業・プラットフォーム双方にとって重大リスクであり注目に値する。",
+    "published_at": "2026-09-01 14:57:00",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "洋上浮体型データセンターに「港湾立地型」 用地確保・アクセスの課題解消",
+    "url": "https://www.watch.impress.co.jp/docs/news/2137273.html",
+    "summary": "日本郵船らが洋上浮体型データセンターの『港湾立地型』コンセプトを策定。用地確保やアクセス課題の解消を図り実現性を高める狙い。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "データセンターの設置モデル革新はクラウド事業者・インフラ戦略に影響するため注目度が高い。",
+    "published_at": "2026-09-01 14:08:15",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「当選した」自虐投稿も……さくら136万件漏えい可能性、対象者へ通知メール続々",
+    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001017/",
+    "summary": "さくらインターネットが不正アクセスを受け、約136万件の利用者に影響が出る可能性を発表。対象者へ個別通知が送付され始めている。運用停止や調査対応が進行中。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模な個人情報漏えいの可能性で利用者・企業に即時影響があり、対応必須の事案。",
+    "published_at": "2026-09-01 13:20:19",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "＠IT",
+    "title": "AIインフラ支出、ついに「推論」が「学習」を上回る――背景についてGartnerが解説",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news032.html",
+    "summary": "Gartnerの予測で、AIインフラ支出において推論（推論提供）が学習を上回る見通し。AIに最適化されたIaaS支出が急増する説明と背景分析。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウド／インフラの投資トレンド変化は事業計画や情シスの設備判断に直結するため有益。",
+    "published_at": "2026-09-01 13:00:00",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "欧州委員会、ChatGPTを「検索エンジン」として規制対象に",
+    "url": "https://www.watch.impress.co.jp/docs/news/2137165.html",
+    "summary": "欧州委員会はDSAに基づき、ChatGPTを超大規模オンライン検索エンジン(VLOSE)に指定。規制対象の適用により運用・透明性要件が強化される見込み。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "主要な生成AIサービスに対する法的枠組みの適用拡大で、事業運営やコンプライアンス要件が変わるため。",
+    "published_at": "2026-09-01 11:00:19",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NVIDIA、MediaTekの転換社債に35億ドル投資 「NVLink Fusion」採用などでAI協業を強化",
+    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001005/",
+    "summary": "NVIDIAがMediaTekの転換社債に35億ドルを投資し、ラック統合やPC・車載向け共同開発などでAI基盤の協業を拡大する。両社の顧客囲い込みと事業強化が狙い。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "主要ベンダー間の大規模資本・技術連携で半導体・AIインフラの競争構図に直接影響するため。",
+    "published_at": "2026-09-01 10:36:31",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "自衛隊指揮統制にAI導入、ドローン取得加速 防衛省概算要求、過去最大8兆8900億円",
+    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001004/",
+    "summary": "防衛省は令和9年度予算概算要求で過去最大を計上。自衛隊の指揮統制へのAI導入や攻撃ドローン取得の加速、製造工場の国有化と民間管理委託制度創設を盛り込む。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "国家レベルでのAI導入と兵站体制の制度変更は安全保障と産業動向に広範な影響を及ぼすため。",
+    "published_at": "2026-09-01 10:20:07",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "FTCと22州、Amazonを提訴 広告オークションで「隠れた上乗せ」と主張 Amazonは「見当違い」と反論",
+    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001001/",
+    "summary": "米FTCと22州がAmazonを提訴。検索連動広告のオークションで価格を秘密裏に吊り上げ、広告主に不当請求したと主張している。Amazonは反論を表明。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "巨大プラットフォームの広告ビジネスを巡る大規模な訴訟で、業界ルールや広告市場に影響を与える可能性が高い。",
+    "published_at": "2026-09-01 09:43:16",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「よりによって月末に」 サイボウズ「kintone」「Garoon」などで2時間にわたり障害",
+    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000999/",
+    "summary": "サイボウズの業務アプリ基盤で月末業務時間帯に約2時間の障害が発生。利用企業からは業務影響の声が相次いだ。復旧対応中。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "主要業務SaaSの停止は多くの企業の業務に直接影響し、可用性・BCPの議論を促すため掲載価値あり。",
+    "published_at": "2026-09-01 09:26:43",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "日産とホンダ、車載システム共通化へ ECUやOS・ソフトウェアなど共同開発",
+    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000995/",
+    "summary": "日産とホンダが次世代SDVの中核となる複数ECUと車載OS・ミドルウェア・制御ソフトの主要部分を共通化する共同開発契約を締結。2029年度以降の適用を目指す。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "自動車ソフトウェアの標準化に向けた大手同士の協業はサプライチェーンと開発負荷を大きく変えるため。",
+    "published_at": "2026-09-01 08:00:00",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「AIが勝手にやった」は通用しない？ AIエージェントにも“社員証”と“委任状”が要るワケ 今からできる対策も解説",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000000898/",
+    "summary": "企業利用が進むAIエージェントに対し、業務委任の明確化（社員証・委任状）や運用ルール整備の必要性を解説。実事故を踏まえた対策が示される。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業のAIガバナンスと実務運用に直結する実践的なガイドで読者の判断に役立つため。",
+    "published_at": "2026-09-01 08:00:00",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ティム・クック氏、Apple CEOとしての最後の日にメッセージ 「一生に一度の特権だった」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000996/",
+    "summary": "ティム・クックがCEO任期を終え取締役会長へ移行、ジョン・ターナスが新CEOに就任。組織体制と対外対応の役割分担が変わる。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "Appleのトップ交代は製品戦略や規制対応、業界意思決定に影響するため重要。",
+    "published_at": "2026-09-01 07:20:30",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
+    "source": "Publickey",
+    "title": "DHH氏が開発するLinux OS「Omarchy Quattro」リリース。AIエージェントとをOSと統合、スキルによりAIエージェントがOSの設定や操作、プラグイン作成まで支援",
+    "url": "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html",
+    "summary": "DHHが開発するデスクトップLinux「Omarchy 4.0 (Quattro)」をリリース。AIエージェント統合やスキル拡張でOS操作・設定支援を強化している。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発者・OSSコミュニティに影響するデスクトップOSのAI統合で、開発・運用手法に示唆を与えるため。",
+    "published_at": "2026-09-01 00:54:46",
+    "created_at": "2026-09-02 03:40:06"
+  },
+  {
     "source": "＠IT",
     "title": "VMwareが「ターンキー化」 AI基盤の構築を数週間から30～45分に短縮",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news103.html",
@@ -778,17 +943,6 @@
     "category": "開発",
     "reason": "AIを活用した大規模コード移行は開発プロジェクトのコストとスケジュール設計を変えるため",
     "published_at": "2026-08-25 11:00:00",
-    "created_at": "2026-08-26 01:05:39"
-  },
-  {
-    "source": "Publickey",
-    "title": "シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能",
-    "url": "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
-    "summary": "DuckDB 2.0のプレビューを紹介。クライアント/サーバ機能の安定化やVARIANT型、トリガー、非同期I/Oなどデータ処理面の拡張が予定されている。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "データ基盤の進化はデータエンジニア／開発者に有益だが、影響範囲は主に技術者に限定されるため",
-    "published_at": "2026-08-25 00:29:33",
     "created_at": "2026-08-26 01:05:39"
   },
   {
@@ -3011,17 +3165,6 @@
     "category": "AI",
     "reason": "ブラウザ統合による自動化はプライバシー・認証・企業利用に直結する大きな機能拡張で、情シスや事業判断に影響。",
     "published_at": "2026-08-02 10:12:35",
-    "created_at": "2026-08-03 01:26:50"
-  },
-  {
-    "source": "＠IT",
-    "title": "「AI活用する新人増えてOJT負担増」 複数の調査で露呈した現場の苦悩",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/02/news004.html",
-    "summary": "AIを業務で使う新人が増えたことで、育成側のOJT負担やレビュー工数が増加していると複数調査で判明。AI活用には人側のスキル整備が不可欠と指摘される。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発現場と人材育成に直結する課題で、現場運用や採用・評価方針に影響を与える実務的ニュース。",
-    "published_at": "2026-08-02 08:00:00",
     "created_at": "2026-08-03 01:26:50"
   },
   {
