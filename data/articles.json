@@ -1,5 +1,170 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "OpenAI、次世代AIモデル「Astra」はまもなく 今後は「ペースを落とす」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2137743.html",
+    "summary": "OpenAIが次世代モデル『Astra』のまもない公開を予告。以降はモデル開発のペースを落とす方針も示した。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "OpenAIの新世代モデルは市場・製品戦略と企業導入に直結する主要トピックのため重要度高。",
+    "published_at": "2026-09-02 20:00:00",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "LINE×PayPay連携が延期の見通し 総務省の行政指導受け安全確認に時間 報道",
+    "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001092/",
+    "summary": "LINEヤフーが予定していたLINEとPayPayのアカウント連携を総務省の指導により延期へ。開始時期は未定で利用者情報保護の確認が理由とされる。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "大手プラットフォームの機能統合が行政指導で止まる事例は、規制対応とユーザーデータ保護に関する企業判断事例として重要。",
+    "published_at": "2026-09-02 18:53:19",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "三井不動産に不正アクセス 社員・社外関係者の情報最大5万5000件漏えいか",
+    "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001091/",
+    "summary": "三井不動産グループの一部システムが不正アクセスを受け、役職員や社外関係者の個人情報最大5万5000件が流出した可能性を発表。調査と対応を進めている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "国内大手不動産での個人情報漏えいは企業ITと顧客影響が大きく、情シス・経営判断で即座に注目すべき事案。",
+    "published_at": "2026-09-02 18:50:53",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "NEC、AIモデル「ミュトス」をサイバーセキュリティに活用 「Project Glasswing」に参画",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001075/",
+    "summary": "NECがAnthropicのClaude Mythos Previewをサイバーセキュリティ用途で導入し、Project Glasswingの防衛連合に参画すると発表した。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "国内大手が先進モデルをセキュリティ用途で採用する動きは、防御側の実運用と産業連携に影響するため報じる価値あり。",
+    "published_at": "2026-09-02 16:48:34",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Geminiの動画解析が進化 “見逃し”減らしトークンも88%削減",
+    "url": "https://www.watch.impress.co.jp/docs/news/2137587.html",
+    "summary": "GoogleがGeminiの動画解析機能『Agentic video understanding』を発表。見逃しを減らしつつトークン消費を大幅削減する技術改善を打ち出した。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "動画解析の効率改善はメディア企業や開発者の運用コストと機能設計に直結するため実務的に有益。",
+    "published_at": "2026-09-02 13:33:36",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "ソフトバンク、HAPSとスマホの通信試験に国内初成功 27年以降商用化へ",
+    "url": "https://www.watch.impress.co.jp/docs/news/2137538.html",
+    "summary": "ソフトバンクと米Sceyeが成層圏のHAPSからスマホへ通信を届ける試験に成功。国内での商用化を見据えた一歩になる。",
+    "importance": 3,
+    "category": "その他",
+    "reason": "空中基地局による通信プラットフォームはインフラの選択肢を増やし、事業戦略や通信事業者の技術ロードマップに関係するため注目。",
+    "published_at": "2026-09-02 12:12:14",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "楽天にGMO……防衛産業に近づく民間IT企業 反発の声も",
+    "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001041/",
+    "summary": "AIやドローンなど防衛関連分野に民間IT企業の関与が増加。企業やユーザーからは倫理的懸念や反発の声も上がっている。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "IT企業の防衛参入は事業多角化と社会的リスクの両面を持ち、投資や採用、ブランド戦略に影響するため掲載価値あり。",
+    "published_at": "2026-09-02 12:00:00",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "Publickey",
+    "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
+    "url": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
+    "summary": "AnthropicとSalesforceが『Claudeforce』を発表。Claude上からSalesforceデータを操作・分析でき、業務プロセスとの連携を実現する。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "CRMとLLM統合は営業・顧客対応のDXに直結するため、企業導入やリスク管理面で注目度が高い。",
+    "published_at": "2026-09-02 11:43:59",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、AI画像生成・編集ツール「Google Pics」提供開始 特定オブジェクトの編集や文字翻訳も可能",
+    "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001058/",
+    "summary": "Googleが画像生成・編集ツール『Google Pics』を発表。Nano Bananaモデル搭載で領域編集や文字翻訳が可能、Workspaceへの統合も予定。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "Workspace統合などで法人ユーザーへの影響大、企業のワークフロー変化につながるため実務的な注目度あり。",
+    "published_at": "2026-09-02 11:10:34",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "＠IT",
+    "title": "パスワードも2FAも盗まない――攻撃者が狙った「Claudeのログイン済みセッション」の正体",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/02/news038.html",
+    "summary": "AnthropicのClaudeで、ログイン済みセッションを盗用して利用量を不正消費する事案が確認。パスワードや2FAを回避する攻撃の手口を解説している。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "実際の不正利用事例は企業ユーザーのガバナンスと対策に直結するため高優先度で報じる必要あり。",
+    "published_at": "2026-09-02 11:00:00",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "アップル新CEOにターナス氏が就任--試練山積での船出 折りたたみiPhoneも試金石に",
+    "url": "https://japan.cnet.com/article/35252146/",
+    "summary": "Appleの新CEOにジョン・ターナス氏が就任。ハードウェアエンジニア出身の新体制で、今後の製品戦略や市場対応が注目される。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "Appleの経営トップ交代は業界戦略やサプライチェーン、企業投資判断に広範な影響を与えるため重要。",
+    "published_at": "2026-09-02 09:05:00",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、企業向け「Enterprise Frontier Safeguards」発表 ログは顧客のクラウドに保存し、人手による確認も顧客側で",
+    "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001049/",
+    "summary": "Anthropicが企業向け新機能EFSを発表。活動データを顧客クラウドへ保存し、社外レビューを排してプライバシーと不正検知を両立する設計。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業向けガバナンスとプライバシー設計の進化は導入判断に直結するため、情シス向けの有用な情報。",
+    "published_at": "2026-09-02 08:06:30",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表 「監視の難しさ」への懸念も開示",
+    "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001048/",
+    "summary": "Anthropicが高性能LLMのFable 5.1（一般提供）とMythos 5.1（審査制）を発表。性能向上と同時に監視やエクスプロイトリスクについても注記している。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要モデルの世代更新は産業影響が大きく、安全性・運用面の議論を促すため業界ニュース価値が高い。",
+    "published_at": "2026-09-02 07:23:30",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "Publickey",
+    "title": "AIエージェントがRedshiftを操作してDWH構築や集計分析など可能に、Amazon RedshiftがAgent Toolkit for AWSと統合",
+    "url": "https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html",
+    "summary": "Amazon RedshiftがAgent Toolkit for AWSと統合され、AIエージェント経由でDWH構築や集計、SQL生成などの自動化が可能になった。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "データ基盤でのAIエージェント活用は運用効率とガバナンスに影響し、クラウド/情シス向けに有用なニュース。",
+    "published_at": "2026-09-02 00:07:04",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
+    "source": "Publickey",
+    "title": "VS Code上で開発のセカンドオピニオンを別のAIエージェントから得られる「Rubber Duck」機能が実験的実装",
+    "url": "https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html",
+    "summary": "VS Codeの最新版で、メインAIとは別のAIエージェントにセカンドオピニオンを求められる『Rubber Duck』機能が実験実装された。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発現場でのAI活用・品質管理に直接関わる機能で、開発者のワークフロー影響が大きい。",
+    "published_at": "2026-09-02 00:01:52",
+    "created_at": "2026-09-03 03:49:23"
+  },
+  {
     "source": "ITmedia AI+",
     "title": "総務省、「AX・新技術戦略室」を新設 AI推進に注力",
     "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001044/",
@@ -3036,28 +3201,6 @@
     "created_at": "2026-08-05 02:10:44"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "キオクシアに約366億円の賠償命じる判決 米特許訴訟、陪審評決に続き 「あらゆる法的手段講じる」",
-    "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000363/",
-    "summary": "米連邦地裁がキオクシアと米子会社に対し約2億2900万ドル（約366億円）の損害賠償を命じる判決。キオクシアは控訴を検討。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "主要メモリベンダーに対する特許判決で企業戦略・供給や訴訟リスクに影響するため中〜高の業界重要度。",
-    "published_at": "2026-08-03 19:38:13",
-    "created_at": "2026-08-04 02:23:11"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "キオクシア、フラッシュメモリでメモリ容量を増やせるモジュール発表 DRAMの容量不足を補う",
-    "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000400/",
-    "summary": "キオクシアがCXL対応のメモリ拡張モジュール「KIOXIA XL1シリーズ」を発表。フラッシュを用いてDRAM不足を補うことでデータセンターのメモリ需要に対応する狙い。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "AIインフラでのメモリ需要増へのハード的解決策でありデータセンター設計に影響する技術発表。",
-    "published_at": "2026-08-03 17:31:40",
-    "created_at": "2026-08-06 01:57:19"
-  },
-  {
     "source": "Impress Watch",
     "title": "NTTとOptQC、光量子コンピュータで資本業務提携 100万量子ビット級へ",
     "url": "https://www.watch.impress.co.jp/docs/news/2130099.html",
@@ -3077,39 +3220,6 @@
     "category": "セキュリティ",
     "reason": "大規模な個人情報漏えいで即時対応と顧客影響が甚大なため最高ランク。",
     "published_at": "2026-08-03 15:11:32",
-    "created_at": "2026-08-04 02:23:11"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "OpenAI、ユーザー10億人突破 200万社が導入",
-    "url": "https://www.watch.impress.co.jp/docs/news/2129965.html",
-    "summary": "OpenAIはChatGPTを含むサービスでアクティブユーザーが10億人を突破し、企業利用は200万社超に拡大したと発表。利用習熟度の上昇も示す。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "利用規模の拡大は市場・競合環境、企業の採用判断に影響するためビジネス的意義が高い。",
-    "published_at": "2026-08-03 12:34:42",
-    "created_at": "2026-08-04 02:23:11"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「Qwen3.8-Max」登場、オープン化は「来週」 一部「Fable 5」「GPT-5.6 Sol」超えの性能うたう",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000353/",
-    "summary": "Alibaba CloudがAIモデル『Qwen3.8-Max』を正式リリース。来週に重み公開を予定しており、オープンモデルとして開発者コミュニティへ影響を与える見込み。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "大規模モデルのオープン化は開発者・サービス事業者に実装選択肢を増やすため有用。",
-    "published_at": "2026-08-03 12:26:15",
-    "created_at": "2026-08-04 02:23:11"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "Google Cloud、AI時代のセキュリティ基盤「AI Threat Defense」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2129668.html",
-    "summary": "Google Cloudが年次会議でAIを活用したセキュリティ基盤『AI Threat Defense』を発表。クラウド上での脅威検知・対処を強化する製品説明が行われた。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "主要クラウドベンダーのAIセキュリティ戦略は企業の導入判断やベンダー比較に直結するため実務的価値あり。",
-    "published_at": "2026-08-03 09:00:00",
     "created_at": "2026-08-04 02:23:11"
   },
   {
@@ -3143,17 +3253,6 @@
     "category": "セキュリティ",
     "reason": "主要クラウド/ソフトウェアベンダーによるAIベースの防御基盤は業界標準に影響するため高重要度。",
     "published_at": "2026-08-03 07:00:00",
-    "created_at": "2026-08-04 02:23:11"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "OpenAI、次期主力モデル「Astra」の存在を明らかに――未解決の数学問題10件を「解決」と発表",
-    "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
-    "summary": "OpenAIが次期モデル『Astra』の社内版で未解決の数学・理論計算機科学の問題10件に新たな結果を出したと発表。Leanでの形式証明も公開。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "大手モデルの能力向上と形式証明公開は研究・開発コミュニティに示唆を与えるため注目度高め。",
-    "published_at": "2026-08-03 06:56:14",
     "created_at": "2026-08-04 02:23:11"
   },
   {
