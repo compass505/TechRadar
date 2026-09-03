@@ -1,5 +1,137 @@
 [
   {
+    "source": "ITmedia AI+",
+    "title": "NVIDIAがHugging Face買収で合意 約2兆円 ジェンスン・フアンCEOはオープンモデルの重要性に言及",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001150/",
+    "summary": "NVIDIAが米Hugging Faceを約129億ドルで買収合意。プラットフォーム強化やインフラ拡大を目指す。開発者やオープンモデル提供の影響が大きい一手。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "大手GPUベンダーによるプラットフォーム買収は開発者エコシステムとモデル普及に直結する戦略的ニュースのため。",
+    "published_at": "2026-09-03 22:34:49",
+    "created_at": "2026-09-04 03:48:00"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "トランプ政権「記事のAI学習は著作権侵害ではない」 OpenAIを支持する意見書、対New York Timesなどとの訴訟で",
+    "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001130/",
+    "summary": "米政府が報道記事をAIモデル学習に使う行為はフェアユースだとする意見書を提出。OpenAI側を支持する姿勢が訴訟の帰趨に影響を与える可能性。業界の法的枠組みに関わる重要動向。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "AI学習データの法的基準を左右し、メディア訴訟やモデル提供に広範な影響を及ぼすため。",
+    "published_at": "2026-09-03 17:20:04",
+    "created_at": "2026-09-04 03:48:00"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ニューヨーク市、公立校で生成AI利用を1年間禁止 8年生まで約60万人が対象",
+    "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001115/",
+    "summary": "ニューヨーク市が公立学校の2歳児〜8年生を対象に生成AIの利用を1年間禁止。約60万人に影響し、教育現場でのAI運用・方針策定に波及する可能性。教育と技術の線引き事例。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "教育現場でのAI利用制限は自治体方針の先行例として学校・IT部門に示唆を与えるため。",
+    "published_at": "2026-09-03 17:13:59",
+    "created_at": "2026-09-04 03:48:00"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "トクリュウ被害防止へ、指示役のスマホを「遠隔解析」 警察庁の有識者検討会が提言",
+    "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001127/",
+    "summary": "警察庁の検討会が、犯罪グループ対策のため指示役の端末通信を遠隔解析する新手法の導入を提言。実現には法改正が必要との方針。監視・捜査権限の拡大につながる可能性あり。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "端末通信の遠隔取得は個人・通信の自由や捜査手法に重大に関わる政策提案のため業界・行政で注目度が高い。",
+    "published_at": "2026-09-03 16:42:01",
+    "created_at": "2026-09-04 03:48:00"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AWS、日米結ぶ新たな太平洋海底ケーブル「Sta'O'Nuk」発表 420Tbpsで2029年に稼働へ",
+    "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001125/",
+    "summary": "AWSが日米間の新海底ケーブル「Sta'O'Nuk」を発表。420Tbpsの大容量で2029年稼働予定、陸揚げ拠点を分散し集中リスクを低減。クラウドと通信インフラの競争・冗長化に影響。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "国際クラウドインフラと冗長化戦略に直接影響する大規模ネットワーク投資だから。",
+    "published_at": "2026-09-03 16:37:46",
+    "created_at": "2026-09-04 03:48:00"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Claudeの“見えない透かし”適用開始 Fable 5.1とMythos 5.1が出力する文やコード、画像に付与 日本も対象",
+    "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001110/",
+    "summary": "AnthropicがClaudeの最新モデルで機械可読の透かしを導入。画像・音声・動画などに来歴判定用の透かしを付与し、無料の検査ツールも公開。生成物の追跡と誤用抑止を狙う。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "生成物の出自確認技術は企業導入や規制対応で実務的な意味を持つため掲載価値が高い。",
+    "published_at": "2026-09-03 14:45:33",
+    "created_at": "2026-09-04 03:48:00"
+  },
+  {
+    "source": "＠IT",
+    "title": "AnthropicがフロンティアAIセキュリティサービス「EFS」を発表 履歴データを顧客環境に保持しながら自動監視で誤用を検知",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news087.html",
+    "summary": "Anthropicが企業向けに、顧客データを外に出さずにフロンティアAIの誤用を自動検知するセキュリティサービスを発表。高規格のデータ保護が求められる分野向けの提供。企業導入の障壁を下げる狙い。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "フロンティアAIを安全に企業導入するための管理・監視サービスは情シス・リスク管理側に重要な動向だから。",
+    "published_at": "2026-09-03 14:42:00",
+    "created_at": "2026-09-04 03:48:00"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Uber、ロンドンで英国初の自動運転配車を開始 年内には東京でも車両投入へ",
+    "url": "https://www.itmedia.co.jp/news/article/2609/03/2000001106/",
+    "summary": "UberとWayveがロンドンで監督付きの自動運転配車サービスを開始。年内に東京でも車両を投入予定。自動運転サービスの実運用展開と市場拡大の注目事例。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "一般向け自動運転の商用展開は産業界・規制当局・投資判断に関わるため掲載が有益。",
+    "published_at": "2026-09-03 11:54:12",
+    "created_at": "2026-09-04 03:48:00"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "オープンモデル普及で“お手軽”になるサイバー攻撃 防御側が今すべき「侵入前提」の対策",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001098/",
+    "summary": "オープンウェイトモデルの普及が攻撃のハードルを下げるリスクを指摘し、侵入前提での対策を提示。GTIGやアクセンチュアの知見を踏まえ、組織が優先すべき防御策を解説する。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "オープンモデルがセキュリティに与える実務上のリスクと対策は情シス・開発者にとって重要な実務情報だから。",
+    "published_at": "2026-09-03 09:40:04",
+    "created_at": "2026-09-04 03:48:00"
+  },
+  {
+    "source": "＠IT",
+    "title": "手元のAIエージェントを乗っ取る「AI遠隔操作」の手口 開発環境を守る5つの対策",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news030.html",
+    "summary": "ローカルのAIエージェントが汚染npmパッケージ経由で乗っ取られ機密流出する攻撃手口を解説。GitGuardianなどの調査を踏まえ、開発環境で取るべき5つの対策を提示。実務的な防御策に焦点。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "開発現場で現実に起きる新たな攻撃手法と対策は開発者・情シス向けに即効性のある情報だから。",
+    "published_at": "2026-09-03 08:00:00",
+    "created_at": "2026-09-04 03:48:00"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Google、「Gemini 3.8 Flash」公開 3.7から3週間、価格据え置きで防御特化の「Cyber」も",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001096/",
+    "summary": "GoogleがGeminiの新バージョン3.8 Flashを発表。性能向上とコーディング強化に加え、防御特化の“Cyber”版を限定提供。企業向けセキュリティ支援や自動化への応用を想定。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要クラウドベンダーによるモデル改良と防御特化版は開発者とセキュリティ運用に影響するため。",
+    "published_at": "2026-09-03 07:42:19",
+    "created_at": "2026-09-04 03:48:00"
+  },
+  {
+    "source": "Publickey",
+    "title": "AWSとAzureが最大100Gbpsでの相互接続を開始。これでAWSはAzure、Google Cloud、Oracle Cloudとのマルチクラウドをサポート",
+    "url": "https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html",
+    "summary": "AWSとMicrosoft Azureが最大100Gbpsの閉域接続を開始。主要クラウド間の高帯域な相互接続が進み、マルチクラウド運用のパフォーマンスと構成選択に影響。企業クラウド戦略に直結する動き。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウド間接続の高速化はエンタープライズのマルチクラウド設計・運用に実質的な影響を与えるため。",
+    "published_at": "2026-09-03 00:53:23",
+    "created_at": "2026-09-04 03:48:00"
+  },
+  {
     "source": "Impress Watch",
     "title": "OpenAI、次世代AIモデル「Astra」はまもなく 今後は「ペースを落とす」",
     "url": "https://www.watch.impress.co.jp/docs/news/2137743.html",
@@ -738,28 +870,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "「Backlogの値上げエグすぎ」SNSで悲鳴 ユーザー無制限プラン、月最低1.6万円→3.6万円に",
-    "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000862/",
-    "summary": "プロジェクト管理ツールBacklogが無制限プランを大幅値上げ。ユーザーや企業のコスト負担増としてSNSで反発が拡大している。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "SaaS価格改定がIT調達・運用コストに即効で影響する実例のためIT管理者向けの注意喚起",
-    "published_at": "2026-08-27 17:12:55",
-    "created_at": "2026-08-28 09:29:15"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "NVIDIAが開発支援、約30秒で口腔がんの疑い検出する歯科用AI",
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/27/news068.html",
-    "summary": "大阪大学らが開発した歯科用AI「Mucosight AI」が製造販売承認を取得。口腔粘膜画像から疾患の特徴を検出し、受診勧奨の判断を支援する医療機器となる。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "医療分野でのAI承認事例は規制・商用化の先行指標となるため注目に値する",
-    "published_at": "2026-08-27 15:00:00",
-    "created_at": "2026-08-28 09:29:15"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "NVIDIA、Hugging Face買収で協議 2兆円規模で 海外報道",
     "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000837/",
     "summary": "報道によればNVIDIAがAI開発プラットフォーム運営のHugging Face買収を協議中。取引規模は約2兆円と伝えられる。",
@@ -800,17 +910,6 @@
     "category": "法規制",
     "reason": "大規模な和解・設計変更が示すプラットフォーム規制の潮流は事業戦略と法務に重大な示唆を与える",
     "published_at": "2026-08-27 12:25:22",
-    "created_at": "2026-08-28 09:29:15"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「マイナアプリ」一部端末でログインできない不具合 リリースから2日",
-    "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000833/",
-    "summary": "リリース直後のマイナアプリで一部端末がログイン不可になる不具合が発生。シークレットモード解除や再インストールで改善する場合があると案内されている。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "国のデジタル施策に関わるサービス不具合は利用者と運用側双方に影響し、早期解決が求められる",
-    "published_at": "2026-08-27 11:11:49",
     "created_at": "2026-08-28 09:29:15"
   },
   {
@@ -3091,17 +3190,6 @@
     "created_at": "2026-08-06 01:57:19"
   },
   {
-    "source": "CNET Japan",
-    "title": "ソフトバンクのクラウド・AI売上が31％増--宮川社長「まだまだこんなもんじゃない」",
-    "url": "https://japan.cnet.com/article/35251274/",
-    "summary": "ソフトバンクのクラウド・AIセグメント売上が前年同期比31%増の771億円。AIデータセンターが成長を牽引していると発表。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "国内大手のクラウド/AI事業の成長は市場動向およびデータセンター投資の判断に直接影響するため有用。",
-    "published_at": "2026-08-04 19:40:00",
-    "created_at": "2026-08-05 02:10:44"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "中部電力に不正アクセス 連絡先情報7万1700件が漏えいか 取引先や自治体の連絡先も漏えいの恐れ",
     "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000380/",
@@ -3113,17 +3201,6 @@
     "created_at": "2026-08-05 02:10:44"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "AI普及でデザイン業の倒産が前年比2.7倍に 「独自性なき企業は淘汰」 東京商工リサーチ",
-    "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000377/",
-    "summary": "東京商工リサーチの調査で、デザイン業の負債1000万円以上の倒産が急増。生成AI普及による内製化が影響していると分析されている。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "AIによる産業構造変化が実際の倒産増を通じて出ており、雇用やビジネスモデルの判断材料として重要。",
-    "published_at": "2026-08-04 17:07:18",
-    "created_at": "2026-08-05 02:10:44"
-  },
-  {
     "source": "＠IT",
     "title": "RedisのRCE脆弱性、PoC公開で危険度増す 修正済み脆弱性の“抜け穴”が判明",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/03/news047.html",
@@ -3132,17 +3209,6 @@
     "category": "セキュリティ",
     "reason": "PoC公開済みのRCEで実用性が示されており、運用中インフラへの即時影響と緊急対策が必要なため最高ランク。",
     "published_at": "2026-08-04 14:00:00",
-    "created_at": "2026-08-05 02:10:44"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "キオクシア、約366億円の賠償命令が正式判決に 「到底容認できない」と同社--控訴も視野",
-    "url": "https://japan.cnet.com/article/35251254/",
-    "summary": "キオクシアがViasatに対して特許侵害で約2億2900万ドル（約366億円）の損害賠償を命じられる判決が下る。会社は控訴も検討。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "主要メモリ企業への巨額賠償判決は財務・競争環境に影響し、半導体業界に波及する可能性があるため重要。",
-    "published_at": "2026-08-04 13:55:00",
     "created_at": "2026-08-05 02:10:44"
   },
   {
@@ -3187,17 +3253,6 @@
     "category": "セキュリティ",
     "reason": "仮想基盤の認証回避は大規模インフラに直結するリスクで、速やかなパッチ適用が求められるため重要度高。",
     "published_at": "2026-08-04 07:00:00",
-    "created_at": "2026-08-05 02:10:44"
-  },
-  {
-    "source": "Publickey",
-    "title": "クラウドインフラのシェア、AWSが28％と変わらず、Google Cloudは1ポイント上昇して15％に。市場全体が年42％と過去最高の成長率に。2026年第2四半期、Synergy Research",
-    "url": "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html",
-    "summary": "2026年第2四半期のクラウドインフラ市場でAWSが28％、Google Cloudが15％。市場全体の成長率は過去最高の42％に達したという調査結果。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "グローバルクラウドのシェアと高成長は事業戦略・ベンダー選定に影響するため業界で押さえるべきデータ。",
-    "published_at": "2026-08-04 00:39:50",
     "created_at": "2026-08-05 02:10:44"
   },
   {
