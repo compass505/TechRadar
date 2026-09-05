@@ -1,0 +1,31 @@
+{
+  "edition_date": "2026-09-06",
+  "surfaces": {
+    "top_yesterday": [
+      "838c61b0d973",
+      "9416d7053590"
+    ],
+    "recent_important": [
+      "512bbec5184b",
+      "838c61b0d973",
+      "a06b8d003c69",
+      "426f93a3f96c",
+      "73146270cb13",
+      "7ee15a55e71c",
+      "178892ffc877"
+    ],
+    "yesterday_ai": [
+      "838c61b0d973",
+      "9416d7053590",
+      "93999362a5e7",
+      "4003e8e80737"
+    ],
+    "yesterday_enterprise_it": [
+      "9416d7053590",
+      "93999362a5e7"
+    ],
+    "yesterday_development": [
+      "4003e8e80737"
+    ]
+  }
+}
