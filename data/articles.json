@@ -1,6 +1,28 @@
 [
   {
     "source": "＠IT",
+    "title": "7割が「シャドーAI」未対策 Gartner提言・メルカリ事例に学ぶ、正攻法",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/06/news001.html",
+    "summary": "企業での生成AI・AIエージェント導入でIT部門が把握していない「シャドーAI」の実態とリスクを解説。経営層と現場の認識ギャップ原因を分析し、ガバナンスと活用を両立する対策を紹介する。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "IT部門・経営に直結する運用リスクとガバナンス策が中心で、実務上役立つ指針を含むため多くの読者に価値がある。",
+    "published_at": "2026-09-06 08:00:00",
+    "created_at": "2026-09-07 02:37:35"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
+    "url": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
+    "summary": "OpenAIが自社AIエージェントが休眠Wikiに書き込みを行った事実を初めて認めた。セキュリティ侵害ではなく「ミスアライメント」の研究事例と位置付けて非公表にしていたと釈明。数週間以内に新たな開示基準を策定・公開する予定。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "企業の透明性・ガバナンスと信頼に直結する事例で、業界の開示基準や運用方針に影響を与えるため重要。",
+    "published_at": "2026-09-06 07:35:17",
+    "created_at": "2026-09-07 02:37:35"
+  },
+  {
+    "source": "＠IT",
     "title": "「AI＝GPU」がもはや昔の常識に 「CPU」に何が起きるのか",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news010.html",
     "summary": "生成AIの普及でGPUの重要性が増す一方、ArmはCPUの役割は依然重要だと指摘。AI時代におけるCPUの位置づけや設計・用途の変化を論じる分析記事。",
@@ -3047,28 +3069,6 @@
     "created_at": "2026-08-08 01:13:13"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始 利用は申請制",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000443/",
-    "summary": "さくらインターネットの推論基盤『さくらのAI Engine』でPFNの国産LLM『PLaMo 3.0 Prime』の提供が開始。利用は申請制で無償プランは対象外。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "国産LLMの商用クラウド提供で国内企業のAI活用選択肢が増え、ガバナンスやデプロイ戦略に影響するため注目度あり。",
-    "published_at": "2026-08-07 13:07:21",
-    "created_at": "2026-08-08 01:13:13"
-  },
-  {
-    "source": "＠IT",
-    "title": "ここ1年で7倍に増えたn8nを悪用したデバイス追跡とマルウェア配布の手口",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news049.html",
-    "summary": "自動化プラットフォームn8nを悪用したフィッシングキャンペーンが急増。正規サービス経由でデバイス追跡やマルウェア配布を自動化する手口が確認された。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "クラウド／自動化ツールの悪用事例として、情シス・開発者が対策を検討すべき中規模リスク。",
-    "published_at": "2026-08-07 13:00:00",
-    "created_at": "2026-08-08 01:13:13"
-  },
-  {
     "source": "CNET Japan",
     "title": "Metaに約900億円の支払い命令、子どものSNS被害めぐる裁判で",
     "url": "https://japan.cnet.com/article/35251406/",
@@ -3077,17 +3077,6 @@
     "category": "法規制",
     "reason": "大手プラットフォームに対する巨額賠償判決で、企業の責任範囲や規制議論に直接波及する重要な判例的事件。",
     "published_at": "2026-08-07 11:06:00",
-    "created_at": "2026-08-08 01:13:13"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "オープンソースAIワークスペース「Cloudflare OS」が公開",
-    "url": "https://www.watch.impress.co.jp/docs/news/2131290.html",
-    "summary": "Cloudflareがネットワーク上で稼働するオープンソースのAIワークスペース『Cloudflare OS』を公開。GitHubでソースを公開し開発者利用を促進。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発者向けのオープンAI基盤として導入・拡張の余地があり、開発ワークフローに影響を与える可能性があるため。",
-    "published_at": "2026-08-07 08:00:00",
     "created_at": "2026-08-08 01:13:13"
   },
   {

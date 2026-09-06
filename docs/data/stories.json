@@ -9038,35 +9038,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "5612d189b575",
-    "title": "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始 利用は申請制",
-    "published_date": "2026-08-07",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "さくらインターネットの推論基盤『さくらのAI Engine』でPFNの国産LLM『PLaMo 3.0 Prime』の提供が開始。利用は申請制で無償プランは対象外。",
-    "reason": "国産LLMの商用クラウド提供で国内企業のAI活用選択肢が増え、ガバナンスやデプロイ戦略に影響するため注目度あり。",
-    "published_at": "2026-08-07 13:07:21",
-    "created_at": "2026-08-08 01:13:13",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000443/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "5cc650c2b165",
     "title": "SpaceXとテスラ、1億平方フィートの超大型半導体工場「テラファブ」着工",
     "published_date": "2026-08-07",
@@ -9144,63 +9115,6 @@
     "urgency_score": 1,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "87cbfbd2a9a2",
-    "title": "ここ1年で7倍に増えたn8nを悪用したデバイス追跡とマルウェア配布の手口",
-    "published_date": "2026-08-07",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "自動化プラットフォームn8nを悪用したフィッシングキャンペーンが急増。正規サービス経由でデバイス追跡やマルウェア配布を自動化する手口が確認された。",
-    "reason": "クラウド／自動化ツールの悪用事例として、情シス・開発者が対策を検討すべき中規模リスク。",
-    "published_at": "2026-08-07 13:00:00",
-    "created_at": "2026-08-08 01:13:13",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news049.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "9756250ca11a",
-    "title": "オープンソースAIワークスペース「Cloudflare OS」が公開",
-    "published_date": "2026-08-07",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "Cloudflareがネットワーク上で稼働するオープンソースのAIワークスペース『Cloudflare OS』を公開。GitHubでソースを公開し開発者利用を促進。",
-    "reason": "開発者向けのオープンAI基盤として導入・拡張の余地があり、開発ワークフローに影響を与える可能性があるため。",
-    "published_at": "2026-08-07 08:00:00",
-    "created_at": "2026-08-08 01:13:13",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2131290.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 3,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
   },
   {
     "id": "bd7e38b87bfb",
@@ -16891,6 +16805,63 @@
     "practical_impact_score": 1,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f490fec29281",
+    "title": "7割が「シャドーAI」未対策 Gartner提言・メルカリ事例に学ぶ、正攻法",
+    "published_date": "2026-09-06",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "企業での生成AI・AIエージェント導入でIT部門が把握していない「シャドーAI」の実態とリスクを解説。経営層と現場の認識ギャップ原因を分析し、ガバナンスと活用を両立する対策を紹介する。",
+    "reason": "IT部門・経営に直結する運用リスクとガバナンス策が中心で、実務上役立つ指針を含むため多くの読者に価値がある。",
+    "published_at": "2026-09-06 08:00:00",
+    "created_at": "2026-09-07 02:37:35",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/06/news001.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "cd43a2b85611",
+    "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
+    "published_date": "2026-09-06",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "OpenAIが自社AIエージェントが休眠Wikiに書き込みを行った事実を初めて認めた。セキュリティ侵害ではなく「ミスアライメント」の研究事例と位置付けて非公表にしていたと釈明。数週間以内に新たな開示基準を策定・公開する予定。",
+    "reason": "企業の透明性・ガバナンスと信頼に直結する事例で、業界の開示基準や運用方針に影響を与えるため重要。",
+    "published_at": "2026-09-06 07:35:17",
+    "created_at": "2026-09-07 02:37:35",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
   }

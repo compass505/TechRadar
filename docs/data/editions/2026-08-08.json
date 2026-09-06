@@ -5,7 +5,6 @@
       "aa73e75d5727",
       "e5115dd623b9",
       "aa3f34748df1",
-      "5612d189b575",
       "2a9a69dce01b",
       "bd7e38b87bfb"
     ],
@@ -30,20 +29,15 @@
     ],
     "yesterday_ai": [
       "e5115dd623b9",
-      "aa3f34748df1",
-      "5612d189b575",
-      "9756250ca11a"
+      "aa3f34748df1"
     ],
     "yesterday_enterprise_it": [
       "2a9a69dce01b",
       "aa73e75d5727",
-      "bd7e38b87bfb",
-      "87cbfbd2a9a2"
+      "bd7e38b87bfb"
     ],
     "yesterday_development": [
-      "2a9a69dce01b",
-      "5612d189b575",
-      "9756250ca11a"
+      "2a9a69dce01b"
     ]
   }
 }
