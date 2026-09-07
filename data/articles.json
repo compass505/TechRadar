@@ -1,5 +1,148 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "全国に電子カルテ情報共有網 2030年度にも基盤構築 普及へ費用軽減がカギ",
+    "url": "https://www.itmedia.co.jp/news/article/2609/07/2000001233/",
+    "summary": "政府が全国の医療機関で電子カルテを共有するシステム基盤を2030年度に整備検討。医療連携の円滑化を目指し、普及には財政支援が課題とされる。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "国の医療情報基盤整備は医療IT市場・事業者・個人情報管理に大きな影響を与える政策案件。",
+    "published_at": "2026-09-07 19:42:01",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "M365 Copilotでも「GPT-6 Astra」利用可能に 「Fable 5.1」も可 Work IQと合わせて「より的確な応答」に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/",
+    "summary": "MicrosoftがM365 CopilotでOpenAIのGPT-6 Astraを提供開始。大きなタスク委任やWork IQ連携で業務向け応答精度向上を図る。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "主要業務ツールでの最新モデル採用は企業のAI導入／運用戦略に直結する実務的ニュース。",
+    "published_at": "2026-09-07 15:32:17",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "顔認証だけで支払い SBPS「PayCAS」とNECが技術連携",
+    "url": "https://www.watch.impress.co.jp/docs/news/2138732.html",
+    "summary": "NECの顔認証サービスとSBPSの決済プラットフォームを連携し、顔だけでクレジットカード決済できる仕組みを導入する。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "生体認証決済の普及は決済インフラとプライバシー運用に関わるが商用導入フェーズのため重要度は中程度。",
+    "published_at": "2026-09-07 13:50:53",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
+    "source": "＠IT",
+    "title": "EDR回避も攻撃計画も「月額」で買える？ 地下市場に広がるAI犯罪ビジネスの実態",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news033.html",
+    "summary": "地下市場でAIを使ったマルウェア作成や検知回避、攻撃計画などがサービス化・サブスク化している実態を報告。攻撃の民主化が進む懸念を指摘。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "犯罪のサービス化は検知対策や法執行の在り方に影響を与えるため実務的に重要。",
+    "published_at": "2026-09-07 13:00:00",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "初登場の“あの技術”、早くも「過度な期待」ピーク期に Gartnerが2026年版ハイプ・サイクルを発表",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news043.html",
+    "summary": "Gartnerが2026年ハイプ・サイクルを公表。エージェント型AIに続き、新規技術が早くも過度な期待期に入った点を分析している。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "技術採用・投資判断に影響を与える定番レポートで、企業戦略の指針になるため掲載価値あり。",
+    "published_at": "2026-09-07 11:55:00",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "IBMはAIエージェントを“人材”としてどう運用している？ 企業経営の基盤としてのAI活用を考察",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news049.html",
+    "summary": "IBMの事例を通じ、人とデジタルワーカーの協働や全社展開の阻害要因とその解消法を紹介。経営層のAI活用視点を示す。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大手の運用ノウハウは他社の導入設計や経営判断に参考になるため価値が高い。",
+    "published_at": "2026-09-07 11:20:00",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
+    "source": "＠IT",
+    "title": "2週間の侵入作業を10時間未満に圧縮 AIエージェント“フル活用”の攻撃の全貌",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news034.html",
+    "summary": "Palo Alto NetworksのUnit 42が、AIエージェントを悪用して侵入作業を大幅短縮した攻撃事例を報告。攻撃者が標的のAI基盤まで利用した点が特徴。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AIにより攻撃生産性が飛躍的に向上している実例で、企業の防御モデル再設計を迫る重要案件。",
+    "published_at": "2026-09-07 11:00:00",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "テスラのハンドル無し車両「サイバーキャブ」が運行開始 直後に米当局が調査",
+    "url": "https://japan.cnet.com/article/35252335/",
+    "summary": "テスラがロボタクシー『Cybercab』の一般向け運行を開始。運行開始直後に米当局が調査を開始したと報じられている。",
+    "importance": 4,
+    "category": "ガジェット",
+    "reason": "自動運転サービスの商用化と即時の規制調査は安全性・事業継続に直結する重大テーマ。",
+    "published_at": "2026-09-07 10:00:00",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "OpenAI、エージェントによる研究加速と直面する安全性の壁を開示 チーフサイエンティストは「自発的減速」を提唱",
+    "url": "https://www.itmedia.co.jp/news/article/2609/07/2000001204/",
+    "summary": "OpenAIが社内でのエージェント活用による研究急加速と、それに伴う安全性課題を公表。7月のインシデントやCoT監視の限界を挙げ、自発的減速と国際規制枠組みの必要性を訴えた。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "業界をリードするプレイヤーによる安全戦略と規制提言は企業方針と政策議論に直接影響するため高掲載価値。",
+    "published_at": "2026-09-07 09:19:02",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
+    "source": "＠IT",
+    "title": "企業資産の「36％」が“脆弱性ゾーン”で放置 AI攻撃時代に旧来の防御モデルは限界か",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news017.html",
+    "summary": "EYの調査で、企業資産の平均36％が把握・対策不十分な『脆弱性ゾーン』として放置されていると判明。AIを用いる攻撃者が狙うリスクが指摘される。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "広範な企業に共通するリスク実態で、セキュリティ投資・方針決定に直結する調査結果。",
+    "published_at": "2026-09-07 08:00:00",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
+    "source": "atmarkit.itmedia.co.jp (ITmedia AIT)",
+    "title": "Google「Gemini 3.8 Flash」発表 プロンプト1つで3Dゲーム生成、価格据え置きで大規模モデルに迫る",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news031.html",
+    "summary": "GoogleがGemini 3.8 Flashと防衛特化版を発表。低価格帯を維持しつつ、コーディングや脆弱性検知などの性能を大幅改善したとする。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要ベンダーのモデル進化は開発者や製品選定に影響するため注目度が高い。",
+    "published_at": "2026-09-07 08:00:00",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
+    "source": "＠IT",
+    "title": "三菱UFJグループ会社、DBコストを87％削減――なぜ「Aurora Serverless」ではなく「Aurora DSQL」を選んだ？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news026.html",
+    "summary": "Japan Digital Designがドキュメント検索システムでAmazon Aurora DSQLを採用し、従来よりDBコストを約87％削減した事例を解説する。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウドDBの選定とコスト最適化の実例は情シス・アーキテクトにとって有益な判断材料。",
+    "published_at": "2026-09-07 08:00:00",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
+    "source": "Publickey",
+    "title": "JavaScriptをC言語にコンパイルする「porffor」がアルファ版に到達。ネイティブやWASMを生成可能",
+    "url": "https://www.publickey1.jp/blog/26/javascriptcporfforwasm.html",
+    "summary": "JavaScriptを事前コンパイルしてC言語へ変換するコンパイラ『porffor』がアルファ版に到達。ネイティブやWASM生成が可能とされる。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "コンパイル手法の革新は開発ワークフローや性能最適化に影響するが現段階はアルファのため慎重評価。",
+    "published_at": "2026-09-07 00:04:34",
+    "created_at": "2026-09-08 04:16:56"
+  },
+  {
     "source": "＠IT",
     "title": "7割が「シャドーAI」未対策 Gartner提言・メルカリ事例に学ぶ、正攻法",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/06/news001.html",
@@ -2981,17 +3124,6 @@
     "created_at": "2026-08-10 00:53:44"
   },
   {
-    "source": "Impress Watch",
-    "title": "X、収益化プログラムを一新 「オリジナル投稿」が基準に",
-    "url": "https://www.watch.impress.co.jp/docs/news/2131768.html",
-    "summary": "Xは収益還元プログラムを刷新し、9月8日から「オリジナルコンテンツ報酬」を開始。オリジナル投稿を中心とした報酬評価へ変更する。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "ソーシャルプラットフォームの収益化ルール変更はコンテンツ戦略とクリエイター収益に直接影響するため",
-    "published_at": "2026-08-08 17:00:00",
-    "created_at": "2026-08-09 00:51:50"
-  },
-  {
     "source": "＠IT",
     "title": "日立が「脱・PC購入」 17万台のグループ向けPCを“サブスク”で調達へ",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/08/news004.html",
@@ -3000,17 +3132,6 @@
     "category": "企業IT",
     "reason": "大手企業の大規模DaaS移行は調達・運用モデルの潮流を示し、情シスやIT調達に直接影響するため",
     "published_at": "2026-08-08 08:00:00",
-    "created_at": "2026-08-09 00:51:50"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Anthropic、「Fable 5」の生物学の制限を緩和 誤検知によるフォールバックを約85％削減",
-    "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
-    "summary": "AnthropicはAIモデル「Claude Fable 5」の生物学関連の過度な遮断を緩和し、無害な質問の誤検知や下位モデルへのフォールバックを大幅に減少させた。二重用途研究への制限は維持する。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "生成AIの安全制御と利便性のバランス調整に関する実務的アップデートで、開発者や研究機関に有用な情報のため",
-    "published_at": "2026-08-08 07:57:07",
     "created_at": "2026-08-09 00:51:50"
   },
   {
