@@ -9260,61 +9260,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "c025f9b90dba",
-    "title": "X、収益プログラムを刷新 インプレゾンビを排除 条件厳しく",
-    "published_date": "2026-08-09",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "Xは旧来の収益分配プログラムを終了し、オリジナル投稿のみを報酬対象とする「Original Content Rewards Program」を発表。無断転載やインプレッション操作を排除する狙い。",
-    "reason": "大手プラットフォームの収益化方針変更はクリエイター経済とコンテンツモデレーションに波及するため、業界動向として重要。",
-    "published_at": "2026-08-09 06:59:00",
-    "created_at": "2026-08-10 00:53:44",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35251439/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "6d87aad1fd40",
-    "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
-    "published_date": "2026-08-09",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "Anthropicがコード支援ツールClaude Codeで、危険コマンドを分類器が自動でブロックする「auto mode」をデフォルト化。人間の許可確認の形骸化を防ぎ、実験で検出精度と効率向上を確認した。",
-    "reason": "開発者向けAIツールの安全設計と運用ポリシーに関わる変更で、作業フローと安全対策に直接影響するため採択。",
-    "published_at": "2026-08-09 12:12:07",
-    "created_at": "2026-08-10 00:53:44",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "661da7c501cf",
     "title": "5週間で340超の企業が被害に Microsoft 365のアクセスを奪う新型フィッシングに注意",
     "published_date": "2026-08-10",
@@ -17172,5 +17117,368 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
+  },
+  {
+    "id": "abde53bc9b54",
+    "title": "Adobe Premiere、タイムライン上で動画・効果音をAI生成",
+    "published_date": "2026-09-08",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "AdobeがPremiere/After Effectsにタイムライン上でメディアを生成するAI機能やAIアシスタントのベータを追加すると発表した。",
+    "reason": "クリエイティブツールへの生成AI統合は制作現場のワークフローを変えるが、製品発表レベルのニュースとして扱うべきため。",
+    "published_at": "2026-09-08 22:00:00",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2139044.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "36923a4706e8",
+    "title": "HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など",
+    "published_date": "2026-09-08",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "フロントエンドライブラリHTMXの4.0正式版がリリース。内部でfetchを採用しStreaming HTML対応など実装の刷新が行われた。",
+    "reason": "ウェブ開発者にとって即応性のあるライブラリ更新であり、採用検討や移行判断に有用。",
+    "published_at": "2026-09-08 00:39:27",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "75c4e0bd6a54",
+    "title": "LLM乗っ取りでサイバー攻撃者がコスト節約 知財流出の危険性も高まる「LLMジャッキング」の深刻度",
+    "published_date": "2026-09-08",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "攻撃者が被害企業の計算資源やLLMを悪用する「LLMジャッキング」が報告され、コスト負担や機密流出のリスクが拡大していると解説。",
+    "reason": "新たな攻撃手法が企業の運用コスト・知財流出に直結する実害リスクを示しており、情シス対策が急務。",
+    "published_at": "2026-09-08 21:00:00",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news083.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "1398cb23c9ea",
+    "title": "NEC、量子コンピュータの実機開発を中止か 実用化への課題重く 報道",
+    "published_date": "2026-09-08",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "報道によればNECが量子コンピュータの実機開発を中止した可能性があると報じられた。実用化課題や事業判断が背景とされる。",
+    "reason": "量子開発を先導してきた企業の方針変更は研究開発投資や業界競争に影響を与えるため業界注目度が高い。",
+    "published_at": "2026-09-08 11:13:56",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/08/2000001250/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c76dfdc769e1",
+    "title": "OpenAI「GPT-6 Astra」発表 Codexのコーディングは前世代からどれだけ進化？",
+    "published_date": "2026-09-08",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "OpenAIが新世代モデル「GPT-6 Astra」を発表。コーディング、自律操作、セキュリティ検証などの能力が大幅に向上したとされる。ベンチマークで高スコアを報告。",
+    "reason": "業界の基準となる大規模モデルの次世代リリースで、開発者・企業の導入・リスク評価に直結するため高重要。",
+    "published_at": "2026-09-08 17:00:00",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news035.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "cb4db2629e5f",
+    "title": "PayPay、マルウェア感染スマホで「身に覚えのない送金・決済」のおそれ 注意喚起",
+    "published_date": "2026-09-08",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "PayPayがマルウェアに感染したスマホで第三者により不正送金や決済が発生する可能性を指摘、利用者へ注意を呼びかけた。",
+    "reason": "決済プラットフォームでの不正利用リスクは広範な利用者と企業の信頼に関わるため掲載価値が高い。",
+    "published_at": "2026-09-08 09:12:00",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35252367/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "3fdda0a70eaf",
+    "title": "「AIの制限」でも「野放し」でも失敗する？ AI時代に“共有APIキー”は限界",
+    "published_date": "2026-09-08",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "Cloudflareが個人・チーム単位でAIリクエストを管理する「Identity-Aware AI Gateway」を発表。利用上限やリスク検出を組織で制御する狙いを解説。",
+    "reason": "企業の生成AIガバナンスに直結する技術・運用の話で、情シスや経営判断に役立つため。",
+    "published_at": "2026-09-08 08:00:00",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news034.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "b360ac461301",
+    "title": "「VMware」環境の1500ワークロード、契約終了まで“わずか10カ月” 保険大手はどう移行した？",
+    "published_date": "2026-09-08",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "大手保険会社State FarmがVMware依存の1500ワークロードを短期間で移行した事例。限られた人員での計画と実行手順を解説する。",
+    "reason": "レガシー仮想化からの移行は多くの企業が直面する課題で、技術・運用の実務情報が有益。",
+    "published_at": "2026-09-08 11:00:00",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news015.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "574a36d497b1",
+    "title": "「Wi-Fi 8」で何が変わる？ 「Wi-Fi 7」と“速さ勝負”はしない、無線LANの新たな進化",
+    "published_date": "2026-09-08",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "次世代無線LAN規格「Wi‑Fi 8」の仕様と、家庭・オフィスでの変化点を解説。単純な速度競争ではない設計思想を紹介する。",
+    "reason": "ネットワーク基盤の進化は企業インフラや製品開発に直接影響するため、情シスや製品担当者向けに重要。",
+    "published_at": "2026-09-08 13:00:00",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news021.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "c0beef6ac9ae",
+    "title": "巨大オンラインゲーム「EVE Online」。ゲームを支える240万行のPython 2.7のコードをPython 3へ移行すると発表",
+    "published_date": "2026-09-08",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "EVE Onlineの大規模コードベース（約240万行）をPython 2.7からPython 3へ移行するプロジェクトを開始したと発表。",
+    "reason": "レガシー言語移行の大規模事例は技術的示唆があり、開発組織の計画立案に参考になる。",
+    "published_at": "2026-09-08 23:28:02",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "599e7d43eaf0",
+    "title": "東京科学大に不正アクセス、個人情報漏えいか 東工大・医科歯科大統合当時の学生・教職員情報も",
+    "published_date": "2026-09-08",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "東京科学大学が不正アクセスを受け、学生・教職員の氏名・住所・メールなど個人情報の漏えいが疑われると発表。",
+    "reason": "教育機関での個人情報流出の疑いは影響範囲が広く、対応・通知・捜査が必要な事案のため高めに評価。",
+    "published_at": "2026-09-08 10:02:59",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/08/2000001244/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0e40e94d6b1e",
+    "title": "行政機関18万人を支える「源内」 わずか1～2人での運用を実現した“一見手の込んだ仕組み”",
+    "published_date": "2026-09-08",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "デジタル庁の生成AI基盤「源内」は、約18万人の行政利用を支えつつ、運用人員を極小化した設計とセキュリティ実務を紹介する。",
+    "reason": "大規模組織での生成AI運用設計は企業・自治体の導入計画や情シス運用に参考になる実例情報。",
+    "published_at": "2026-09-08 08:00:00",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news005.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "124d08c41400",
+    "title": "警察庁と日本MS、サイバー対策で協定 情報共有、教育で連携",
+    "published_date": "2026-09-08",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "警察庁と日本マイクロソフトが官民でサイバー事案対策の協定を締結。情報共有や教育・啓発で連携するという。",
+    "reason": "官民連携による体制強化は捜査・防御面での実務影響が大きく、企業の対応方針にも関係するため掲載価値あり。",
+    "published_at": "2026-09-08 08:45:01",
+    "created_at": "2026-09-09 03:50:16",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/08/2000001241/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
   }
 ]
