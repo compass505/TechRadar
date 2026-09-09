@@ -1,5 +1,137 @@
 [
   {
+    "source": "CNET Japan",
+    "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」の難問を解決したと発表",
+    "url": "https://japan.cnet.com/article/35252440/",
+    "summary": "OpenAIが社内モデルでナビエ・ストークス方程式の特異点発生を証明したと発表し、Leanで形式化した証明も公開。先行研究者との経緯を巡り論争が発生している。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "AI組織の数学的主張と検証・研究倫理を巡る論争は学術界とAIの信頼性に影響するため注目に値する。",
+    "published_at": "2026-09-09 15:37:00",
+    "created_at": "2026-09-10 03:44:42"
+  },
+  {
+    "source": "＠IT",
+    "title": "信頼崩壊 “政府公認”さくらインターネット 最大136万件情報漏れの穴を分析",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/09/news031.html",
+    "summary": "さくらインターネットでの不正アクセス被害を技術的に分析。最大136万アカウント影響の可能性があり、原因と対策の検討が進められている。国内クラウド事業者の信頼問題に波及。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "国内クラウド/ホスティング事業者の大規模インシデントは顧客管理・法令対応に深刻な影響を及ぼす。",
+    "published_at": "2026-09-09 15:00:00",
+    "created_at": "2026-09-10 03:44:42"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「全ての攻撃者は何らかの形でAIを使用」 6時間で数千件の侵害事例も Google傘下組織が報告",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001316/",
+    "summary": "Googleの脅威分析部門GTIGが、攻撃者によるAI利用で侵害のスピードが加速していると報告。6時間未満で数千件の認証情報侵害が確認され、攻撃側が開発環境も標的にしている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "攻撃手法の質的変化と高速化は防御側の運用・投資判断に直結する重要な報告。",
+    "published_at": "2026-09-09 14:40:31",
+    "created_at": "2026-09-10 03:44:42"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Qualcomm、AmazonとAIデータセンターで複数世代にわたる協業 最大600億ドル購入でワラント付与",
+    "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001314/",
+    "summary": "QualcommとAmazonが大規模AIデータセンター向けに複数世代のカスタムシリコンや1.6T光接続で協業。AWSの採用に連動する形で新株予約権（ワラント）発行も明らかにされた。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "クラウド大手とチップベンダーの戦略的連携はAIインフラの競争構図とサプライチェーンに大きな影響を与える。",
+    "published_at": "2026-09-09 14:05:21",
+    "created_at": "2026-09-10 03:44:42"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "PayPay、身に覚えのない送金に注意 マルウェア感染で遠隔操作リスク",
+    "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001306/",
+    "summary": "PayPayで不審な送金被害が確認された。SMSやメールの不審リンクからアプリをインストールしてマルウェアに感染し、遠隔操作で不正送金されるケースが報告されている。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "決済アプリの不正操作は金融被害に直結するため、利用者と情シスの注意喚起が必要。",
+    "published_at": "2026-09-09 12:08:27",
+    "created_at": "2026-09-10 03:44:42"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "店で免許証スキャン→数時間で闇サイトへ 米国防長官含む1億5300万枚の流出、被害者たちが突き止めた意外な出所",
+    "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001284/",
+    "summary": "米国・カナダの運転免許証画像1億5300万枚超が闇サイトで流通。出所は本人確認サービス会社とみられ、レンタカー大手との取引経路が指摘されている。FBIが捜査中。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模な個人情報（身分証画像）流出で被害範囲と二次被害リスクが極めて大きい。",
+    "published_at": "2026-09-09 12:00:00",
+    "created_at": "2026-09-10 03:44:42"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google DeepMind、90億通りの全塩基変異の影響を予測した「AlphaGenome Atlas」 学術向けに無償提供",
+    "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001296/",
+    "summary": "DeepMindがヒトゲノムの約90億通りの一塩基変異の影響を予測したデータベース『AlphaGenome Atlas』を公開。影響度スコアを付与し、学術研究向けに無償提供する。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "大規模予測データはゲノム解釈や医療研究の速度を上げるため、研究・ヘルスケア領域での技術適用に重要。",
+    "published_at": "2026-09-09 08:13:49",
+    "created_at": "2026-09-10 03:44:42"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Armが3つの新プロダクトを発表、モバイルとAIインフラ、フィジカルAI向け",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/09/news059.html",
+    "summary": "Armがモバイル向けのArm CSS for Mobile 2、インフラ向けNeoverse CSS N4、フィジカルAI向けの設計支援拡張など3製品を発表。モバイルからクラウド・エッジまでのロードマップを示す。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "Armの新製品はチップ設計・供給に関わる企業のロードマップと性能設計に影響するため業界注目度が高い。",
+    "published_at": "2026-09-09 08:00:00",
+    "created_at": "2026-09-10 03:44:42"
+  },
+  {
+    "source": "＠IT",
+    "title": "COBOL、VMware、.NETまで――AWS「45億行に及ぶコード処理」で見えたAIレガシー刷新の現状",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/09/news027.html",
+    "summary": "AWSがAIを活用して数十億行規模のレガシーコード（COBOL, .NET等）の解析・移行を短期間で進めた事例を公開。従来は数年かかっていた刷新を大幅に短縮したという。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "企業システム刷新におけるAI実運用の成功例は、開発とIT投資の意思決定に直接役立つ。",
+    "published_at": "2026-09-09 08:00:00",
+    "created_at": "2026-09-10 03:44:42"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Meta、パーソナルAIエージェント「Muse」発表 メール送信や買い物も代行（まずは米国で無料提供開始）",
+    "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001294/",
+    "summary": "Metaが個人向けパーソナルAIエージェント『Muse』を発表。メール送信や旅行予約などの自律的代行が可能で、専用VMや多層防御で安全性を確保。まずは米国で提供開始。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "個人向け自律エージェントの普及は業務自動化・プライバシー・決済連携の実運用課題を前倒しするため注目。",
+    "published_at": "2026-09-09 06:41:57",
+    "created_at": "2026-09-10 03:44:42"
+  },
+  {
+    "source": "＠IT",
+    "title": "【急ぎ適用を】タスクバーの上下左右配置がついに復活。悪用確認のゼロデイ対処も含むWindows 11「KB5124008」詳細",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/09/news079.html",
+    "summary": "Microsoftの9月月例更新KB5124008で約1000件の脆弱性を修正。既に悪用が確認されている権限昇格脆弱性（Updateスタック、ALPC）を含む。新機能としてタスクバー配置の復活なども含む。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "既に悪用確認の脆弱性を含む大規模パッチ、情シスとユーザーによる緊急適用が必要。",
+    "published_at": "2026-09-09 05:00:00",
+    "created_at": "2026-09-10 03:44:42"
+  },
+  {
+    "source": "Publickey",
+    "title": "Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに",
+    "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
+    "summary": "AWSがAmazon Linuxのメジャーアップデート「Amazon Linux 2027」をパブリックプレビューで公開。SELinuxがデフォルトで強制モードになり、OSのセキュリティ設定が大きく変わる。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "AWS利用環境のデフォルトセキュリティ変更は運用・イメージ管理に直接影響するため、情シス向け必読のアナウンス。",
+    "published_at": "2026-09-09 00:54:55",
+    "created_at": "2026-09-10 03:44:42"
+  },
+  {
     "source": "Publickey",
     "title": "巨大オンラインゲーム「EVE Online」。ゲームを支える240万行のPython 2.7のコードをPython 3へ移行すると発表",
     "url": "https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html",
@@ -3125,39 +3257,6 @@
   },
   {
     "source": "CNET Japan",
-    "title": "楽天市場、検索AIが流通総額を押し上げ--購入意図を判別、年128億円の効果",
-    "url": "https://japan.cnet.com/article/35251480/",
-    "summary": "楽天が検索に導入したLLMベースの意図判別で、探索段階と意思決定段階を識別し検索結果を最適化。年間約128億円の流通総額押し上げ効果を見込むと発表。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "ECでのLLM活用が売上に直結した事例であり、企業のAI投資評価やROI議論に有用なデータを提供する。",
-    "published_at": "2026-08-10 18:30:00",
-    "created_at": "2026-08-11 01:13:49"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "NEC、部長も部下も「すべてAI」の新部門",
-    "url": "https://japan.cnet.com/article/35251472/",
-    "summary": "NECが社内で部門長からメンバーまでAIが担う「コーポレートAI・Workforce部門」を新設。人は最終評価やガバナンスを担当する仕組みという。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "大手企業の組織設計としてAIを全面導入する先行例で、人材・ガバナンスの実務的示唆が得られるため掲載価値あり。",
-    "published_at": "2026-08-10 16:50:00",
-    "created_at": "2026-08-11 01:13:49"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "ドコモら、速度低下を先読みしてネットワークを切り替える新技術--「下がってからでは遅い」を解決",
-    "url": "https://japan.cnet.com/article/35251469/",
-    "summary": "NTTドコモとサムスンが、通信速度低下を予測して事前にネットワーク切替を行うAI技術を共同開発。実証で速度低下の発生頻度を低減できたと報告。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "モバイル品質改善のためのAI適用事例で、通信事業者やサービス提供者の運用設計に参考になるため価値が高い。",
-    "published_at": "2026-08-10 16:35:00",
-    "created_at": "2026-08-11 01:13:49"
-  },
-  {
-    "source": "CNET Japan",
     "title": "OpenAI、次期モデル「Astra」の開発を一部停止--「最高水準のサイバー攻撃能力に達した可能性」",
     "url": "https://japan.cnet.com/article/35251464/",
     "summary": "OpenAIが開発中のAstraについて、サイバー攻撃能力が同社の最上位安全基準に達した可能性を指摘し、一部活動を停止して安全管理を強化すると発表した。",
@@ -3176,28 +3275,6 @@
     "category": "セキュリティ",
     "reason": "クラウド認証フローを悪用する大規模な攻撃で、企業のクラウド運用・ID管理方針に直接影響を与えるため重要。",
     "published_at": "2026-08-10 13:00:00",
-    "created_at": "2026-08-11 01:13:49"
-  },
-  {
-    "source": "＠IT",
-    "title": "Claude Code運用を一元化する「Claude apps gateway」発表 企業利用をどう管理？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news045.html",
-    "summary": "Anthropicが企業向けにClaude Codeを複数クラウド上で運用・管理するプラットフォーム「Claude apps gateway」を発表。運用管理やガバナンスを一元化する狙い。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業でのLLM導入・ガバナンスに直結する管理基盤の発表で、情シスや経営判断に有用な情報。",
-    "published_at": "2026-08-10 13:00:00",
-    "created_at": "2026-08-11 01:13:49"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "科学技術振興機構、メール情報約1.6万件漏えいの可能性 外部から指摘受け発覚",
-    "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000480/",
-    "summary": "科学技術振興機構で、約1.6万件にのぼるメール情報の漏えいの可能性が外部指摘で判明。原因や二次被害の有無について調査中。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "公的機関発の大量メール情報流出の可能性は信頼と運用に影響するため早期の情報確認と対策が必要。",
-    "published_at": "2026-08-10 12:23:28",
     "created_at": "2026-08-11 01:13:49"
   },
   {

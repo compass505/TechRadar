@@ -9288,36 +9288,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "564f71a6c146",
-    "title": "Claude Code運用を一元化する「Claude apps gateway」発表 企業利用をどう管理？",
-    "published_date": "2026-08-10",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "Anthropicが企業向けにClaude Codeを複数クラウド上で運用・管理するプラットフォーム「Claude apps gateway」を発表。運用管理やガバナンスを一元化する狙い。",
-    "reason": "企業でのLLM導入・ガバナンスに直結する管理基盤の発表で、情シスや経営判断に有用な情報。",
-    "published_at": "2026-08-10 13:00:00",
-    "created_at": "2026-08-11 01:13:49",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news045.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
     "id": "0db9feb1bb1f",
     "title": "Mythos 5、サプライチェーン攻撃を仕掛ける 19件の無許可行動はなぜ起きたか？",
     "published_date": "2026-08-10",
@@ -9345,35 +9315,6 @@
     "dev_cloud_relevance_score": 2,
     "urgency_score": 1,
     "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "68502e2c2388",
-    "title": "NEC、部長も部下も「すべてAI」の新部門",
-    "published_date": "2026-08-10",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "NECが社内で部門長からメンバーまでAIが担う「コーポレートAI・Workforce部門」を新設。人は最終評価やガバナンスを担当する仕組みという。",
-    "reason": "大手企業の組織設計としてAIを全面導入する先行例で、人材・ガバナンスの実務的示唆が得られるため掲載価値あり。",
-    "published_at": "2026-08-10 16:50:00",
-    "created_at": "2026-08-11 01:13:49",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35251472/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
     "has_itmedia_article": false
   },
   {
@@ -9479,91 +9420,6 @@
     "source_count": 1,
     "article_count": 1,
     "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "f9001c9aab45",
-    "title": "ドコモら、速度低下を先読みしてネットワークを切り替える新技術--「下がってからでは遅い」を解決",
-    "published_date": "2026-08-10",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "NTTドコモとサムスンが、通信速度低下を予測して事前にネットワーク切替を行うAI技術を共同開発。実証で速度低下の発生頻度を低減できたと報告。",
-    "reason": "モバイル品質改善のためのAI適用事例で、通信事業者やサービス提供者の運用設計に参考になるため価値が高い。",
-    "published_at": "2026-08-10 16:35:00",
-    "created_at": "2026-08-11 01:13:49",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35251469/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "b86b8d08123f",
-    "title": "楽天市場、検索AIが流通総額を押し上げ--購入意図を判別、年128億円の効果",
-    "published_date": "2026-08-10",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "楽天が検索に導入したLLMベースの意図判別で、探索段階と意思決定段階を識別し検索結果を最適化。年間約128億円の流通総額押し上げ効果を見込むと発表。",
-    "reason": "ECでのLLM活用が売上に直結した事例であり、企業のAI投資評価やROI議論に有用なデータを提供する。",
-    "published_at": "2026-08-10 18:30:00",
-    "created_at": "2026-08-11 01:13:49",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35251480/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "93a4531b25b1",
-    "title": "科学技術振興機構、メール情報約1.6万件漏えいの可能性 外部から指摘受け発覚",
-    "published_date": "2026-08-10",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "科学技術振興機構で、約1.6万件にのぼるメール情報の漏えいの可能性が外部指摘で判明。原因や二次被害の有無について調査中。",
-    "reason": "公的機関発の大量メール情報流出の可能性は信頼と運用に影響するため早期の情報確認と対策が必要。",
-    "published_at": "2026-08-10 12:23:28",
-    "created_at": "2026-08-11 01:13:49",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/10/2000000480/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
     "ai_relevance_score": 0,
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
@@ -17476,6 +17332,351 @@
     ],
     "ai_relevance_score": 0,
     "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "51eb646a5a34",
+    "title": "Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに",
+    "published_date": "2026-09-09",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "AWSがAmazon Linuxのメジャーアップデート「Amazon Linux 2027」をパブリックプレビューで公開。SELinuxがデフォルトで強制モードになり、OSのセキュリティ設定が大きく変わる。",
+    "reason": "AWS利用環境のデフォルトセキュリティ変更は運用・イメージ管理に直接影響するため、情シス向け必読のアナウンス。",
+    "published_at": "2026-09-09 00:54:55",
+    "created_at": "2026-09-10 03:44:42",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "7f163fd92de3",
+    "title": "Armが3つの新プロダクトを発表、モバイルとAIインフラ、フィジカルAI向け",
+    "published_date": "2026-09-09",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "Armがモバイル向けのArm CSS for Mobile 2、インフラ向けNeoverse CSS N4、フィジカルAI向けの設計支援拡張など3製品を発表。モバイルからクラウド・エッジまでのロードマップを示す。",
+    "reason": "Armの新製品はチップ設計・供給に関わる企業のロードマップと性能設計に影響するため業界注目度が高い。",
+    "published_at": "2026-09-09 08:00:00",
+    "created_at": "2026-09-10 03:44:42",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2609/09/news059.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "46bf685487ff",
+    "title": "COBOL、VMware、.NETまで――AWS「45億行に及ぶコード処理」で見えたAIレガシー刷新の現状",
+    "published_date": "2026-09-09",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "AWSがAIを活用して数十億行規模のレガシーコード（COBOL, .NET等）の解析・移行を短期間で進めた事例を公開。従来は数年かかっていた刷新を大幅に短縮したという。",
+    "reason": "企業システム刷新におけるAI実運用の成功例は、開発とIT投資の意思決定に直接役立つ。",
+    "published_at": "2026-09-09 08:00:00",
+    "created_at": "2026-09-10 03:44:42",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/09/news027.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9b9cd40670d0",
+    "title": "Google DeepMind、90億通りの全塩基変異の影響を予測した「AlphaGenome Atlas」 学術向けに無償提供",
+    "published_date": "2026-09-09",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "DeepMindがヒトゲノムの約90億通りの一塩基変異の影響を予測したデータベース『AlphaGenome Atlas』を公開。影響度スコアを付与し、学術研究向けに無償提供する。",
+    "reason": "大規模予測データはゲノム解釈や医療研究の速度を上げるため、研究・ヘルスケア領域での技術適用に重要。",
+    "published_at": "2026-09-09 08:13:49",
+    "created_at": "2026-09-10 03:44:42",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/09/2000001296/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "30448b626a50",
+    "title": "Meta、パーソナルAIエージェント「Muse」発表 メール送信や買い物も代行（まずは米国で無料提供開始）",
+    "published_date": "2026-09-09",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Metaが個人向けパーソナルAIエージェント『Muse』を発表。メール送信や旅行予約などの自律的代行が可能で、専用VMや多層防御で安全性を確保。まずは米国で提供開始。",
+    "reason": "個人向け自律エージェントの普及は業務自動化・プライバシー・決済連携の実運用課題を前倒しするため注目。",
+    "published_at": "2026-09-09 06:41:57",
+    "created_at": "2026-09-10 03:44:42",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/09/2000001294/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "2502af222f46",
+    "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」の難問を解決したと発表",
+    "published_date": "2026-09-09",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "OpenAIが社内モデルでナビエ・ストークス方程式の特異点発生を証明したと発表し、Leanで形式化した証明も公開。先行研究者との経緯を巡り論争が発生している。",
+    "reason": "AI組織の数学的主張と検証・研究倫理を巡る論争は学術界とAIの信頼性に影響するため注目に値する。",
+    "published_at": "2026-09-09 15:37:00",
+    "created_at": "2026-09-10 03:44:42",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35252440/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d04e969d8fa9",
+    "title": "PayPay、身に覚えのない送金に注意 マルウェア感染で遠隔操作リスク",
+    "published_date": "2026-09-09",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "PayPayで不審な送金被害が確認された。SMSやメールの不審リンクからアプリをインストールしてマルウェアに感染し、遠隔操作で不正送金されるケースが報告されている。",
+    "reason": "決済アプリの不正操作は金融被害に直結するため、利用者と情シスの注意喚起が必要。",
+    "published_at": "2026-09-09 12:08:27",
+    "created_at": "2026-09-10 03:44:42",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/09/2000001306/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ff7b64a24049",
+    "title": "Qualcomm、AmazonとAIデータセンターで複数世代にわたる協業 最大600億ドル購入でワラント付与",
+    "published_date": "2026-09-09",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "QualcommとAmazonが大規模AIデータセンター向けに複数世代のカスタムシリコンや1.6T光接続で協業。AWSの採用に連動する形で新株予約権（ワラント）発行も明らかにされた。",
+    "reason": "クラウド大手とチップベンダーの戦略的連携はAIインフラの競争構図とサプライチェーンに大きな影響を与える。",
+    "published_at": "2026-09-09 14:05:21",
+    "created_at": "2026-09-10 03:44:42",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/09/2000001314/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "479f0454ec40",
+    "title": "「全ての攻撃者は何らかの形でAIを使用」 6時間で数千件の侵害事例も Google傘下組織が報告",
+    "published_date": "2026-09-09",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Googleの脅威分析部門GTIGが、攻撃者によるAI利用で侵害のスピードが加速していると報告。6時間未満で数千件の認証情報侵害が確認され、攻撃側が開発環境も標的にしている。",
+    "reason": "攻撃手法の質的変化と高速化は防御側の運用・投資判断に直結する重要な報告。",
+    "published_at": "2026-09-09 14:40:31",
+    "created_at": "2026-09-10 03:44:42",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/09/2000001316/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "6b99b8a1bbf3",
+    "title": "【急ぎ適用を】タスクバーの上下左右配置がついに復活。悪用確認のゼロデイ対処も含むWindows 11「KB5124008」詳細",
+    "published_date": "2026-09-09",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "Microsoftの9月月例更新KB5124008で約1000件の脆弱性を修正。既に悪用が確認されている権限昇格脆弱性（Updateスタック、ALPC）を含む。新機能としてタスクバー配置の復活なども含む。",
+    "reason": "既に悪用確認の脆弱性を含む大規模パッチ、情シスとユーザーによる緊急適用が必要。",
+    "published_at": "2026-09-09 05:00:00",
+    "created_at": "2026-09-10 03:44:42",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/09/news079.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "22d3803ed63d",
+    "title": "信頼崩壊 “政府公認”さくらインターネット 最大136万件情報漏れの穴を分析",
+    "published_date": "2026-09-09",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "さくらインターネットでの不正アクセス被害を技術的に分析。最大136万アカウント影響の可能性があり、原因と対策の検討が進められている。国内クラウド事業者の信頼問題に波及。",
+    "reason": "国内クラウド/ホスティング事業者の大規模インシデントは顧客管理・法令対応に深刻な影響を及ぼす。",
+    "published_at": "2026-09-09 15:00:00",
+    "created_at": "2026-09-10 03:44:42",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/09/news031.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2b1ab890e869",
+    "title": "店で免許証スキャン→数時間で闇サイトへ 米国防長官含む1億5300万枚の流出、被害者たちが突き止めた意外な出所",
+    "published_date": "2026-09-09",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "米国・カナダの運転免許証画像1億5300万枚超が闇サイトで流通。出所は本人確認サービス会社とみられ、レンタカー大手との取引経路が指摘されている。FBIが捜査中。",
+    "reason": "大規模な個人情報（身分証画像）流出で被害範囲と二次被害リスクが極めて大きい。",
+    "published_at": "2026-09-09 12:00:00",
+    "created_at": "2026-09-10 03:44:42",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/09/2000001284/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
