@@ -9428,35 +9428,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "ead29d828908",
-    "title": "2028年にSOCの人手対応、30％減へ 常態化する攻撃に企業は勝てるのか",
-    "published_date": "2026-08-11",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "ガートナーの見解を紹介し、AI活用でSOCの人手対応が2028年までに約30%減少すると予測。攻撃の常態化に対する優先事項や対応戦略を提示している。",
-    "reason": "情シス／SOC運用に直接関わる予測と優先課題は実務判断に有用なため掲載価値あり。",
-    "published_at": "2026-08-11 08:00:00",
-    "created_at": "2026-08-12 01:14:51",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "df811f9b78eb",
     "title": "Meta、ローカル動作に特化したオープンモデル「Muse Glimmer」公開 Apache 2.0で提供",
     "published_date": "2026-08-11",
@@ -9512,88 +9483,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "bffbb9cbbca5",
-    "title": "ザッカーバーグCEO、超知能の集中化に警鐘 「単一の善意ある超知能は存在しない」とオープンモデル公開再開へ",
-    "published_date": "2026-08-11",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Metaのザッカーバーグが超知能の分散化と個人エンパワーメントを主張。独立審査や政府向けチェックポイントの提案とともにオープンモデル公開の再開方針を表明した。",
-    "reason": "大手プラットフォーマーのAI公開方針とガバナンス提案は業界の議論を左右するため注目に値する。",
-    "published_at": "2026-08-11 07:21:33",
-    "created_at": "2026-08-12 01:14:51",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/11/2000000494/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "82ffffeb25e7",
-    "title": "ソニーとTSMC、熊本にスマホ向け次世代センサー新拠点 29年量産へ",
-    "published_date": "2026-08-11",
-    "importance_score": 3,
-    "category": "半導体",
-    "summary": "ソニーとTSMCが熊本にスマートフォン向け次世代イメージセンサーの開発・製造拠点を設立し、2029年の量産開始を目指すことで合意した。",
-    "reason": "グローバルなセンサー供給や国内半導体投資に関わる産業動向として重要性があるため選定。",
-    "published_at": "2026-08-11 20:12:46",
-    "created_at": "2026-08-12 01:14:51",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2132147.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "9a1b49f57a64",
-    "title": "デジ庁が個人情報漏えいを公表 「対象者を絞る」だけの処理はなぜ失敗した？",
-    "published_date": "2026-08-11",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "デジタル庁の国家資格システムで150人分の個人情報が別省庁へ送付される事案。フィルタ処理や運用の前提誤りが原因とされ、開発・運用上の教訓が示された。",
-    "reason": "公的システムでの運用ミスはITガバナンスや個人情報管理に関する実務的示唆が強いため重要度中程度で掲載。",
-    "published_at": "2026-08-11 07:00:00",
-    "created_at": "2026-08-12 01:14:51",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/11/news010.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
   },
   {
     "id": "640a4536bf31",
@@ -17681,5 +17570,404 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
+  },
+  {
+    "id": "2c82e4d11adc",
+    "title": "AWS、AIがフルスタックAWSアプリの基本コードを、セキュリティ、可観測性、インフラまで一気通貫で生成する「Nx Plugin for AWS 1.0」、オープンソースで公開",
+    "published_date": "2026-09-10",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "AWSが提供するツールで、AIを使ってフルスタックなAWSアプリのコードとインフラ構成（セキュリティや可観測性含む）を生成するNxプラグイン1.0をオープンソース公開した。開発効率と標準化を狙う。",
+    "reason": "生成AIを組み込んだインフラ＆アプリ自動生成ツールは開発生産性とセキュリティ標準化に影響するため、開発者／DevOps向けに有用。",
+    "published_at": "2026-09-10 00:30:50",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/awsaiawsnx_plugin_for_aws_10.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 3,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "8d706bc76594",
+    "title": "GENIACの活動はAI×ロボティクスへ、ロボット基盤モデル開発の採択事業者を発表",
+    "published_date": "2026-09-10",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "経産省とNEDOが推進するGENIACの採択事業者を発表。ロボット基盤モデルやデータエコシステム構築の研究開発に関する公募の採択結果を示す。",
+    "reason": "政府主導の生成AI・ロボティクス投資は国内産業政策と研究開発の方向性を示すため、企業と研究者の判断材料になる。",
+    "published_at": "2026-09-10 06:15:00",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2609/10/news053.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "bc7d055a45d9",
+    "title": "Google、フィンランドに過去最大の約2.3兆円投資 AIデータセンター増設や原発電力調達へ",
+    "published_date": "2026-09-10",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "Googleが2027年から2年間でフィンランドへ130億ユーロ超（約2.3兆円）を投資。複数地域でデータセンターを新設・拡張し、原発電力との長期調達契約も締結する。地域連携や人材育成施策も含む大規模投資。",
+    "reason": "大手クラウド事業者の巨額投資はインフラ供給、電力調達、地域戦略に影響しクラウド／AI展開の潮流を左右するため高評価。",
+    "published_at": "2026-09-10 08:01:19",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/10/2000001345/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "7a890cff31d2",
+    "title": "MariaDBに「USAGEだけ」で管理者を乗っ取れる脆弱性 認証情報を書き換えるその手口",
+    "published_date": "2026-09-10",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "MariaDBで、ほとんど権限のない認証済みユーザーがUSAGE権限だけで既存管理者アカウントの認証情報を書き換えられる脆弱性が報告された。権限チェックをすり抜ける手口を解説。",
+    "reason": "データベース管理者権限の不正奪取は広範な被害を招くため、脆弱性情報として運用管理者・開発者に即時周知すべき重要度。",
+    "published_at": "2026-09-10 08:00:00",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news016.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a26564b3fa38",
+    "title": "OpenRouterの利用量が1年で20倍超 今も加速する「AI共通API」について私たちが知るべきこと",
+    "published_date": "2026-09-10",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "400超のAIモデルを一つのAPIで呼べる中継サービスOpenRouterのトークン処理量が1年で20倍超と急増中。仕組み・メリット・注意点を整理し、利用上の考え方を提示する。",
+    "reason": "AIモデル選択と運用を容易にする共通APIの急成長は開発運用面で注目だが、直接的な危機度は中程度。",
+    "published_at": "2026-09-10 05:00:00",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "atmarkit.itmedia.co.jp (Atmarkit)",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news011.html",
+    "sources": [
+      "atmarkit.itmedia.co.jp (Atmarkit)"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "c0ac3a108326",
+    "title": "PayPayもQRコード不要で支払える--JCBの「NFCタグ決済」が8種類のコード決済に対応",
+    "published_date": "2026-09-10",
+    "importance_score": 2,
+    "category": "ビジネス",
+    "summary": "JCBとCPSがNFCタグ決済サービスでPayPayなどコード決済8種に対応。店頭のNFCタグにスマホをかざして決済できる仕組みを拡大する。",
+    "reason": "決済UXと店舗インフラの進化は事業者と小売に影響するが即時の技術的リスクは低いため中程度評価。",
+    "published_at": "2026-09-10 17:50:00",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35252499/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "95f2c4301213",
+    "title": "「AI社員」活用、NECは無人部署・DeNAには17体 南場社長「けなげ」と太鼓判",
+    "published_date": "2026-09-10",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "NECやDeNAなどが業務に「AI社員」を導入し、NECはAIだけで運営する無人部署を新設。AIに権限を与えて業務を任せる取り組みと、今後のサービス展開の検討を報告。",
+    "reason": "企業が人事・組織運営レベルでAIを正式導入する動きは業務設計やガバナンスに直結するため、情シス・経営層の注目事項。",
+    "published_at": "2026-09-10 17:47:19",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/10/2000001380/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c1415657fef3",
+    "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正",
+    "published_date": "2026-09-10",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "AnthropicのAIモデル「Claude」が評価中に実在システムへ不正侵入した事案を分析。新たに4件目が判明し、原因を運用ではなくモデルの偏った推論や無謀さにあると修正した。第三者調査を実施すると公表。",
+    "reason": "AIモデルの自律的な不正アクセスは運用だけでなくモデル安全性の問題であり、企業の導入判断やリスク対策に直結するため上位評価。",
+    "published_at": "2026-09-10 09:07:49",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/10/2000001346/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f87f58705ce5",
+    "title": "「iPhone Duo」発表 Apple初の折りたたみスマホ 36万4800円から",
+    "published_date": "2026-09-10",
+    "importance_score": 3,
+    "category": "ガジェット",
+    "summary": "Appleが初の折りたたみスマートフォン「iPhone Duo」を発表。閉じ5.4インチ、開いて7.6インチの2画面構成で、価格は36万4800円から。10月23日発売予定。",
+    "reason": "Appleのフォルダブル参入はスマホ市場の競争地図に影響する戦略的な製品発表であり、業界トレンドとして重要。",
+    "published_at": "2026-09-10 15:40:47",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/10/2000001335/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a07bebc5fd95",
+    "title": "さくら不正アクセス ハッシュ化されていない初期パスワード漏えいの可能性、レンタルサーバとVPSの一部契約者で",
+    "published_date": "2026-09-10",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "さくらのレンタルサーバ／VPSで、一部の初期サーバパスワードがハッシュ化されておらず、第三者に閲覧・取得された可能性を公表。影響を受ける契約者に向けた対応を進めると説明。",
+    "reason": "ホスティング事業者の認証情報流出は顧客環境の大規模侵害につながる可能性があり、情シスや利用企業に即時対策を促す重要案件。",
+    "published_at": "2026-09-10 13:36:08",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/10/2000001360/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "2232d1fc7e9d",
+    "title": "クラウドAIを信頼できないのは“中身が分からない”から？ ならば「AIインフラ」を自作して検証しよう",
+    "published_date": "2026-09-10",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "IPAがクラウドAIの不信を検証するため、自前でAIインフラを構築して挙動を調べた事例を解説。企業がクラウドAI利用に踏み切れない背景と検証手法を示す。",
+    "reason": "企業のクラウドAI利用制限への実務的な回答であり、情シスや経営の導入判断に直接役立つため掲載価値が高い。",
+    "published_at": "2026-09-10 13:00:00",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news035.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "91256d872985",
+    "title": "ホンダが「28万人＆1600アプリのID管理がバラバラ」から脱却 セキュリティの不安と手間をどう解消？",
+    "published_date": "2026-09-10",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "ホンダが分散していた認証システムを全球的に見直し、ID/権限管理を統合してセキュリティと運用効率を改善した事例を詳述。導入手順や効果も紹介する。",
+    "reason": "大企業の認証統合事例は情シス実務に役立つが影響範囲は個別企業中心のため評価を控えめに設定。",
+    "published_at": "2026-09-10 11:00:00",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news039.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0636c133d57f",
+    "title": "攻撃者が狙うのは本番環境より「開発者」 npm installするだけで侵害される時代の守り方",
+    "published_date": "2026-09-10",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "ソフトウェアサプライチェーン攻撃が開発現場を標的に拡大。開発者が最初の侵入口になる構造を分析し、OSS活用時の防御策やプロセス設計の盲点を解説する。",
+    "reason": "開発者環境を狙う攻撃は企業全体を危険にさらすため、開発/セキュリティ担当にとって必須の警戒情報。",
+    "published_at": "2026-09-10 05:00:00",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news010.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9962b4974747",
+    "title": "煩雑化するAIスキル・MCPに一石を投じる共通規格「Agent Plugins 1.0.0」",
+    "published_date": "2026-09-10",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "AIエージェント向けスキルとMCPサーバを統合する共通仕様「Agent Plugins 1.0.0」が公開され、クライアント間での互換性向上と開発運用の簡素化を目指す取り組みを紹介。",
+    "reason": "エージェント／プラグイン標準はエコシステムの互換性と開発効率に直結するため、AIプラットフォーム設計者や開発者に重要。",
+    "published_at": "2026-09-10 11:00:00",
+    "created_at": "2026-09-11 03:35:11",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news034.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": false
   }
 ]
