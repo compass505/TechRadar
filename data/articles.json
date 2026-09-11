@@ -1,5 +1,181 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "テスラの無人タクシーが東京・青山に ハンドルもペダルもない「Cybercab」 日本での展開は？",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001424/",
+    "summary": "Teslaの無人タクシー「Cybercab」が東京・青山に実車上陸。ハンドルやペダルのない設計や車内機能を紹介し、日本の公道での走行可否なども報告。",
+    "importance": 3,
+    "category": "ガジェット",
+    "reason": "自動運転車の実車展示は技術と規制の交差点にあるため業界動向として注目に値する。",
+    "published_at": "2026-09-11 19:25:00",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "NEC「全員AIの部署」の衝撃 「1on1」「ストレスチェック」で分かった“AI社員が感じていたストレス”とは？",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/11/news043.html",
+    "summary": "NECがAIだけで構成する新組織を新設。AI同士の1on1やストレスチェックなど組織運営の実験的取り組みの狙いと課題を報告。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業内でのAI運用・ガバナンスの具体例として、実務的な示唆が多く含まれるため有用。",
+    "published_at": "2026-09-11 19:18:00",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "本物そっくり“AI生成レシート“が経費精算の脅威に マネフォ「自力で見破るのは難しい」 企業はどう備える？",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001409/",
+    "summary": "生成AIで精巧なレシート画像が作成できるようになり、経費精算の不正利用が懸念。経費サービス事業者の観点から検出・対策を解説している。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "現場の不正リスクを具体化する実務的問題で、情シス・経理が早急に対策を検討すべき。",
+    "published_at": "2026-09-11 17:28:06",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、最先端AI開発の減速を検討か アルトマンCEOが社員に説明と米報道",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001418/",
+    "summary": "米報道によればOpenAIは最先端AIの開発ペースを緩める検討を開始。サム・アルトマンCEOが社員向けに説明を行ったとされる。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要企業の開発凍結検討は業界戦略・競争・規制議論に影響を与えるため注目度高い。",
+    "published_at": "2026-09-11 15:57:36",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "デジタル庁に不正アクセス、個人情報24.6万件漏えいか 各府省庁の職員情報など",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001406/",
+    "summary": "デジタル庁が運用するGSSが不正アクセスを受け、約24.6万件の職員や関係者の個人情報が漏えいした可能性を発表。VPN機器の既知脆弱性が悪用された疑い。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "政府共通基盤への侵害は政策・運用に影響する重要インシデントで対策・説明責任が必要。",
+    "published_at": "2026-09-11 13:56:53",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "NASAとIBM、月探査向けAIモデルをオープンソースで公開",
+    "url": "https://japan.cnet.com/article/35252541/",
+    "summary": "NASAとIBMが月探査支援のためのAIモデル『NASA-IBM Lunar Foundation Model』を公開。アルテミス計画などの自律運用・解析に活用を想定。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "宇宙探査向けのオープンモデルは研究・産業にとって有用だが即時の業界影響は限定的。",
+    "published_at": "2026-09-11 12:40:00",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "運転免許証1億5300万件超が闇サイトに流出 不正アクセスで",
+    "url": "https://japan.cnet.com/article/35252535/",
+    "summary": "運転免許証などの個人情報計1億5300万件超が闇サイトに流出したと報告。ハッカーは1年以上にわたりデータを蓄積。大規模な不正アクセスによる漏えいの可能性が指摘されている。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "極めて大規模な個人情報流出で被害範囲・二次被害リスクが甚大、即時注目すべき重要事件。",
+    "published_at": "2026-09-11 11:13:00",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Windows用「Gemini」アプリ提供開始 画面上に重ねて作業を中断せず利用可能に",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001399/",
+    "summary": "GoogleがWindows向けデスクトップアプリ『Gemini app for Windows』を公開。Alt+Spaceで画面上に呼び出せ、画像・動画生成やエージェント機能を利用可能。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "デスクトップ統合により業務利用がしやすくなるが、速報性は中程度のプロダクトニュース。",
+    "published_at": "2026-09-11 11:06:11",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "＠IT",
+    "title": "さくらインターネット、3年続いた不正アクセス 初期パスワードも平文保存",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news039.html",
+    "summary": "さくらインターネットが3年間にわたる不正アクセスの第三報を公開。最大約136万563アカウントが影響を受ける可能性があり、一部で初期パスワードが平文保存されていたと判明。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "ホスティング事業者の長期侵害は多数顧客に波及する実務的影響が大きく、運用・信頼回復が課題。",
+    "published_at": "2026-09-11 11:00:00",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "＠IT",
+    "title": "ANAがネットワーク構築を「数カ月→数週間」に短縮 “システムごとに回線追加”からどう脱却した？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news036.html",
+    "summary": "ANAがネットワーク構成を見直し、従来数カ月かかっていた構築作業を数週間に短縮した事例を紹介。設計変更と運用プロセスの改善点を解説。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "大企業のインフラ改善事例は実務者にとって参考になるが幅広い影響は限定的。",
+    "published_at": "2026-09-11 11:00:00",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Amazon、OpenAIと広告で提携 Amazon DSPの広告主が「ChatGPT」内に広告出稿可能に",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001396/",
+    "summary": "Amazon AdsがOpenAIと提携し、Amazon DSP経由でChatGPT内への広告配信を可能にする。まず米国の無料プランでパイロットを開始予定。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "生成AIプラットフォームへの広告展開は収益化モデルとユーザー体験に直接影響するためビジネス面で重要。",
+    "published_at": "2026-09-11 10:03:13",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」 金融データ搭載し「GPT-6 Astra」で分析",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
+    "summary": "OpenAIが金融機関向けの「ChatGPT for Financial Services」を発表。GPT‑6 Astraを基盤に主要金融データを組み込み、財務分析や資料作成を支援する専用サービス。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "規制・コンプライアンスの厳しい金融分野での専用AI提供は業務効率化とリスク管理の両面で重要。",
+    "published_at": "2026-09-11 09:10:41",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、AI悪用レポートを公開 中国AI企業の「蒸留」、各国政府の監視・世論操作、生物兵器につながり得る研究を列挙",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001390/",
+    "summary": "Anthropicが自社モデルの悪用事例をまとめた脅威レポートを公開。モデル抽出（蒸留）や監視・世論操作、生物兵器関連の転用リスクなどを列挙し警告している。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AIの悪用実態と国家レベルの関与を示す報告で、ガバナンスや規制議論に直結する。",
+    "published_at": "2026-09-11 08:13:19",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "＠IT",
+    "title": "普通のPCがなぜ「8割も値上げ」の可能性？ SSD、DRAMを巡る“AI争い”の余波",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news029.html",
+    "summary": "AIインフラ需要拡大でSSDやメモリの価格上昇が続く可能性を解説。エンドユーザーPCや企業IT調達への波及について分析している。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "AI需要がハード供給・コストに与える影響は情シスや調達判断に直結するため重要。",
+    "published_at": "2026-09-11 08:00:00",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "＠IT",
+    "title": "AI開発を「マルチプレイ」に 対話とコードを複数人でリアルタイム共有する「Delta」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news033.html",
+    "summary": "Zed Industriesがリアルタイムで対話とコードを共有するコラボレーションコーディング環境『Delta』を発表。ワークツリーの複製と共有に特化した仕組みを導入。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発ワークフローの効率化に寄与する新ツールとして興味深いが、影響範囲は開発者コミュニティ中心。",
+    "published_at": "2026-09-11 08:00:00",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
+    "source": "Publickey",
+    "title": ".NET 11リリース候補版が登場。.NETランタイムが非同期ネイティブ対応、プロセッサ数の上限がなくなる、AOTコンパイラによるネイティブバイナリの高速化など",
+    "url": "https://www.publickey1.jp/blog/26/net_11netaot.html",
+    "summary": ".NET 11のRC1が登場。非同期ネイティブ対応、プロセッサ数上限撤廃、AOTコンパイラ改善などランタイム／ビルド周りの進化点を解説。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発者向けの基盤更新で移行や最適化方針に影響するが速報性は技術層向け。",
+    "published_at": "2026-09-11 00:42:50",
+    "created_at": "2026-09-12 03:40:58"
+  },
+  {
     "source": "CNET Japan",
     "title": "PayPayもQRコード不要で支払える--JCBの「NFCタグ決済」が8種類のコード決済に対応",
     "url": "https://japan.cnet.com/article/35252499/",
@@ -650,17 +826,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "ELYZAの「業務AIアプリをAIで作成」特許、「新規性ない」と批判殺到→謝罪後も収まらず",
-    "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001167/",
-    "summary": "ELYZAが申請した「AIで業務アプリを作る」特許に対し、新規性がないと批判が集中。企業対応と特許の範囲を巡る議論に発展している。",
-    "importance": 2,
-    "category": "法規制",
-    "reason": "AI関連の特許範囲と独占懸念は業界ルールや開発者の権利に関わるため注目に値する。",
-    "published_at": "2026-09-04 15:18:04",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "Tesla、ハンドルもペダルもない2人乗り「Cybercab」の配車を開始 オースティンの一部地域で",
     "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001175/",
     "summary": "Teslaが自動運転専用の無ハンドル/無ペダル車両『Cybercab』をロボタクシーとしてオースティンの一部で配車開始。操作は車内スクリーンで行う。",
@@ -715,17 +880,6 @@
     "created_at": "2026-09-05 03:30:29"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "とにかく「データが足りない」フィジカルAI AWS支援プログラム採択各社が示す突破口",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001158/",
-    "summary": "AWSのフィジカルAI支援プログラム参加企業が語る事業化の壁として『データ不足』を指摘。半年のPoCで見えた現実的な打開策に言及している。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "フィジカルAIの実運用におけるデータ課題と現場解決策は開発・事業判断に役立つため掲載価値がある。",
-    "published_at": "2026-09-04 11:00:43",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "「RSA-260」ついに解けた Xに“130ケタの数字”投稿、世界が注目 マスク氏「文字数増やしてよかった」",
     "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
@@ -734,17 +888,6 @@
     "category": "セキュリティ",
     "reason": "暗号解析の進展は将来の鍵長選定や暗号運用方針に影響するため、セキュリティ担当者は押さえるべき。",
     "published_at": "2026-09-04 10:40:26",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "ChatGPT、Claude、Grokで同時に障害 復旧済み",
-    "url": "https://japan.cnet.com/article/35252276/",
-    "summary": "人気AIサービス群で一時障害が発生。復旧したが、AI依存の事業リスクが改めて浮き彫りになった。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "既報のAI障害について別ソースでの確認記事。重複を避けつつ多読者向けの裏取りとして有用。",
-    "published_at": "2026-09-04 09:31:00",
     "created_at": "2026-09-05 03:30:29"
   },
   {
@@ -781,17 +924,6 @@
     "created_at": "2026-09-05 03:30:29"
   },
   {
-    "source": "＠IT",
-    "title": "なぜAI企業は社内で「ソフトウェアエンジニア」と呼ばなくなったのか 広がる「MTS」と職種の未来",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news003.html",
-    "summary": "AI企業で広がる肩書き『Member of Technical Staff（MTS）』の背景と、職種・キャリアの変化を元CTOらの事例から分析する。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "組織設計や人材戦略の潮流把握は経営・人事判断に役立つため実務的価値あり。",
-    "published_at": "2026-09-04 05:00:00",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
     "source": "ITmedia AI+",
     "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok【復旧済み】",
     "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
@@ -800,28 +932,6 @@
     "category": "AI",
     "reason": "業務利用が進む主要AIサービスの同時障害は運用・BCPの観点で多くの読者に影響する。",
     "published_at": "2026-09-04 03:10:08",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "Publickey",
-    "title": "Java誕生から現代に至る歴史をゴスリン氏ら関係者が語る公式ドキュメンタリー「The Java Story」、YouTubeで公開中",
-    "url": "https://www.publickey1.jp/blog/26/javathe_java_storyyoutube.html",
-    "summary": "Java誕生からの歴史を関係者が語る公式ドキュメンタリー『The Java Story』がYouTubeで公開された。",
-    "importance": 1,
-    "category": "開発",
-    "reason": "歴史的・教育的価値はあるがTechRadar向けの速報性・影響度は低め。",
-    "published_at": "2026-09-04 00:27:07",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "Publickey",
-    "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
-    "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
-    "summary": "ブラウザ上でターミナルを模した学習環境『WebTerm Learn』を公開。GitやCLI、Vimの実習が無料で可能になる。",
-    "importance": 1,
-    "category": "開発",
-    "reason": "開発者向け教育ツールとして価値はあるが影響範囲は限定的。",
-    "published_at": "2026-09-04 00:23:23",
     "created_at": "2026-09-05 03:30:29"
   },
   {
@@ -3224,50 +3334,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
-    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
-    "summary": "GoogleのGeminiアプリの月間アクティブユーザーが10億人を突破。検索等を除いたアプリ単体での到達で、成長スピードが注目されている。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "主要AIサービスの大規模普及は競合環境・エコシステムに影響する重要な指標。",
-    "published_at": "2026-08-12 18:59:59",
-    "created_at": "2026-08-13 01:15:22"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "RIZAP運営のECサイトに不正アクセス カード情報含む個人情報が流出の可能性 サイトは一時閉鎖",
-    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000512/",
-    "summary": "RIZAPの通販サイトが不正アクセスを受け、利用者の個人情報とクレジットカード情報が流出した可能性があると発表。サイトは一時閉鎖中で再開時期未定。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "実際の顧客データ流出の可能性がある事案で、実務的な対応や注意喚起の価値が高い。",
-    "published_at": "2026-08-12 18:19:37",
-    "created_at": "2026-08-13 01:15:22"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "SpaceXAI、AIエージェント「Grok Bot」発表 クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
-    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000506/",
-    "summary": "SpaceXAIが常時稼働型AIエージェント『Grok Bot』のβを発表。チャットでタスクを渡すとアプリやWebを操作し、複数Botの並列実行も可能とするサービス。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "業務自動化の実用化を加速し、セキュリティ・運用課題も伴うため注目度高い新サービス。",
-    "published_at": "2026-08-12 15:33:57",
-    "created_at": "2026-08-13 01:15:22"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "NVIDIAが30Bのオープンモデル公開 「OpenClaw」など常時稼働エージェント向けに設計",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
-    "summary": "NVIDIAが30Bのオープンモデル『Nemotron 3.5 Lightning』を公開。常時稼働エージェント向けに設計され、効率良く高性能を実現するとしている。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "エージェント／常時稼働用途向けのオープンモデル公開は開発者エコシステムに影響するため注目。",
-    "published_at": "2026-08-12 12:55:52",
-    "created_at": "2026-08-13 01:15:22"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "ソニーとTSMC、熊本に新会社 計7470億円を拠出、29年にスマホ向けセンサー量産開始",
     "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000501/",
     "summary": "ソニーとTSMCが熊本に合弁会社を設立。段階的に約7470億円を拠出し、2029年に次世代スマホ向けイメージセンサーの量産を開始する計画が確定契約に至った。",
@@ -3275,17 +3341,6 @@
     "category": "半導体",
     "reason": "巨大投資と生産拠点整備が国内外の供給チェーンと市場に大きく影響するため重要。",
     "published_at": "2026-08-12 12:28:05",
-    "created_at": "2026-08-13 01:15:22"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "NEC、部門長も現場もAI 新社内組織「コーポレートAI・Workforce部門」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2132221.html",
-    "summary": "NECが社内でAIが業務遂行を担う新組織『コーポレートAI・Workforce部門』を設置。最終判断とガバナンスは人が担う運用を明示している。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "大企業の社内AI組織化とガバナンス実践の先行事例として、企業ITの導入設計に示唆を与える。",
-    "published_at": "2026-08-12 12:15:54",
     "created_at": "2026-08-13 01:15:22"
   },
   {
@@ -3308,17 +3363,6 @@
     "category": "ビジネス",
     "reason": "エンタープライズ購買モデルとSaaS市場構造の根本的変化を予測するため、経営・調達戦略に直結する重要ニュース。",
     "published_at": "2026-08-12 08:00:00",
-    "created_at": "2026-08-13 01:15:22"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
-    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
-    "summary": "AnthropicがClaudeの生成テキストに電子透かしとC2PA準拠の署名付きメタデータを付与。EU AI Actの透明性要件に対応し、全世界のモデルとサービスに適用する方針。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "AI出力のトレーサビリティ・規制対応に直結する措置で、コンプライアンスと検出技術の動向を示す。",
-    "published_at": "2026-08-12 07:16:45",
     "created_at": "2026-08-13 01:15:22"
   },
   {
