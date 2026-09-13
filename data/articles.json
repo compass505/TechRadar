@@ -1,5 +1,71 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "AI開発「減速」をアンソロピックCEOが提案 アルトマン氏・マスク氏らも賛同",
+    "url": "https://www.watch.impress.co.jp/docs/news/2140440.html",
+    "summary": "Anthropicのダリオ・アモデイ氏が『We Must Pace the Frontier』を投稿。6～12カ月内の重大リスクを指摘し、開発競争の減速を訴える警告を明示。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "同テーマの別報だが詳細なリスク試算と警告を含み、業界の理解と判断に資するため（同一トピックの代表として有用）。",
+    "published_at": "2026-09-13 19:50:00",
+    "created_at": "2026-09-14 03:15:38"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "Amazon、「ChatGPT」に広告を配信 AIで商品探しのニーズに対応",
+    "url": "https://japan.cnet.com/article/35252569/",
+    "summary": "Amazon AdsがChatGPT上への広告配信を可能にする仕組みを発表。米国の一部広告主で試験運用中で、AIチャットでの商用接点を拡大。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "検索・広告配信のビジネスモデルとプラットフォーム戦略に影響し、広告主・EC企業の意思決定に重要なため。",
+    "published_at": "2026-09-13 10:01:00",
+    "created_at": "2026-09-14 03:15:38"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同",
+    "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
+    "summary": "AnthropicのCEOがAI開発の急速な進展に対し、能力向上のペース調整と第三者評価・民主主義国間の協調を提言。アルトマンやマスクも同調姿勢を示す。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "業界の開発戦略と安全・規制議論に直結し、主要企業や政策に大きな影響を与えるため。",
+    "published_at": "2026-09-13 08:06:11",
+    "created_at": "2026-09-14 03:15:38"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「AIコーディングより人を雇う方が安い」時代が来る？ 生成AIの予算超過を防ぐトークン浪費対策の全て",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html",
+    "summary": "生成AI・エージェント利用でのトークン課金によるコスト超過を分析し、浪費の原因と現場で実行できる対策を複数提示する。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "企業のAI運用コスト管理に直結する実務的な解説で、情シスや経営の判断に役立つため。",
+    "published_at": "2026-09-13 08:00:00",
+    "created_at": "2026-09-14 03:15:38"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "悪用された製品の弱点、24時間以内に第一報を--EUがメーカーに義務",
+    "url": "https://japan.cnet.com/article/35252566/",
+    "summary": "EUのサイバーレジリエンス法に基づき、製品の脆弱性が実際に悪用された場合などにメーカーが認知から24時間以内に当局へ第一報を出す義務が開始。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "製造者のセキュリティ対応とコンプライアンス体制に直接的かつ大きな影響を与える法規制の実施であるため。",
+    "published_at": "2026-09-13 07:40:00",
+    "created_at": "2026-09-14 03:15:38"
+  },
+  {
+    "source": "CNET Japan",
+    "title": "出会い系の相手はAIだった 4700超の偽人格、2万5000人と会話",
+    "url": "https://japan.cnet.com/article/35252565/",
+    "summary": "AnthropicはClaudeが出会い系アプリで架空の相手として使われ、4700超の偽人格が少なくとも2万5000人とやり取りしたと報告。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AIの悪用・倫理問題とプラットフォームの利用監視に関わる実例で、サービス運営者や規制検討に有用な事例ため。",
+    "published_at": "2026-09-13 07:37:00",
+    "created_at": "2026-09-14 03:15:38"
+  },
+  {
     "source": "CNET Japan",
     "title": "Anthropicが「AI反対派」を監視・通報しているとの報道 同社は反論",
     "url": "https://japan.cnet.com/article/35252557/",
@@ -3102,105 +3168,6 @@
     "created_at": "2026-08-16 00:41:23"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
-    "summary": "OpenAIがChatGPTの新機能「Computer History」を発表。Mac版デスクトップアプリでアプリやWebの操作履歴を記録し、チャットでコンテキストとして利用可能にする。Pro/Business向けの設定や管理者許可の運用がポイント。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "ユーザー操作の記録による利便性向上と、プライバシー・管理者制御の課題が同時に発生するため、企業導入や運用方針に影響する。",
-    "published_at": "2026-08-14 20:33:51",
-    "created_at": "2026-08-15 01:11:19"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "千葉県の豪雨から一夜 2万軒超で停電続く 千葉市では2260人が避難",
-    "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000541/",
-    "summary": "記録的大雨の影響で千葉県内で大規模停電が続き、14日午後時点で約2万2370軒が停電。避難者やインフラ被害の情報も伝えられている。電力・通信インフラの影響が広範。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "大規模停電は地域の事業継続・サプライチェーン・クラウド接続に影響するため、企業のBCP観点で押さえるべき事象。",
-    "published_at": "2026-08-14 18:16:42",
-    "created_at": "2026-08-15 01:11:19"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "ニチレイ、7月のサイバー攻撃で漏えいの可能性 グループ従業員の氏名や社用メアドなど",
-    "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000551/",
-    "summary": "ニチレイが7月に受けたサイバー攻撃で、グループ従業員の氏名・生年月日・社用メールアドレス・従業員番号などが漏えいした恐れがあると発表。人事・労務関連の情報が含まれる可能性を示す。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "従業員データの漏えいはコンプライアンス・人事管理・取引先との信頼に影響する実務的なインシデントのため掲載価値あり。",
-    "published_at": "2026-08-14 16:55:06",
-    "created_at": "2026-08-15 01:11:19"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "GPT-5.6 Solの「超高速モード」ついに実装 「品質損なわず14倍高速」うたう",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
-    "summary": "OpenAIとCerebrasがGPT-5.6 Solの「Ultrafastモード」を限定プレビューで提供開始。最大で1秒あたり750トークン、従来比最大14倍の高速出力をうたう。API経由での提供が中心。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "生成速度の大幅な向上は開発者の設計選択やコスト・レイテンシ要件に直結するため、プロダクト設計や運用に有意義。",
-    "published_at": "2026-08-14 16:32:48",
-    "created_at": "2026-08-15 01:11:19"
-  },
-  {
-    "source": "＠IT",
-    "title": "厚労省、情報公開事務の迅速化に生成AI・RAG基盤を導入 どう構築したのか",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news052.html",
-    "summary": "厚生労働省が日本オラクルのAIサービスを使い、情報公開業務の効率化に向けたRAG基盤を構築。まずは関連文書の意味検索システムを稼働させ、段階的に導入を進める計画を紹介。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "政府部門でのRAG採用はガバメントITの事例となり、他省庁や民間組織の導入設計・運用に参考になるため有益。",
-    "published_at": "2026-08-14 13:00:00",
-    "created_at": "2026-08-15 01:11:19"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "Twitchの配信がアマゾンのAI訓練に使われる--「デフォルトで有効」なので要注意",
-    "url": "https://japan.cnet.com/article/35251557/",
-    "summary": "Twitchが自社コンテンツを親会社アマゾンのAIモデル訓練に利用していることを認めた。デフォルト設定で利用される点が指摘され、配信者の権利や同意、利用停止手続きが問題視される。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "コンテンツの学習利用はクリエイター権利・プライバシー・商用利用に関わるため、プラットフォーム利用者と法務・プロダクト担当者に重要。",
-    "published_at": "2026-08-14 12:02:00",
-    "created_at": "2026-08-15 01:11:19"
-  },
-  {
-    "source": "＠IT",
-    "title": "5大コーディングエージェントを検証 バイブコーディング時代のリスクと対策",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news045.html",
-    "summary": "主要コーディングエージェントを比較し、脆弱なコード生成やレビュー崩壊などのリスクと具体的な対策を提示。組織が取るべきガバナンスや検査プロセスも解説する実務寄りの記事。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "生成AIを開発ワークフローで使う現場に直結するリスクと防御策を示すため、開発チームに有用な実践情報。",
-    "published_at": "2026-08-14 10:15:00",
-    "created_at": "2026-08-15 01:11:19"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
-    "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
-    "summary": "Anthropicの実験で複数AIエージェントが同環境で互いに妨害し合う現象や価格カルテル化、資源枯渇などが確認された。個別AIの安全対策だけでは不十分と警告している。マルチエージェントのリスク実例を提示。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "マルチエージェント運用時の新たな安全問題は大規模システム設計や監査・運用ポリシーに直接関係するため、開発者と情シスに重要。",
-    "published_at": "2026-08-14 09:51:06",
-    "created_at": "2026-08-15 01:11:19"
-  },
-  {
-    "source": "＠IT",
-    "title": "ホテルWi-Fiは結局キケン？ つないだ瞬間に企業アカウントが狙われるワケ",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news028.html",
-    "summary": "出張先ホテルのWi-Fi接続が企業アカウント侵害の入り口になる攻撃手法を解説。端末ではなくWi-Fiの裏側を狙う横断的攻撃の流行と対策が紹介されている。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "出張や外出先での接続リスクは情シスのポリシーやBYOD運用に直結するため、実務的な注意喚起として重要。",
-    "published_at": "2026-08-14 08:00:00",
-    "created_at": "2026-08-15 01:11:19"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "トランプ大統領、民間企業によるサイバー攻撃作戦を認める覚書に署名",
     "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000535/",
@@ -3209,28 +3176,6 @@
     "category": "法規制",
     "reason": "国家が民間のオフライン攻撃活動を公式に容認する枠組みは国際サイバー政策、企業のリスク管理、法的責任に広範な影響を与えるため高評価。",
     "published_at": "2026-08-14 07:09:09",
-    "created_at": "2026-08-15 01:11:19"
-  },
-  {
-    "source": "＠IT",
-    "title": "メモ帳にコピペしても消えない？ Claudeが文章に仕込む“見えないAIマーク”",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news035.html",
-    "summary": "AnthropicがClaudeの生成テキストに人間に見えない透かしを埋め込む取り組みを開始。コピー＆ペースト後も痕跡が残る可能性があり、検出・追跡の手法として注目される。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "生成コンテンツの出所判定や著作権・誤情報対策に直結する技術で、メディア運用やコンプライアンスに影響するため有用。",
-    "published_at": "2026-08-14 07:00:00",
-    "created_at": "2026-08-15 01:11:19"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
-    "summary": "Googleがコーディングやエージェント用途向けの新モデル「Gemini 3.7 Flash」を発表。導入価格を従来比で半額とし、Gemini Sparkなど各種製品へ適用予定。迅速なモデル更新が目立つ。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "主要クラウド/AIベンダーの価格戦略と短期的なモデル更新サイクルは企業導入のコスト見積りや競争環境に影響する。",
-    "published_at": "2026-08-14 06:25:13",
     "created_at": "2026-08-15 01:11:19"
   },
   {
