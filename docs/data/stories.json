@@ -9737,34 +9737,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "b969af36f12b",
-    "title": "NASでもテープでもない、ランサムウェア時代の「バックアップ保存先」トップは？",
-    "published_date": "2026-08-15",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "arcserve Japanの調査で、ランサムウェア被害企業の89％でバックアップが暗号化されていたと報告。実務での保存先選定や対策の実態を分析。",
-    "reason": "バックアップ設計・復旧戦略に直接関わる実務データで、情シス・経営の判断に役立つため掲載価値が高い。",
-    "published_at": "2026-08-15 17:00:00",
-    "created_at": "2026-08-16 00:41:23",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news014.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 4,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 3,
-    "has_itmedia_article": false
-  },
-  {
     "id": "976188ef742f",
     "title": "「Qwen3.8-27B」ウェイト公開 一部「Opus 4.6 Max」超えか ライセンスは商用可のApache 2.0",
     "published_date": "2026-08-15",
@@ -15692,33 +15664,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "7268e012a4ba",
-    "title": "JavaScriptをC言語にコンパイルする「porffor」がアルファ版に到達。ネイティブやWASMを生成可能",
-    "published_date": "2026-09-07",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "JavaScriptを事前コンパイルしてC言語へ変換するコンパイラ『porffor』がアルファ版に到達。ネイティブやWASM生成が可能とされる。",
-    "reason": "コンパイル手法の革新は開発ワークフローや性能最適化に影響するが現段階はアルファのため慎重評価。",
-    "published_at": "2026-09-07 00:04:34",
-    "created_at": "2026-09-08 04:16:56",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/javascriptcporfforwasm.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "46bcd283bd3c",
     "title": "M365 Copilotでも「GPT-6 Astra」利用可能に 「Fable 5.1」も可 Work IQと合わせて「より的確な応答」に",
     "published_date": "2026-09-07",
@@ -15910,33 +15855,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "0c0ef8859d86",
-    "title": "顔認証だけで支払い SBPS「PayCAS」とNECが技術連携",
-    "published_date": "2026-09-07",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "NECの顔認証サービスとSBPSの決済プラットフォームを連携し、顔だけでクレジットカード決済できる仕組みを導入する。",
-    "reason": "生体認証決済の普及は決済インフラとプライバシー運用に関わるが商用導入フェーズのため重要度は中程度。",
-    "published_at": "2026-09-07 13:50:53",
-    "created_at": "2026-09-08 04:16:56",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2138732.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
   },
   {
     "id": "abde53bc9b54",
@@ -17763,6 +17681,346 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
     "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "3905936a9a32",
+    "title": "IPA、ランサムウェア被害組織の生の声から得た“11の教訓”を公開",
+    "published_date": "2026-09-14",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "IPAがランサムウェア被害企業への聞き取りから「復旧・防止の11の教訓」を公開。事前準備や復旧手順、外部連携の重要性などを整理している。",
+    "reason": "現実の被害事例に基づく実務的な教訓は情シス・経営層の対策立案に有用。",
+    "published_at": "2026-09-14 17:00:00",
+    "created_at": "2026-09-15 04:53:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news020.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2da3779551dd",
+    "title": "Python風に書けてGPUで高速に動く新言語「Mojo」がついに正式版1.0に AI開発時代の本命になるか",
+    "published_date": "2026-09-14",
+    "importance_score": 4,
+    "category": "開発",
+    "summary": "AI開発向け言語Mojoが正式版1.0に到達。PythonライクでGPU最適化を狙い、既存ワークロードの高速化と新ツールチェーンを提示している。",
+    "reason": "AIモデル開発／実装の基盤言語としての採用が進めば、開発フローとインフラに影響を与える可能性が高い。",
+    "published_at": "2026-09-14 11:00:00",
+    "created_at": "2026-09-15 04:53:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news036.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "42331d2efbc3",
+    "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
+    "published_date": "2026-09-14",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "TailscaleがAIゲートウェイ「Aperture」をGA公開。AIエージェントからTailscaleやノード操作が可能になり、運用自動化と新たなリスクをもたらす。",
+    "reason": "ネットワーク運用の自動化とセキュリティ影響を同時に持つ製品として、情シスの検討対象になる。",
+    "published_at": "2026-09-14 00:08:50",
+    "created_at": "2026-09-15 04:53:47",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "383be08b3fb3",
+    "title": "Windows Defenderの脆弱性 修正からわずか数日で修正回避のPoC登場",
+    "published_date": "2026-09-14",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Microsoftの修正パッチ適用後に、同問題を回避する新たなPoCが公開された。修正版でも攻撃経路が残る可能性を指摘している。",
+    "reason": "修正後すぐに回避PoCが出た点は実運用のリスクが高く、企業・ユーザーの迅速な対策が必要。",
+    "published_at": "2026-09-14 08:00:00",
+    "created_at": "2026-09-15 04:53:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news031.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "3eed9d94b72e",
+    "title": "「ゼロトラスト」でも防げず？ 政府共通基盤GSSで24.6万件が漏えいか",
+    "published_date": "2026-09-14",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "政府共通基盤GSSで不正アクセスが発生。VPN脆弱性経由で保守担当者アカウントが悪用され、約24.6万件の個人情報流出の可能性があると報告された。",
+    "reason": "大規模な政府システムでの個人情報流出疑い。行政・情シスに即時対応を促す重大インシデント。",
+    "published_at": "2026-09-14 11:00:00",
+    "created_at": "2026-09-15 04:53:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news038.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2add797d7128",
+    "title": "「小型のAIデータセンター」初期費用は“たった3億円”から――なぜクラウドではなく敷地内にニーズ？",
+    "published_date": "2026-09-14",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "自社敷地内でGPU搭載の“小型AIデータセンター”を構築する選択肢が台頭。初期費用約3億円からでオンプレ需要の背景を解説している。",
+    "reason": "生成AI需要でオンプレGPU設置の経済性・運用要件が変化しており、インフラ選定に直結する情報。",
+    "published_at": "2026-09-14 08:00:00",
+    "created_at": "2026-09-15 04:53:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news035.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "f1096c9039db",
+    "title": "【西田宗千佳のイマトミライ】iPhone Duoは成功するか? アップル「AIデバイス時代」の密かな幕開け",
+    "published_date": "2026-09-14",
+    "importance_score": 3,
+    "category": "ガジェット",
+    "summary": "Appleの折りたたみiPhone「iPhone Duo」を分析。ハード・価格・AI機能の観点から、アップルが進める“AIデバイス時代”への布石を考察している。",
+    "reason": "Appleの新機種は消費者向けだが、AI端末戦略の方向性が業界や開発者に与える示唆が大きい。",
+    "published_at": "2026-09-14 08:20:00",
+    "created_at": "2026-09-15 04:53:47",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/series/nishida/2140460.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2e964479b85d",
+    "title": "アンソロピック、「AI悪用」レポート 国家による影響工作や中国AIの蒸留を非難",
+    "published_date": "2026-09-14",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "AnthropicがAIの悪用事例をまとめたレポートを公開。監視・影響工作・兵器や違法蒸留など具体的ケースを挙げて警鐘を鳴らしている。",
+    "reason": "AI悪用の実例と分析は政策立案・セキュリティ対策の議論材料として重要。",
+    "published_at": "2026-09-14 09:00:00",
+    "created_at": "2026-09-15 04:53:47",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2140393.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "770d9ecd981d",
+    "title": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合",
+    "published_date": "2026-09-14",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "マイクロソフトが社内でRustをTier 1言語に格上げ。Windowsネイティブ開発環境との統合や内部ツール対応を進める計画が明らかになった。",
+    "reason": "主要ベンダーの言語戦略の変化はツール/採用に波及するため、開発組織にとって注目度が高い。",
+    "published_at": "2026-09-14 00:27:57",
+    "created_at": "2026-09-15 04:53:47",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "dfe9d187e24b",
+    "title": "日立HMAX新技術「AIオーケストレーション」、特急注文など部門間調整を自動化",
+    "published_date": "2026-09-14",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "日立が製造業向けのAIオーケストレーション技術を公開。複数の部門特化AIと計画最適化を組み合わせ、部門間調整の自動化を狙う（2027年提供予定）。",
+    "reason": "製造現場のスケジューリング自動化は業務効率と組織運用に直接影響するため、導入検討の価値が高い。",
+    "published_at": "2026-09-14 08:30:00",
+    "created_at": "2026-09-15 04:53:47",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2609/14/news041.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a4065d8c17cb",
+    "title": "米トランプ大統領、広がるAI規制論に反論 「中国へのリードを維持したい」",
+    "published_date": "2026-09-14",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "トランプ大統領がAI規制議論に対して反論。中国に対する優位性維持を優先し、過度の規制には慎重な姿勢を示した。",
+    "reason": "米大統領の発言は国際的なAI規制議論と産業政策に直接影響するため、企業戦略に関わる重要トピック。",
+    "published_at": "2026-09-14 14:59:09",
+    "created_at": "2026-09-15 04:53:47",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/14/2000001449/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f4965f5954cf",
+    "title": "銀行の基幹システム、生成AIを活用して開発 工数大幅減 富士通ら",
+    "published_date": "2026-09-14",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "ソニー銀行と富士通が基幹システム開発に生成AIを導入。基本設計から結合テストまでの期間を30％短縮、工数は40％削減したと発表。",
+    "reason": "金融の基幹系開発で生成AIが実績を出した点は、他のミッションクリティカル導入の判断に影響する。",
+    "published_at": "2026-09-14 10:55:00",
+    "created_at": "2026-09-15 04:53:47",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35252591/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
     "has_itmedia_article": false
   }
 ]
