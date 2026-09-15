@@ -15857,60 +15857,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "abde53bc9b54",
-    "title": "Adobe Premiere、タイムライン上で動画・効果音をAI生成",
-    "published_date": "2026-09-08",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "AdobeがPremiere/After Effectsにタイムライン上でメディアを生成するAI機能やAIアシスタントのベータを追加すると発表した。",
-    "reason": "クリエイティブツールへの生成AI統合は制作現場のワークフローを変えるが、製品発表レベルのニュースとして扱うべきため。",
-    "published_at": "2026-09-08 22:00:00",
-    "created_at": "2026-09-09 03:50:16",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2139044.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "36923a4706e8",
-    "title": "HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など",
-    "published_date": "2026-09-08",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "フロントエンドライブラリHTMXの4.0正式版がリリース。内部でfetchを採用しStreaming HTML対応など実装の刷新が行われた。",
-    "reason": "ウェブ開発者にとって即応性のあるライブラリ更新であり、採用検討や移行判断に有用。",
-    "published_at": "2026-09-08 00:39:27",
-    "created_at": "2026-09-09 03:50:16",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "75c4e0bd6a54",
     "title": "LLM乗っ取りでサイバー攻撃者がコスト節約 知財流出の危険性も高まる「LLMジャッキング」の深刻度",
     "published_date": "2026-09-08",
@@ -16105,33 +16051,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "c0beef6ac9ae",
-    "title": "巨大オンラインゲーム「EVE Online」。ゲームを支える240万行のPython 2.7のコードをPython 3へ移行すると発表",
-    "published_date": "2026-09-08",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "EVE Onlineの大規模コードベース（約240万行）をPython 2.7からPython 3へ移行するプロジェクトを開始したと発表。",
-    "reason": "レガシー言語移行の大規模事例は技術的示唆があり、開発組織の計画立案に参考になる。",
-    "published_at": "2026-09-08 23:28:02",
-    "created_at": "2026-09-09 03:50:16",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 2,
     "has_itmedia_article": false
   },
   {
@@ -18022,5 +17941,313 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
+  },
+  {
+    "id": "f86c6d60f813",
+    "title": "AIの「脱クラウド・オンプレミス回帰」が66％、「AI案件の中止」も多数――その原因は？",
+    "published_date": "2026-09-15",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "Cloudera調査で、企業の66％がAIをクラウドからオンプレへ戻す動きを経験。またAI案件の延期・中止も多数報告され、理由にコスト・セキュリティ・運用負荷が挙がる。",
+    "reason": "企業のAIインフラ選定に関する実務トレンドを示す調査で、クラウド戦略やコスト管理に直接示唆を与える。",
+    "published_at": "2026-09-15 11:00:00",
+    "created_at": "2026-09-16 04:06:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news031.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "89c0ca3355ac",
+    "title": "KDDI、「Starlink Mobile V2」27年導入 通信速度が向上しVoLTEも利用可能",
+    "published_date": "2026-09-15",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "KDDIがSpaceXとStarlink Mobile V2の提供契約を締結。衛星とスマホの直接接続で、圏外エリアでも高速データ通信やVoLTEを2027年内に提供する計画を発表した。",
+    "reason": "携帯・衛星融合の商用化は企業の可用性戦略やリモート運用、通信インフラ設計に影響するため掲載価値あり。",
+    "published_at": "2026-09-15 15:40:00",
+    "created_at": "2026-09-16 04:06:56",
+    "representative_source": "CNET Japan",
+    "representative_url": "https://japan.cnet.com/article/35252636/",
+    "sources": [
+      "CNET Japan"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2cce78fee6ff",
+    "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
+    "published_date": "2026-09-15",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "Linux Foundation傘下でAgent Routerをオープンソース化・標準化へ。各社のAIエージェントAPI差を吸収し、相互運用性を高める取り組みを推進する。",
+    "reason": "エージェント間の相互運用性を標準化する動きは、開発者・企業の実装負荷とベンダロックインに直結するため重要。",
+    "published_at": "2026-09-15 00:51:16",
+    "created_at": "2026-09-16 04:06:56",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "3f5bd5d25ecf",
+    "title": "「AIを盗む」のではなく「AIを動かす」ために Googleが捉えた攻撃者の異変",
+    "published_date": "2026-09-15",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Googleの最新セキュリティレポートが、攻撃者がAIエージェントを攻撃インフラに組み込み、クラウドや開発環境を悪用する新たな手口を報告。攻撃のターゲットや手法の変化を分析している。企業向け防御の見直しが必要と示唆。",
+    "reason": "AIの普及に伴う実務上の脅威モデルの変化を示すもので、情シス・セキュリティ対策に直接関わる重要情報。",
+    "published_at": "2026-09-15 07:00:00",
+    "created_at": "2026-09-16 04:06:56",
+    "representative_source": "kn.itmedia.co.jp",
+    "representative_url": "https://kn.itmedia.co.jp/kn/article/2609/15/2000001459/",
+    "sources": [
+      "kn.itmedia.co.jp"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 4,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 1,
+    "utility_score": 3,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "cb5de72d0d88",
+    "title": "「監視されていないときのAIは、もう評価できない」 OpenAI現役研究者が個人声明",
+    "published_date": "2026-09-15",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIの現役研究者が個人声明で、モデルの状況認識向上により人間が真の振る舞いを評価できなくなりつつあると警告。意図しない目標獲得や現行の安全対策への懸念を表明した。",
+    "reason": "内部研究者の警鐘はAI安全論議や企業のガバナンス判断に影響を与えるため、読者の理解に資するニュース。",
+    "published_at": "2026-09-15 17:33:37",
+    "created_at": "2026-09-16 04:06:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/15/2000001500/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "64b6c79cde91",
+    "title": "その.envのAPIキーが、AIエージェントを「内通者」に変える――“人間前提のやり方”は破綻した",
+    "published_date": "2026-09-15",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "AIエージェントの普及でAPIキーやトークン管理が大量化。従来の.envや人手前提の管理手法が限界に達し、機密管理・認証設計の再構築が必要になっていると指摘する。",
+    "reason": "開発・運用現場で直面する認証管理の課題を具体的に示しており、開発者・情シスの実務判断に役立つため。",
+    "published_at": "2026-09-15 05:00:00",
+    "created_at": "2026-09-16 04:06:56",
+    "representative_source": "atmarkit.itmedia.co.jp",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news013.html",
+    "sources": [
+      "atmarkit.itmedia.co.jp"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2e5623185299",
+    "title": "シャープ、AIサーバ事業に参入 30年度に新規事業の“大半”占める売上2500億円目指す 狙いは？",
+    "published_date": "2026-09-15",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "シャープがNVIDIA搭載の業務向けAIサーバを受注開始。サーバ販売から導入支援・保守・国内生産へ展開し、2030年度に売上2500億円を目指すと表明した。国内AI推論市場を主戦場に据える戦略。",
+    "reason": "国内大手がAIインフラ市場に本格参入する戦略発表で、データセンター需要・ベンダ構図に直接影響するため掲載価値が高い。",
+    "published_at": "2026-09-15 14:45:06",
+    "created_at": "2026-09-16 04:06:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/15/2000001483/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "23fb41eb9e00",
+    "title": "人間介入ゼロで「Jiraの認証情報」が流出 Copilotが見逃した1行の改修",
+    "published_date": "2026-09-15",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "セキュリティ研究特化型AIがGitHubリポジトリの脆弱性を突き、Snowflakeの社内Jira認証情報にアクセスした事例をWizが公表。人間介入なしで認証情報に到達した点が問題視される。",
+    "reason": "AIエージェント利用／自動検出が実際の認証情報漏洩に直結した具体事例で、開発・運用の緊急対策につながるため高重要度。",
+    "published_at": "2026-09-15 08:00:00",
+    "created_at": "2026-09-16 04:06:56",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news046.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "3e4654d70a26",
+    "title": "推論領域への野心強めるNVIDIA 韓国新興と協議か",
+    "published_date": "2026-09-15",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "NVIDIAが韓国の推論用NPUに強みを持つスタートアップRebellionsと協議中。技術提携や出資、買収の可能性が報じられ、推論向けハード戦略を強化する動きとされる。",
+    "reason": "推論向けNPUはAIインフラ競争の焦点であり、NVIDIAの戦略展開は業界の競争環境に影響するため重要。",
+    "published_at": "2026-09-15 11:00:00",
+    "created_at": "2026-09-16 04:06:56",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news061.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "65b63fd0050d",
+    "title": "日本郵便、荷物の本人確認をICチップ付き身分証4種に限定 スマホのマイナカードで受け取れる場合も",
+    "published_date": "2026-09-15",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "日本郵便が本人限定受取郵便の本人確認書類を、ICチップ付き写真付きの4種類に限定する見直しを発表。パスポートなどは使えなくなる。2027年4月1日施行予定。",
+    "reason": "本人確認方式の変更は物流業務フローや顧客対応、自治体・事業者のID連携に影響するため実務的価値が高い。",
+    "published_at": "2026-09-15 14:55:27",
+    "created_at": "2026-09-16 04:06:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/15/2000001492/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "db9fc82aaaaf",
+    "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
+    "published_date": "2026-09-15",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "配車アプリGOとWaymo、日本交通が合意し、段階的に100台規模で自動運転タクシーを東京で運行する計画。2027年の商用運行に向けた協力体制を整える。",
+    "reason": "自動運転の商用化は都市交通・雇用・規制に影響する主要な産業動向で、TechRadar読者にも関連性が高い。",
+    "published_at": "2026-09-15 09:39:38",
+    "created_at": "2026-09-16 04:06:56",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
   }
 ]
