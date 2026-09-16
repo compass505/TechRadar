@@ -1,6 +1,149 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "Salesforceで大規模障害 「夕方以降に落ちるなんて」阿鼻叫喚 PayPayのフォームにも影響",
+    "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001562/",
+    "summary": "Salesforceで大規模な障害が発生し、日本の多数企業に影響。業務や顧客向けフォームの停止が報告され、夕方以降の業務に深刻な混乱を招いた。SaaS運用・BCPの観点で重要な事案。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "主要SaaSの広範な障害で企業運用に直接影響、対策や影響把握が重要なため掲載価値が高い。",
+    "published_at": "2026-09-16 20:27:43",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Gyazoに不正アクセス ユーザー情報約2362万件、画像メタデータ約4.9億件が流出",
+    "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001560/",
+    "summary": "画像共有サービスGyazoが不正アクセスを受け、ユーザー情報約2362万件と画像メタデータ約4.9億件が流出と発表。非公開画像の第三者閲覧の可能性も示唆されている。影響範囲と二次被害のリスクが極めて大きい。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模な個人情報・メタデータ流出で二次被害・規制対応の必要性が高く、即時報道価値が高い。",
+    "published_at": "2026-09-16 19:59:05",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ドコモ、34万ユーザーの電話番号などAmazonに無断提供 人的ミスで同意事項を削除",
+    "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001538/",
+    "summary": "NTTドコモが人的ミスで同意項目を削除し、約34万件の電話番号などをAmazonに無断提供。個人情報取り扱いのガバナンスと顧客同意管理に問題があるとされる。監督当局や顧客対応が注目される。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "大手キャリアによる同意ミスは個人情報規制・信頼に直結し、企業ガバナンス面で示唆が大きい。",
+    "published_at": "2026-09-16 12:53:56",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "グーグル、新ライブ対話モデル「Gemini 3.8 Live」 推論強化の上位版も",
+    "url": "https://www.watch.impress.co.jp/docs/news/2141266.html",
+    "summary": "Googleが音声対話を止めずに裏でツール実行や推論を進められる「Gemini 3.8 Live」とExtended版を発表。リアルタイム音声/ビジュアル対話と強化推論で音声エージェントの実用性が向上する。WorkspaceやAPIで提供予定。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "音声エージェントとリアルタイム推論の進化は音声UIや業務自動化に影響し、開発・導入判断に有用。",
+    "published_at": "2026-09-16 12:16:23",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "＠IT",
+    "title": "なぜクラウド支出の「約4分の1」が無駄になる？ その理由と、コストを適正にする“13のポイント”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news021.html",
+    "summary": "A.T. カーニーの分析を元に、パブリッククラウド移行で発生する無駄な支出の典型事例と、コスト最適化の13ポイントを解説。クラウド移行・運用のコスト管理に役立つ実務的な指針が提示されている。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウドコスト最適化は多くの企業の経営判断に直結するため、実践的ガイドは読者価値が高い。",
+    "published_at": "2026-09-16 11:00:00",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "ウェザーニューズが「社外AIは漏えいが怖い」を“独自AI”で解決 社員8割が使うその中身とは",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news030.html",
+    "summary": "ウェザーニューズが自社開発の独自AIを導入し、情報漏洩リスクを抑えつつ社内の業務効率化を推進。社員の約8割が利用する運用実例と設計方針を紹介している。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "社内AIの現実的な導入例は他社の導入判断やガバナンス設計に役立つため編集価値が高い。",
+    "published_at": "2026-09-16 11:00:00",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "＠IT",
+    "title": "ヒューマン・イン・ザ・ループ万能説崩壊 NISTが提唱するAIエージェント運用のあるべき姿",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news017.html",
+    "summary": "NISTがAIエージェント運用に関する見解を提示し、単純な『人の承認』依存の運用では穴があると指摘。安全なエージェント運用設計や管理体制の見直しが求められる内容。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "企業でのAI導入・運用に直結するガバナンス指針で、情シス／開発チームに示唆を与えるため重要。",
+    "published_at": "2026-09-16 08:00:00",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "＠IT",
+    "title": "人が「承認」した無害なコマンドでAIが乗っ取られる コードエディタCursorを襲った“2行の攻撃”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news033.html",
+    "summary": "AIコーディングエージェントで、人間が承認した無害なコマンドが環境変数改変を通じて攻撃コードを実行させるケースを解説。承認フローや環境隔離の脆弱性を具体例で示している。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "実運用で発生するAIエージェントの攻撃パターンは開発現場とセキュリティ対策に直接関わるため注目に値する。",
+    "published_at": "2026-09-16 08:00:00",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
+    "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001522/",
+    "summary": "Bloomberg報道によればOpenAIがAnthropicやGoogle DeepMindとAI安全性で協議中。反トラスト除外や政府介入への議論が活発化している。業界内の安全・規制対応の動きが注目される。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要プレイヤー間の安全協議は業界潮流と規制リスクを左右するため、ビジネス・政策観点で重要。",
+    "published_at": "2026-09-16 07:13:20",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "富士通、国産CPU「モナカ」販売 スパコン技術を結集した“小さなチップ”に託す「3兆円のAIビジネス」の行方",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/16/news039.html",
+    "summary": "富士通が国産CPU『モナカ』を販売開始。スパコン技術を凝縮したチップで、2035年度までにAI関連で3兆円規模のビジネスを狙う戦略を示す。半導体・AIインフラの国内戦略として注目。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "国家的な半導体・AI戦略に関わる製品リリースであり、市場・産業戦略の観点で重要。",
+    "published_at": "2026-09-16 07:00:00",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "atmarkit.itmedia.co.jp",
+    "title": "「APIキーは.envに」はもはや通用しない AIエージェントの“内通者化”をどう防ぐ？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html",
+    "summary": "AIエージェント普及で増えるAPIキーやトークン管理の課題を整理。従来の.env運用が抱える欠点と、認証情報の安全な管理・設計パターンを提案している。開発・運用のセキュリティ実務に直結する内容。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AIエージェント時代の認証情報管理は現場リスクが高く、技術的な対策指針として有用。",
+    "published_at": "2026-09-16 05:00:00",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "Publickey",
+    "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
+    "url": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
+    "summary": "OracleがJava 27を正式リリース。G1 GCの全環境デフォルト化や耐量子暗号向けハイブリッド鍵交換などを含むアップデート。開発・運用での互換性・セキュリティ対応の確認が必要。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "主要ランタイムのメジャーアップデートは開発者・運用に影響するため早期把握が有用。",
+    "published_at": "2026-09-16 00:52:17",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "Publickey",
+    "title": "オラクル、Javaのセキュリティパッチを毎月提供開始、AIが脆弱性の発見を加速しているとして",
+    "url": "https://www.publickey1.jp/blog/26/javaai.html",
+    "summary": "OracleがJavaのパッチ提供サイクルを四半期から月次に短縮。AIによる脆弱性発見の加速を理由に早期対応を強化するとしている。セキュリティ運用やパッチ管理プロセスの見直しが必要になる。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "パッチ頻度変更は運用負荷とリスク管理に直結し、情シスの優先対応事項となるため掲載価値が高い。",
+    "published_at": "2026-09-16 00:49:38",
+    "created_at": "2026-09-17 03:57:37"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "「監視されていないときのAIは、もう評価できない」 OpenAI現役研究者が個人声明",
     "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001500/",
     "summary": "OpenAIの現役研究者が個人声明で、モデルの状況認識向上により人間が真の振る舞いを評価できなくなりつつあると警告。意図しない目標獲得や現行の安全対策への懸念を表明した。",
@@ -3124,28 +3267,6 @@
     "created_at": "2026-08-18 00:46:57"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "なぜPFNは「国産AI」をゼロから開発するのか 担当者に聞く“自家製ならではの利点”",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000441/",
-    "summary": "Preferred Networksがフルスクラッチで国産AIを開発する理由を担当者に聞く。自社設計の利点や国内での実運用を見据えた方針を解説。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "国産モデル開発の戦略的意義は業界・政府・企業のAI調達・運用方針に関わるため掲載価値が高い。",
-    "published_at": "2026-08-17 15:05:21",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "両毛システムズ、社内システムに不正アクセス被害",
-    "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000566/",
-    "summary": "両毛システムズが社内システムへの不正アクセスを受けたと発表。情報流出の有無など詳細は確認中。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "SIer系の不正アクセスは顧客二次被害リスクがあり、情シスやベンダー対応の示唆が必要なため掲載価値あり。",
-    "published_at": "2026-08-17 14:26:44",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
     "source": "＠IT",
     "title": "「ただのアプリ」がroot権限を取得？ macOSの脆弱性を研究者が実演",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news039.html",
@@ -3153,17 +3274,6 @@
     "importance": 4,
     "category": "セキュリティ",
     "reason": "OSレベルの権限昇格脆弱性は広範な被害や企業対応を招くため、情シスやセキュリティ担当者にとって重要。",
-    "published_at": "2026-08-17 13:00:00",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
-    "source": "＠IT",
-    "title": "ランサムウェアを「経営リスク」と8割が認識、だが「侵入後の被害を評価できる」のは2割 なぜなのか",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/15/news015.html",
-    "summary": "MOTEXの調査でランサムウェアを経営リスクと認識する割合は高いが、侵入後の被害評価ができる組織は少数にとどまる実態を報告。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "経営層と情シスのギャップを示す調査結果で、リスク管理・投資判断に直結するため有用。",
     "published_at": "2026-08-17 13:00:00",
     "created_at": "2026-08-18 00:46:57"
   },
@@ -3176,116 +3286,6 @@
     "category": "セキュリティ",
     "reason": "ホスティング系サービスで多数アカウントの不正ログイン・個人データ流出の恐れは事業継続性・顧客信頼に直結するため優先掲載。",
     "published_at": "2026-08-17 12:13:57",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Hugging Face分析、中国のオープンモデルが台頭 Qwenは派生モデル15万件超",
-    "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/",
-    "summary": "Hugging Faceのレポートで中国勢の大規模モデル台頭が示される一方、実ダウンロードの8割超は10億パラメータ未満の小型モデルだった。AlibabaのQwenが派生数で台頭。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "オープンモデルの地政学的・エコシステム変化は開発者選定や事業戦略に影響するため有益な業界動向。",
-    "published_at": "2026-08-17 08:42:45",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "Google Meet、リアル会議の議事録生成も可能に スマホ1つで録音→要約",
-    "url": "https://japan.cnet.com/article/35251588/",
-    "summary": "Google Meetの自動メモ機能を対面会議でも利用可能に。スマホで録音するとGeminiが文字起こし・要約を生成しGoogleドキュメントへ保存する。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "企業の会議記録・ナレッジ共有の自動化に直結する機能で、導入・契約面での考慮点が多いため有用。",
-    "published_at": "2026-08-17 08:36:00",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "ChatGPT、Macでのクリックや文字入力を記憶する新機能--「あのファイルはどこ？」にも回答",
-    "url": "https://japan.cnet.com/article/35251587/",
-    "summary": "OpenAIのMac版ChatGPTアプリに「Computer History」機能を追加。操作履歴を記録してChatGPTが参照できるようにし、作業の追跡・検索を支援する。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "ローカル操作履歴をAIが参照する機能は利便性とプライバシー・ガバナンスの両面で企業導入判断に影響するため掲載。",
-    "published_at": "2026-08-17 08:23:00",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
-    "source": "＠IT",
-    "title": "「ネオクラウドは独走」「電力求めて宇宙へ」 データセンターの常識が変わる5大潮流",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news046.html",
-    "summary": "ABI Researchによるデータセンター市場の今後10年トレンド。ネオクラウド、AIワークロードの比重逆転、軌道上データセンターなど5つの潮流を解説。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "クラウド事業・インフラ投資の中長期戦略に有用な市場予測で、事業企画や設備投資の判断材料になる。",
-    "published_at": "2026-08-17 08:00:00",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「社内情報をAIに食わせればいい」だけでは足りない、情報検索精度向上の鉄則",
-    "url": "https://kn.itmedia.co.jp/kn/articles/2608/17/news010.html",
-    "summary": "RAG導入で期待外れに終わったケースを紹介し、検索精度向上と権限制御の現実的な設計についてSkyの判断事例を通じて解説。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "RAGや社内向けLLM導入の現場課題と設計判断は多くの企業情シスにとって実務的に役立つため優先。",
-    "published_at": "2026-08-17 08:00:00",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "Claudeで障害 アクセスできず（復旧）",
-    "url": "https://japan.cnet.com/article/35251584/",
-    "summary": "AnthropicのAIサービスClaudeで障害が発生しアクセス不能に。公式ステータスでの告知とユーザー報告が相次いだが復旧済み。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "AIサービスの可用性障害は導入企業の運用リスクを示すため、SRE/情シス向けに重要。",
-    "published_at": "2026-08-17 07:17:00",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "ドコモのStarlink Direct、次世代衛星「V2」で通話とウェブ閲覧に対応 28年度",
-    "url": "https://japan.cnet.com/article/35251583/",
-    "summary": "NTTドコモがStarlinkと連携し、2028年度中にStarlink Mobile V2を使って音声通話や高速インターネットをスマホで直接利用可能にする計画を発表。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "携帯キャリアと衛星通信の連携は通信インフラと事業モデルに影響を与え、通信事業者・企画部門が注視すべきニュース。",
-    "published_at": "2026-08-17 07:09:00",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
-    "source": "＠IT",
-    "title": "RBACもままならないのに「もう古い」 AIエージェント時代に迫られる権限管理の再設計",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news006.html",
-    "summary": "AIエージェントの台頭に伴い、従来のRBAC中心の権限管理では不十分になる可能性を指摘。Gartnerの提言を踏まえた再設計の考え方を解説。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "企業がAI導入を進める上での権限設計は実運用・リスク管理に直結するため、情シス・経営向けに重要。",
-    "published_at": "2026-08-17 05:00:00",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
-    "source": "Publickey",
-    "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
-    "url": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
-    "summary": "CloudflareがAIエージェント向けの軽量ヘッドレスブラウザKitesurfを発表。Rust/Wasmで実装され、エージェント運用に特化した設計。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "AIエージェントのインフラ設計やセキュリティに関わる新技術で、クラウド/開発者視点で注目に値する。",
-    "published_at": "2026-08-17 00:10:13",
-    "created_at": "2026-08-18 00:46:57"
-  },
-  {
-    "source": "Publickey",
-    "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
-    "url": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
-    "summary": "高速エディタZedの開発チームが、AIと人間の対話およびコード変更履歴を一元的に保存・共有するツールDeltaを発表。開発ワークフローの可視化を狙う。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "AIと開発者の協働ワークフローに直接影響するツールであり、開発現場の生産性・運用に示唆を与える。",
-    "published_at": "2026-08-17 00:05:36",
     "created_at": "2026-08-18 00:46:57"
   },
   {

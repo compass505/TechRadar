@@ -3,10 +3,6 @@
   "surfaces": {
     "top_yesterday": [
       "35c6d2f2c1f7",
-      "575616c0aa34",
-      "0a72faa060fa",
-      "f380b4dc605d",
-      "263d45dca87b",
       "cb4cbc0ccadf",
       "8340e2403658"
     ],
@@ -23,38 +19,13 @@
       "551df8462b31"
     ],
     "yesterday_ai": [
-      "8340e2403658",
-      "0a3668999667",
-      "4ccc8d6ec341",
-      "d5588b660987",
-      "575616c0aa34",
-      "dc9f75c2d8cd",
-      "44a404be3f14",
-      "a0abd2481986",
-      "0a72faa060fa",
-      "f380b4dc605d",
-      "ba1b5fcceb5e"
+      "8340e2403658"
     ],
     "yesterday_enterprise_it": [
       "cb4cbc0ccadf",
       "8340e2403658",
-      "35c6d2f2c1f7",
-      "0a3668999667",
-      "dc9f75c2d8cd",
-      "a0abd2481986",
-      "0a72faa060fa",
-      "f380b4dc605d",
-      "ba1b5fcceb5e",
-      "5c2002649063",
-      "ca52e5732cff",
-      "263d45dca87b"
+      "35c6d2f2c1f7"
     ],
-    "yesterday_development": [
-      "0a3668999667",
-      "44a404be3f14",
-      "a0abd2481986",
-      "f380b4dc605d",
-      "ba1b5fcceb5e"
-    ]
+    "yesterday_development": []
   }
 }
