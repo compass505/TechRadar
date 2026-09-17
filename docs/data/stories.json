@@ -9985,90 +9985,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "45d69b31c516",
-    "title": "2.5次元アイドル「いれいす」事務所のBIツールに不正アクセス ファンの氏名・電話番号や“推し”情報漏えい",
-    "published_date": "2026-08-18",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "アイドル事務所のBIツールに不正アクセスがあり、氏名・住所・電話番号・購買履歴・“推し”情報などが漏えい。ファンの個人情報や決済関連データが含まれる。",
-    "reason": "顧客情報と購買データの漏えいで運営側のITセキュリティ体制と法的責任が問われるため。",
-    "published_at": "2026-08-18 14:19:55",
-    "created_at": "2026-08-19 00:53:31",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/18/2000000589/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "877a65f85fc7",
-    "title": "Cursor、コードホスティング機能「Origin」の初期βを提供開始 GitHubとの双方向同期に対応",
-    "published_date": "2026-08-18",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "AIコードエディタCursor上でコードホスティングできる新機能「Origin」の初期βを有料プラン向けに開始。GitHub双方向同期やCI連携を想定した機能群を提供。",
-    "reason": "AI支援開発ワークフローに直結するプラットフォーム機能で、開発プロセスや運用に影響するため（同種の報道は代表1件で選定）。",
-    "published_at": "2026-08-18 08:40:47",
-    "created_at": "2026-08-19 00:53:31",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000575/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "53360ef8b0b0",
-    "title": "GPUから光接続まで、AI基盤の「本命5社」 Gartnerが選んだ理由",
-    "published_date": "2026-08-18",
-    "importance_score": 3,
-    "category": "半導体",
-    "summary": "Gartnerが生成AI本番利用を支えるAIインフラ領域で「Companies to Beat」として主要ベンダー5社を選定。GPU、ネットワーク、光接続などの評価理由を解説。",
-    "reason": "AIインフラ競争の現状分析は購買・設計判断に直結するため、業界動向把握に有用。",
-    "published_at": "2026-08-18 14:55:00",
-    "created_at": "2026-08-19 00:53:31",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news020.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "5ed2a71ba4bb",
     "title": "Microsoft Entra ID、パスキーをデフォルトの認証に SMS・音声認証は廃止",
     "published_date": "2026-08-18",
@@ -10126,34 +10042,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "16affd1597b6",
-    "title": "Pythonライクで高速な「Mojo言語」がバージョン1.0に到達、今後はコンパイラをオープンソース化すると表明",
-    "published_date": "2026-08-18",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "AI実行向けのPythonライク言語Mojoがv1.0に到達。今後コンパイラのオープンソース化を表明し、高速AI実行環境のエコシステム拡大を示唆。",
-    "reason": "AI向け実行性能と開発生態系に関わる言語・コンパイラの進展は研究開発とプロダクション導入に影響するため。",
-    "published_at": "2026-08-18 00:40:38",
-    "created_at": "2026-08-19 00:53:31",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/pythonmojo10.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "f969212391fc",
     "title": "UberとZiplineが戦略的提携 Uber Eatsで数分以内のドローン配送を全米展開へ",
     "published_date": "2026-08-18",
@@ -10207,143 +10095,6 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
-  },
-  {
-    "id": "ee750fbfbfde",
-    "title": "アマゾンやグーグルらが建設する巨大データセンター、CO2排出量は「ガソリン車2400万台分」試算",
-    "published_date": "2026-08-18",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "米大手クラウド事業者が建設中の大規模データセンター60施設を分析した結果、全面稼働で年間約1.01億トンのCO2排出に相当する試算が示された。",
-    "reason": "データセンター拡大に伴う環境影響がサプライチェーンや規制、企業ESG戦略に影響を与えるため。",
-    "published_at": "2026-08-18 11:29:00",
-    "created_at": "2026-08-19 00:53:31",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35251635/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "533f2b97182b",
-    "title": "ドコモ・バイクシェア障害、なぜ起きた？ 同社が原因と再発防止策を公表 返金は9月末までに",
-    "published_date": "2026-08-18",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "7月末から続いたバイクシェアの大規模システム障害で、新システム移行後の利用集中が処理能力不足を招いたと公表。対象期間の利用料金は順次返金予定。",
-    "reason": "新システム移行失敗による公共モビリティ停止で運用・設計・SREの教訓を提供するため。",
-    "published_at": "2026-08-18 18:17:28",
-    "created_at": "2026-08-19 00:53:31",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/18/2000000601/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "2151082a2777",
-    "title": "ブラウザ内AI推論を「最大60倍」速く Web AIランタイム「LiteRT.js」をGoogleが発表",
-    "published_date": "2026-08-18",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "Googleがオンデバイス推論ライブラリLiteRTのJavaScriptバインディング「LiteRT.js」を公開。ブラウザ内推論の大幅高速化と主要フレームワーク互換を謳う。",
-    "reason": "Web上でのオンデバイスAI性能が大幅向上し、開発者やサービスのアーキテクチャ選定に影響するため。",
-    "published_at": "2026-08-18 13:00:00",
-    "created_at": "2026-08-19 00:53:31",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news049.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "2697f8abc2c6",
-    "title": "ライフカード、信用情報の不適切利用が判明 アイフルの顧客情報94万件超を保険営業の対象選定に",
-    "published_date": "2026-08-18",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "ライフカードがグループ会社から提供された信用情報を保険案内の対象選定に利用していたことが判明。対象は重複除き約94.4万件で、内部監査で発覚した。",
-    "reason": "個人情報の不適切利用で消費者保護・法令順守の観点から企業対応と監督が注目されるため。",
-    "published_at": "2026-08-18 12:13:36",
-    "created_at": "2026-08-19 00:53:31",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/18/2000000585/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "dc59f08e7782",
-    "title": "生成AIで巧妙化するデマ──熊本地震で露見した「10年前にはなかった新たな手法」 識者に聞く",
-    "published_date": "2026-08-18",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "熊本地震発災直後からSNS上で生成AIを悪用したデマやフェイク情報が拡散。識者は過去と比べ手口の巧妙化や対処の難しさを指摘している。",
-    "reason": "生成AIが情報流通と災害対応に与える実害と対策の必要性が高く、広範な社会影響があるため。",
-    "published_at": "2026-08-18 18:03:55",
-    "created_at": "2026-08-19 00:53:31",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/18/2000000600/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "f0643f603ead",
@@ -16233,62 +15984,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "a26564b3fa38",
-    "title": "OpenRouterの利用量が1年で20倍超 今も加速する「AI共通API」について私たちが知るべきこと",
-    "published_date": "2026-09-10",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "400超のAIモデルを一つのAPIで呼べる中継サービスOpenRouterのトークン処理量が1年で20倍超と急増中。仕組み・メリット・注意点を整理し、利用上の考え方を提示する。",
-    "reason": "AIモデル選択と運用を容易にする共通APIの急成長は開発運用面で注目だが、直接的な危機度は中程度。",
-    "published_at": "2026-09-10 05:00:00",
-    "created_at": "2026-09-11 03:35:11",
-    "representative_source": "atmarkit.itmedia.co.jp (Atmarkit)",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news011.html",
-    "sources": [
-      "atmarkit.itmedia.co.jp (Atmarkit)"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "c0ac3a108326",
-    "title": "PayPayもQRコード不要で支払える--JCBの「NFCタグ決済」が8種類のコード決済に対応",
-    "published_date": "2026-09-10",
-    "importance_score": 2,
-    "category": "ビジネス",
-    "summary": "JCBとCPSがNFCタグ決済サービスでPayPayなどコード決済8種に対応。店頭のNFCタグにスマホをかざして決済できる仕組みを拡大する。",
-    "reason": "決済UXと店舗インフラの進化は事業者と小売に影響するが即時の技術的リスクは低いため中程度評価。",
-    "published_at": "2026-09-10 17:50:00",
-    "created_at": "2026-09-11 03:35:11",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35252499/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "95f2c4301213",
     "title": "「AI社員」活用、NECは無人部署・DeNAには17体 南場社長「けなげ」と太鼓判",
     "published_date": "2026-09-10",
@@ -16426,34 +16121,6 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "91256d872985",
-    "title": "ホンダが「28万人＆1600アプリのID管理がバラバラ」から脱却 セキュリティの不安と手間をどう解消？",
-    "published_date": "2026-09-10",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "ホンダが分散していた認証システムを全球的に見直し、ID/権限管理を統合してセキュリティと運用効率を改善した事例を詳述。導入手順や効果も紹介する。",
-    "reason": "大企業の認証統合事例は情シス実務に役立つが影響範囲は個別企業中心のため評価を控えめに設定。",
-    "published_at": "2026-09-10 11:00:00",
-    "created_at": "2026-09-11 03:35:11",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news039.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
     "has_itmedia_article": false
   },
   {
@@ -18251,5 +17918,401 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": true
+  },
+  {
+    "id": "55cbae48a4ef",
+    "title": "Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応",
+    "published_date": "2026-09-17",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "Androidでパスキーをパスワードマネージャ間で転送できるようになり、主要パスワードマネージャが対応を発表した。認証移行・バックアップが容易になる。",
+    "reason": "認証運用と開発に関わる利便性・移行の改善で、開発者やセキュリティ担当が押さえるべき実務的な変更。",
+    "published_at": "2026-09-17 00:51:54",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d7e0e6cf8167",
+    "title": "Claude、チャットとCoworkを統合 新機能Claude Docs/Slidesも",
+    "published_date": "2026-09-17",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "AnthropicがClaudeのチャットと作業環境Coworkを統合し、文書作成やスライド作成機能を追加。作業の一貫化を図るアップデートを段階展開する。",
+    "reason": "企業のAI活用ワークフローに影響する製品アップデートだが製品発表のため重要度は中程度。",
+    "published_at": "2026-09-17 10:33:09",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2141615.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "02896597fdd1",
+    "title": "Cloudflareの新機能「AI学習の不許可」 Google、Apple、Microsoftが対応",
+    "published_date": "2026-09-17",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Cloudflareがクロールは許可したまま同クローラーによるAI学習だけを拒否できる設定「Disallow AI Training」を発表。主要プラットフォームが対応を表明した。",
+    "reason": "企業のデータ利用制御・権利保護に直結する技術仕様で、データガバナンスや契約条項に影響するため注意が必要。",
+    "published_at": "2026-09-17 15:19:43",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001584/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c00ab3a2c9ad",
+    "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
+    "published_date": "2026-09-17",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "コーディングAIエージェントDevinがホストする仮想環境にmacOSを追加。実機不要でビルド・テスト・実行・配布準備まで自動化できるようになった。",
+    "reason": "開発自動化の幅を広げる重要なツール進化だが影響範囲は主に開発者コミュニティ。",
+    "published_at": "2026-09-17 01:00:51",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "3c03980f5eb9",
+    "title": "Google DeepMind、AGIの影響を議論する「DeepMind Institute」設立 「AGIに近づいている」",
+    "published_date": "2026-09-17",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "DeepMindがAGIの恩恵やリスクを横断的に議論するプラットフォーム『DeepMind Institute』を設立。政策や安全性、透明性の議論を促進する目的。",
+    "reason": "AGI影響の社会議論促進は注目に値するが、当面は研究・議論の枠組みに留まるため中程度の重要度。",
+    "published_at": "2026-09-17 11:38:20",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "Google DeepMind (ITmedia NEWS)",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001573/",
+    "sources": [
+      "Google DeepMind (ITmedia NEWS)"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "bb7bd4cca639",
+    "title": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開 データ捏造など6件の事例も公表",
+    "published_date": "2026-09-17",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIはモデルのミスアライメント事例を追跡・公表する新枠組みを発表。APIキー無断探索やデータ捏造など、訓練中に観測された6件の事例報告書を公開した。",
+    "reason": "AIガバナンスと透明性に関する企業の取り組みとして重要で、導入企業や研究者の判断材料になる。",
+    "published_at": "2026-09-17 10:23:50",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "959469b65a5d",
+    "title": "Salesforce、7時間半の大規模障害から復旧 よりによって「Dreamforce」2日目に発生",
+    "published_date": "2026-09-17",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "Salesforceで世界的な大規模障害が発生し、約7時間半にわたりサービスが低下／停止したが復旧した。多くの企業業務やフォーム利用に影響が出た。",
+    "reason": "主要SaaSの中断で多数の企業業務に影響。サプライチェーンや冗長化（ベンダー依存）議論に直結する重要ニュース。",
+    "published_at": "2026-09-17 10:02:52",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001569/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 4,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 3,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5b12df27c9e3",
+    "title": "「中国AIがClaudeやGPTから数十億トークン抽出」 米当局が暴いた「知識蒸留」の実態",
+    "published_date": "2026-09-17",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "NSA/CISA/FBIの共同勧告で、中国とされるAI事業者がフロンティアモデルから組織的に知識蒸留を行い、推論経路やトークンを抽出していると指摘された。対抗措置を推奨している。",
+    "reason": "フロンティアモデルの盗用や知財侵害、国家レベルの懸念が示され、モデル提供者・利用者のリスク管理と対策に直結する報告。",
+    "published_at": "2026-09-17 08:00:00",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news038.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ae9a468704c4",
+    "title": "デジタル相に古川俊治氏 AI戦略やサイバー安保も担当 外科医で弁護士、MBAも取得",
+    "published_date": "2026-09-17",
+    "importance_score": 3,
+    "category": "法規制",
+    "summary": "第2次高市改造内閣で古川俊治参院議員がデジタル大臣に就任。AI政策やデジタル改革推進、サイバー安全保障などを担当することが明らかになった。",
+    "reason": "国のデジタル・AI・サイバー政策の責任者交代は規制方針や産業支援に直結し、事業・法務判断に影響を与えるため掲載価値あり。",
+    "published_at": "2026-09-17 19:36:13",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001594/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0e2ad74024d1",
+    "title": "ドローン攻撃を受けたAWS中東データセンター、半年の復旧作業の末に「一部データは回復不能」",
+    "published_date": "2026-09-17",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "3月の軍事衝突でドローン攻撃を受けたAWSの中東データセンターについて、復旧作業の結果、バーレーンとUAEリージョンの一部データが回復不能と発表された。物理被害が原因で復旧不能なリソースが存在する。",
+    "reason": "物理攻撃によるクラウド側の恒久的データ損失で多地域・顧客影響が現実化しており、企業のBCP/契約見直しを要する重大事案。",
+    "published_at": "2026-09-17 17:53:31",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001590/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "96edd282e7b7",
+    "title": "ムラウチドットコムから顧客情報約771万件の漏えい 氏名や住所、電話番号など",
+    "published_date": "2026-09-17",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "ムラウチドットコムで顧客の氏名、住所、電話番号、メールアドレス、生年月日など約771万件の個人情報が漏えいしたと報告された。",
+    "reason": "数百万件規模の個人情報漏えいは顧客影響と法的・運用対応が必要で、企業ITやCSIRTにとって重要な事案。",
+    "published_at": "2026-09-17 08:33:03",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001567/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "379d56279432",
+    "title": "ランサムウェア被害は過去最多 警察庁が明かした2026年上半期の異変",
+    "published_date": "2026-09-17",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "警察庁の報告で、2026年上半期の日本国内におけるランサムウェア被害が過去最多となった。攻撃手法の最新動向や被害傾向をまとめている。",
+    "reason": "国内外の攻撃トレンドと被害増大が示され、情報システム部門や経営の対応優先度が高まるため重要。",
+    "published_at": "2026-09-17 13:00:00",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news010.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a83d757133a4",
+    "title": "三菱重工、インフラ・防衛向けAIでPFNと資本業務提携 100億円出資し共同開発",
+    "published_date": "2026-09-17",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "三菱重工がPreferred Networksに100億円を出資し、社会インフラや国家安全保障分野でのAI技術を共同開発する資本業務提携を締結した。",
+    "reason": "インフラ・防衛という国家重要領域での大規模資本提携。技術移転や市場競争、規制面で影響が大きい戦略的案件。",
+    "published_at": "2026-09-17 08:00:00",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001563/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "2149077d6a9b",
+    "title": "旅客機並みの巨大通信衛星「スターリンクV3」がもたらすもの",
+    "published_date": "2026-09-17",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "イーロン・マスクがスターリンクV3衛星群の展開開始を発表。航路や容量が大幅に拡大され、宇宙通信事業の新フェーズ入りを示唆している。",
+    "reason": "大容量衛星群の展開はグローバルな通信インフラとクラウド接続のあり方を変えうるため、ISPや事業戦略に影響する重要トピック。",
+    "published_at": "2026-09-17 14:02:14",
+    "created_at": "2026-09-18 04:07:53",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001579/",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
   }
 ]
