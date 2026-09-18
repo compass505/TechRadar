@@ -10152,93 +10152,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "eba88bd376d9",
-    "title": "Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ",
-    "published_date": "2026-08-19",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "Googleが完全準同型暗号（FHE）を使い、暗号化されたデータ上でAIモデルを動かすためのコンパイラ『HEIR』を公開。復号不要での推論を目指すツールチェーン。",
-    "reason": "機密データでのAI活用を技術的に変える可能性があり、プライバシー対応や企業導入に直接関係するため。",
-    "published_at": "2026-08-19 00:55:25",
-    "created_at": "2026-08-20 00:52:48",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "51c60b5fda27",
-    "title": "Google、Kubernetesで動く“野良AI”を棚卸しするOSS「k8s-aibom」公開",
-    "published_date": "2026-08-19",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "Kubernetes上で稼働するAIシステムの構成要素を自動検出するオープンソースツール『k8s-aibom』をGoogleが公開。特権不要で導入しやすいのが特徴。",
-    "reason": "企業クラスタでの“見えないAI”検出は運用・コンプライアンス上重要で、実務的価値が高いため。",
-    "published_at": "2026-08-19 13:00:00",
-    "created_at": "2026-08-20 00:52:48",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news048.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "fba2ee4385ed",
-    "title": "Googleや英政府、AIで飛行機雲を回避する大規模実証開始 航空業界の温暖化影響を減らす狙い",
-    "published_date": "2026-08-19",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Googleと英政府などがAIを使い飛行機雲（コントレイル）発生を回避する大規模実証を開始。航路のわずかな変更で気候影響を抑える試みで、空域規模の協調回避は世界初。",
-    "reason": "AIを使った実運用の気候対策実証で、業界横断的な影響と実用化の可能性が高いため。",
-    "published_at": "2026-08-19 11:09:16",
-    "created_at": "2026-08-20 00:52:48",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/19/2000000613/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "c3dc13a8e4bd",
     "title": "OpenAI、AIの開発ペースを一時減速 最新モデルの強化学習を2週間停止 暴走リスクの高まりで",
     "published_date": "2026-08-19",
@@ -10267,33 +10180,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "6cbb648944bf",
-    "title": "「オープンな国産モデル」に33Bパラメータの新バージョン 国立情報学研究所",
-    "published_date": "2026-08-19",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "国立情報学研究所がオープンな国産LLM『LLM-jp-4 33B』を公開。約332億パラメータで従来モデルを上回るベンチマーク結果を報告。",
-    "reason": "国産オープンモデルの性能向上は国内の企業利用や研究・政策に影響するため。",
-    "published_at": "2026-08-19 15:55:19",
-    "created_at": "2026-08-20 00:52:48",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "464480f337a1",
     "title": "さくら、別のシステムでも不正アクセスか 会員情報136万アカウントが漏えいの可能性 調査で判明",
     "published_date": "2026-08-19",
@@ -10318,64 +10204,6 @@
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "2e7aa16469e2",
-    "title": "みずほFG、クラウドではなく「オンプレミスGPU」導入 AIエージェント活用も見据えた狙いとは？",
-    "published_date": "2026-08-19",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "みずほFGがNVIDIA製品を活用してオンプレミスGPU基盤を強化。金融機関向けに安全にAIエージェントを運用する仕組み検証を進める。",
-    "reason": "大手金融機関のインフラ選択は業界のAI導入方針の先行指標となり、クラウド対オンプレの議論に影響するため。",
-    "published_at": "2026-08-19 13:00:00",
-    "created_at": "2026-08-20 00:52:48",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news060.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "7a1b92e498d2",
-    "title": "氏名・住所など16万人分漏えい 学生向けPC販売サイト、不正アクセスの影響判明 明大・帝京など利用",
-    "published_date": "2026-08-19",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "ECサイト『アカデミコナビ』への不正アクセスで16万5587人分の個人データ漏えいを確認。利用大学やサービス停止の長期化が報告されている。",
-    "reason": "教育機関を含む多数の個人情報漏えいで、実務上の対応や通知・影響範囲把握が必要なため。",
-    "published_at": "2026-08-19 18:25:36",
-    "created_at": "2026-08-20 00:52:48",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/19/2000000625/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
     "utility_score": 0,
     "has_itmedia_article": true
   },
@@ -16182,89 +16010,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "a0814103c806",
-    "title": ".NET 11リリース候補版が登場。.NETランタイムが非同期ネイティブ対応、プロセッサ数の上限がなくなる、AOTコンパイラによるネイティブバイナリの高速化など",
-    "published_date": "2026-09-11",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": ".NET 11のRC1が登場。非同期ネイティブ対応、プロセッサ数上限撤廃、AOTコンパイラ改善などランタイム／ビルド周りの進化点を解説。",
-    "reason": "開発者向けの基盤更新で移行や最適化方針に影響するが速報性は技術層向け。",
-    "published_at": "2026-09-11 00:42:50",
-    "created_at": "2026-09-12 03:40:58",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/net_11netaot.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "b1a7c773e252",
-    "title": "AI開発を「マルチプレイ」に 対話とコードを複数人でリアルタイム共有する「Delta」",
-    "published_date": "2026-09-11",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "Zed Industriesがリアルタイムで対話とコードを共有するコラボレーションコーディング環境『Delta』を発表。ワークツリーの複製と共有に特化した仕組みを導入。",
-    "reason": "開発ワークフローの効率化に寄与する新ツールとして興味深いが、影響範囲は開発者コミュニティ中心。",
-    "published_at": "2026-09-11 08:00:00",
-    "created_at": "2026-09-12 03:40:58",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news033.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "6f4f65a10e15",
-    "title": "ANAがネットワーク構築を「数カ月→数週間」に短縮 “システムごとに回線追加”からどう脱却した？",
-    "published_date": "2026-09-11",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "ANAがネットワーク構成を見直し、従来数カ月かかっていた構築作業を数週間に短縮した事例を紹介。設計変更と運用プロセスの改善点を解説。",
-    "reason": "大企業のインフラ改善事例は実務者にとって参考になるが幅広い影響は限定的。",
-    "published_at": "2026-09-11 11:00:00",
-    "created_at": "2026-09-12 03:40:58",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news036.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "ef711a258226",
     "title": "Amazon、OpenAIと広告で提携 Amazon DSPの広告主が「ChatGPT」内に広告出稿可能に",
     "published_date": "2026-09-11",
@@ -16320,34 +16065,6 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": true
-  },
-  {
-    "id": "005f4eb84b90",
-    "title": "NASAとIBM、月探査向けAIモデルをオープンソースで公開",
-    "published_date": "2026-09-11",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "NASAとIBMが月探査支援のためのAIモデル『NASA-IBM Lunar Foundation Model』を公開。アルテミス計画などの自律運用・解析に活用を想定。",
-    "reason": "宇宙探査向けのオープンモデルは研究・産業にとって有用だが即時の業界影響は限定的。",
-    "published_at": "2026-09-11 12:40:00",
-    "created_at": "2026-09-12 03:40:58",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35252541/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
   },
   {
     "id": "2dcfd9667145",
@@ -16426,33 +16143,6 @@
       "ai"
     ],
     "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "13de4ac36142",
-    "title": "Windows用「Gemini」アプリ提供開始 画面上に重ねて作業を中断せず利用可能に",
-    "published_date": "2026-09-11",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "GoogleがWindows向けデスクトップアプリ『Gemini app for Windows』を公開。Alt+Spaceで画面上に呼び出せ、画像・動画生成やエージェント機能を利用可能。",
-    "reason": "デスクトップ統合により業務利用がしやすくなるが、速報性は中程度のプロダクトニュース。",
-    "published_at": "2026-09-11 11:06:11",
-    "created_at": "2026-09-12 03:40:58",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/11/2000001399/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
@@ -18314,5 +18004,344 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
+  },
+  {
+    "id": "7dc79564dfb4",
+    "title": "AIが異常察知し7つの専門エージェントが解決案を提案、NECのSCMソリューション",
+    "published_date": "2026-09-18",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "NECは需要予測や生産計画など複数システムを横断してトラブル検知と解決提案を行う「NEC SCM AIエージェント」を展示。自律的なサプライチェーン運用を目指す。",
+    "reason": "サプライチェーンの自動化に直結する実装例で、製造・物流のIT投資判断に影響するため掲載価値が高い。",
+    "published_at": "2026-09-18 07:15:00",
+    "created_at": "2026-09-19 03:34:42",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2609/18/news039.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b71302db01e9",
+    "title": "Microsoftが進めるCopilot再編 「Microsoft Copilot」への移行で、企業への影響は？",
+    "published_date": "2026-09-18",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "MicrosoftがMicrosoft 365 Copilotの体験を「Microsoft Copilot」に統合する再編を進行。Web版URL変更などで、接続制限している企業は設定確認が必要になる可能性がある。",
+    "reason": "エンタープライズのアクセス制御やネットワークポリシーに影響する変更で、IT管理者が対応を検討すべき内容。",
+    "published_at": "2026-09-18 07:00:00",
+    "created_at": "2026-09-19 03:34:42",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/article/2609/18/2000001586/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b78517721e3d",
+    "title": "NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立 Anthropicも参加",
+    "published_date": "2026-09-18",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "NVIDIA、Google、Emerald AIらが電力網状況に応じてデータセンター消費を動的制御する団体AEMAを設立。送電網負荷と接続問題への対処を狙う。",
+    "reason": "AIインフラの拡張と電力制約を産業横断で解く取り組みで、データセンター戦略と地域電力政策に影響を与える可能性が高い。",
+    "published_at": "2026-09-18 06:46:04",
+    "created_at": "2026-09-19 03:34:42",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/18/2000001599/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c3a74c583b82",
+    "title": "PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開",
+    "published_date": "2026-09-18",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "PlanetScaleがPostgreSQL向け自動シャーディングで高スループットを実現する新DBサービス「Neki」をプレビュー公開。スケーラビリティ改善を狙う。",
+    "reason": "大規模トラフィック対応の新しいDBアプローチはアーキテクトやSREにとって実務的な関心事であり、採用検討価値が高い。",
+    "published_at": "2026-09-18 00:59:39",
+    "created_at": "2026-09-19 03:34:42",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0e43dbfe524d",
+    "title": "RustとC++の共存をどう実現？ Microsoftが明かす統合戦略",
+    "published_date": "2026-09-18",
+    "importance_score": 4,
+    "category": "開発",
+    "summary": "MicrosoftがWindows開発でRustをTier-1に指定し、数十年分のC++資産との共存を図る技術的アプローチを説明。移行・相互運用の具体策を提示する。",
+    "reason": "OSレベルの開発言語戦略と既存資産の扱いは多くの大手開発組織に直接影響するため、技術判断に必須の情報。",
+    "published_at": "2026-09-18 08:00:00",
+    "created_at": "2026-09-19 03:34:42",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news043.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "1a9d86d170c1",
+    "title": "クラウドフレア、AI学習拒否・検索OKを選べる新設定",
+    "published_date": "2026-09-18",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "Cloudflareがコンテンツ利用の細分化制御として「Disallow AI Training」など、新しいAI向けクロール制御設定を提供開始。検索やエージェントごとに指定可能に。",
+    "reason": "出版社やメディアがAI学習利用を技術的に制御できるようになり、コンテンツ運用とライセンス管理に直接影響するため重要。",
+    "published_at": "2026-09-18 13:38:58",
+    "created_at": "2026-09-19 03:34:42",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2142146.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "bae24098196e",
+    "title": "ゲーム開発者の生成AI活用が8割超に CESAが初調査 「業務効率化」に最大の期待",
+    "published_date": "2026-09-18",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "CESAの調査でゲーム開発者の85.8％が生成AIを業務で活用。業務効率化への期待が高く、利用領域やリスク認識も報告されている。",
+    "reason": "産業別でのAI実装実態を示すデータで、開発現場のツール導入・方針決定に参考になる。",
+    "published_at": "2026-09-18 13:43:35",
+    "created_at": "2026-09-19 03:34:42",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/18/2000001618/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "7bc768b259a9",
+    "title": "サムスン「Galaxy Buds」が補聴器に 米FDA認可を取得",
+    "published_date": "2026-09-18",
+    "importance_score": 3,
+    "category": "ガジェット",
+    "summary": "SamsungがGalaxy Budsの補聴器機能および聴力検査機能で米FDA認可を取得。対象機種はBuds3 ProとBuds4 Proで、認可国で第4四半期提供を予定。",
+    "reason": "消費者ハードが医療機器規制を取得した例で、ヘルスケア市場や規制対応の潮流を示す重要な事例。",
+    "published_at": "2026-09-18 14:24:06",
+    "created_at": "2026-09-19 03:34:42",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2142191.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ca24033cd652",
+    "title": "ニチレイ、計5万件超の個人情報漏えいを確認 7月のサイバー攻撃で",
+    "published_date": "2026-09-18",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "7月のサイバー攻撃でニチレイの一部サーバが侵害され、計53,866件の個人情報漏えいを確認したと発表。影響範囲と原因調査、再発防止策を進めている。",
+    "reason": "実被害を伴う企業の個人情報漏えいで、業務・顧客対応や法的影響を伴うため情シス・経営層が注目すべき案件。",
+    "published_at": "2026-09-18 20:00:36",
+    "created_at": "2026-09-19 03:34:42",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/18/2000001648/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 4,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "404d388045bf",
+    "title": "散在する“29万ファイル”をAmazon S3に集約、「AIに聞くだけ」で検索可能に――AWSはどう実現？",
+    "published_date": "2026-09-18",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "AWSが航空業界を題材に、社内に散在する約29万ファイルをS3に集約し、AIで横断検索・分析するレファレンス実装を公開。実装の設計や運用ポイントを解説。",
+    "reason": "企業のデータ統合とAI検索を実運用でどう組むかを示す実践的なリファレンスで、導入検討に有用。",
+    "published_at": "2026-09-18 11:00:00",
+    "created_at": "2026-09-19 03:34:42",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news025.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "776e62978b6e",
+    "title": "第315回 SK hynix・Samsung・Micronの3強崩しへ。米中ハイテク覇権争いの裏で進む中国HBM国産化のリアル",
+    "published_date": "2026-09-18",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "AIデータセンター向け高帯域幅メモリHBMの供給逼迫を背景に、中国DRAM大手CXMTによるHBM3E少量生産の噂と国産化動向を取材解説。",
+    "reason": "HBM供給と国際サプライチェーン・技術覇権に関わる話題で、クラウド事業者や半導体戦略に重大な示唆を与える。",
+    "published_at": "2026-09-18 05:00:00",
+    "created_at": "2026-09-19 03:34:42",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news016.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "5f4252461d9d",
+    "title": "資生堂、AIエージェントで原料探索時間を95％削減 研究員の「目利き」を複数LLMで再現",
+    "published_date": "2026-09-18",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "資生堂が研究開発にAIエージェントを導入し、原料候補探索時間を大幅短縮。複数LLMで研究員の選定プロセスを再現し、提案数も増加させた。",
+    "reason": "企業R&DでのAI活用の具体事例として、導入効果と運用上の設計判断が参考になるため。",
+    "published_at": "2026-09-18 08:00:00",
+    "created_at": "2026-09-19 03:34:42",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2609/18/news020.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
   }
 ]
