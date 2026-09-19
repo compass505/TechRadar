@@ -1,5 +1,71 @@
 [
   {
+    "source": "＠IT",
+    "title": "“エンジニア専属コンシェルジュ”を設けたSES企業 「客先常駐だと悩みをためがち」問題をどう解消？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/19/news012.html",
+    "summary": "SES企業が客先常駐エンジニアの悩み解消のため専属コンシェルジュを配置した取り組みと運用面の工夫を紹介する。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "エンジニアの働き方・定着に関わる実務的な施策事例で、採用・組織運営を考える経営層や人事に示唆がある。",
+    "published_at": "2026-09-19 17:00:00",
+    "created_at": "2026-09-20 03:07:34"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
+    "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
+    "summary": "TGS会場でのゲーム開発・運営における生成AI提案の現状を取材。ユーザー側の拒否感やベンダーの売り込み先・提案内容に焦点を当てる。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "ゲーム領域での生成AI受容やベンダー戦略が分かる業界動向。企業戦略やプロダクト方針に参考になるが影響範囲は限定的。",
+    "published_at": "2026-09-19 12:00:00",
+    "created_at": "2026-09-20 03:07:34"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "パナソニック・サムスン撤退の裏で「中国勢5割」 独IT見本市「IFA」トップが明かす舞台裏",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/19/news010.html",
+    "summary": "IFAで中国企業の出展が過半数を占め、サムスンなど大手の撤退や会場構成の変化が進行。運営トップへの単独取材で背景を深掘りする。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "グローバル家電・ハードウェア市場の勢力図変化を示す重要な業界ニュースで、企業戦略やサプライチェーンに影響を与える可能性あり。",
+    "published_at": "2026-09-19 08:00:00",
+    "created_at": "2026-09-20 03:07:34"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AI導入は6割、でも8割超が「チャット止まり」 業務自動化まで進まない原因は？",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001624/",
+    "summary": "クラウドワークス調査を基に、企業のAI利用は進むが多くがチャット用途に留まり業務自動化へ進まない要因を分析する。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業のAI活用成熟度を示す調査報告で、情シス・経営層の判断や導入ロードマップ策定に有益な示唆を与える。",
+    "published_at": "2026-09-19 07:00:00",
+    "created_at": "2026-09-20 03:07:34"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「規定を探す時間」をAIで短縮 豊川信用金庫が生成AIを職員のFAQに活用",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001616/",
+    "summary": "豊川信用金庫が生成AIベースのFAQ検索システム『SAF』を導入し、業務規定・商品知識の検索時間短縮を図る事例を紹介。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "金融機関での実運用事例として参考度が高い。導入効果と運用上の注意点が企業IT担当者に有益だが範囲は業種限定。",
+    "published_at": "2026-09-19 07:00:00",
+    "created_at": "2026-09-20 03:07:34"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「AIで資料は作れるけど、増えすぎた」を解消するNotebook機能とは？",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001614/",
+    "summary": "生成AIで作られる資料の急増に伴う管理・検索の課題と、それを解決するNotebook機能の狙いや仕組みを解説する記事。",
+    "importance": 1,
+    "category": "AI",
+    "reason": "AI導入先で頻出するドキュメント管理の課題と解決策に触れるが、特定機能の紹介に留まり影響範囲は小さい。",
+    "published_at": "2026-09-19 07:00:00",
+    "created_at": "2026-09-20 03:07:34"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "ニチレイ、計5万件超の個人情報漏えいを確認 7月のサイバー攻撃で",
     "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001648/",
@@ -3069,17 +3135,6 @@
     "created_at": "2026-08-21 00:54:19"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "2.5次元アイドル「いれいす」事務所への不正アクセス、最大17万人に影響 “推し”情報や購買履歴も漏えいか",
-    "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000677/",
-    "summary": "アイドル事務所が利用するBIツールへの不正アクセスで個人情報漏えい。最大約17万人が対象で、推し情報や購買履歴等が含まれる可能性があると発表。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "中規模の顧客データ漏えいは、ファン管理やBIツール運用のセキュリティ対策とインシデント対応の教訓として企業読者に重要。",
-    "published_at": "2026-08-20 13:16:17",
-    "created_at": "2026-08-22 00:54:56"
-  },
-  {
     "source": "＠IT",
     "title": "「パスワードを変えてもまだ危ない」 Cookie盗難524億件超え、必要な“もう一つ”の対策",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/20/news034.html",
@@ -3088,17 +3143,6 @@
     "category": "セキュリティ",
     "reason": "大規模なCookie流出は認証破りの実害に直結し、企業の認証設計と対策を急務にするため。",
     "published_at": "2026-08-20 13:00:00",
-    "created_at": "2026-08-21 00:54:19"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "OpenAI、「2027年に上場」方針をCFOが示す 成長加速なら前倒しも",
-    "url": "https://japan.cnet.com/article/35251755/",
-    "summary": "OpenAIのCFOが社内集会で2027年に上場する方針を示したと報道。成長が加速すれば前倒しの可能性も示唆。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "OpenAIの上場はAI業界の資金調達と競争環境に影響を与える重要な市場イベント候補。",
-    "published_at": "2026-08-20 12:20:00",
     "created_at": "2026-08-21 00:54:19"
   },
   {
@@ -3136,28 +3180,6 @@
   },
   {
     "source": "＠IT",
-    "title": "「脱GitHub」の受け皿となるか Cursorがコードホスト機能「Origin」β版を公開",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/20/news026.html",
-    "summary": "Cursorがコードホスティング機能『Origin』のβを公開。GitHubとの双方向同期やAIエージェントと同一環境での開発を目指す。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "コードホスティングにAIを統合する動きは開発ワークフローとプラットフォーム競争に直結するため注目。",
-    "published_at": "2026-08-20 08:00:00",
-    "created_at": "2026-08-21 00:54:19"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "モデルの利用料金は安くなっているのに、AIの総コスト上昇 「パラドクス」の背景を解説",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/20/news022.html",
-    "summary": "モデル単価は下がるが、ワークフロー全体の推論コストは増加する『推論のパラドクス』を解説。Gartnerは2028年までに推論コストが大幅上昇すると予測。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "IT投資やROI設計に直結するコスト構造の問題で、経営・情シスの判断に役立つ分析。",
-    "published_at": "2026-08-20 08:00:00",
-    "created_at": "2026-08-21 00:54:19"
-  },
-  {
-    "source": "＠IT",
     "title": "さくらインターネット、不正アクセス第二報 販管システムにも被害及ぶ",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/20/news036.html",
     "summary": "さくらインターネットの不正アクセス調査第2報。販売管理システムへの不正アクセスの可能性を確認し、会員情報最大約136万件への影響を示唆。",
@@ -3165,28 +3187,6 @@
     "category": "セキュリティ",
     "reason": "国内大手ホスティング事業者の侵害は顧客企業とサービス継続性に広範な影響を及ぼすため重要。",
     "published_at": "2026-08-20 07:30:00",
-    "created_at": "2026-08-21 00:54:19"
-  },
-  {
-    "source": "Publickey",
-    "title": "Docker社、コンテナ向けの高性能な新ハイパーバイザ「Docker VMM」パブリックベータ公開",
-    "url": "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html",
-    "summary": "Dockerがコンテナ向けハイパーバイザDocker VMMをパブリックベータ公開。最新Docker Desktopで利用可能、Windows/macOS対応。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発・運用環境に影響する基盤技術の刷新で、コンテナ運用やローカル開発が変わる可能性がある。",
-    "published_at": "2026-08-20 02:43:24",
-    "created_at": "2026-08-21 00:54:19"
-  },
-  {
-    "source": "Publickey",
-    "title": "Pythonライクな新言語「Mojo」がオープンソースで公開、コンパイラやツールチェーンなど。Windows版の開発も表明",
-    "url": "https://www.publickey1.jp/blog/26/pythonmojowindows.html",
-    "summary": "Mojoがコンパイラやツールチェーンをオープンソース化。Python互換の高速言語としてMLやシステム開発で注目される。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "言語とツールチェーンの公開は開発者エコシステムとAI/高性能計算の実装選択に影響するため要注目。",
-    "published_at": "2026-08-20 00:40:43",
     "created_at": "2026-08-21 00:54:19"
   },
   {
