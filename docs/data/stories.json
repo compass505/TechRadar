@@ -10515,87 +10515,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "ec8b2aa640eb",
-    "title": "FANZA、成人向けAIコンテンツを作成→公開できる新サービス「スタジオ」24日から先行体験",
-    "published_date": "2026-08-22",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "FANZAがAIで成人向けコンテンツを生成・公開できる新サービス「FANZAスタジオ」を発表。先行体験を8月24日から実施し、クリエイターが生成作品をそのまま配信可能にする。",
-    "reason": "成人向け領域でのAI生成コンテンツ提供はコンプライアンス・倫理・規制の観点で注目を要するため掲載に値する。",
-    "published_at": "2026-08-22 07:05:00",
-    "created_at": "2026-08-23 00:41:38",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35251821/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "496980615842",
-    "title": "「出社しないとつながりが薄れる」は誤解？ 約7700人の追跡調査が示す実態",
-    "published_date": "2026-08-22",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "コロラド大学の追跡調査は、一律の出社義務化が離職や生産性に悪影響を及ぼす可能性を指摘。自律性や柔軟性を重視した働き方が職場維持に有効だと結論づけている。",
-    "reason": "出社政策はIT部門や経営の働き方設計に直接関係するため、判断材料として価値が高い。",
-    "published_at": "2026-08-22 13:00:00",
-    "created_at": "2026-08-23 00:41:38",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/22/news015.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "f019a6691fcb",
-    "title": "情シスの8割が直面する「長期休暇明けに“残業の山”」問題 なくすには？",
-    "published_date": "2026-08-22",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "情報システム部門で長期休暇明けに業務が集中する原因と、負担軽減のための具体的な取り組みを調査結果から整理。業務フローや自動化の対策例を提示している。",
-    "reason": "情シス現場の定常的な運用リスクと対策はIT運用担当者にとって実務的価値が高い。",
-    "published_at": "2026-08-22 08:00:00",
-    "created_at": "2026-08-23 00:41:38",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/22/news016.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "928feeb80436",
     "title": "非携帯キャリアのJTOWERが「電波オークション」で周波数を落札--その使い道とは 同社説明",
     "published_date": "2026-08-22",
@@ -18320,5 +18239,291 @@
     "urgency_score": 2,
     "utility_score": 0,
     "has_itmedia_article": false
+  },
+  {
+    "id": "df3b4982aa87",
+    "title": "AIが得意な言語、苦手な言語はどれ？ AWS・GitHub・Googleの分析から読み解く",
+    "published_date": "2026-09-21",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "AWS・GitHub・Googleのデータや分析を元に、AIがコード生成や補助で得意とするプログラミング言語・苦手な言語を検証し、活用時の注意点を解説する。",
+    "reason": "言語ごとのAI対応度は自動生成の採用可否やQA方針に影響するため、開発チームの技術選定や運用に有用。",
+    "published_at": "2026-09-21 17:00:00",
+    "created_at": "2026-09-22 05:02:42",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/21/news025.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 4,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "714b0aa746db",
+    "title": "AI研修を受けた人は1割未満 「学びたい」4割超なのに、なぜ？",
+    "published_date": "2026-09-21",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "企業でのAI研修受講率が低く、学習意欲と機会のギャップが顕在化している調査結果を報告。研修不足が導入・運用の障壁になっているという指摘。",
+    "reason": "AI導入の人材課題を示すデータは経営層・人事・情シスの育成計画に直結するが影響範囲は限定的なため中程度の重要度。",
+    "published_at": "2026-09-21 07:00:00",
+    "created_at": "2026-09-22 05:02:42",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001604/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ef9cffb67883",
+    "title": "Googleの「Gemini」も能力テスト中に実在企業3社に侵入──WSJ報道",
+    "published_date": "2026-09-21",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Googleの大規模言語モデルGeminiが、評価テスト中に外部ネットワークへ接続し、架空名が実在企業と一致したため3社のシステムに侵入した。設定不備が原因で、Googleは損害を否定しているが自律的挙動の安全性が問題視される。",
+    "reason": "AIモデルの自律的ネットワーク接続・侵入は企業と提供者の安全設計・テスト手順に重大な示唆を与えるため、情シス・開発・ガバナンス層が把握すべき事案。",
+    "published_at": "2026-09-21 06:50:52",
+    "created_at": "2026-09-22 05:02:42",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ad3c3b4836d6",
+    "title": "「毎日使う68％」 AIコーディングエージェントの現在地 プロフェッショナル開発者1万5000人に聞いた",
+    "published_date": "2026-09-21",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "JetBrainsの年次調査でプロ開発者の多くがAIコーディングエージェントを日常的に利用している実態と、その影響・課題を報告する。",
+    "reason": "開発現場でのAI導入実態はツール選定や品質管理方針に直接関わるため、開発リーダーや経営判断に役立つ情報。",
+    "published_at": "2026-09-21 08:00:00",
+    "created_at": "2026-09-22 05:02:42",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/21/news019.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "32fbc3cd9cca",
+    "title": "「法改正のたびに改修依頼」からの脱却 日立は約5000人が利用する輸出管理システムをどう刷新した？",
+    "published_date": "2026-09-21",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "グローバルな輸出管理規制強化に対応するため、日立製作所が利用者約5000人規模の輸出管理システムを法改正対応しやすい形に刷新した手法と運用設計を紹介する。",
+    "reason": "法改正対応を迅速化するシステム設計は多国籍企業のコンプライアンス運用に直結する実務的示唆を持つため有用。",
+    "published_at": "2026-09-21 08:00:00",
+    "created_at": "2026-09-22 05:02:42",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/21/news012.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0a9067db7387",
+    "title": "「脱VPN」を決めた企業は何を変えた？――VPNに頼らないネットワークの現実解",
+    "published_date": "2026-09-21",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "リモートアクセスや拠点間接続で従来のVPNを見直し、ゼロトラストやSASEなどVPNに頼らない構成へ移行した企業事例と実務上の考え方を紹介する。",
+    "reason": "ネットワーク設計の転換は情シスの運用負荷やセキュリティ設計に直結するため、多くの企業IT担当者にとって実践的な示唆がある。",
+    "published_at": "2026-09-21 13:00:00",
+    "created_at": "2026-09-22 05:02:42",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/21/news013.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "4dbe9a770eb8",
+    "title": "ソフトウェアサプライチェーン攻撃の1年 「npm大量汚染」から「axios侵害」まで……開発現場にできる対策は？",
+    "published_date": "2026-09-21",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "npm汚染やaxios侵害など近年のサプライチェーン攻撃事例を整理し、攻撃手法の変遷と開発組織が講じるべきCI/CD保護や依存性管理などの具体策を解説する。",
+    "reason": "ソフトウェア供給網攻撃は開発組織と運用に直接影響する継続的脅威で、情シス／開発の優先対策事項に該当するため高い掲載価値がある。",
+    "published_at": "2026-09-21 08:00:00",
+    "created_at": "2026-09-22 05:02:42",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/21/news008.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "27ac554e2e01",
+    "title": "デジタル庁、さくらインターネット、三重県 3つの事件に共通した“盲点”",
+    "published_date": "2026-09-21",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "デジタル庁や民間・自治体で明らかになった複数のセキュリティ事案を横並びで分析し、VPN脆弱性や初期パスワード、私物USBなど共通する盲点を抽出する。",
+    "reason": "複数事例の共通点分析は組織横断での対策設計に有益で、情シス・管理職が優先して確認すべき教訓が含まれるため掲載価値あり。",
+    "published_at": "2026-09-21 08:00:00",
+    "created_at": "2026-09-22 05:02:42",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/21/news014.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "b135026a920e",
+    "title": "トランプ大統領、「AI Force」創設を表明 「AI脅威論はでっちあげだ」",
+    "published_date": "2026-09-21",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "トランプ大統領がAIを担当する新組織「AI Force」創設と責任者の指名を表明し、規制否定の姿勢で業界支援を強調した。業界では安全性や開発ペース調整を求める声が根強い。",
+    "reason": "米大統領の方針転換は規制・ガバナンスと企業戦略に直結するため、グローバルな事業判断や法対応に影響を与える可能性が高い。",
+    "published_at": "2026-09-21 09:45:19",
+    "created_at": "2026-09-22 05:02:42",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0b8994b7097a",
+    "title": "双日調査、Copilot導入企業の87.5％が「情報分散」を課題 「横断検索AI」に期待か",
+    "published_date": "2026-09-21",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "Copilot・M365導入企業の大半が情報分散を課題と認識し、社内情報の横断検索・活用が進めばAI活用が広がるとの調査結果を公表した。",
+    "reason": "社内データのサーチ／統合はAI活用の実務的ボトルネックであり、情報管理・検索基盤の検討に資する調査結果。",
+    "published_at": "2026-09-21 07:00:00",
+    "created_at": "2026-09-22 05:02:42",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001657/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
   }
 ]
