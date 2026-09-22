@@ -1,6 +1,105 @@
 [
   {
     "source": "＠IT",
+    "title": "7割が“知っているだけ”の総務省AIセキュリティガイドライン “放置リスク”を避ける第一歩とは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news011.html",
+    "summary": "総務省のAIセキュリティガイドラインの認知は高いが実践は進んでいない現状を指摘し、企業が取るべき初動対策を示す。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "ガイドラインの実装不足は企業の放置リスクにつながるため、情シス・経営層で共有すべき内容。",
+    "published_at": "2026-09-22 13:00:00",
+    "created_at": "2026-09-23 04:00:21"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、数学者の独立諮問グループと連携 内部モデルは「100件超の未解決問題を解決」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
+    "summary": "OpenAIが数学者主導の独立組織AGMAIと連携し、AIによる数学成果の評価や公表ルールで助言を受ける。社内モデルが100件超の未解決問題を解いたとする主張が背景。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "研究成果の検証・帰属・公開ルールに企業が対応する動きは学術界・産業界双方に影響するため重要。",
+    "published_at": "2026-09-22 11:49:24",
+    "created_at": "2026-09-23 04:00:21"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言 「RSIはまだ起きていない」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
+    "summary": "OpenAIが米国主導でのフロンティアAI規格・安全枠組みの構築を提言。各国のAI安全研究所連携などを提案し、国際的なガバナンス強化を訴える。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "国家レベルの標準・ガバナンス提案は政策・企業戦略に直結するため掲載優先度が高い。",
+    "published_at": "2026-09-22 10:51:09",
+    "created_at": "2026-09-23 04:00:21"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "「Grok 4.7」登場、長時間タスクも安定処理 価格はSolの半分以下",
+    "url": "https://www.watch.impress.co.jp/docs/news/2142588.html",
+    "summary": "Grok 4.7の性能・価格訴求を技術面から補足する記事。API提供やプラットフォーム展開の詳細に触れる。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "同日報の技術的補足記事として、導入検討時の比較材料になるため代表的な補足情報として掲載。",
+    "published_at": "2026-09-22 10:26:51",
+    "created_at": "2026-09-23 04:00:21"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック Shopifyは全店舗で対応へ",
+    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001669/",
+    "summary": "AmazonがMetaのAIエージェントMuseによる自社サイトでの代理購入をブロック。Shopify側は対応拡大を発表し、プラットフォーム間でAIエージェント対応方針が対立。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "AIエージェントが商取引に介入する現実的リスクとプラットフォームポリシー対立はEC事業者・開発者に関係する。",
+    "published_at": "2026-09-22 09:43:43",
+    "created_at": "2026-09-23 04:00:21"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SpaceXAI、「Grok 4.7」発表 コーディングと知識労働向けで同社最高性能、価格は据え置き",
+    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
+    "summary": "SpaceXAIが新モデルGrok 4.7を発表。コーディング・長時間タスク向けに性能と安全性を強化し、従来と同価格で提供すると主張。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "クラウドAIモデル市場での競争・コスト動向に関わるため、開発者やプラットフォーム担当者の関心が高い。",
+    "published_at": "2026-09-22 08:46:47",
+    "created_at": "2026-09-23 04:00:21"
+  },
+  {
+    "source": "＠IT",
+    "title": "脱メインフレーム、7割超が失敗 背景に「生成AIへの過信」 2026年度上半期システム刷新記事ランキング",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/22/news018.html",
+    "summary": "システム刷新でメインフレーム脱却に失敗する事例が多く、生成AIへの過信が一因と指摘。上半期の関連記事をまとめて振り返る。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "レガシー刷新の教訓は大規模IT投資や経営判断に直結するため多くの読者に有益。",
+    "published_at": "2026-09-22 08:00:00",
+    "created_at": "2026-09-23 04:00:21"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "キユーピー、AIで工場シミュレーションモデルの開発工数を8割削減 3つの壁をどう乗り越えた？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news009.html",
+    "summary": "キユーピーが生成AIを活用し工場シミュレーションモデルの開発工数を約8割削減。導入で直面した課題と解決手法を解説。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "製造業のAI適用の実践事例は情シス・現場エンジニアに参考になるため掲載価値あり。",
+    "published_at": "2026-09-22 08:00:00",
+    "created_at": "2026-09-23 04:00:21"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、「Googlebook」の予約受付開始 899ドル（約14万円）から",
+    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001667/",
+    "summary": "Googleが新ノートPCプラットフォーム「Googlebook」を発売開始。複数メーカーから展開し、Androidベースでデスクトップ機能・長期OS更新を売りにする。",
+    "importance": 3,
+    "category": "ガジェット",
+    "reason": "OSプラットフォームの新カテゴリと長期アップデート保証は企業導入やデバイス戦略に影響するため注目。",
+    "published_at": "2026-09-22 07:30:05",
+    "created_at": "2026-09-23 04:00:21"
+  },
+  {
+    "source": "＠IT",
     "title": "AIが得意な言語、苦手な言語はどれ？ AWS・GitHub・Googleの分析から読み解く",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/21/news025.html",
     "summary": "AWS・GitHub・Googleのデータや分析を元に、AIがコード生成や補助で得意とするプログラミング言語・苦手な言語を検証し、活用時の注意点を解説する。",
@@ -3110,17 +3209,6 @@
     "category": "法規制",
     "reason": "巨大プラットフォームに対する大規模和解で規制とコンプライアンス対応の先例となり、業界及び事業判断に影響するため",
     "published_at": "2026-08-23 07:37:08",
-    "created_at": "2026-08-24 00:42:41"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ 入力20％出力33％安く、11月21日まで",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/",
-    "summary": "OpenAIがフラグシップモデルGPT-5.6 SolのAPI料金を期間限定で最大33％引き下げ。入力・出力それぞれの割引と管理機能の強化を打ち出し、開発者のコストと運用に影響を与える可能性がある。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "主要AIプロバイダの料金戦略変更は開発コストや導入判断、競争環境に直接影響するため開発者・企業向けに重要",
-    "published_at": "2026-08-23 06:54:23",
     "created_at": "2026-08-24 00:42:41"
   },
   {

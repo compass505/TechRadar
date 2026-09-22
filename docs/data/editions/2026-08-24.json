@@ -2,8 +2,7 @@
   "edition_date": "2026-08-24",
   "surfaces": {
     "top_yesterday": [
-      "e72ff0c8e235",
-      "a1402a1a992a"
+      "e72ff0c8e235"
     ],
     "recent_important": [
       "6e10c21d423b",
@@ -14,14 +13,8 @@
       "871c99b9ebe7",
       "614a4ea1cbff"
     ],
-    "yesterday_ai": [
-      "a1402a1a992a"
-    ],
-    "yesterday_enterprise_it": [
-      "a1402a1a992a"
-    ],
-    "yesterday_development": [
-      "a1402a1a992a"
-    ]
+    "yesterday_ai": [],
+    "yesterday_enterprise_it": [],
+    "yesterday_development": []
   }
 }
