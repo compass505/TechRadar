@@ -1,6 +1,105 @@
 [
   {
     "source": "＠IT",
+    "title": "「ヒューマン・イン・ザ・ループ万能説」崩壊 AIエージェント時代に企業が迫られる“防御の再設計”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/23/news006.html",
+    "summary": "AIエージェントが企業インフラを操作する可能性が高まり、人間承認だけでは安全が担保できない事例が増加。NIST提言や脅威の現場事例から防御設計の見直しを解説。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "企業セキュリティ設計の根本的な見直しを促す内容で、情シス・経営にとって緊急性と実務的示唆が大きい。",
+    "published_at": "2026-09-23 17:00:00",
+    "created_at": "2026-09-24 04:07:35"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "JCOM障害「インターネットが使えない」 サポート窓口もつながりにくく",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001678/",
+    "summary": "JCOMで広域の通信障害が発生し、利用者がインターネットに接続できない報告が多数。サポート窓口も混雑し対応が遅延。Google Public DNSへの変更で一時回復例あり。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "ISPの大規模障害は利用者・企業の業務影響が大きく、復旧策や運用対応の示唆になるため掲載価値が高い。",
+    "published_at": "2026-09-23 13:04:29",
+    "created_at": "2026-09-24 04:07:35"
+  },
+  {
+    "source": "＠IT",
+    "title": "開発者の84％が「AIコーディングによる生産性向上」を実感――だがその効果をどう測定？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/23/news011.html",
+    "summary": "開発現場でのAI利用状況調査を紹介。84%の開発者が生産性向上を実感する一方、効果測定手法や定量評価の課題が残ると報告。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "AIツール導入の実務効果と評価課題は開発組織の意思決定に直結するため実務的価値がある。",
+    "published_at": "2026-09-23 11:00:00",
+    "created_at": "2026-09-24 04:07:35"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft、Xboxで新たに268人削減 次期「Halo」はActivisionが開発、Ninja Theoryは閉鎖案",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001675/",
+    "summary": "MicrosoftのXbox部門が268人を削減。スタジオ統合で次期Halo開発をActivisionへ移管し、Ninja Theoryは閉鎖協議を開始。7月の大規模再編の継続。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "大手プラットフォーマーの組織再編は業界の人員構造や開発体制に影響し、企業戦略の変化を示すため重要。",
+    "published_at": "2026-09-23 09:55:58",
+    "created_at": "2026-09-24 04:07:35"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+    "summary": "OpenAIがGPT-6シリーズのうちコスト効率重視の「Sol」と「Luna」を公開。API料金を前世代の半額に引き下げ、ChatGPTやCodexへの順次提供を表明。アライメント課題も残ると指摘。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要AIプロバイダの新世代モデルと価格改定はクラウドコスト、開発体制、事業戦略に直結する重要ニュース。",
+    "published_at": "2026-09-23 09:12:02",
+    "created_at": "2026-09-24 04:07:35"
+  },
+  {
+    "source": "＠IT",
+    "title": "クラウドもシャドーITも「見えない」 千葉銀行はグループ20以上の組織のセキュリティを、どう一元化した？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/23/news010.html",
+    "summary": "グループ複数組織にまたがるクラウドとシャドーITの可視化・統合管理の事例を解説。ID、端末、データ、クラウド利用を一元管理してリスクを統合的にコントロールした方法を紹介。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大規模組織でのクラウド/シャドーIT管理の実務事例は、同様課題を抱える企業にとって参考度が高い。",
+    "published_at": "2026-09-23 08:00:00",
+    "created_at": "2026-09-24 04:07:35"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "今押さえたい「半導体」の基礎知識 極小チップが“AI時代の戦略物資”になった、納得の理由",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/23/news004.html",
+    "summary": "半導体がAI時代に重要視される理由を基礎から解説。製造・供給・設計の観点から戦略的重要性を整理し、非専門家にも分かりやすく説明する入門記事。",
+    "importance": 2,
+    "category": "半導体",
+    "reason": "AI時代の事業戦略やサプライチェーン理解に役立つ基礎解説で、経営・技術理解の下地づくりに有用。",
+    "published_at": "2026-09-23 08:00:00",
+    "created_at": "2026-09-24 04:07:35"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AWS、SalesforceがAI連携を強化 データ分断をどう解消するか",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/23/2000001663/",
+    "summary": "AWSとSalesforceがデータ移動を最小化しつつ、普段使うツール内でAIを活用する連携を強化。データ分断がAI導入のボトルネックである点に着目した取り組みを紹介。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "企業のAI導入で頻出するデータ連携問題に対する主要クラウドとSaaSの協調は、情シスと導入判断に直結する話題。",
+    "published_at": "2026-09-23 07:00:00",
+    "created_at": "2026-09-24 04:07:35"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
+    "summary": "AnthropicがClaude Opus 5.5を発表。多くのタスクで上位モデル相当の性能を維持しつつ、前モデル比で利用コストを約40%削減。ProプランとAPIで即日提供。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "競合モデルのコスト性能改善は企業のモデル選定や運用コストに影響するため開発者・情シス向けに有益。",
+    "published_at": "2026-09-23 06:57:43",
+    "created_at": "2026-09-24 04:07:35"
+  },
+  {
+    "source": "＠IT",
     "title": "7割が“知っているだけ”の総務省AIセキュリティガイドライン “放置リスク”を避ける第一歩とは？",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news011.html",
     "summary": "総務省のAIセキュリティガイドラインの認知は高いが実践は進んでいない現状を指摘し、企業が取るべき初動対策を示す。",
@@ -3080,28 +3179,6 @@
     "created_at": "2026-08-25 01:00:51"
   },
   {
-    "source": "CNET Japan",
-    "title": "ChatGPTでアップルの「メッセージ」代筆が可能に でも本当に使いたいと思いますか？",
-    "url": "https://japan.cnet.com/article/35251863/",
-    "summary": "OpenAIがChatGPTにAppleメッセージ連携機能を追加。ユーザーの許可でメッセージを読み作成・送信できるようになるが、プライバシー懸念が指摘されている。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "プライバシーとプラットフォーム統合の実装は消費者向けに留まらず企業利用やデータ管理方針にも影響するため。",
-    "published_at": "2026-08-24 17:40:00",
-    "created_at": "2026-08-25 01:00:51"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "なぜいま30Bクラスのオープンモデルが“熱い”のか 「27BパラメータでOpus 4.6超え」も",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/",
-    "summary": "MetaやNVIDIA、Alibabaの30Bクラスオープンモデルや国産33Bモデルの登場を受け、30B帯の利点と留意点を解説する考察記事。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "モデル設計やインフラ選定、研究開発の方向性に関わるトレンドで、開発者や研究者に有用な分析だから。",
-    "published_at": "2026-08-24 16:30:16",
-    "created_at": "2026-08-25 01:00:51"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
     "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000718/",
@@ -3110,83 +3187,6 @@
     "category": "法規制",
     "reason": "時刻同期に依存するシステム設計・運用（クラウド、金融、通信、インフラ等）に広範な影響を及ぼす国際決定であるため。",
     "published_at": "2026-08-24 15:10:09",
-    "created_at": "2026-08-25 01:00:51"
-  },
-  {
-    "source": "＠IT",
-    "title": "2026年上半期ランサムウェア動向まとめ アサヒを襲ったQilinが首位",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news023.html",
-    "summary": "2026年上半期のランサムウェア勢力図をまとめ、Qilinなどの動向や小規模化する傾向などを報告する分析記事。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "最近の攻撃動向と脅威グループの変化はセキュリティ戦略立案に直接役立つため、情シスやCISO向けに重要。",
-    "published_at": "2026-08-24 13:00:00",
-    "created_at": "2026-08-25 01:00:51"
-  },
-  {
-    "source": "＠IT",
-    "title": "優秀なAIでも「ファイル破壊」は防げない？ Dockerが説く「モデルの性能」より重要なこと",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news028.html",
-    "summary": "DockerがAIエージェントの仕組みと安全運用条件を解説。自律AIの誤作動で被害が拡大する可能性があり、モデル性能よりインフラ設計が重要と指摘。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "自律AI導入時のインフラ・権限設計に関する実践的注意点で、技術担当者の導入判断に直結するため。",
-    "published_at": "2026-08-24 13:00:00",
-    "created_at": "2026-08-25 01:00:51"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "Anthropic、ミュトスの提供を拡大 ツール経由でセキュリティ対策強化",
-    "url": "https://www.watch.impress.co.jp/docs/news/2134847.html",
-    "summary": "Anthropicが最上位モデル「Claude Mythos 5」を「Claude Security」経由で利用可能にし、パートナーのサイバー防衛ツールにも統合する。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "高性能モデルのセキュリティツール統合は防御側の能力を高める一方、誤用リスクや依存の問題も含み、守備側戦略に影響するため。",
-    "published_at": "2026-08-24 10:49:23",
-    "created_at": "2026-08-25 01:00:51"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "【西田宗千佳のイマトミライ】ChatGPTがMacの全操作を記憶して起こること AIの競争は「文脈」「ナレッジ」に",
-    "url": "https://www.watch.impress.co.jp/docs/series/nishida/2134846.html",
-    "summary": "OpenAIのChatGPTに搭載された「Computer History」機能がMac操作を記録する点を論評。文脈保持とナレッジ管理がAI競争の鍵になるとの考察。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "ユーザーデータの取り扱いとコンテキスト保持が開発・運用・プライバシー方針に影響するため、技術経営層にも重要な示唆を含む記事。",
-    "published_at": "2026-08-24 08:20:00",
-    "created_at": "2026-08-25 01:00:51"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "日本企業のAI投資「成果あり」はわずか13％ アクセンチュアが指摘する“人任せ”の限界",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news047.html",
-    "summary": "アクセンチュア調査で日本企業のAI投資成果実感率は13％に留まる。組織・人材・実装戦略の不足が主因と分析している。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "経営判断と投資効果に直結する調査結果で、CIOや事業責任者の戦略議論に有用なため。",
-    "published_at": "2026-08-24 08:00:00",
-    "created_at": "2026-08-25 01:00:51"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "こんなところに野良AIが？ 事例で解説、実際にあった2つの発覚パターンと防衛策",
-    "url": "https://kn.itmedia.co.jp/kn/articles/2608/24/news039.html",
-    "summary": "企業で把握されないまま使われる『野良AI』の実例と発覚パターン、現実的な防衛策を解説。約500社の商談分析に基づく知見も共有。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "AIガバナンスやデータ漏洩リスクに直結する現場問題で、即時の管理・対応策が求められるため情シスに有益。",
-    "published_at": "2026-08-24 07:00:00",
-    "created_at": "2026-08-25 01:00:51"
-  },
-  {
-    "source": "Publickey",
-    "title": "Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など",
-    "url": "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html",
-    "summary": "サーバサイドJSランタイムBunの最新版1.4が正式リリース。ZigからRustへ移植され、互換性改善とパフォーマンス向上を実現した。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "ランタイムの言語移植と互換性改善は開発者・運用者に直接恩恵があり、エコシステムやCI/CDに影響するため。",
-    "published_at": "2026-08-24 00:58:41",
     "created_at": "2026-08-25 01:00:51"
   },
   {
