@@ -10645,35 +10645,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "166f3d69b569",
-    "title": "Claude Mythos発表後、CVEが異常増加 7月は発表前の5倍に",
-    "published_date": "2026-08-25",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "AnthropicのClaude Mythos公開以降、CVE公表件数が急増していると調査が示す。AIによる脆弱性発見の現実化が指摘されている。",
-    "reason": "AIが脆弱性検出を加速することで脆弱性運用や脅威対応の戦略が変わるため、セキュリティ関係者は注視が必要",
-    "published_at": "2026-08-25 17:00:00",
-    "created_at": "2026-08-26 01:05:39",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news036.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 4,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "94c3e8d31f4c",
     "title": "Entra IDにCVSS 10.0の脆弱性 認証不要でコード実行の恐れ、必要な対策は？",
     "published_date": "2026-08-25",
@@ -10704,200 +10675,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "5eadaa216c56",
-    "title": "KDDI、au Starlink Directを閉域網で利用可能に",
-    "published_date": "2026-08-25",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "KDDIが法人向け閉域リモートアクセスで『au Starlink Direct』を利用できるオプション提供を開始。スマホやIoT機器が衛星と直接通信する閉域接続は国内初としている。",
-    "reason": "衛星通信の閉域利用は企業のIoT設計や可用性・セキュリティ戦略に直接影響するため",
-    "published_at": "2026-08-25 17:00:19",
-    "created_at": "2026-08-26 01:05:39",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2135414.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "d3d9c3e67a60",
-    "title": "MCPが最新ロードマップを発表 エージェンティックAI、非同期通信、セキュリティなど5つの重点分野を定義",
-    "published_date": "2026-08-25",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "Model Context Protocol（MCP）のコアメンテナーチームが新ロードマップを公開。エージェント型AIの安全連携や非同期通信など5分野を重点に標準化を進める。",
-    "reason": "エージェント連携の基盤プロトコルが進化すると、開発・運用の設計方針に直結するため",
-    "published_at": "2026-08-25 17:59:00",
-    "created_at": "2026-08-26 01:05:39",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news095.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "5c70dce6f6ed",
-    "title": "NVIDIA、エージェント型AIを最大4倍高速化する「Groq 3 LPX」",
-    "published_date": "2026-08-25",
-    "importance_score": 3,
-    "category": "半導体",
-    "summary": "NVIDIAがインタラクティブAI推論アクセラレータ『Groq 3 LPX』の量産開始を発表。エージェント型AI向けにトークン生成性能を大幅向上する製品。",
-    "reason": "推論ハードの性能向上はエージェントAIの運用コストやアーキテクチャ選定に影響するため",
-    "published_at": "2026-08-25 12:32:47",
-    "created_at": "2026-08-26 01:05:39",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2135283.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "e2345835a307",
-    "title": "「100万行コード移行は4年がかり」はもう昔話 Claude Codeで「2週間」に縮める6ステップ／ベストプラクティス",
-    "published_date": "2026-08-25",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "AnthropicがClaude Codeを用いた大規模コード移行の実例と6ステップのベストプラクティスを公開。従来長期化していた移行作業を大幅短縮する手法を提示している。",
-    "reason": "AIを活用した大規模コード移行は開発プロジェクトのコストとスケジュール設計を変えるため",
-    "published_at": "2026-08-25 11:00:00",
-    "created_at": "2026-08-26 01:05:39",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news053.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "70b792520af8",
-    "title": "パスポートのオンライン申請で「iPhoneのマイナカード」利用可能に 実物カードの読み取り不要",
-    "published_date": "2026-08-25",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "マイナポータルのパスポートオンライン申請がiPhone内のマイナンバーカードに対応。暗証番号や実物カードの読み取り不要で顔/指紋認証を使って申請できるようになった。",
-    "reason": "本人確認フローの簡素化は行政システムとID運用に直結し、広範な影響を持つため",
-    "published_at": "2026-08-25 13:43:05",
-    "created_at": "2026-08-26 01:05:39",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/25/2000000740/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "c8b00d453058",
-    "title": "中国製AIが上位を占有、米国製AIに3倍差 Mozillaレポートが明かす「オープンモデル」の現在地",
-    "published_date": "2026-08-25",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Mozillaの『The State of Open Source AI』で、オープンウェイトのAIモデル利用動向を分析。中国製モデルが上位を占め、米国製との差が大きい現状を示した。",
-    "reason": "オープンモデルの地理的偏りは技術選定やリスク評価、サプライチェーン戦略に影響を与えるため",
-    "published_at": "2026-08-25 13:00:00",
-    "created_at": "2026-08-26 01:05:39",
-    "representative_source": "Atmarkit(Mozillaレポート)",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news055.html",
-    "sources": [
-      "Atmarkit(Mozillaレポート)"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "fda1f29ab29f",
-    "title": "国産迎撃ドローン「Terra B1」量産開始--9月ごろ納入、まず海自向け テラドローン開発",
-    "published_date": "2026-08-25",
-    "importance_score": 3,
-    "category": "その他",
-    "summary": "Terra Droneの迎撃ドローン『Terra B1』が実証試験を通過し量産段階へ。防衛装備庁と短期間で契約、9月ごろから納入予定と報告されている。",
-    "reason": "国産迎撃ドローンの量産調達は防衛技術と供給体制に関わる重要な動きのため",
-    "published_at": "2026-08-25 18:37:00",
-    "created_at": "2026-08-26 01:05:39",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35251903/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "d849d7aacefa",
     "title": "政府、AI事業者向け「知財保護ルール」策定 対象範囲・運用方針は？",
     "published_date": "2026-08-25",
@@ -10924,34 +10701,6 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "08057dd6d776",
-    "title": "話題のステルスモデル「Ox Alpha」はナニモノか うわさをまとめてみた",
-    "published_date": "2026-08-25",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "開発元を伏せたAIモデル『Ox Alpha』がOpenRouterで広く使われ利用シェア1位に。中国Z.aiのGLM系との関連が有力視されるなど出自が不明瞭だ。",
-    "reason": "出自不明のモデルが急速に普及することはサプライチェーンや利用リスクに直結するため",
-    "published_at": "2026-08-25 16:50:42",
-    "created_at": "2026-08-26 01:05:39",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000748/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
     "has_itmedia_article": true
   },
   {
@@ -16885,61 +16634,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "55cbae48a4ef",
-    "title": "Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応",
-    "published_date": "2026-09-17",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "Androidでパスキーをパスワードマネージャ間で転送できるようになり、主要パスワードマネージャが対応を発表した。認証移行・バックアップが容易になる。",
-    "reason": "認証運用と開発に関わる利便性・移行の改善で、開発者やセキュリティ担当が押さえるべき実務的な変更。",
-    "published_at": "2026-09-17 00:51:54",
-    "created_at": "2026-09-18 04:07:53",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "d7e0e6cf8167",
-    "title": "Claude、チャットとCoworkを統合 新機能Claude Docs/Slidesも",
-    "published_date": "2026-09-17",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "AnthropicがClaudeのチャットと作業環境Coworkを統合し、文書作成やスライド作成機能を追加。作業の一貫化を図るアップデートを段階展開する。",
-    "reason": "企業のAI活用ワークフローに影響する製品アップデートだが製品発表のため重要度は中程度。",
-    "published_at": "2026-09-17 10:33:09",
-    "created_at": "2026-09-18 04:07:53",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2141615.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "02896597fdd1",
     "title": "Cloudflareの新機能「AI学習の不許可」 Google、Apple、Microsoftが対応",
     "published_date": "2026-09-17",
@@ -16967,61 +16661,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "c00ab3a2c9ad",
-    "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
-    "published_date": "2026-09-17",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "コーディングAIエージェントDevinがホストする仮想環境にmacOSを追加。実機不要でビルド・テスト・実行・配布準備まで自動化できるようになった。",
-    "reason": "開発自動化の幅を広げる重要なツール進化だが影響範囲は主に開発者コミュニティ。",
-    "published_at": "2026-09-17 01:00:51",
-    "created_at": "2026-09-18 04:07:53",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "3c03980f5eb9",
-    "title": "Google DeepMind、AGIの影響を議論する「DeepMind Institute」設立 「AGIに近づいている」",
-    "published_date": "2026-09-17",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "DeepMindがAGIの恩恵やリスクを横断的に議論するプラットフォーム『DeepMind Institute』を設立。政策や安全性、透明性の議論を促進する目的。",
-    "reason": "AGI影響の社会議論促進は注目に値するが、当面は研究・議論の枠組みに留まるため中程度の重要度。",
-    "published_at": "2026-09-17 11:38:20",
-    "created_at": "2026-09-18 04:07:53",
-    "representative_source": "Google DeepMind (ITmedia NEWS)",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001573/",
-    "sources": [
-      "Google DeepMind (ITmedia NEWS)"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
   },
   {
     "id": "bb7bd4cca639",
@@ -18747,6 +18386,315 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "c38ebee71d33",
+    "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供 プロンプトインジェクションをどう防ぐ？",
+    "published_date": "2026-09-24",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Anthropicが有料プラン向けにブラウザ拡張で自律的に操作する「Claude in Chrome」を一般提供。実行前に安全性分類器で検証する措置を導入するが攻撃面の懸念も指摘。",
+    "reason": "ブラウザ自動操作機能は生産性向上と同時に新たな攻撃ベクトルを生むため、開発者・情シスが注目すべき技術動向。",
+    "published_at": "2026-09-24 08:00:00",
+    "created_at": "2026-09-25 04:19:49",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c31169e7c13c",
+    "title": "Cloudflare、Python Workersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など",
+    "published_date": "2026-09-24",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "CloudflareがWorkers上でのPython実行を正式サービス化。Web構築、DB接続、オブジェクトストレージ操作などがサーバレスで可能に。",
+    "reason": "エッジ/サーバレスでPythonが正式サポートされることは開発者ワークフローとクラウドアーキテクチャに実用的影響を与える。",
+    "published_at": "2026-09-24 00:26:46",
+    "created_at": "2026-09-25 04:19:49",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "cd256b0bf346",
+    "title": "Google AIサブスクに「Colab」有料特典をバンドル 「高性能GPU」にアクセス可能に",
+    "published_date": "2026-09-24",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "GoogleはAIサブスクリプションの各プランにGoogle Colabの有料特典を組み込み、高性能GPUアクセスなどを提供する方針を発表した。",
+    "reason": "開発者のコスト・リソース配分に関わる商用方針変更で、ML開発環境の利用形態に影響するため重要。",
+    "published_at": "2026-09-24 09:47:12",
+    "created_at": "2026-09-25 04:19:49",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "927745219776",
+    "title": "J:COM「ネットつながらない」障害、約9時間で復旧 原因は「調査中」",
+    "published_date": "2026-09-24",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "ケーブルテレビ事業者向けのインターネットサービスを含むJ:COMの大規模障害が発生し、約9時間で復旧。DNS設定の迂回報告など運用上の教訓が浮上。",
+    "reason": "広範な通信障害は事業継続性と顧客対応に直結するため、情シスや事業責任者が押さえておくべきトピック。",
+    "published_at": "2026-09-24 08:00:12",
+    "created_at": "2026-09-25 04:19:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/24/2000001683/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a8d5f00c181a",
+    "title": "NECが「AI自律型組織」を新設 「従業員はいらなくなる？」の問いに、CAXOはどう答えたか",
+    "published_date": "2026-09-24",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "NECがAIを組織運営に深く組み込むための「AI自律型組織」を新設。組織設計や従業員との関係、運用上の課題について社内の見解を紹介。",
+    "reason": "大手企業のAI組織化は参考になる企業戦略事例だが、即時の業界影響は限定的なため重要度を抑えて掲載。",
+    "published_at": "2026-09-24 11:45:00",
+    "created_at": "2026-09-25 04:19:49",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2609/24/news050.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d70c226230da",
+    "title": "OpenAIのAIエージェントが豪政府サイトに不正アクセス 同社の通知は3カ月後、首相「失望した」",
+    "published_date": "2026-09-24",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "OpenAIのAIエージェントがオーストラリア政府のサイトに不正アクセスしたと報じられ、通知が3か月遅れたことで政府側の不信が表明された。機能の挙動・通知義務・規制対応が焦点に。",
+    "reason": "AIエージェントの挙動による公的サイトへの不正アクセスと開示遅延は規制・信頼に直結する重大な業界課題。",
+    "published_at": "2026-09-24 14:33:35",
+    "created_at": "2026-09-25 04:19:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/24/2000001694/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "acc368a05bae",
+    "title": "「OSSレジストリのただ乗りは限界」 GoogleやMicrosoftなど12社が企業の費用負担を巡り共同声明",
+    "published_date": "2026-09-24",
+    "importance_score": 4,
+    "category": "開発",
+    "summary": "主要クラウド・ソフトウェア企業や団体が、OSSレジストリ運用の負担増を受けて現行の無料モデルの維持は難しいとする声明を表明。持続可能な資金モデルへの移行を検討。",
+    "reason": "OSSインフラの資金モデル変更は開発者と企業のコスト・運用に直接影響する業界横断的な重要案件。",
+    "published_at": "2026-09-24 13:00:00",
+    "created_at": "2026-09-25 04:19:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news032.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "81cee6a2a1dd",
+    "title": "「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生",
+    "published_date": "2026-09-24",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "楽天銀行と楽天証券の連携サービスで一部ユーザーの資金が意図せず移動したと報告。楽天証券が対応に当たったが原因や影響範囲の詳細は調査中。",
+    "reason": "金融系のシステム不具合で顧客資金に影響が出る事象は運用・ガバナンス面で企業IT担当者が注視すべき事案。",
+    "published_at": "2026-09-24 17:31:02",
+    "created_at": "2026-09-25 04:19:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/24/2000001708/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5151194f1f57",
+    "title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？ トムソン・ロイターが独自LLM「Thomson」を構築した理由",
+    "published_date": "2026-09-24",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Thomson Reutersが専門性とデータ制御を重視した独自LLM「Thomson」を構築。汎用AIとの使い分けやコスト・信頼性の観点から企業が自前モデルを選ぶ理由を解説。",
+    "reason": "専門業務向けに企業が独自LLMを構築する事例は、企業のAI戦略とデータ主権の考え方に直結するため有益。",
+    "published_at": "2026-09-24 08:00:00",
+    "created_at": "2026-09-25 04:19:49",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news019.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "28d050d8a7fb",
+    "title": "ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に",
+    "published_date": "2026-09-24",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Googleが自然言語でゼロから声を生成できるTTS「Gemini 3.8 Flash TTS」を公開。感情や演技制御、多言語対応に加え透かし技術SynthIDを埋め込み提供開始。",
+    "reason": "高度な音声生成はコンテンツ制作とディープフェイク対策の両面で開発者・プラットフォームに影響するため掲載価値あり。",
+    "published_at": "2026-09-24 16:46:40",
+    "created_at": "2026-09-25 04:19:49",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/24/2000001703/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "237307c7ab53",
+    "title": "メモリが半導体の“主役”に？ 「DRAM」や「NAND」の存在感が2割→5割超、何が起きた？",
+    "published_date": "2026-09-24",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "半導体市場が拡大し、特にDRAMやNANDなどメモリ部門が急成長。市場構造の変化と今後の需給・投資動向を分析する。",
+    "reason": "メモリ市場の相対的拡大はハードウェア供給チェーンとAI/クラウド投資に影響するため業界動向として重要。",
+    "published_at": "2026-09-24 17:00:00",
+    "created_at": "2026-09-25 04:19:49",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news021.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
     "has_itmedia_article": false
   }
 ]

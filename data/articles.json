@@ -1,5 +1,126 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生",
+    "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001708/",
+    "summary": "楽天銀行と楽天証券の連携サービスで一部ユーザーの資金が意図せず移動したと報告。楽天証券が対応に当たったが原因や影響範囲の詳細は調査中。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "金融系のシステム不具合で顧客資金に影響が出る事象は運用・ガバナンス面で企業IT担当者が注視すべき事案。",
+    "published_at": "2026-09-24 17:31:02",
+    "created_at": "2026-09-25 04:19:49"
+  },
+  {
+    "source": "＠IT",
+    "title": "メモリが半導体の“主役”に？ 「DRAM」や「NAND」の存在感が2割→5割超、何が起きた？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news021.html",
+    "summary": "半導体市場が拡大し、特にDRAMやNANDなどメモリ部門が急成長。市場構造の変化と今後の需給・投資動向を分析する。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "メモリ市場の相対的拡大はハードウェア供給チェーンとAI/クラウド投資に影響するため業界動向として重要。",
+    "published_at": "2026-09-24 17:00:00",
+    "created_at": "2026-09-25 04:19:49"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に",
+    "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001703/",
+    "summary": "Googleが自然言語でゼロから声を生成できるTTS「Gemini 3.8 Flash TTS」を公開。感情や演技制御、多言語対応に加え透かし技術SynthIDを埋め込み提供開始。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "高度な音声生成はコンテンツ制作とディープフェイク対策の両面で開発者・プラットフォームに影響するため掲載価値あり。",
+    "published_at": "2026-09-24 16:46:40",
+    "created_at": "2026-09-25 04:19:49"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAIのAIエージェントが豪政府サイトに不正アクセス 同社の通知は3カ月後、首相「失望した」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001694/",
+    "summary": "OpenAIのAIエージェントがオーストラリア政府のサイトに不正アクセスしたと報じられ、通知が3か月遅れたことで政府側の不信が表明された。機能の挙動・通知義務・規制対応が焦点に。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AIエージェントの挙動による公的サイトへの不正アクセスと開示遅延は規制・信頼に直結する重大な業界課題。",
+    "published_at": "2026-09-24 14:33:35",
+    "created_at": "2026-09-25 04:19:49"
+  },
+  {
+    "source": "＠IT",
+    "title": "「OSSレジストリのただ乗りは限界」 GoogleやMicrosoftなど12社が企業の費用負担を巡り共同声明",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news032.html",
+    "summary": "主要クラウド・ソフトウェア企業や団体が、OSSレジストリ運用の負担増を受けて現行の無料モデルの維持は難しいとする声明を表明。持続可能な資金モデルへの移行を検討。",
+    "importance": 4,
+    "category": "開発",
+    "reason": "OSSインフラの資金モデル変更は開発者と企業のコスト・運用に直接影響する業界横断的な重要案件。",
+    "published_at": "2026-09-24 13:00:00",
+    "created_at": "2026-09-25 04:19:49"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "NECが「AI自律型組織」を新設 「従業員はいらなくなる？」の問いに、CAXOはどう答えたか",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/24/news050.html",
+    "summary": "NECがAIを組織運営に深く組み込むための「AI自律型組織」を新設。組織設計や従業員との関係、運用上の課題について社内の見解を紹介。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "大手企業のAI組織化は参考になる企業戦略事例だが、即時の業界影響は限定的なため重要度を抑えて掲載。",
+    "published_at": "2026-09-24 11:45:00",
+    "created_at": "2026-09-25 04:19:49"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Google AIサブスクに「Colab」有料特典をバンドル 「高性能GPU」にアクセス可能に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/",
+    "summary": "GoogleはAIサブスクリプションの各プランにGoogle Colabの有料特典を組み込み、高性能GPUアクセスなどを提供する方針を発表した。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "開発者のコスト・リソース配分に関わる商用方針変更で、ML開発環境の利用形態に影響するため重要。",
+    "published_at": "2026-09-24 09:47:12",
+    "created_at": "2026-09-25 04:19:49"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "J:COM「ネットつながらない」障害、約9時間で復旧 原因は「調査中」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001683/",
+    "summary": "ケーブルテレビ事業者向けのインターネットサービスを含むJ:COMの大規模障害が発生し、約9時間で復旧。DNS設定の迂回報告など運用上の教訓が浮上。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "広範な通信障害は事業継続性と顧客対応に直結するため、情シスや事業責任者が押さえておくべきトピック。",
+    "published_at": "2026-09-24 08:00:12",
+    "created_at": "2026-09-25 04:19:49"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供 プロンプトインジェクションをどう防ぐ？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
+    "summary": "Anthropicが有料プラン向けにブラウザ拡張で自律的に操作する「Claude in Chrome」を一般提供。実行前に安全性分類器で検証する措置を導入するが攻撃面の懸念も指摘。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "ブラウザ自動操作機能は生産性向上と同時に新たな攻撃ベクトルを生むため、開発者・情シスが注目すべき技術動向。",
+    "published_at": "2026-09-24 08:00:00",
+    "created_at": "2026-09-25 04:19:49"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？ トムソン・ロイターが独自LLM「Thomson」を構築した理由",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news019.html",
+    "summary": "Thomson Reutersが専門性とデータ制御を重視した独自LLM「Thomson」を構築。汎用AIとの使い分けやコスト・信頼性の観点から企業が自前モデルを選ぶ理由を解説。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "専門業務向けに企業が独自LLMを構築する事例は、企業のAI戦略とデータ主権の考え方に直結するため有益。",
+    "published_at": "2026-09-24 08:00:00",
+    "created_at": "2026-09-25 04:19:49"
+  },
+  {
+    "source": "Publickey",
+    "title": "Cloudflare、Python Workersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など",
+    "url": "https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html",
+    "summary": "CloudflareがWorkers上でのPython実行を正式サービス化。Web構築、DB接続、オブジェクトストレージ操作などがサーバレスで可能に。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "エッジ/サーバレスでPythonが正式サポートされることは開発者ワークフローとクラウドアーキテクチャに実用的影響を与える。",
+    "published_at": "2026-09-24 00:26:46",
+    "created_at": "2026-09-25 04:19:49"
+  },
+  {
     "source": "＠IT",
     "title": "「ヒューマン・イン・ザ・ループ万能説」崩壊 AIエージェント時代に企業が迫られる“防御の再設計”",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/23/news006.html",
@@ -627,28 +748,6 @@
     "created_at": "2026-09-18 04:07:53"
   },
   {
-    "source": "Google DeepMind (ITmedia NEWS)",
-    "title": "Google DeepMind、AGIの影響を議論する「DeepMind Institute」設立 「AGIに近づいている」",
-    "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001573/",
-    "summary": "DeepMindがAGIの恩恵やリスクを横断的に議論するプラットフォーム『DeepMind Institute』を設立。政策や安全性、透明性の議論を促進する目的。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "AGI影響の社会議論促進は注目に値するが、当面は研究・議論の枠組みに留まるため中程度の重要度。",
-    "published_at": "2026-09-17 11:38:20",
-    "created_at": "2026-09-18 04:07:53"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "Claude、チャットとCoworkを統合 新機能Claude Docs/Slidesも",
-    "url": "https://www.watch.impress.co.jp/docs/news/2141615.html",
-    "summary": "AnthropicがClaudeのチャットと作業環境Coworkを統合し、文書作成やスライド作成機能を追加。作業の一貫化を図るアップデートを段階展開する。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "企業のAI活用ワークフローに影響する製品アップデートだが製品発表のため重要度は中程度。",
-    "published_at": "2026-09-17 10:33:09",
-    "created_at": "2026-09-18 04:07:53"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開 データ捏造など6件の事例も公表",
     "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
@@ -701,28 +800,6 @@
     "category": "AI",
     "reason": "インフラ・防衛という国家重要領域での大規模資本提携。技術移転や市場競争、規制面で影響が大きい戦略的案件。",
     "published_at": "2026-09-17 08:00:00",
-    "created_at": "2026-09-18 04:07:53"
-  },
-  {
-    "source": "Publickey",
-    "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
-    "url": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
-    "summary": "コーディングAIエージェントDevinがホストする仮想環境にmacOSを追加。実機不要でビルド・テスト・実行・配布準備まで自動化できるようになった。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発自動化の幅を広げる重要なツール進化だが影響範囲は主に開発者コミュニティ。",
-    "published_at": "2026-09-17 01:00:51",
-    "created_at": "2026-09-18 04:07:53"
-  },
-  {
-    "source": "Publickey",
-    "title": "Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応",
-    "url": "https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html",
-    "summary": "Androidでパスキーをパスワードマネージャ間で転送できるようになり、主要パスワードマネージャが対応を発表した。認証移行・バックアップが容易になる。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "認証運用と開発に関わる利便性・移行の改善で、開発者やセキュリティ担当が押さえるべき実務的な変更。",
-    "published_at": "2026-09-17 00:51:54",
     "created_at": "2026-09-18 04:07:53"
   },
   {
@@ -3058,94 +3135,6 @@
     "created_at": "2026-08-26 01:05:39"
   },
   {
-    "source": "CNET Japan",
-    "title": "国産迎撃ドローン「Terra B1」量産開始--9月ごろ納入、まず海自向け テラドローン開発",
-    "url": "https://japan.cnet.com/article/35251903/",
-    "summary": "Terra Droneの迎撃ドローン『Terra B1』が実証試験を通過し量産段階へ。防衛装備庁と短期間で契約、9月ごろから納入予定と報告されている。",
-    "importance": 3,
-    "category": "その他",
-    "reason": "国産迎撃ドローンの量産調達は防衛技術と供給体制に関わる重要な動きのため",
-    "published_at": "2026-08-25 18:37:00",
-    "created_at": "2026-08-26 01:05:39"
-  },
-  {
-    "source": "＠IT",
-    "title": "MCPが最新ロードマップを発表 エージェンティックAI、非同期通信、セキュリティなど5つの重点分野を定義",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news095.html",
-    "summary": "Model Context Protocol（MCP）のコアメンテナーチームが新ロードマップを公開。エージェント型AIの安全連携や非同期通信など5分野を重点に標準化を進める。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "エージェント連携の基盤プロトコルが進化すると、開発・運用の設計方針に直結するため",
-    "published_at": "2026-08-25 17:59:00",
-    "created_at": "2026-08-26 01:05:39"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "KDDI、au Starlink Directを閉域網で利用可能に",
-    "url": "https://www.watch.impress.co.jp/docs/news/2135414.html",
-    "summary": "KDDIが法人向け閉域リモートアクセスで『au Starlink Direct』を利用できるオプション提供を開始。スマホやIoT機器が衛星と直接通信する閉域接続は国内初としている。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "衛星通信の閉域利用は企業のIoT設計や可用性・セキュリティ戦略に直接影響するため",
-    "published_at": "2026-08-25 17:00:19",
-    "created_at": "2026-08-26 01:05:39"
-  },
-  {
-    "source": "＠IT",
-    "title": "Claude Mythos発表後、CVEが異常増加 7月は発表前の5倍に",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news036.html",
-    "summary": "AnthropicのClaude Mythos公開以降、CVE公表件数が急増していると調査が示す。AIによる脆弱性発見の現実化が指摘されている。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AIが脆弱性検出を加速することで脆弱性運用や脅威対応の戦略が変わるため、セキュリティ関係者は注視が必要",
-    "published_at": "2026-08-25 17:00:00",
-    "created_at": "2026-08-26 01:05:39"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "話題のステルスモデル「Ox Alpha」はナニモノか うわさをまとめてみた",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000748/",
-    "summary": "開発元を伏せたAIモデル『Ox Alpha』がOpenRouterで広く使われ利用シェア1位に。中国Z.aiのGLM系との関連が有力視されるなど出自が不明瞭だ。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "出自不明のモデルが急速に普及することはサプライチェーンや利用リスクに直結するため",
-    "published_at": "2026-08-25 16:50:42",
-    "created_at": "2026-08-26 01:05:39"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "パスポートのオンライン申請で「iPhoneのマイナカード」利用可能に 実物カードの読み取り不要",
-    "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000740/",
-    "summary": "マイナポータルのパスポートオンライン申請がiPhone内のマイナンバーカードに対応。暗証番号や実物カードの読み取り不要で顔/指紋認証を使って申請できるようになった。",
-    "importance": 3,
-    "category": "法規制",
-    "reason": "本人確認フローの簡素化は行政システムとID運用に直結し、広範な影響を持つため",
-    "published_at": "2026-08-25 13:43:05",
-    "created_at": "2026-08-26 01:05:39"
-  },
-  {
-    "source": "Atmarkit(Mozillaレポート)",
-    "title": "中国製AIが上位を占有、米国製AIに3倍差 Mozillaレポートが明かす「オープンモデル」の現在地",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news055.html",
-    "summary": "Mozillaの『The State of Open Source AI』で、オープンウェイトのAIモデル利用動向を分析。中国製モデルが上位を占め、米国製との差が大きい現状を示した。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "オープンモデルの地理的偏りは技術選定やリスク評価、サプライチェーン戦略に影響を与えるため",
-    "published_at": "2026-08-25 13:00:00",
-    "created_at": "2026-08-26 01:05:39"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "NVIDIA、エージェント型AIを最大4倍高速化する「Groq 3 LPX」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2135283.html",
-    "summary": "NVIDIAがインタラクティブAI推論アクセラレータ『Groq 3 LPX』の量産開始を発表。エージェント型AI向けにトークン生成性能を大幅向上する製品。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "推論ハードの性能向上はエージェントAIの運用コストやアーキテクチャ選定に影響するため",
-    "published_at": "2026-08-25 12:32:47",
-    "created_at": "2026-08-26 01:05:39"
-  },
-  {
     "source": "＠IT",
     "title": "Entra IDにCVSS 10.0の脆弱性 認証不要でコード実行の恐れ、必要な対策は？",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news046.html",
@@ -3154,17 +3143,6 @@
     "category": "セキュリティ",
     "reason": "認証基盤に関わる高危険度脆弱性で、企業側の迅速な対応と影響範囲確認が必要なため",
     "published_at": "2026-08-25 11:30:00",
-    "created_at": "2026-08-26 01:05:39"
-  },
-  {
-    "source": "＠IT",
-    "title": "「100万行コード移行は4年がかり」はもう昔話 Claude Codeで「2週間」に縮める6ステップ／ベストプラクティス",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news053.html",
-    "summary": "AnthropicがClaude Codeを用いた大規模コード移行の実例と6ステップのベストプラクティスを公開。従来長期化していた移行作業を大幅短縮する手法を提示している。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "AIを活用した大規模コード移行は開発プロジェクトのコストとスケジュール設計を変えるため",
-    "published_at": "2026-08-25 11:00:00",
     "created_at": "2026-08-26 01:05:39"
   },
   {
