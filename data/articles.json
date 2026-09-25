@@ -1,5 +1,159 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "Microsoft、Copilotを大幅刷新 Home/Code+常時稼働エージェント",
+    "url": "https://www.watch.impress.co.jp/docs/news/2143076.html",
+    "summary": "MicrosoftがCopilotを大幅刷新し、「Home」「Code」「Autopilot」の3軸で再構築。常時稼働エージェントや開発特化機能を段階提供する計画。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要プラットフォーマーの大型アップデートで企業ITや開発ワークフローに直接影響するため高優先度。",
+    "published_at": "2026-09-25 21:00:00",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出",
+    "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001772/",
+    "summary": "画像共有サービスGyazoへの不正アクセスで、過去に削除された画像のメタデータ約1億7400万件の流出が判明。Helpfeelが第二報を公表した。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模な個人情報メタデータ流出で影響範囲が非常に大きく、被害と対応が急務。",
+    "published_at": "2026-09-25 20:13:14",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "＠IT",
+    "title": "【マネしないで】AIが暴走してやらかす“3つの主要パターン”を解説",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news059.html",
+    "summary": "AIエージェントの外部侵入事案を踏まえ、AIが暴走する代表的な3パターンを実例で紹介し、注意点や対策を解説する。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AI運用で現実に起きている侵入・暴走事例と対策が整理されており、セキュリティ対策に有用。",
+    "published_at": "2026-09-25 15:00:00",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "freeeで一時障害、給料日の朝に「振り込めない」「勤怠打てない」と困惑の声 すでに復旧",
+    "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001739/",
+    "summary": "クラウド会計・給与のfreeeでログイン障害などが発生。給料日に影響が出たとしてユーザーからの困惑の声が上がり、復旧後も監視を継続。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "給与・会計クラウドの障害は業務運営に直結するためIT部門や経営にとって重要な事例。",
+    "published_at": "2026-09-25 11:24:24",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "＠IT",
+    "title": "AIエージェントの監査証拠を標準化 特定クラウドに依存しないオープン仕様「TRACE」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news056.html",
+    "summary": "Linux FoundationがAIエージェントの実行時検証証拠を扱うオープン仕様「TRACE」を受贈、クラウド非依存での監査証拠標準化を目指す。",
+    "importance": 4,
+    "category": "開発",
+    "reason": "AIエージェントの透明性・監査性に関する標準化は企業導入や規制対応に重大な影響を及ぼす。",
+    "published_at": "2026-09-25 11:00:00",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始 画像1枚で独自アバターも",
+    "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001730/",
+    "summary": "GoogleがGemini 3.8でリアルタイム音声対話と動画生成アバターを組み合わせた機能をGemini Enterpriseで提供開始。写真1枚からアバター生成が可能。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "顧客対応や店頭端末での商用活用が見込まれる実運用向けAI機能で、導入検討の材料になる。",
+    "published_at": "2026-09-25 09:10:33",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AI内製化、9割超が「停滞、頓挫」を経験 つまずく原因は“技術”ではなかった",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news049.html",
+    "summary": "企業のAI内製化に関する実態調査で、推進責任者の9割超がプロジェクト停滞や頓挫を経験。技術以外の組織課題が主要因と報告された。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業のAI導入戦略や組織設計に直結する実務的な洞察で、経営・情シスの判断に役立つ。",
+    "published_at": "2026-09-25 08:00:00",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "atmarkit.itmedia.co.jp",
+    "title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news055.html",
+    "summary": "TypeSafe AIが自動化特化の新AIモデル「Jev」を早期提供。文字列生成を廃止し、従来LLM比で最大200倍の高速化とハルシネーション低減をうたう。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "ハルシネーション削減と高速化は自動化用途での実運用に直結するため、開発・導入検討の価値あり。",
+    "published_at": "2026-09-25 08:00:00",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "DeepL翻訳、CopilotやChatGPT、Claudeから利用可能に",
+    "url": "https://www.watch.impress.co.jp/docs/news/2143069.html",
+    "summary": "DeepLがMCPを使ってMicrosoft Copilot、ChatGPT、Claudeから直接利用できるように対応。多言語業務の流れが簡素化される可能性。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "業務での多言語対応効率化に寄与するが、技術的インパクトは限定的。",
+    "published_at": "2026-09-25 08:00:00",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "J:COMネット障害、原因は「外部からの大量アクセス」 DNSサーバに高負荷 最大約408万件に影響",
+    "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001729/",
+    "summary": "J:COMでDNSサーバに対する大量外部アクセスが原因のネット障害発生。最大で約408万件に影響が出たと報告。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模通信事業者での障害は事業継続や顧客影響が甚大で、インフラ対策の判断材料になる。",
+    "published_at": "2026-09-25 07:26:46",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、宇宙AIデータセンター構想「Project Suncatcher」初の試作衛星をFalcon 9で打ち上げへ",
+    "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001728/",
+    "summary": "Googleが衛星軌道上にAIデータセンターを構築するProject Suncatcherで、TPU搭載の試作衛星を打ち上げ、放射線や排熱対策を検証する計画を発表。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "クラウド・AIインフラの新たなフロンティアであり、長期的な事業戦略や技術選定に影響を与える。",
+    "published_at": "2026-09-25 07:18:56",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "kn.itmedia.co.jp",
+    "title": "AI同士が取引する時代、「相手は誰か」をどう確認する？ GMOが信頼基盤を実証",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/25/2000001724/",
+    "summary": "AIエージェントが企業間取引を担う際の「誰が操作しているか」「権限範囲」を検証する信頼基盤の実証をGMOが実施したと報告。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AIエージェントの商用取引普及に不可欠な認証・信頼基盤の実証で、商取引設計に影響する。",
+    "published_at": "2026-09-25 07:00:00",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html",
+    "summary": "EdgeCortixがフィジカルAI向け次世代スケーラブルAIチップレットプラットフォーム「RAIDEN」を発表。最大3.36PFLOPSのAI処理性能をうたう。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "国内ベンダーによる高性能チップの発表は半導体エコシステムとAIハード選定に影響を与える可能性がある。",
+    "published_at": "2026-09-25 06:45:00",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
+    "source": "Publickey",
+    "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
+    "url": "https://www.publickey1.jp/blog/26/goiderune.html",
+    "summary": "UnstablebuildがGo製のネイティブIDE「Rune」をオープンソース公開。高速描画とターミナル中心の開発体験、リモートノード操作が特徴。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発ツールとして関心は高いが影響範囲は限定的で技術コミュニティ向け。",
+    "published_at": "2026-09-25 00:45:08",
+    "created_at": "2026-09-26 04:21:55"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生",
     "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001708/",
@@ -2993,28 +3147,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "韓国SK Hynix、宮城県に半導体工場の計画浮上 「何か知り得ているものはない」と村井知事",
-    "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000820/",
-    "summary": "SKハイニックスが宮城県にメモリ工場建設の計画が浮上。県知事はアプローチはあるが現時点で正式情報は把握していないと表明した。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "大手メモリメーカーの投資動向は国内サプライチェーンや地域経済に影響を与えるため業界注目度が高い",
-    "published_at": "2026-08-26 17:55:22",
-    "created_at": "2026-08-27 01:36:06"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「Microsoft Teams」障害か 朝から「会議に入れない」【復旧】",
-    "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000784/",
-    "summary": "午前9時過ぎから多くのユーザーがTeamsの障害を報告、会議に参加できないなどの影響が出たと報告（復旧情報あり）。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "主要ビジネス向けコミュニケーションツールの障害は業務影響が大きく、運用・BCP視点で注目に値する",
-    "published_at": "2026-08-26 14:37:24",
-    "created_at": "2026-08-27 01:36:06"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "ANA子会社のデジタルギフト「選べるe-GIFT」に不正アクセス 担当者情報漏えいか、不正交換も",
     "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000798/",
     "summary": "全日空商事の法人向けデジタルギフトサービスが不正アクセスを受け、契約企業担当者の情報漏えいとギフトの不正交換が確認された可能性があると発表。",
@@ -3022,39 +3154,6 @@
     "category": "セキュリティ",
     "reason": "法人向けサービスの情報漏えいと不正利用は顧客企業に直接被害が波及するため、広範な注意と対応が必要",
     "published_at": "2026-08-26 13:24:59",
-    "created_at": "2026-08-27 01:36:06"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「AIエージェントを本番運用中」日本が最下位 “PoC止まり”の原因と、抜け出す方法は？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news040.html",
-    "summary": "Confluent調査で日本企業の自律型AI（AIエージェント）本番導入率が低い実態を報告。PoC止まりの技術的・組織的課題と解決策を解説する。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "企業のAI導入状況と障壁を示す調査は経営・情シスの意思決定に直結するため役立つ",
-    "published_at": "2026-08-26 13:00:00",
-    "created_at": "2026-08-27 01:36:06"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "ChatGPT Work、ログイン必要なサイトも操作可能に 「パスワードは一切見ない」",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2608/26/2000000788/",
-    "summary": "ChatGPT Workがユーザー自身のログインを維持した状態で、ログインが必要なサイト上の作業を自動実行可能に。パスワードはAI側で直接参照しないと説明している。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業導入でのSaaS連携と認証・権限管理に関わるため、情シスやセキュリティ対策に影響する機能変更",
-    "published_at": "2026-08-26 11:27:57",
-    "created_at": "2026-08-27 01:36:06"
-  },
-  {
-    "source": "＠IT",
-    "title": "「Windows 10が残存する」企業の言い分、だが一台でも見過ごしてはいけない“その代償”",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news046.html",
-    "summary": "サポート終了後も企業内に残るWindows 10端末が持つリスクと、運用上の事情・対策をIT資産管理の視点から解説する。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "サポート切れOSの運用は重大なセキュリティリスクとなるため、情シスの優先課題として有用な実務情報を含む",
-    "published_at": "2026-08-26 11:00:00",
     "created_at": "2026-08-27 01:36:06"
   },
   {
@@ -3088,39 +3187,6 @@
     "category": "セキュリティ",
     "reason": "国家レベルでの対応方針の変化は企業の脆弱性対策や法的リスクに直結するため重要度が高い",
     "published_at": "2026-08-26 05:00:00",
-    "created_at": "2026-08-27 01:36:06"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "あなたが使うAIの「中身」、実は中国モデルかも 米企業のAPI利用で58％",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news010.html",
-    "summary": "米企業のAPI経由のトークンのうち中国製モデルへ流れる割合が高い実態を報告。利用者や企業には見えないAIモデルの出自に関する問題を整理する。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "AIの供給チェーンとモデル出自はコンプライアンス・セキュリティ・品質の観点で企業が押さえるべき情報である",
-    "published_at": "2026-08-26 05:00:00",
-    "created_at": "2026-08-27 01:36:06"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "クアルコム、日本にロボット研究拠点設立 トヨタやソニー、ドコモなど日本の大企業群が支援",
-    "url": "https://japan.cnet.com/article/35251908/",
-    "summary": "Qualcommが日本でロボット研究開発拠点「Qualcomm Japan Robotics Center」を設立、産学や大企業と連携して研究・人材育成に投資する計画を発表。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "半導体系大手の現地研究拠点設立はロボット産業とエコシステム形成に影響するため注目に値する",
-    "published_at": "2026-08-26 04:48:00",
-    "created_at": "2026-08-27 01:36:06"
-  },
-  {
-    "source": "Publickey",
-    "title": "Next.js 16.3正式版リリース。Turbopackのメモリ使用量が最大90％減、SSRが最大22％高速化、TypeScript 7による型チェック高速化など",
-    "url": "https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html",
-    "summary": "VercelがNext.js 16.3を正式リリース。Turbopackのメモリ削減やSSR高速化、TypeScript 7対応による開発体験改善などが含まれる。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "主要Webフレームワークの性能改善は開発者生産性や運用コストに直結するため多くの技術者に重要",
-    "published_at": "2026-08-26 02:58:38",
     "created_at": "2026-08-27 01:36:06"
   },
   {
