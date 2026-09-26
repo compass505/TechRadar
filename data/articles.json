@@ -1,5 +1,82 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "アニメを支える外国人材に“逆風” 日本在住の声優・アニメーターが抱く「不安の正体」とは",
+    "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001672/",
+    "summary": "永住許可の手数料が10月に20倍へ引き上げられる方針を受け、来日外国人の声優・アニメーターが不安を表明。現場の人材確保や制作体制への影響が懸念される。",
+    "importance": 2,
+    "category": "法規制",
+    "reason": "移民・在留制度の変更がアニメ産業の人材供給に直結するため、業界と企業の戦略判断に関わる。",
+    "published_at": "2026-09-26 20:56:00",
+    "created_at": "2026-09-27 03:39:11"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「AIトークンコスト増を44％抑制」できる可能性も 高性能モデルの“使い過ぎ”、どう減らす？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
+    "summary": "アクセンチュアの調査から、生成AIやエージェント利用拡大でコストが急増。最適化策を講じればトークンコストを大幅抑制できる可能性が示された。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "企業のAI運用コスト管理は導入拡大フェーズで重要な経営課題であり、実務的示唆を与えるため掲載価値が高い。",
+    "published_at": "2026-09-26 17:00:00",
+    "created_at": "2026-09-27 03:39:11"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「1週間の開発タスク」でAIの限界を検証 Googleが「Android Bench 2.0」公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news013.html",
+    "summary": "GoogleがAI/エージェントのコーディング能力を測るAndroid Bench 2.0を公開。長期・複雑タスクを課す仕様に変えたところ、合格率が大幅に低下した。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発者向けベンチマークの刷新はAIによるコーディング自動化の実力評価に直結し、開発プロセス設計に影響する。",
+    "published_at": "2026-09-26 13:00:00",
+    "created_at": "2026-09-27 03:39:11"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「Codex」で1時間にわたる障害→使用量リセットへ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/",
+    "summary": "CodexとChatGPTで1時間超の障害が発生。復旧後に有料ユーザーの使用量をリセットすると案内された。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "主要AIサービスの稼働障害は開発者と企業の運用リスクに直結するため、インシデント情報として重要。",
+    "published_at": "2026-09-26 10:27:56",
+    "created_at": "2026-09-27 03:39:11"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO",
+    "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
+    "summary": "MicrosoftがCopilotアプリを大幅刷新。Home/Code/Autopilotの3タブ構成でOfficeを直結し、自然言語でのアプリ構築や自律エージェントを導入。課金体系も月額と従量課金を組み合わせに変更する。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要クラウド事業者の製品戦略と料金体系の大幅変更は、企業の導入判断やコスト見積に直接影響するため高重要。",
+    "published_at": "2026-09-26 07:48:32",
+    "created_at": "2026-09-27 03:39:11"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "資料作成が月32時間から4時間に トラコムが生成AIで「月28時間削減」した方法",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/26/2000001725/",
+    "summary": "トラコムが生成AIを組織的に運用し、資料作成や月次処理で業務時間を大幅削減。個人レベルの活用を仕組み化して全社展開した事例を紹介する。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "実務での生成AI定着方法を示すケーススタディは、情シスや経営層の導入判断に役立つため掲載価値がある。",
+    "published_at": "2026-09-26 07:00:00",
+    "created_at": "2026-09-27 03:39:11"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "あいち銀行が経理DXを本格化 LayerXと「請求書受領から振込まで」をつなぐ",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/26/2000001731/",
+    "summary": "あいち銀行がLayerXと協業し、紙/PDF請求書の受領から承認、振込データ作成までをデジタル化する取り組みを開始。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "銀行とFinTech連携による経理ワークフロー自動化は多くの企業の業務改革に直結する実務ニュース。",
+    "published_at": "2026-09-26 07:00:00",
+    "created_at": "2026-09-27 03:39:11"
+  },
+  {
     "source": "Impress Watch",
     "title": "Microsoft、Copilotを大幅刷新 Home/Code+常時稼働エージェント",
     "url": "https://www.watch.impress.co.jp/docs/news/2143076.html",
@@ -649,28 +726,6 @@
     "created_at": "2026-09-21 03:14:38"
   },
   {
-    "source": "＠IT",
-    "title": "“エンジニア専属コンシェルジュ”を設けたSES企業 「客先常駐だと悩みをためがち」問題をどう解消？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/19/news012.html",
-    "summary": "SES企業が客先常駐エンジニアの悩み解消のため専属コンシェルジュを配置した取り組みと運用面の工夫を紹介する。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "エンジニアの働き方・定着に関わる実務的な施策事例で、採用・組織運営を考える経営層や人事に示唆がある。",
-    "published_at": "2026-09-19 17:00:00",
-    "created_at": "2026-09-20 03:07:34"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち",
-    "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/",
-    "summary": "TGS会場でのゲーム開発・運営における生成AI提案の現状を取材。ユーザー側の拒否感やベンダーの売り込み先・提案内容に焦点を当てる。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "ゲーム領域での生成AI受容やベンダー戦略が分かる業界動向。企業戦略やプロダクト方針に参考になるが影響範囲は限定的。",
-    "published_at": "2026-09-19 12:00:00",
-    "created_at": "2026-09-20 03:07:34"
-  },
-  {
     "source": "ITmedia AI+",
     "title": "パナソニック・サムスン撤退の裏で「中国勢5割」 独IT見本市「IFA」トップが明かす舞台裏",
     "url": "https://www.itmedia.co.jp/business/articles/2609/19/news010.html",
@@ -689,28 +744,6 @@
     "importance": 3,
     "category": "企業IT",
     "reason": "企業のAI活用成熟度を示す調査報告で、情シス・経営層の判断や導入ロードマップ策定に有益な示唆を与える。",
-    "published_at": "2026-09-19 07:00:00",
-    "created_at": "2026-09-20 03:07:34"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「規定を探す時間」をAIで短縮 豊川信用金庫が生成AIを職員のFAQに活用",
-    "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001616/",
-    "summary": "豊川信用金庫が生成AIベースのFAQ検索システム『SAF』を導入し、業務規定・商品知識の検索時間短縮を図る事例を紹介。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "金融機関での実運用事例として参考度が高い。導入効果と運用上の注意点が企業IT担当者に有益だが範囲は業種限定。",
-    "published_at": "2026-09-19 07:00:00",
-    "created_at": "2026-09-20 03:07:34"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「AIで資料は作れるけど、増えすぎた」を解消するNotebook機能とは？",
-    "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001614/",
-    "summary": "生成AIで作られる資料の急増に伴う管理・検索の課題と、それを解決するNotebook機能の狙いや仕組みを解説する記事。",
-    "importance": 1,
-    "category": "AI",
-    "reason": "AI導入先で頻出するドキュメント管理の課題と解決策に触れるが、特定機能の紹介に留まり影響範囲は小さい。",
     "published_at": "2026-09-19 07:00:00",
     "created_at": "2026-09-20 03:07:34"
   },
@@ -3069,28 +3102,6 @@
     "created_at": "2026-08-28 09:29:15"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "2035年、AI推論需要の半分は「コード生成」に 推論市場の今と未来",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news046.html",
-    "summary": "ABI Researchの分析を基に、推論ワークロードの拡大予測を解説。2033年に推論がトレーニングを上回り、2035年には推論電力消費が大幅増となる見通しを示す。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "推論中心の需要シフトはクラウド・半導体・運用面での長期投資判断に重要な示唆を与える",
-    "published_at": "2026-08-27 13:00:00",
-    "created_at": "2026-08-28 09:29:15"
-  },
-  {
-    "source": "＠IT",
-    "title": "キオクシアが「DRAMとSSDの間を埋める」新手法、メモリ不足をどう解消？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news049.html",
-    "summary": "AI需要によるメモリ逼迫に対し、キオクシアがDRAMとSSDのギャップを埋める新手法を提示。メインメモリの使用効率改善を目指す取り組みを解説する。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "メモリ需給への技術的対応はデータセンターとAI推論基盤のコスト・性能に直結する",
-    "published_at": "2026-08-27 13:00:00",
-    "created_at": "2026-08-28 09:29:15"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "10代のInstagram・Facebook利用を「1日2時間」に制限へ Meta、米訴訟で和解 最大約2.9兆円支払いも",
     "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000836/",
@@ -3103,28 +3114,6 @@
   },
   {
     "source": "＠IT",
-    "title": "「ゲーム開発もAIコーディングエージェントと」 次世代開発基盤「Unity 7」の5つの強化ポイント",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news040.html",
-    "summary": "Unityが次世代プラットフォーム「Unity 7」を発表。AIコーディングエージェントと協働する設計など、開発効率やワークフローを変える強化点を示す。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "主要ゲーム開発基盤へのAI統合は開発現場の生産性とツール業界に影響を与える",
-    "published_at": "2026-08-27 11:00:00",
-    "created_at": "2026-08-28 09:29:15"
-  },
-  {
-    "source": "＠IT",
-    "title": "JPGでもPNGでもない 2026年内に主要ブラウザが「JXL」を正式採用へ",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news047.html",
-    "summary": "主要ブラウザがJPEG XL（JXL）を2026年内に正式採用する方針。FirefoxはRust製デコーダを採用、Chromeも同様の対応を示している。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "画像フォーマットの標準化はウェブパフォーマンス最適化と配信コストに直接影響するため開発者必読",
-    "published_at": "2026-08-27 08:00:00",
-    "created_at": "2026-08-28 09:29:15"
-  },
-  {
-    "source": "＠IT",
     "title": "「ただのファイル属性」がroot権限に化ける Linux ntfs3に潜んだ権限昇格のわな",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news038.html",
     "summary": "LinuxカーネルのNTFSドライバー(ntfs3)に、一般ユーザーからrootに昇格できる脆弱性が報告。複雑な攻撃技術を必要としない点が指摘されている。",
@@ -3132,17 +3121,6 @@
     "category": "セキュリティ",
     "reason": "カーネル/ファイルシステムの権限昇格は広範囲のサーバ・端末に影響し、早急な対応が必要",
     "published_at": "2026-08-27 07:00:00",
-    "created_at": "2026-08-28 09:29:15"
-  },
-  {
-    "source": "Publickey",
-    "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
-    "url": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
-    "summary": "Agentic AI FoundationがMCP(Model Context Protocol)の新ロードマップを公開。AIエージェント対応やHTTP統一、アイデンティティ等を優先課題に挙げている。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "AIエージェント連携の基盤仕様変更は開発者体験とエコシステム設計に直接影響するため注目に値する",
-    "published_at": "2026-08-27 00:29:13",
     "created_at": "2026-08-28 09:29:15"
   },
   {
