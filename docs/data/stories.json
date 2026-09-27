@@ -10950,120 +10950,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "d608651e9459",
-    "title": "AI時代に拡大するAPIアタックサーフェス いかに保護するか",
-    "published_date": "2026-08-28",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "AIエージェントの台頭で企業のAPI利用が増え、APIが新たな攻撃対象に。可視化・認証・ライフサイクル保護など具体的対策を示し、セキュリティリーダー向けに解説する。",
-    "reason": "AI導入で増えるAPI接点は企業のアタックサーフェスを拡大するため、情シスとセキュリティチームにとって優先度の高い課題。",
-    "published_at": "2026-08-28 05:00:00",
-    "created_at": "2026-08-29 09:02:46",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news009.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 1,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "7f9ec739b29a",
-    "title": "AWSが「DuckDB」開発企業DuckLabsを買収 OSSは継続",
-    "published_date": "2026-08-28",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "AWSがオープンソース分析DB「DuckDB」の開発企業DuckLabsを買収する合意を発表。プロジェクトはMITライセンスで独立非営利組織の下に継続される見込みだ。",
-    "reason": "クラウド大手による人気OSSプロジェクトの買収はエコシステムとクラウド戦略に波及するため、開発者や情シスに重要。",
-    "published_at": "2026-08-28 17:00:00",
-    "created_at": "2026-08-29 09:02:46",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news052.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "4ca79a884b5f",
-    "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
-    "published_date": "2026-08-28",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "AnthropicがAIエージェントによる実験・製造機器の安全制御向け共通仕様「Model Hardware Standard (MHS)」を発表。安全制限や基本命令の標準化を進め、将来的にOSS化する方針。",
-    "reason": "物理機器へのAI制御基盤の標準化は産業用途の導入加速と安全運用に直結するため開発者・運用側で注目すべき。",
-    "published_at": "2026-08-28 14:20:45",
-    "created_at": "2026-08-29 09:02:46",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "bb54028f2de8",
-    "title": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長",
-    "published_date": "2026-08-28",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Googleがマルチモーダル動画生成モデル「Gemini Omni 1.1 Flash」を発表。直前10秒の文脈参照で最大40秒の延長やフレーム指定生成、4K対応などAPI提供を含む強化が行われた。",
-    "reason": "動画生成AIの機能拡張とAPI化はクリエイティブ領域とコンプライアンス両面で影響が大きく、開発者・企業が注視すべき。",
-    "published_at": "2026-08-28 09:07:14",
-    "created_at": "2026-08-29 09:02:46",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000878/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "e7480efaab0b",
     "title": "NISA口座「もぬけの殻」に 不正アクセス被害者らが証券4社に原状回復求め調停",
     "published_date": "2026-08-28",
@@ -11118,63 +11004,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "c1a92e56a664",
-    "title": "OpenAIのAIエージェント、約700体の群れで企業を襲撃 ハッキングの痕跡隠蔽を試みる――事件の裏で何が？",
-    "published_date": "2026-08-28",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "報告された事件では約700体のAIエージェントが連携して企業を攻撃し、痕跡の隠蔽を試みたとされる。事件の手口や背景、影響を分析している。",
-    "reason": "AIエージェントが実際に悪用されたという報告は運用リスクを具体化するため注目だが、5に相当する即時の広域危機情報ではない。",
-    "published_at": "2026-08-28 06:55:00",
-    "created_at": "2026-08-29 09:02:46",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/business/articles/2608/28/news067.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "9c0478a50d16",
-    "title": "なぜ「オンプレミスVPN」を使う企業はこれほど“ランサムウェア被害”に遭いやすい？",
-    "published_date": "2026-08-28",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "オンプレミスVPNがランサムウェアの侵入口になりやすい背景を分析。管理不全・設定の古さ・アクセス制御不足が主因で、改善ポイントを提示する。",
-    "reason": "ランサムウェア対策として依然重要なテーマで、企業のリモートアクセス設計と運用改善に直結する実務的記事。",
-    "published_at": "2026-08-28 10:15:00",
-    "created_at": "2026-08-29 09:02:46",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news031.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "491212212dc5",
     "title": "イエローハット、最大180万人分の情報漏えいか 作業予約システムに不正アクセス",
     "published_date": "2026-08-28",
@@ -11224,34 +11053,6 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "d3f231779791",
-    "title": "トレファク子会社に不正アクセス、13万人超の顧客情報漏えい 二段階認証設定しておらず",
-    "published_date": "2026-08-28",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "トレジャー・ファクトリー子会社のECサイトがフィッシングで得た認証情報を使った不正アクセスを受け、13万6464人分の個人情報が漏えいしたと発表。二段階認証未設定が原因の一つとされる。",
-    "reason": "フィッシングと認証管理の欠如による侵害は他社でも再現性が高く、対策の示唆が重要。",
-    "published_at": "2026-08-28 16:24:41",
-    "created_at": "2026-08-29 09:02:46",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/28/2000000908/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
     "has_itmedia_article": true
   },
   {
@@ -16980,34 +16781,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "e29d93c6bcec",
-    "title": "AI導入でつまずく中小企業、「何を・誰が・どう変えるか」を丸ごと支援",
-    "published_date": "2026-09-20",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "生成AI導入で迷う中小企業向けに、業務選定から組織・人材まで一括で支援するサービスを紹介。ツール導入だけでは変革は起きない点を指摘。",
-    "reason": "中小企業のAI導入実務に直結する支援の事例で、導入判断やベンダー選定に役立つため代表的に掲載。",
-    "published_at": "2026-09-20 07:00:00",
-    "created_at": "2026-09-21 03:14:38",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001627/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
     "id": "05397bbc52da",
     "title": "AI攻撃は「調べて対応」では間に合わない ゼットスケーラーがSOCをAIエージェント化",
     "published_date": "2026-09-20",
@@ -18805,5 +18578,113 @@
     "urgency_score": 0,
     "utility_score": 2,
     "has_itmedia_article": true
+  },
+  {
+    "id": "a623131176be",
+    "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+    "published_date": "2026-09-27",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "NTTドコモが顧客の短い問い合わせから意図を汲み取って聞き返し、手続きへ導く対話型生成AIを導入。本番運用に耐える仕組みも整備している。",
+    "reason": "生成AIを実運用する具体例で、顧客対応の効率化や導入上の実務知見が企業IT担当者に有益なため。",
+    "published_at": "2026-09-27 07:00:00",
+    "created_at": "2026-09-28 04:05:28",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e80f6f545998",
+    "title": "【小寺信良のくらしDX】指輪でアンチエイジング!? 目的が先鋭化するスマートリング",
+    "published_date": "2026-09-27",
+    "importance_score": 1,
+    "category": "ガジェット",
+    "summary": "スマートリングの用途が健康・アンチエイジングなど目的特化で進化。スマートウォッチとの違いや市場での位置づけを解説するコラム。",
+    "reason": "ガジェット動向として興味深いが影響範囲は限定的なため低めに評価。",
+    "published_at": "2026-09-27 10:00:00",
+    "created_at": "2026-09-28 04:05:28",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/series/kodera/2143461.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "49296000bf76",
+    "title": "イーロン・マスク氏のドキュメンタリー映画「MUSK」の予告編広告、YouTubeとMetaが一時拒否から一転承認 Xは応じず",
+    "published_date": "2026-09-27",
+    "importance_score": 2,
+    "category": "ビジネス",
+    "summary": "イーロン・マスク氏のドキュメンタリー予告編広告が主要SNSで一時拒否される。YouTubeとMetaは誤検知や再審査で掲載を承認、Xは配給元の連絡に応じていない。",
+    "reason": "プラットフォームの広告審査とコンテンツポリシー運用の実例として企業広報や広告運用に示唆があるため。",
+    "published_at": "2026-09-27 07:59:53",
+    "created_at": "2026-09-28 04:05:28",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/27/2000001775/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "902150af8602",
+    "title": "脱VMwareで顕在化した「ITインフラを任せられる人」不足――“AI頼み”で本当に解決できるのか",
+    "published_date": "2026-09-27",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "VMware離れを契機にITインフラを任せられる人材不足が表面化。AI導入での解決期待もあるが、その課題と現実的な対策を論じる。",
+    "reason": "インフラ移行や人材・運用戦略に直接影響する業界課題で、情シス・経営判断にとって重要な示唆を含むため。",
+    "published_at": "2026-09-27 08:00:00",
+    "created_at": "2026-09-28 04:05:28",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/27/news004.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
   }
 ]
