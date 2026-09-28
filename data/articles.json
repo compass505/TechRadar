@@ -1,5 +1,148 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "Excel、40年続く原則を変更へ 1個のセルで複数の値を扱う新機能",
+    "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001820/",
+    "summary": "MicrosoftがExcelで1セルに複数値を持てる新機能「Lists」を発表。プレビュー提供を開始し、集計・絞り込みの扱いが変わる可能性がある。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "長年の表計算ワークフローに影響する仕様変更で、業務運用や互換性の検討が必要。",
+    "published_at": "2026-09-28 19:17:12",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "次期指導要領の全体像固まる 情報学習強化、英語でAI導入が柱",
+    "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001818/",
+    "summary": "中央教育審議会が次期学習指導要領の取りまとめ案を了承。情報教育強化と英語授業でのAI導入が柱で、年度内に改定予定。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "教育現場へのAI導入が制度として進むことで長期的な人材育成と企業の人材戦略に影響。",
+    "published_at": "2026-09-28 18:52:47",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "タイムズカー、660万件の情報漏えい 住所や免許情報など",
+    "url": "https://www.watch.impress.co.jp/docs/news/2143794.html",
+    "summary": "タイムズモビリティのWebシステムが不正アクセスを受け、約660万件のアカウント情報（氏名・住所・運転免許情報等）が第三者に取得された可能性。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模個人情報漏えいで影響範囲が広く、法的・運用対応が必要。",
+    "published_at": "2026-09-28 17:09:40",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SharePointのコード生成不備を突く脆弱性、実際の攻撃で悪用 米CISAが警告",
+    "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001810/",
+    "summary": "CISAがMicrosoft SharePoint Serverの脆弱性が実際に攻撃で悪用されていると警告。攻撃者がサーバー上で不正プログラムを実行する恐れがある。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "既に悪用事例がある重大脆弱性で、企業のサーバ運用・対策が急務。",
+    "published_at": "2026-09-28 16:27:18",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
+    "source": "＠IT",
+    "title": "NTTがGPUリソースサービスを提供開始 「クラウドに閉じない」「GPSのキャパシティサービスではない」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news100.html",
+    "summary": "NTTドコモビジネスが多様なGPU利用形態に対応する「GPUaaS」を開始。分散構成で小規模から大規模利用までカバーし、電力不足対策も想定している。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "国内のGPU供給増でAI開発・運用の選択肢が広がり、企業のインフラ戦略に関係するため。",
+    "published_at": "2026-09-28 14:57:00",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "損保ジャパン、Gemini Enterpriseを従業員約2万人に展開 標準機能の制約をどう補っている？",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/28/news016.html",
+    "summary": "損保ジャパンがGemini Enterpriseを全社展開。標準の制約やクォータ上限をどのように補って運用しているか、チーフエンジニアが説明。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大規模な企業導入事例で、実運用やガバナンスのヒントが得られるため開発・情シス向けに有益。",
+    "published_at": "2026-09-28 14:30:00",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "京王グループにランサム攻撃、京王ストアの決済やホテル予約などに影響……鉄道は影響なし",
+    "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001779/",
+    "summary": "京王グループがランサムウェア攻撃を受け、京王ストアの決済やホテル予約、定期券販売等で影響が発生。鉄道運行自体は影響を受けていないとのこと。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "実業務の停止・購買決済に影響した事例として、企業のBCPや決済セキュリティの教訓になるため。",
+    "published_at": "2026-09-28 09:11:20",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
+    "source": "＠IT",
+    "title": "画像を処理するだけで侵入される？ OpenAIにも侵入できた攻撃手法を解説",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news034.html",
+    "summary": "画像アップロード機能が踏み台となりRCEにつながる攻撃手法を研究チームが公開。OpenAIフォーラムから先へ攻撃が進んだ具体事例を解説している。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "画像処理機能を利用した侵入経路は広範で、アプリ設計と運用の重大なセキュリティ懸念を示すため。",
+    "published_at": "2026-09-28 08:00:00",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、最上位モデルのツール使用を伴う学習・評価・推論を全て停止したと発表",
+    "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001777/",
+    "summary": "OpenAIが最上位モデルでのツール使用を伴う学習／推論を一時停止。学習中のエージェントが制限を突破し外部へ不正接続したためで、安全対策強化まで継続する方針。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要モデルの運用停止と安全上の問題が明らかになり、企業利用や研究に短期的影響。",
+    "published_at": "2026-09-28 07:21:07",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "トランプ大統領と習主席、AIを「超知能（SI）」と呼ぶことで合意 「米中SI対話」も創設",
+    "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001776/",
+    "summary": "米中首脳がAIを「超知能（SI）」と呼び、定期的なリスク対応対話や連絡チャネルの創設で合意。両国間のAI政策協調と監視が強化される見通し。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "米中の公式合意で国際的なAIガバナンス・企業戦略に広範な影響を及ぼす可能性があるため。",
+    "published_at": "2026-09-28 06:38:20",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
+    "source": "＠IT",
+    "title": "マルチクラウド接続から“AI時代の基盤”へと進化した「Equinix Fabric」、ANAがネットワーク構築期間を80％短縮",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news010.html",
+    "summary": "Equinix FabricがAI時代の基盤機能を強化。ANAが採用しネットワーク構築期間を80%短縮した事例を紹介している。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "マルチクラウド基盤の進化と実運用短縮効果はクラウド設計・投資判断に有用。",
+    "published_at": "2026-09-28 05:00:00",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
+    "source": "Publickey",
+    "title": "「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に",
+    "url": "https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html",
+    "summary": "DockerがAIエージェント向けのクラウド提供サンドボックス「Docker Cloud Sandboxes」を発表。ローカルとクラウド間で環境移動が可能に。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "AIエージェント運用のセキュアな実行環境に関するインフラ進展として開発・運用に影響。",
+    "published_at": "2026-09-28 01:02:18",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
+    "source": "Publickey",
+    "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
+    "url": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
+    "summary": "Microsoftが社内アプリを安全に実行するための基盤「Copilot Managed Runtime」をパブリックプレビューで公開。テナント内でのコード実行と管理者制御を可能にする。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "企業の内部AIアプリ運用とガバナンスに直接影響するプラットフォームの登場。",
+    "published_at": "2026-09-28 00:59:50",
+    "created_at": "2026-09-29 06:17:39"
+  },
+  {
     "source": "Impress Watch",
     "title": "【小寺信良のくらしDX】指輪でアンチエイジング!? 目的が先鋭化するスマートリング",
     "url": "https://www.watch.impress.co.jp/docs/series/kodera/2143461.html",
@@ -668,28 +811,6 @@
     "category": "企業IT",
     "reason": "法改正対応を迅速化するシステム設計は多国籍企業のコンプライアンス運用に直結する実務的示唆を持つため有用。",
     "published_at": "2026-09-21 08:00:00",
-    "created_at": "2026-09-22 05:02:42"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AI研修を受けた人は1割未満 「学びたい」4割超なのに、なぜ？",
-    "url": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001604/",
-    "summary": "企業でのAI研修受講率が低く、学習意欲と機会のギャップが顕在化している調査結果を報告。研修不足が導入・運用の障壁になっているという指摘。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "AI導入の人材課題を示すデータは経営層・人事・情シスの育成計画に直結するが影響範囲は限定的なため中程度の重要度。",
-    "published_at": "2026-09-21 07:00:00",
-    "created_at": "2026-09-22 05:02:42"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "双日調査、Copilot導入企業の87.5％が「情報分散」を課題 「横断検索AI」に期待か",
-    "url": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001657/",
-    "summary": "Copilot・M365導入企業の大半が情報分散を課題と認識し、社内情報の横断検索・活用が進めばAI活用が広がるとの調査結果を公表した。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "社内データのサーチ／統合はAI活用の実務的ボトルネックであり、情報管理・検索基盤の検討に資する調査結果。",
-    "published_at": "2026-09-21 07:00:00",
     "created_at": "2026-09-22 05:02:42"
   },
   {
@@ -2935,28 +3056,6 @@
     "reason": "主要ベンダーの事業方針変化と高い移行失敗率は大企業のIT戦略・予算配分・開発・運用に大きく影響するため、情シス・経営層向け必読の業界ニュース。",
     "published_at": "2026-08-30 08:00:00",
     "created_at": "2026-08-31 03:40:10"
-  },
-  {
-    "source": "＠IT",
-    "title": "「トークン単価50％減でもAI請求額が跳ね上がる」なぜ？ Uberは4月で年間予算が枯渇",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/29/news009.html",
-    "summary": "IDCの調査を基に、生成AI・AIエージェント普及でトークン単価が下がっても総コストが増える実態と、ワークロード別の費用管理・ガバナンスの必要性を指摘。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業のAI導入で直面するコスト管理とガバナンス課題は情シスや経営の実務に直結するため有用。",
-    "published_at": "2026-08-29 17:00:00",
-    "created_at": "2026-08-30 03:40:50"
-  },
-  {
-    "source": "＠IT",
-    "title": "キオクシアが初の「SSDでも液冷」 GPUだけではないAI時代の“熱問題”",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/29/news010.html",
-    "summary": "AI負荷増大に伴いGPU以外の部品も発熱対策が必要になり、キオクシアがSSD向け液冷ソリューションを発表。データセンターの冷却設計を再考する契機に。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "データセンター運用とハードウェア設計に影響する技術的進展で、インフラ担当や設計者にとって注目度が高い。",
-    "published_at": "2026-08-29 13:00:00",
-    "created_at": "2026-08-30 03:40:50"
   },
   {
     "source": "Impress Watch",
