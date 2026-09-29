@@ -11137,35 +11137,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "7c3a103b9669",
-    "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
-    "published_date": "2026-08-30",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "OpenAIがAIコードエディタCursorへのモデル提供を11月12日で終了すると発表。SpaceXによるCursor買収を受け、イーロン・マスク側の規約順守に懸念があるためとしている。Cursorは影響は限定的とし協議継続、Anthropicは支援継続を表明。",
-    "reason": "主要モデル供給の停止は開発ツールや企業のベンダーリスク管理に影響する重要事案で、プロダクト戦略と契約リスクを示すため掲載価値が高い。",
-    "published_at": "2026-08-30 08:12:23",
-    "created_at": "2026-08-31 03:40:10",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "e4bc5388c365",
     "title": "「脱メインフレーム、約7割が失敗」の衝撃――“生成AIを使うだけ”ではむしろ泥沼化も",
     "published_date": "2026-08-30",
@@ -17233,63 +17204,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "c7916c4bffe7",
-    "title": "「Grok 4.7」登場、長時間タスクも安定処理 価格はSolの半分以下",
-    "published_date": "2026-09-22",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "Grok 4.7の性能・価格訴求を技術面から補足する記事。API提供やプラットフォーム展開の詳細に触れる。",
-    "reason": "同日報の技術的補足記事として、導入検討時の比較材料になるため代表的な補足情報として掲載。",
-    "published_at": "2026-09-22 10:26:51",
-    "created_at": "2026-09-23 04:00:21",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2142588.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "c7a80ce993e7",
-    "title": "キユーピー、AIで工場シミュレーションモデルの開発工数を8割削減 3つの壁をどう乗り越えた？",
-    "published_date": "2026-09-22",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "キユーピーが生成AIを活用し工場シミュレーションモデルの開発工数を約8割削減。導入で直面した課題と解決手法を解説。",
-    "reason": "製造業のAI適用の実践事例は情シス・現場エンジニアに参考になるため掲載価値あり。",
-    "published_at": "2026-09-22 08:00:00",
-    "created_at": "2026-09-23 04:00:21",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news009.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "c31462d975ba",
     "title": "脱メインフレーム、7割超が失敗 背景に「生成AIへの過信」 2026年度上半期システム刷新記事ランキング",
     "published_date": "2026-09-22",
@@ -18942,5 +18856,372 @@
     "urgency_score": 1,
     "utility_score": 0,
     "has_itmedia_article": false
+  },
+  {
+    "id": "73f1db00a914",
+    "title": "7割の企業が生成AI「個人利用」への対策せず デロイト調査",
+    "published_date": "2026-09-29",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "デロイトの調査で、多くの企業が業務での生成AIの個人利用に関するガイドラインや対策を実施しておらず、運用ルールが不十分である実態が判明。",
+    "reason": "ガバナンス不備は企業リスクに直結するため、情シス・経営層にとって有益な調査結果。",
+    "published_at": "2026-09-29 17:50:50",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001855/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d49fff35de4e",
+    "title": "AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ ハードとモデルを一体化したオープンAIエコシステム加速へ",
+    "published_date": "2026-09-29",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "AMDがWorld Labsを約82億ドルで買収することで合意。空間知能や物理AIの技術を取り込み、ハードとモデルを一体化したAIインフラ戦略を加速する狙い。",
+    "reason": "半導体企業による大型M&Aで、AIハード／ソフト統合戦略に影響を与える業界動向だから。",
+    "published_at": "2026-09-29 09:38:11",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/29/2000001826/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "3056237e5c18",
+    "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能",
+    "published_date": "2026-09-29",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "AWSがAIエージェント開発向けのオープンソース「Strandsハーネス」を公開。複数LLMやランタイムに対応し、任意のコンテナ環境へデプロイ可能な設計。",
+    "reason": "企業・開発者のエージェント実装・運用に直結するツールで、クラウド開発の実務に影響するため。",
+    "published_at": "2026-09-29 14:56:39",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "16afdc2eef16",
+    "title": "Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％以上高速化、タスク当たりコスト最大3割減",
+    "published_date": "2026-09-29",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "AnthropicがClaude Sonnet 5.5を発表。速度とトークン効率を改善し、コスト削減とコーディング性能向上を実現。即日APIなどで提供開始。",
+    "reason": "開発者やサービス提供者のコスト・性能に直接影響するモデルアップデートのため有用。",
+    "published_at": "2026-09-29 06:55:33",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/29/2000001823/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "596aba81dde1",
+    "title": "IIJ、新人エンジニア向け研修教材を無料公開 Web技術の基礎から生成AI活用まで20講義超",
+    "published_date": "2026-09-29",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "IIJが新人向けハンズオン研修「IIJ Bootcamp」2026年度版の一部教材を無料公開。GitやDocker、生成AIを使ったWebアプリ開発までカバーする。",
+    "reason": "教育リソースとして有用だがニュース性は限定的なため掲載価値は中程度。",
+    "published_at": "2026-09-29 17:07:49",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/29/2000001854/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 3,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c147076eaba3",
+    "title": "Meta、企業向けAI事業「Meta Enterprise Platform」を開始 責任者としてMongoDBのCEO引き抜き",
+    "published_date": "2026-09-29",
+    "importance_score": 4,
+    "category": "企業IT",
+    "summary": "Metaが企業向けAI事業「Meta Enterprise Platform」を立ち上げ。責任者にMongoDB前CEOを招聘し、セキュリティ重視で専用VM提供など企業需要に対応する方針。",
+    "reason": "大手プラットフォーマーの企業AI戦略と人事は、企業の採用判断や競合構図に直結するため重要。",
+    "published_at": "2026-09-29 11:05:46",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/29/2000001829/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "8fcb89b4d034",
+    "title": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表 Anthropicなど100以上の組織が参加",
+    "published_date": "2026-09-29",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "NVIDIAがAIエージェントの安全基盤「Open Agent Safety Platform」を発表。オープンソース隔離ソフトとDPUによる監視を組み合わせ、エージェントの逸脱対策を目指す。多数の組織が参加。",
+    "reason": "AIエージェント運用の安全設計に関する業界横断の基盤提案で、開発・運用に影響するため。",
+    "published_at": "2026-09-29 08:59:11",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/29/2000001824/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ce0cdb39464c",
+    "title": "“期限切れクレカ”を蘇らせ、不正にタッチ決済する「ゾンビカード攻撃」 米研究チームが検証",
+    "published_date": "2026-09-29",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "研究チームが期限切れクレジットカードを非接触決済で不正利用できる問題を検証し、システム設計上の脆弱性を指摘。USENIXで論文発表。",
+    "reason": "決済インフラに関わる実証研究で、実装・運用の見直しが必要となるためセキュリティ担当者必読。",
+    "published_at": "2026-09-29 12:00:00",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "＠IT",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/29/2000001783/",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "494af92a95a0",
+    "title": "「APIキーを守る」ではなく「AIエージェントに渡さない」――Postmanが発表した新アプローチ",
+    "published_date": "2026-09-29",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "PostmanがAIエージェントに実際の資格情報を渡さずにAPI呼び出しを行える仕組みを発表し、資格情報漏えいリスクを低減する新アプローチを提示。",
+    "reason": "AI連携APIの実務的なセキュリティ対策で、開発チームやプラットフォーム構築者に有益。",
+    "published_at": "2026-09-29 15:00:00",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/29/news036.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ce205f9f922f",
+    "title": "「パッチを当てても安心できない」 Citrix NetScalerゼロデイ、CISAが異例の対応を要求",
+    "published_date": "2026-09-29",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "Citrix NetScaler ADC/Gatewayの複数脆弱性のうち2件が緊急（Critical）のゼロデイで、既に世界規模で悪用が確認されている。CISAが異例の緊急対応を要請。",
+    "reason": "ゼロデイが実運用で悪用されており、広範囲の緊急対策を要する重大インシデントに該当するため。",
+    "published_at": "2026-09-29 11:00:00",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/29/news050.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9eeba711ac83",
+    "title": "セイコーマート、57万アカウントの会員情報漏えいか スマホアプリ用のサーバ介し不正アクセス",
+    "published_date": "2026-09-29",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "セイコーマートの会員サービスを管理するサーバが不正アクセスを受け、約57万件の会員情報が漏えいした可能性があると発表。攻撃はスマホアプリ向けサーバ経由とのこと。",
+    "reason": "中規模〜大規模の個人情報漏えいで、決済・会員管理の脆弱性対策が求められるため。",
+    "published_at": "2026-09-29 12:46:59",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/29/2000001830/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5916356a0dfe",
+    "title": "タイムズカーの情報漏洩、免許証など本人確認書類流出は160万件",
+    "published_date": "2026-09-29",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "タイムズモビリティのWebシステムへ不正アクセスがあり、運転免許証画像など約160万件の本人確認書類が漏えいしたと公表。大規模かつ機微情報の流出が確認されている。",
+    "reason": "個人識別情報の大規模流出で業界・利用者に重大影響。対応と規制対応の必要性が高い。",
+    "published_at": "2026-09-29 21:54:41",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2144279.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "11e6a6e909e9",
+    "title": "日本郵便に不正アクセスか 国際郵便の「調査請求Web受付」を停止、原因は調査中",
+    "published_date": "2026-09-29",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "日本郵便が国際郵便の調査請求Web受付サーバに外部からの不正アクセスの可能性を発表し、該当サービスを停止。原因と影響範囲を調査中。",
+    "reason": "公共インフラを担う組織での不正アクセス疑いは影響範囲が広く、早期把握が必要だから。",
+    "published_at": "2026-09-29 13:40:17",
+    "created_at": "2026-09-30 05:04:20",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2609/29/2000001841/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
   }
 ]

@@ -3,7 +3,6 @@
   "surfaces": {
     "top_yesterday": [
       "dfaf9340b2f3",
-      "7c3a103b9669",
       "e4bc5388c365"
     ],
     "recent_important": [
@@ -18,16 +17,12 @@
     ],
     "yesterday_ai": [
       "dfaf9340b2f3",
-      "e4bc5388c365",
-      "7c3a103b9669"
+      "e4bc5388c365"
     ],
     "yesterday_enterprise_it": [
       "dfaf9340b2f3",
-      "e4bc5388c365",
-      "7c3a103b9669"
+      "e4bc5388c365"
     ],
-    "yesterday_development": [
-      "7c3a103b9669"
-    ]
+    "yesterday_development": []
   }
 }

@@ -24,17 +24,13 @@
       "918a50ee1fb6",
       "7a3fa30c9b83",
       "09d0ffabf069",
-      "c31462d975ba",
-      "c7a80ce993e7"
+      "c31462d975ba"
     ],
     "yesterday_enterprise_it": [
       "918a50ee1fb6",
       "7a3fa30c9b83",
       "c31462d975ba"
     ],
-    "yesterday_development": [
-      "c7916c4bffe7",
-      "c7a80ce993e7"
-    ]
+    "yesterday_development": []
   }
 }
