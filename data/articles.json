@@ -1,6 +1,182 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "ソフトバンクG、OpenAIへの追加出資が完了 累計10兆円超 持分約13％に",
+    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001944/",
+    "summary": "ソフトバンクグループがOpenAIへの最終追加出資を実行し、累計出資額が約646億ドル（約10.2兆円）、持分約13％に達した。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "巨大資金移動がAI業界の支配構造と競争環境に直結するため、企業・投資判断に重大な影響を与える。",
+    "published_at": "2026-10-01 19:45:57",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "日本原子力機構に不正アクセス 研究者の顔写真付き身分証など漏えい",
+    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001942/",
+    "summary": "日本原子力研究開発機構の研究者向けWebサイトが不正アクセスを受け、175人分の顔写真付き身分証や健康診断結果などが漏えいしたと発表。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "原子力研究機関への侵害は国家安全や研究継続性に関わるため、業界と当局に重大な影響を与える。",
+    "published_at": "2026-10-01 19:25:43",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "人間は「取締役2人だけ」 実務をAIが担う新会社、セキュリティサービスのHENNGE",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/",
+    "summary": "HENNGEが新会社「HENNGE AI」を設立し、取締役2名以外はAIエージェントが実務を担う組織形態を採用すると発表。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "企業内でのAI自律運用とガバナンスの実験として興味深いが適用範囲はまだ限定的。",
+    "published_at": "2026-10-01 18:01:23",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "総額2.3兆円、千葉市に巨大な「AIデータセンター」建設へ 発電大手JERA参画の“ドリームチーム”、勝機どうつかむ？",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/01/news082.html",
+    "summary": "JERA、Dell、RHAELMらが千葉市に総額2.3兆円超の大規模AIデータセンター建設を発表。国内最大級の投資計画となる。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "巨大インフラ投資はクラウド競争とエネルギー・土地利用に影響し、企業の導入計画に直結する。",
+    "published_at": "2026-10-01 18:00:00",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
+    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
+    "summary": "佐川急便が荷物追跡サービスへの不正アクセスで、送り主・届け先など約100日分の荷物データが外部流出した可能性を公表し、一部Webサービスを停止。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "物流データの流出はサプライチェーンと顧客信頼に関わるため、企業側の対応と影響確認が必要。",
+    "published_at": "2026-10-01 16:15:57",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "米連邦取引委がAI大手の調査開始 AnthropicやOpenAIなど、暴走や悪用の懸念",
+    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001931/",
+    "summary": "米FTCが主要AI開発企業に対する広範な調査を開始したと報じられる。暴走や悪用のリスク評価が焦点とされる。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "米規制当局の動きは国際的な規制基準や事業リスクに直結するため、企業戦略やコンプライアンスに重要。",
+    "published_at": "2026-10-01 16:01:45",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止 「Kimi」開発元の関係者が関与と主張",
+    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001929/",
+    "summary": "OpenAIがモデルの推論過程を抜き出す敵対的蒸留行為を特定・阻止。アカウント停止や推論保護強化、業界・政府との脅威共有を進めると発表。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "モデル抽出や推論保護は企業のモデル資産保護と信頼性に関わる実運用上の課題であり注目に値する。",
+    "published_at": "2026-10-01 15:06:55",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "LINEミニアプリ、事業者収益80%に アップル手数料引き下げで",
+    "url": "https://www.watch.impress.co.jp/docs/news/2144828.html",
+    "summary": "LINEヤフーがAppleのMini Apps Partner Program参加により、LINEミニアプリのアプリ内課金手数料が20%に下がり、事業者取り分が80%に改善されると発表。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "手数料改定は国内ミニアプリ事業者の収益構造を直接変えるため、プラットフォーム戦略に重要。",
+    "published_at": "2026-10-01 14:16:15",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、「Gemini 4 Pro」ではなく「Gemini 4 Argon」発表 まずはサイバー防御組織に限定提供、出力上限は100万トークンに",
+    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001912/",
+    "summary": "Googleが最上位フロンティアモデル「Gemini 4 Argon」を発表。出力上限100万トークンで長期ワークフローや自律的脆弱性修正を想定し、まずはサイバー防御組織に限定提供する。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "極大型モデルの登場と限定提供方針はサイバー防御・企業導入戦略に直接影響するため重要。",
+    "published_at": "2026-10-01 14:02:06",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「能動的サイバー防御」きょう開始 警察・自衛隊などが攻撃元サーバを無害化 高市首相も狙いを説明",
+    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001918/",
+    "summary": "日本で「サイバー対処能力強化法」施行に伴い、重大サイバー攻撃に対する能動的サイバー防御の運用が開始。警察・自衛隊が攻撃元サーバの無害化を可能とする。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "国家レベルでの攻撃対応権限拡大は企業のセキュリティ対応や法的リスクに大きく影響するため高重要。",
+    "published_at": "2026-10-01 12:21:11",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Reddit、RSSフィードを11月13日に終了 公開APIも2027年3月に閉鎖へ",
+    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001919/",
+    "summary": "RedditがRSSフィードのサポートを11月13日に終了、公開データAPIの段階的閉鎖を発表。開発者向けの移行支援も実施する方針。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "コミュニティ運営と外部開発者エコシステムに影響を与える変更で、開発者にとって対応必須の一報。",
+    "published_at": "2026-10-01 12:19:50",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "セイコーマート、会員のほぼ半数に当たる情報漏えい 約57万人分",
+    "url": "https://www.watch.impress.co.jp/docs/news/2144946.html",
+    "summary": "コンビニチェーンのアプリのサーバが不正アクセスを受け、過去に登録した会員約57万2022人分の情報が第三者に閲覧された可能性を発表。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "規模が大きく顧客基盤への影響が広範なため、個人情報管理と事業継続に重要な示唆を与える。",
+    "published_at": "2026-10-01 10:04:42",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "AI時代に接近する決済とトークン Stripeが描くエージェンティックエコノミー",
+    "url": "https://www.watch.impress.co.jp/docs/news/2144549.html",
+    "summary": "Stripeが「Stripe Tour Tokyo 2026」で、AI主体の経済圏＝エージェンティックエコノミーに向けた新サービス群を提示した。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "AIが経済主体として機能する構想は決済・プラットフォーム戦略に長期的影響を与えるため注目度が高い。",
+    "published_at": "2026-10-01 09:00:00",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "米Micron、AI需要で売上高は前年同期比4.8倍、純利益は11.8倍と過去最高を更新",
+    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001914/",
+    "summary": "MicronがAI向けデータセンター需要で過去最高の売上・純利益を記録。次世代モジュール出荷も進み、来期も高水準見込み。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "半導体市場でAI需要が収益を押し上げていることはサプライチェーンと投資判断に直結する重要ニュース。",
+    "published_at": "2026-10-01 07:47:58",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "Publickey",
+    "title": "JavaScriptの統合ツールチェーン「Vite+ 1.0」正式リリース。ランタイム、パッケージマネージャー、ビルドツール、リンター、フォーマッターなどを統一",
+    "url": "https://www.publickey1.jp/blog/26/javascriptvite_10.html",
+    "summary": "Viteを中心とした統合ツールチェーン「Vite+」が1.0に到達し、ランタイムやパッケージ管理まで統合する形で正式リリースされた。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "フロントエンド開発のワークフローに影響するが、対象は主に開発者コミュニティに限定される。",
+    "published_at": "2026-10-01 00:22:55",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "Publickey",
+    "title": "Next.jsアプリをCloudflare WorkersやAWS LambdaなどVercel以外のサーバレス基盤へデプロイできる「Vinext 1.0」リリース",
+    "url": "https://www.publickey1.jp/blog/26/vercelnextjscloudflare_workersaws_lambdavercelvinext_10.html",
+    "summary": "Next.jsアプリをVercel以外のサーバレス基盤（Cloudflare Workers、AWS Lambda等）にデプロイ可能にするツール「Vinext 1.0」がリリースされた。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "デプロイ先の多様化は開発・運用の選択肢を広げるが影響は主に開発組織向け。",
+    "published_at": "2026-10-01 00:10:38",
+    "created_at": "2026-10-02 05:24:37"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "セイコーマート、会員のほぼ半数に当たる情報漏えい 約57万人分",
     "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001906/",
     "summary": "セイコーマートのアプリ管理サーバに不正アクセスがあり、登録経験のある会員のうち57万2022人分の情報が第三者に閲覧されたと発表。会員の約49％が影響を受ける規模。",
@@ -712,17 +888,6 @@
     "category": "開発",
     "reason": "OSSインフラの資金モデル変更は開発者と企業のコスト・運用に直接影響する業界横断的な重要案件。",
     "published_at": "2026-09-24 13:00:00",
-    "created_at": "2026-09-25 04:19:49"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "NECが「AI自律型組織」を新設 「従業員はいらなくなる？」の問いに、CAXOはどう答えたか",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/24/news050.html",
-    "summary": "NECがAIを組織運営に深く組み込むための「AI自律型組織」を新設。組織設計や従業員との関係、運用上の課題について社内の見解を紹介。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "大手企業のAI組織化は参考になる企業戦略事例だが、即時の業界影響は限定的なため重要度を抑えて掲載。",
-    "published_at": "2026-09-24 11:45:00",
     "created_at": "2026-09-25 04:19:49"
   },
   {
@@ -2915,28 +3080,6 @@
     "created_at": "2026-09-03 03:49:23"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "総務省、「AX・新技術戦略室」を新設 AI推進に注力",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001044/",
-    "summary": "総務省がAI推進を取りまとめる「AX・新技術戦略室」を新設。関係省庁との連携や政策調整を主導する狙い。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "国内のAI政策体制強化で、自治体・事業者の対応に影響する可能性があるため掲載価値あり。",
-    "published_at": "2026-09-01 19:37:56",
-    "created_at": "2026-09-02 03:40:06"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "ChatGPT広告、開始200日足らずで年換算1600億円の売上に",
-    "url": "https://japan.cnet.com/article/35252141/",
-    "summary": "OpenAIはChatGPT内広告の年換算売上が10億ドル(約1600億円)に達したと発表。広告主向けセルフサービスを地域拡大し、収益の多角化を進める。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "生成AIサービスで広告が短期間に大規模収益化しており、ビジネスモデルの進化を示すため有用。",
-    "published_at": "2026-09-01 18:20:00",
-    "created_at": "2026-09-02 03:40:06"
-  },
-  {
     "source": "CNET Japan",
     "title": "12TBのゲームデータがSteamから流出 開発中止タイトルや試作版も含む10年分",
     "url": "https://japan.cnet.com/article/35252129/",
@@ -2948,17 +3091,6 @@
     "created_at": "2026-09-02 03:40:06"
   },
   {
-    "source": "Impress Watch",
-    "title": "洋上浮体型データセンターに「港湾立地型」 用地確保・アクセスの課題解消",
-    "url": "https://www.watch.impress.co.jp/docs/news/2137273.html",
-    "summary": "日本郵船らが洋上浮体型データセンターの『港湾立地型』コンセプトを策定。用地確保やアクセス課題の解消を図り実現性を高める狙い。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "データセンターの設置モデル革新はクラウド事業者・インフラ戦略に影響するため注目度が高い。",
-    "published_at": "2026-09-01 14:08:15",
-    "created_at": "2026-09-02 03:40:06"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "「当選した」自虐投稿も……さくら136万件漏えい可能性、対象者へ通知メール続々",
     "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001017/",
@@ -2967,17 +3099,6 @@
     "category": "セキュリティ",
     "reason": "大規模な個人情報漏えいの可能性で利用者・企業に即時影響があり、対応必須の事案。",
     "published_at": "2026-09-01 13:20:19",
-    "created_at": "2026-09-02 03:40:06"
-  },
-  {
-    "source": "＠IT",
-    "title": "AIインフラ支出、ついに「推論」が「学習」を上回る――背景についてGartnerが解説",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news032.html",
-    "summary": "Gartnerの予測で、AIインフラ支出において推論（推論提供）が学習を上回る見通し。AIに最適化されたIaaS支出が急増する説明と背景分析。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "クラウド／インフラの投資トレンド変化は事業計画や情シスの設備判断に直結するため有益。",
-    "published_at": "2026-09-01 13:00:00",
     "created_at": "2026-09-02 03:40:06"
   },
   {
@@ -3026,34 +3147,12 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "「よりによって月末に」 サイボウズ「kintone」「Garoon」などで2時間にわたり障害",
-    "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000999/",
-    "summary": "サイボウズの業務アプリ基盤で月末業務時間帯に約2時間の障害が発生。利用企業からは業務影響の声が相次いだ。復旧対応中。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "主要業務SaaSの停止は多くの企業の業務に直接影響し、可用性・BCPの議論を促すため掲載価値あり。",
-    "published_at": "2026-09-01 09:26:43",
-    "created_at": "2026-09-02 03:40:06"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "日産とホンダ、車載システム共通化へ ECUやOS・ソフトウェアなど共同開発",
     "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000995/",
     "summary": "日産とホンダが次世代SDVの中核となる複数ECUと車載OS・ミドルウェア・制御ソフトの主要部分を共通化する共同開発契約を締結。2029年度以降の適用を目指す。",
     "importance": 4,
     "category": "企業IT",
     "reason": "自動車ソフトウェアの標準化に向けた大手同士の協業はサプライチェーンと開発負荷を大きく変えるため。",
-    "published_at": "2026-09-01 08:00:00",
-    "created_at": "2026-09-02 03:40:06"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「AIが勝手にやった」は通用しない？ AIエージェントにも“社員証”と“委任状”が要るワケ 今からできる対策も解説",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000000898/",
-    "summary": "企業利用が進むAIエージェントに対し、業務委任の明確化（社員証・委任状）や運用ルール整備の必要性を解説。実事故を踏まえた対策が示される。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業のAIガバナンスと実務運用に直結する実践的なガイドで読者の判断に役立つため。",
     "published_at": "2026-09-01 08:00:00",
     "created_at": "2026-09-02 03:40:06"
   },
@@ -3066,17 +3165,6 @@
     "category": "ビジネス",
     "reason": "Appleのトップ交代は製品戦略や規制対応、業界意思決定に影響するため重要。",
     "published_at": "2026-09-01 07:20:30",
-    "created_at": "2026-09-02 03:40:06"
-  },
-  {
-    "source": "Publickey",
-    "title": "DHH氏が開発するLinux OS「Omarchy Quattro」リリース。AIエージェントとをOSと統合、スキルによりAIエージェントがOSの設定や操作、プラグイン作成まで支援",
-    "url": "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html",
-    "summary": "DHHが開発するデスクトップLinux「Omarchy 4.0 (Quattro)」をリリース。AIエージェント統合やスキル拡張でOS操作・設定支援を強化している。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発者・OSSコミュニティに影響するデスクトップOSのAI統合で、開発・運用手法に示唆を与えるため。",
-    "published_at": "2026-09-01 00:54:46",
     "created_at": "2026-09-02 03:40:06"
   },
   {
