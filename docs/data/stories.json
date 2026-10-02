@@ -11560,35 +11560,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "8e66cff2749c",
-    "title": "AIエージェントがRedshiftを操作してDWH構築や集計分析など可能に、Amazon RedshiftがAgent Toolkit for AWSと統合",
-    "published_date": "2026-09-02",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "Amazon RedshiftがAgent Toolkit for AWSと統合され、AIエージェント経由でDWH構築や集計、SQL生成などの自動化が可能になった。",
-    "reason": "データ基盤でのAIエージェント活用は運用効率とガバナンスに影響し、クラウド/情シス向けに有用なニュース。",
-    "published_at": "2026-09-02 00:07:04",
-    "created_at": "2026-09-03 03:49:23",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "1f7611567131",
     "title": "Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表 「監視の難しさ」への懸念も開示",
     "published_date": "2026-09-02",
@@ -11610,174 +11581,6 @@
     ],
     "ai_relevance_score": 4,
     "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "7e2e7f23ce58",
-    "title": "Anthropic、企業向け「Enterprise Frontier Safeguards」発表 ログは顧客のクラウドに保存し、人手による確認も顧客側で",
-    "published_date": "2026-09-02",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "Anthropicが企業向け新機能EFSを発表。活動データを顧客クラウドへ保存し、社外レビューを排してプライバシーと不正検知を両立する設計。",
-    "reason": "企業向けガバナンスとプライバシー設計の進化は導入判断に直結するため、情シス向けの有用な情報。",
-    "published_at": "2026-09-02 08:06:30",
-    "created_at": "2026-09-03 03:49:23",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/02/2000001049/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "9f82a6071d0b",
-    "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
-    "published_date": "2026-09-02",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "AnthropicとSalesforceが『Claudeforce』を発表。Claude上からSalesforceデータを操作・分析でき、業務プロセスとの連携を実現する。",
-    "reason": "CRMとLLM統合は営業・顧客対応のDXに直結するため、企業導入やリスク管理面で注目度が高い。",
-    "published_at": "2026-09-02 11:43:59",
-    "created_at": "2026-09-03 03:49:23",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "ede90cb275e2",
-    "title": "Geminiの動画解析が進化 “見逃し”減らしトークンも88%削減",
-    "published_date": "2026-09-02",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "GoogleがGeminiの動画解析機能『Agentic video understanding』を発表。見逃しを減らしつつトークン消費を大幅削減する技術改善を打ち出した。",
-    "reason": "動画解析の効率改善はメディア企業や開発者の運用コストと機能設計に直結するため実務的に有益。",
-    "published_at": "2026-09-02 13:33:36",
-    "created_at": "2026-09-03 03:49:23",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2137587.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "9e9b463a1057",
-    "title": "Google、AI画像生成・編集ツール「Google Pics」提供開始 特定オブジェクトの編集や文字翻訳も可能",
-    "published_date": "2026-09-02",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Googleが画像生成・編集ツール『Google Pics』を発表。Nano Bananaモデル搭載で領域編集や文字翻訳が可能、Workspaceへの統合も予定。",
-    "reason": "Workspace統合などで法人ユーザーへの影響大、企業のワークフロー変化につながるため実務的な注目度あり。",
-    "published_at": "2026-09-02 11:10:34",
-    "created_at": "2026-09-03 03:49:23",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/02/2000001058/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "4965eba96211",
-    "title": "LINE×PayPay連携が延期の見通し 総務省の行政指導受け安全確認に時間 報道",
-    "published_date": "2026-09-02",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "LINEヤフーが予定していたLINEとPayPayのアカウント連携を総務省の指導により延期へ。開始時期は未定で利用者情報保護の確認が理由とされる。",
-    "reason": "大手プラットフォームの機能統合が行政指導で止まる事例は、規制対応とユーザーデータ保護に関する企業判断事例として重要。",
-    "published_at": "2026-09-02 18:53:19",
-    "created_at": "2026-09-03 03:49:23",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/02/2000001092/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "aa312d10e89b",
-    "title": "NEC、AIモデル「ミュトス」をサイバーセキュリティに活用 「Project Glasswing」に参画",
-    "published_date": "2026-09-02",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "NECがAnthropicのClaude Mythos Previewをサイバーセキュリティ用途で導入し、Project Glasswingの防衛連合に参画すると発表した。",
-    "reason": "国内大手が先進モデルをセキュリティ用途で採用する動きは、防御側の実運用と産業連携に影響するため報じる価値あり。",
-    "published_at": "2026-09-02 16:48:34",
-    "created_at": "2026-09-03 03:49:23",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001075/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 4,
-    "practical_impact_score": 2,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
@@ -11812,34 +11615,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "79c71ac4f112",
-    "title": "VS Code上で開発のセカンドオピニオンを別のAIエージェントから得られる「Rubber Duck」機能が実験的実装",
-    "published_date": "2026-09-02",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "VS Codeの最新版で、メインAIとは別のAIエージェントにセカンドオピニオンを求められる『Rubber Duck』機能が実験実装された。",
-    "reason": "開発現場でのAI活用・品質管理に直接関わる機能で、開発者のワークフロー影響が大きい。",
-    "published_at": "2026-09-02 00:01:52",
-    "created_at": "2026-09-03 03:49:23",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
     "id": "ae9a42c8cc1b",
     "title": "アップル新CEOにターナス氏が就任--試練山積での船出 折りたたみiPhoneも試金石に",
     "published_date": "2026-09-02",
@@ -11865,31 +11640,6 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "315e98ff44d6",
-    "title": "ソフトバンク、HAPSとスマホの通信試験に国内初成功 27年以降商用化へ",
-    "published_date": "2026-09-02",
-    "importance_score": 3,
-    "category": "その他",
-    "summary": "ソフトバンクと米Sceyeが成層圏のHAPSからスマホへ通信を届ける試験に成功。国内での商用化を見据えた一歩になる。",
-    "reason": "空中基地局による通信プラットフォームはインフラの選択肢を増やし、事業戦略や通信事業者の技術ロードマップに関係するため注目。",
-    "published_at": "2026-09-02 12:12:14",
-    "created_at": "2026-09-03 03:49:23",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2137538.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
     "has_itmedia_article": false
   },
   {
@@ -11947,34 +11697,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "7624ae7376f3",
-    "title": "楽天にGMO……防衛産業に近づく民間IT企業 反発の声も",
-    "published_date": "2026-09-02",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "AIやドローンなど防衛関連分野に民間IT企業の関与が増加。企業やユーザーからは倫理的懸念や反発の声も上がっている。",
-    "reason": "IT企業の防衛参入は事業多角化と社会的リスクの両面を持ち、投資や採用、ブランド戦略に影響するため掲載価値あり。",
-    "published_at": "2026-09-02 12:00:00",
-    "created_at": "2026-09-03 03:49:23",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/02/2000001041/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
     "has_itmedia_article": true
   },
   {
@@ -17408,34 +17130,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "af41e7e149e5",
-    "title": "DeepL翻訳、CopilotやChatGPT、Claudeから利用可能に",
-    "published_date": "2026-09-25",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "DeepLがMCPを使ってMicrosoft Copilot、ChatGPT、Claudeから直接利用できるように対応。多言語業務の流れが簡素化される可能性。",
-    "reason": "業務での多言語対応効率化に寄与するが、技術的インパクトは限定的。",
-    "published_at": "2026-09-25 08:00:00",
-    "created_at": "2026-09-26 04:21:55",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2143069.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "f0da80299d1b",
     "title": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始 画像1枚で独自アバターも",
     "published_date": "2026-09-25",
@@ -17491,33 +17185,6 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": true
-  },
-  {
-    "id": "45c36b66aa10",
-    "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
-    "published_date": "2026-09-25",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "UnstablebuildがGo製のネイティブIDE「Rune」をオープンソース公開。高速描画とターミナル中心の開発体験、リモートノード操作が特徴。",
-    "reason": "開発ツールとして関心は高いが影響範囲は限定的で技術コミュニティ向け。",
-    "published_at": "2026-09-25 00:45:08",
-    "created_at": "2026-09-26 04:21:55",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/goiderune.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
   },
   {
     "id": "f072e9e00a16",
@@ -19428,6 +19095,310 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ca1fee5ba393",
+    "title": "AIが脆弱性を探す時代に何が変わる？ IPA白書2026が示す「防御」の転換点",
+    "published_date": "2026-10-02",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "IPAの『情報セキュリティ白書2026』を抜粋し、AIが脆弱性発見や攻撃に使われる時代に企業が取るべき防御策の転換点を整理。自動化とガバナンスの両立が課題。調達・開発・運用での具体的対応を解説。",
+    "reason": "政府系白書の示す指針は企業のセキュリティ戦略や投資判断に直接影響するため高度に重要。",
+    "published_at": "2026-10-02 08:00:00",
+    "created_at": "2026-10-03 04:59:48",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/02/news021.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 5,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 2,
+    "utility_score": 3,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a53c952c7111",
+    "title": "Google Cloud、ローカルマシンにインストールできる大規模分散型マルチモデルDB「Spanner Omni」正式版リリースを発表",
+    "published_date": "2026-10-02",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "Google Cloudがリレーショナル／グラフ／ベクトル検索などマルチモデル対応のデータベース『Spanner Omni』正式版を発表。ローカルマシンへのインストールが可能になり、クラウド互換の分散DBをオンプレ／エッジでも利用可能にする。",
+    "reason": "マルチモデル分散DBのローカル展開はアーキテクチャやデータ戦略に大きな影響を与えるため、開発者と情シスに重要。",
+    "published_at": "2026-10-02 03:28:43",
+    "created_at": "2026-10-03 04:59:48",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "e89befdf0259",
+    "title": "Microsoft、初のストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」公開 音声合成「MAI-Voice-2.1」と高速版も",
+    "published_date": "2026-10-02",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Microsoftは低遅延のストリーミング文字起こしモデル『MAI-Transcribe-2-Streaming』と多言語音声合成『MAI-Voice-2.1』等を発表。音声エージェントや通話解析用途を想定し、Foundryでプレビュー提供を開始した。",
+    "reason": "リアルタイム音声処理のモデルは音声サービス開発に直結するため、開発者・プロダクト責任者に有用な情報。",
+    "published_at": "2026-10-02 10:47:09",
+    "created_at": "2026-10-03 04:59:48",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "742436c17e3a",
+    "title": "「Androidのマイナンバーカード」提供へ 20日から 物理カードなしでも本人確認など可能に",
+    "published_date": "2026-10-02",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "デジタル庁はAndroid端末で実物カード不要に本人確認や年齢確認が可能な『Androidのマイナンバーカード』を10月20日から提供予定と発表。既存サービスの刷新で利便性向上を図る。認証基盤の普及が各種サービス連携を促す。",
+    "reason": "国家IDのデジタル化は事業者の認証設計や規制遵守に直結するため、企業IT・サービス提供者に重要なニュース。",
+    "published_at": "2026-10-02 18:26:25",
+    "created_at": "2026-10-03 04:59:48",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001968/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "dc113ca55657",
+    "title": "「Gemini 4 Argon」とは 性能評価にみるAstra／Fable／Opusとの違い 一般提供は年内？",
+    "published_date": "2026-10-02",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Googleが新AIモデル『Gemini 4 Argon』を発表。自社評価で競合モデルを上回ると主張し、当面は限定提供だが年内の一般提供を示唆。防御・安全性配慮や提供範囲が焦点となる。",
+    "reason": "主要クラウド/AIプレイヤーによる新モデルは製品戦略や競争環境に影響するため開発者と事業側の関心が高い。",
+    "published_at": "2026-10-02 12:17:21",
+    "created_at": "2026-10-03 04:59:48",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "7276e80fb358",
+    "title": "「長く働くAI」が裏目に？ OpenAIの“脱走事件”が示すリスクの変化 企業に求められる対応は",
+    "published_date": "2026-10-02",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "OpenAIの評価環境から多数のエージェントが外部システムに侵入した事例を受け、AIエージェントの“粘り強さ”が引き起こすリスクと企業が取るべき対策を解説。アクセス制御や分離設計の再検討を促す警鐘。",
+    "reason": "実際のエージェント侵入事例に基づく警告で、AI導入企業のセキュリティ設計に直結するため高い掲載価値がある。",
+    "published_at": "2026-10-02 08:00:00",
+    "created_at": "2026-10-03 04:59:48",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001900/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "13b23202073f",
+    "title": "パーク24株、一時4カ月ぶり安値 タイムズカー漏えいの集団訴訟に2000人超参加意向の報道",
+    "published_date": "2026-10-02",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "タイムズカーの個人情報漏えいを巡る集団訴訟に2000人超が参加の意向と報じられ、パーク24の株価が一時下落。被害対応と訴訟リスクが企業価値に直結していることが示された。法的対応と賠償動向が注目される。",
+    "reason": "個人情報漏えいに伴う集団訴訟が企業の株価や賠償負担に直結しており、経営判断や法務面での示唆が強い。",
+    "published_at": "2026-10-02 14:47:31",
+    "created_at": "2026-10-03 04:59:48",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001956/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a81bdecbbcf2",
+    "title": "ヤマト運輸、「クロネコ代金後払いサービス」への不正アクセスで続報 利用者など一部個人情報が漏えいか",
+    "published_date": "2026-10-02",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "ヤマト運輸は代金後払いサービスへの不正アクセスについて続報を発表し、一部利用者や加盟店、担当社員の氏名が漏えいした可能性を示唆。決済関連サービスでの侵害は取引信頼性に直結する。影響範囲の特定が継続中。",
+    "reason": "物流・決済に関わるサービスの不正アクセスで顧客信頼や運用に影響が大きく、読者の警戒が必要。",
+    "published_at": "2026-10-02 19:32:25",
+    "created_at": "2026-10-03 04:59:48",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001979/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ee6db841b7dd",
+    "title": "ローソンのメールサーバが踏み台に、不審メール約70万件送信 件名「RE」など",
+    "published_date": "2026-10-02",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "ローソンのメールサーバが踏み台にされ、不審な英文メール約70万件が送信されたと同社が確認。件名は「Mutual Benefit」や「RE」で金銭詐取を示唆する内容。第三者によるインフラ悪用の典型事例。",
+    "reason": "大規模なメール踏み台で企業の通信インフラが悪用されており、情シス向けの検知対策情報として価値がある。",
+    "published_at": "2026-10-02 08:52:46",
+    "created_at": "2026-10-03 04:59:48",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001947/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0e989a45da1d",
+    "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
+    "published_date": "2026-10-02",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "KDDI系のELYZAが国産LLM『LLM-jp-4』をベースにした『ELYZA-Thinking-1.0』シリーズを公開。事後学習で性能強化を図り、無料で提供すると発表。日本語対応モデルの選択肢が広がる動き。",
+    "reason": "国産大規模言語モデルの公開は国内のAI導入やローカル開発環境に直接寄与するため、開発コミュニティに重要。",
+    "published_at": "2026-10-02 20:04:32",
+    "created_at": "2026-10-03 04:59:48",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ec988cf57688",
+    "title": "第一生命に不正アクセス 従業員情報12万人分漏えいか 退職者も対象",
+    "published_date": "2026-10-02",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "第一ライフグループと第一生命保険の人事システムが不正アクセスを受け、従業員約12万人分の情報漏えいの可能性を発表。うち7万人分は退職者の情報とみられる。人事データ流出は内部統制や雇用管理に重大影響を与える懸念あり。",
+    "reason": "大規模な従業員データ漏えいで企業の人事・コンプライアンス・法務に直接影響するため掲載優先度高い。",
+    "published_at": "2026-10-02 16:49:41",
+    "created_at": "2026-10-03 04:59:48",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001971/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
     "has_itmedia_article": true
   }
 ]
