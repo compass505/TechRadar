@@ -11729,121 +11729,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "40f7ba064c11",
-    "title": "AWSとAzureが最大100Gbpsでの相互接続を開始。これでAWSはAzure、Google Cloud、Oracle Cloudとのマルチクラウドをサポート",
-    "published_date": "2026-09-03",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "AWSとMicrosoft Azureが最大100Gbpsの閉域接続を開始。主要クラウド間の高帯域な相互接続が進み、マルチクラウド運用のパフォーマンスと構成選択に影響。企業クラウド戦略に直結する動き。",
-    "reason": "クラウド間接続の高速化はエンタープライズのマルチクラウド設計・運用に実質的な影響を与えるため。",
-    "published_at": "2026-09-03 00:53:23",
-    "created_at": "2026-09-04 03:48:00",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 4,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "dfe82d3bdc90",
-    "title": "AnthropicがフロンティアAIセキュリティサービス「EFS」を発表 履歴データを顧客環境に保持しながら自動監視で誤用を検知",
-    "published_date": "2026-09-03",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "Anthropicが企業向けに、顧客データを外に出さずにフロンティアAIの誤用を自動検知するセキュリティサービスを発表。高規格のデータ保護が求められる分野向けの提供。企業導入の障壁を下げる狙い。",
-    "reason": "フロンティアAIを安全に企業導入するための管理・監視サービスは情シス・リスク管理側に重要な動向だから。",
-    "published_at": "2026-09-03 14:42:00",
-    "created_at": "2026-09-04 03:48:00",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news087.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "ae36179732db",
-    "title": "Claudeの“見えない透かし”適用開始 Fable 5.1とMythos 5.1が出力する文やコード、画像に付与 日本も対象",
-    "published_date": "2026-09-03",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "AnthropicがClaudeの最新モデルで機械可読の透かしを導入。画像・音声・動画などに来歴判定用の透かしを付与し、無料の検査ツールも公開。生成物の追跡と誤用抑止を狙う。",
-    "reason": "生成物の出自確認技術は企業導入や規制対応で実務的な意味を持つため掲載価値が高い。",
-    "published_at": "2026-09-03 14:45:33",
-    "created_at": "2026-09-04 03:48:00",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/03/2000001110/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "bf4f937b3d1b",
-    "title": "Google、「Gemini 3.8 Flash」公開 3.7から3週間、価格据え置きで防御特化の「Cyber」も",
-    "published_date": "2026-09-03",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "GoogleがGeminiの新バージョン3.8 Flashを発表。性能向上とコーディング強化に加え、防御特化の“Cyber”版を限定提供。企業向けセキュリティ支援や自動化への応用を想定。",
-    "reason": "主要クラウドベンダーによるモデル改良と防御特化版は開発者とセキュリティ運用に影響するため。",
-    "published_at": "2026-09-03 07:42:19",
-    "created_at": "2026-09-04 03:48:00",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001096/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "73146270cb13",
     "title": "NVIDIAがHugging Face買収で合意 約2兆円 ジェンスン・フアンCEOはオープンモデルの重要性に言及",
     "published_date": "2026-09-03",
@@ -11870,61 +11755,6 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "5c2aad06d9b3",
-    "title": "Uber、ロンドンで英国初の自動運転配車を開始 年内には東京でも車両投入へ",
-    "published_date": "2026-09-03",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "UberとWayveがロンドンで監督付きの自動運転配車サービスを開始。年内に東京でも車両を投入予定。自動運転サービスの実運用展開と市場拡大の注目事例。",
-    "reason": "一般向け自動運転の商用展開は産業界・規制当局・投資判断に関わるため掲載が有益。",
-    "published_at": "2026-09-03 11:54:12",
-    "created_at": "2026-09-04 03:48:00",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/03/2000001106/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "7a5895842741",
-    "title": "オープンモデル普及で“お手軽”になるサイバー攻撃 防御側が今すべき「侵入前提」の対策",
-    "published_date": "2026-09-03",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "オープンウェイトモデルの普及が攻撃のハードルを下げるリスクを指摘し、侵入前提での対策を提示。GTIGやアクセンチュアの知見を踏まえ、組織が優先すべき防御策を解説する。",
-    "reason": "オープンモデルがセキュリティに与える実務上のリスクと対策は情シス・開発者にとって重要な実務情報だから。",
-    "published_at": "2026-09-03 09:40:04",
-    "created_at": "2026-09-04 03:48:00",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001098/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
     "has_itmedia_article": true
   },
   {
@@ -11980,64 +11810,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "b67b73a671ef",
-    "title": "ニューヨーク市、公立校で生成AI利用を1年間禁止 8年生まで約60万人が対象",
-    "published_date": "2026-09-03",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "ニューヨーク市が公立学校の2歳児〜8年生を対象に生成AIの利用を1年間禁止。約60万人に影響し、教育現場でのAI運用・方針策定に波及する可能性。教育と技術の線引き事例。",
-    "reason": "教育現場でのAI利用制限は自治体方針の先行例として学校・IT部門に示唆を与えるため。",
-    "published_at": "2026-09-03 17:13:59",
-    "created_at": "2026-09-04 03:48:00",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/03/2000001115/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "cb06c6cf7a71",
-    "title": "手元のAIエージェントを乗っ取る「AI遠隔操作」の手口 開発環境を守る5つの対策",
-    "published_date": "2026-09-03",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "ローカルのAIエージェントが汚染npmパッケージ経由で乗っ取られ機密流出する攻撃手口を解説。GitGuardianなどの調査を踏まえ、開発環境で取るべき5つの対策を提示。実務的な防御策に焦点。",
-    "reason": "開発現場で現実に起きる新たな攻撃手法と対策は開発者・情シス向けに即効性のある情報だから。",
-    "published_at": "2026-09-03 08:00:00",
-    "created_at": "2026-09-04 03:48:00",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news030.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": false
   },
   {
     "id": "c3bb77da122b",
@@ -17465,114 +17237,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "cb2bea58b452",
-    "title": "「Codex」で1時間にわたる障害→使用量リセットへ",
-    "published_date": "2026-09-26",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "CodexとChatGPTで1時間超の障害が発生。復旧後に有料ユーザーの使用量をリセットすると案内された。",
-    "reason": "主要AIサービスの稼働障害は開発者と企業の運用リスクに直結するため、インシデント情報として重要。",
-    "published_at": "2026-09-26 10:27:56",
-    "created_at": "2026-09-27 03:39:11",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "89a91ab642df",
-    "title": "あいち銀行が経理DXを本格化 LayerXと「請求書受領から振込まで」をつなぐ",
-    "published_date": "2026-09-26",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "あいち銀行がLayerXと協業し、紙/PDF請求書の受領から承認、振込データ作成までをデジタル化する取り組みを開始。",
-    "reason": "銀行とFinTech連携による経理ワークフロー自動化は多くの企業の業務改革に直結する実務ニュース。",
-    "published_at": "2026-09-26 07:00:00",
-    "created_at": "2026-09-27 03:39:11",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://kn.itmedia.co.jp/kn/article/2609/26/2000001731/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "7d96cefd94ca",
-    "title": "アニメを支える外国人材に“逆風” 日本在住の声優・アニメーターが抱く「不安の正体」とは",
-    "published_date": "2026-09-26",
-    "importance_score": 2,
-    "category": "法規制",
-    "summary": "永住許可の手数料が10月に20倍へ引き上げられる方針を受け、来日外国人の声優・アニメーターが不安を表明。現場の人材確保や制作体制への影響が懸念される。",
-    "reason": "移民・在留制度の変更がアニメ産業の人材供給に直結するため、業界と企業の戦略判断に関わる。",
-    "published_at": "2026-09-26 20:56:00",
-    "created_at": "2026-09-27 03:39:11",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/26/2000001672/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "e92d509018e5",
-    "title": "資料作成が月32時間から4時間に トラコムが生成AIで「月28時間削減」した方法",
-    "published_date": "2026-09-26",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "トラコムが生成AIを組織的に運用し、資料作成や月次処理で業務時間を大幅削減。個人レベルの活用を仕組み化して全社展開した事例を紹介する。",
-    "reason": "実務での生成AI定着方法を示すケーススタディは、情シスや経営層の導入判断に役立つため掲載価値がある。",
-    "published_at": "2026-09-26 07:00:00",
-    "created_at": "2026-09-27 03:39:11",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://kn.itmedia.co.jp/kn/article/2609/26/2000001725/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
     "id": "a623131176be",
     "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
     "published_date": "2026-09-27",
@@ -19400,5 +19064,148 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
+  },
+  {
+    "id": "ed93d9674e92",
+    "title": "Amazon、データセンター批判に反論 10億ドル超の地域支援策も発表",
+    "published_date": "2026-10-03",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "AWSのマット・ガーマンCEOがデータセンター建設に対する水資源懸念などを否定。自治体とのNDA撤廃や電力料金負担の方針に加え、資格取得や省エネ改修を支援する10億ドル超の基金を発表した。",
+    "reason": "大手クラウド事業者の地域対応と資金投入はインフラ選定・自治体対応・規制議論に影響するため業界的に重要。",
+    "published_at": "2026-10-03 17:52:00",
+    "created_at": "2026-10-04 03:44:03",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/03/2000001985/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1f28a4f8df70",
+    "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
+    "published_date": "2026-10-03",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "AppleはmacOSのフルディスクアクセス許可手順を厳格化。AIエージェントの自律化に伴うデータ漏えいリスクに対応するため、明示的操作や追加制御を導入する方針を示した。",
+    "reason": "主要OSベンダーによる権限設計変更は企業の運用・開発・コンプライアンスに直接影響するため重要。",
+    "published_at": "2026-10-03 09:38:06",
+    "created_at": "2026-10-04 03:44:03",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b64ebba5725e",
+    "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開 「Raspberry Pi」などに対応",
+    "published_date": "2026-10-03",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "MetaがパーソナルAI「Muse」と連携する自作ガジェット向けプロジェクト「Muse Gadgets」を発表。ESP32やRaspberry Pi向けのSDKをOSSで公開し、Home Linkデバイスを一部会員に提供する。",
+    "reason": "AIエージェントのハード連携を開発者へ広げる動きで、エコシステムやプライバシー・セキュリティの議論につながるため注目に値する。",
+    "published_at": "2026-10-03 10:41:21",
+    "created_at": "2026-10-04 03:44:03",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "27516684b83f",
+    "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
+    "published_date": "2026-10-03",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "複数顧客が注文情報と一致する不審な返金案内メールを受信した報告から同社が調査を実施。会員情報や受注DBへの不正アクセスが判明し、全顧客の情報流出の可能性があるとされる。",
+    "reason": "大規模な顧客情報流出の可能性は消費者被害と法的対応、情シスのインシデント対応に直結するため重要。",
+    "published_at": "2026-10-03 10:45:11",
+    "created_at": "2026-10-04 03:44:03",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/03/2000001981/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "94351704ea25",
+    "title": "「通信4社、5G速度最大9倍差」「AI生成コードのエラー率、JavaがPythonの6.7倍」、露わになった“格差”",
+    "published_date": "2026-10-03",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "注目記事ランキングの紹介。通信事業者間の5G速度格差や、AI生成コードで言語ごとのエラー率差など、技術・サービスの間に生じる“格差”を指摘している。",
+    "reason": "技術やサービスの実データに基づく格差指摘は開発者やSIerの選定判断に参考になるが速報性・影響は限定的。",
+    "published_at": "2026-10-03 08:00:00",
+    "created_at": "2026-10-04 03:44:03",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/03/news003.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 3,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": false
   }
 ]
