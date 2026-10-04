@@ -1,6 +1,50 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
+    "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
+    "summary": "Googleが個人向けGeminiの利用可能モデルを契約プランごとに再編。無料アカウントは「Flash-Lite」のみに制限される。上位モデルは有料プラン限定となる。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要AIプラットフォームのアクセス制限は開発者・個人利用やビジネス判断に直結するため重要",
+    "published_at": "2026-10-04 11:27:25",
+    "created_at": "2026-10-05 03:41:20"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
+    "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
+    "summary": "OpenAIで安全性報告を統括した人物が退社し、企業文化の問題点と安全対策の不備を指摘する寄稿を発表。原子力や航空分野の安全知見導入を提案している。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AI安全性とガバナンスに関する内部告発的な内容は業界の信頼や規制議論に影響するため注目度高い",
+    "published_at": "2026-10-04 08:05:47",
+    "created_at": "2026-10-05 03:41:20"
+  },
+  {
+    "source": "＠IT",
+    "title": "「ITエンジニア争奪戦」はむしろ激化、AIがあっても“技術者不足”が深まる理由",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/04/news002.html",
+    "summary": "生成AIや自動化の進展にもかかわらず、ITエンジニア不足は解消されておらず争奪戦が激化している理由を分析。必要スキルや採用の構造的課題を解説。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "開発・情シス・経営に関わる人材戦略や現場運用に直結するテーマで、実務判断に役立つ分析記事",
+    "published_at": "2026-10-04 08:00:00",
+    "created_at": "2026-10-05 03:41:20"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "再び浮上した「クレカ表現規制問題」 クリスタやpixiv FANBOXの騒動からマンガ家が感じた不安と焦り",
+    "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001978/",
+    "summary": "クリスタやpixiv FANBOXでのクレジットカード表現規制をめぐる騒動が再燃。マンガ・イラスト制作者の収入や表現の自由に対する不安を伝える。",
+    "importance": 1,
+    "category": "法規制",
+    "reason": "クリエイター向けプラットフォームの規制問題として注目されるが、読者影響は限定的なため低めに評価",
+    "published_at": "2026-10-04 07:16:00",
+    "created_at": "2026-10-05 03:41:20"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "Amazon、データセンター批判に反論 10億ドル超の地域支援策も発表",
     "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001985/",
     "summary": "AWSのマット・ガーマンCEOがデータセンター建設に対する水資源懸念などを否定。自治体とのNDA撤廃や電力料金負担の方針に加え、資格取得や省エネ改修を支援する10億ドル超の基金を発表した。",
@@ -737,17 +781,6 @@
     "created_at": "2026-09-29 06:17:39"
   },
   {
-    "source": "Impress Watch",
-    "title": "【小寺信良のくらしDX】指輪でアンチエイジング!? 目的が先鋭化するスマートリング",
-    "url": "https://www.watch.impress.co.jp/docs/series/kodera/2143461.html",
-    "summary": "スマートリングの用途が健康・アンチエイジングなど目的特化で進化。スマートウォッチとの違いや市場での位置づけを解説するコラム。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "ガジェット動向として興味深いが影響範囲は限定的なため低めに評価。",
-    "published_at": "2026-09-27 10:00:00",
-    "created_at": "2026-09-28 04:05:28"
-  },
-  {
     "source": "＠IT",
     "title": "脱VMwareで顕在化した「ITインフラを任せられる人」不足――“AI頼み”で本当に解決できるのか",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/27/news004.html",
@@ -756,17 +789,6 @@
     "category": "企業IT",
     "reason": "インフラ移行や人材・運用戦略に直接影響する業界課題で、情シス・経営判断にとって重要な示唆を含むため。",
     "published_at": "2026-09-27 08:00:00",
-    "created_at": "2026-09-28 04:05:28"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "イーロン・マスク氏のドキュメンタリー映画「MUSK」の予告編広告、YouTubeとMetaが一時拒否から一転承認 Xは応じず",
-    "url": "https://www.itmedia.co.jp/news/article/2609/27/2000001775/",
-    "summary": "イーロン・マスク氏のドキュメンタリー予告編広告が主要SNSで一時拒否される。YouTubeとMetaは誤検知や再審査で掲載を承認、Xは配給元の連絡に応じていない。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "プラットフォームの広告審査とコンテンツポリシー運用の実例として企業広報や広告運用に示唆があるため。",
-    "published_at": "2026-09-27 07:59:53",
     "created_at": "2026-09-28 04:05:28"
   },
   {
@@ -2773,39 +2795,6 @@
   },
   {
     "source": "＠IT",
-    "title": "AI推論時代のデータファブリック課題 Equinixが2つのサービスを発表",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news089.html",
-    "summary": "Equinixが分散データやモデルを低遅延で接続する2つのサービスを発表。AI推論向けのデータ接続/運用課題に応える狙い。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "企業のAI推論基盤設計に直結するインフラ発表で、クラウド/データ戦略の参考になる。",
-    "published_at": "2026-09-04 16:47:00",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Tesla、ハンドルもペダルもない2人乗り「Cybercab」の配車を開始 オースティンの一部地域で",
-    "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001175/",
-    "summary": "Teslaが自動運転専用の無ハンドル/無ペダル車両『Cybercab』をロボタクシーとしてオースティンの一部で配車開始。操作は車内スクリーンで行う。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "運輸業・自動運転ビジネスの実運用段階進展で規制・安全性の議論が必要になるため産業インパクトが大きい。",
-    "published_at": "2026-09-04 14:52:48",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "グーグル、天気予報AI「WeatherNext 3」 降水予報が最大50%向上",
-    "url": "https://www.watch.impress.co.jp/docs/news/2138283.html",
-    "summary": "GoogleのWeatherNext 3は衛星データ等を取り込み高解像度で1時間毎の予報を生成。降水予報精度が最大50%向上したとするモデル発表。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "実世界インフラ（気象予報）への高精度AI導入は公共サービス・事業運営に直結するため注目度高い。",
-    "published_at": "2026-09-04 13:35:14",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "＠IT",
     "title": "AI攻撃の脅威は「これから数カ月」で変わる OpenAIらが共同声明",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news027.html",
     "summary": "OpenAIなどが公開書簡を発表。今後数カ月でAIを使ったサイバー攻撃がより広範かつ高度になると警告し、企業に対策を促す。",
@@ -2813,39 +2802,6 @@
     "category": "セキュリティ",
     "reason": "短期的に攻撃手法が変化するとする共同声明は、企業のセキュリティ戦略に直接影響するため重要度高め。",
     "published_at": "2026-09-04 13:00:00",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "余っているPCのリソースをAIに、NVIDIA「PAIR」がもたらす新しいAI環境",
-    "url": "https://japan.cnet.com/article/35252298/",
-    "summary": "NVIDIAが余剰PCリソースを活用する『PAIR』を発表。分散リソースをAI処理に組み込む新たな環境を提示する取り組み。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "分散リソース活用はAI基盤のコストやスケーリングに影響するためインフラ設計者に重要。",
-    "published_at": "2026-09-04 12:40:00",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪",
-    "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
-    "summary": "RIZAPの社員が個人利用している外部生成AIに顧客の氏名・疾患・保険証番号などを誤ってアップロードしたと発表、同社が謝罪。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "機密データを外部AIに流す事例はシャドーAI対策や個人情報保護の教訓となり、企業ITにとって有用。",
-    "published_at": "2026-09-04 11:33:22",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「RSA-260」ついに解けた Xに“130ケタの数字”投稿、世界が注目 マスク氏「文字数増やしてよかった」",
-    "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
-    "summary": "長年残されていたRSAチャレンジの一つ『RSA-260』が解かれたとする投稿が注目を集めた。暗号研究での進展を示す出来事。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "暗号解析の進展は将来の鍵長選定や暗号運用方針に影響するため、セキュリティ担当者は押さえるべき。",
-    "published_at": "2026-09-04 10:40:26",
     "created_at": "2026-09-05 03:30:29"
   },
   {
@@ -2857,39 +2813,6 @@
     "category": "AI",
     "reason": "高度な攻撃/防御能力を持つ新モデルの公開はセキュリティ・ガバナンスに直結するため業界影響が大きい。",
     "published_at": "2026-09-04 08:19:48",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "＠IT",
-    "title": "なぜ経営陣に危機感が伝わらない？ CISOの半数以上が苦悩する「AIエージェント制御」のリアル",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news042.html",
-    "summary": "Oktaの調査で多くのCISOがAIエージェントの所在や権限把握に苦慮していることが判明。管理・ID統制の課題を解説する。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "AIエージェント導入に伴うID・管理課題は企業のセキュリティ/ガバナンスに直結するため実践的価値が高い。",
-    "published_at": "2026-09-04 08:00:00",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "＠IT",
-    "title": "シャドーAI対策の決め手となるエンドポイント制御の強化",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news008.html",
-    "summary": "未承認AIツール利用（シャドーAI）を重大リスクと位置付け、厳格なエンドポイント制御やAIリテラシー改善を含む対策を提言。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "現場で増えるシャドーAIリスクに即応する実務的対策を示しており、情シス向けの重要記事。",
-    "published_at": "2026-09-04 05:00:00",
-    "created_at": "2026-09-05 03:30:29"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok【復旧済み】",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
-    "summary": "ChatGPT、Claude、Grokなど複数の主要AIサービスで同時障害が発生し接続しにくい状態に。復旧済みだが依存度の高さが露呈した。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "業務利用が進む主要AIサービスの同時障害は運用・BCPの観点で多くの読者に影響する。",
-    "published_at": "2026-09-04 03:10:08",
     "created_at": "2026-09-05 03:30:29"
   },
   {
