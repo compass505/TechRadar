@@ -11955,120 +11955,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "97f9ed65e626",
-    "title": "EDR回避も攻撃計画も「月額」で買える？ 地下市場に広がるAI犯罪ビジネスの実態",
-    "published_date": "2026-09-07",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "地下市場でAIを使ったマルウェア作成や検知回避、攻撃計画などがサービス化・サブスク化している実態を報告。攻撃の民主化が進む懸念を指摘。",
-    "reason": "犯罪のサービス化は検知対策や法執行の在り方に影響を与えるため実務的に重要。",
-    "published_at": "2026-09-07 13:00:00",
-    "created_at": "2026-09-08 04:16:56",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news033.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "5c5bb543b1a2",
-    "title": "Google「Gemini 3.8 Flash」発表 プロンプト1つで3Dゲーム生成、価格据え置きで大規模モデルに迫る",
-    "published_date": "2026-09-07",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "GoogleがGemini 3.8 Flashと防衛特化版を発表。低価格帯を維持しつつ、コーディングや脆弱性検知などの性能を大幅改善したとする。",
-    "reason": "主要ベンダーのモデル進化は開発者や製品選定に影響するため注目度が高い。",
-    "published_at": "2026-09-07 08:00:00",
-    "created_at": "2026-09-08 04:16:56",
-    "representative_source": "atmarkit.itmedia.co.jp (ITmedia AIT)",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news031.html",
-    "sources": [
-      "atmarkit.itmedia.co.jp (ITmedia AIT)"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "c3844e2601f1",
-    "title": "IBMはAIエージェントを“人材”としてどう運用している？ 企業経営の基盤としてのAI活用を考察",
-    "published_date": "2026-09-07",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "IBMの事例を通じ、人とデジタルワーカーの協働や全社展開の阻害要因とその解消法を紹介。経営層のAI活用視点を示す。",
-    "reason": "大手の運用ノウハウは他社の導入設計や経営判断に参考になるため価値が高い。",
-    "published_at": "2026-09-07 11:20:00",
-    "created_at": "2026-09-08 04:16:56",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news049.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "46bcd283bd3c",
-    "title": "M365 Copilotでも「GPT-6 Astra」利用可能に 「Fable 5.1」も可 Work IQと合わせて「より的確な応答」に",
-    "published_date": "2026-09-07",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "MicrosoftがM365 CopilotでOpenAIのGPT-6 Astraを提供開始。大きなタスク委任やWork IQ連携で業務向け応答精度向上を図る。",
-    "reason": "主要業務ツールでの最新モデル採用は企業のAI導入／運用戦略に直結する実務的ニュース。",
-    "published_at": "2026-09-07 15:32:17",
-    "created_at": "2026-09-08 04:16:56",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "c184a15d05af",
     "title": "OpenAI、エージェントによる研究加速と直面する安全性の壁を開示 チーフサイエンティストは「自発的減速」を提唱",
     "published_date": "2026-09-07",
@@ -12124,35 +12010,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "eb86707ac7e9",
-    "title": "三菱UFJグループ会社、DBコストを87％削減――なぜ「Aurora Serverless」ではなく「Aurora DSQL」を選んだ？",
-    "published_date": "2026-09-07",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "Japan Digital Designがドキュメント検索システムでAmazon Aurora DSQLを採用し、従来よりDBコストを約87％削減した事例を解説する。",
-    "reason": "クラウドDBの選定とコスト最適化の実例は情シス・アーキテクトにとって有益な判断材料。",
-    "published_at": "2026-09-07 08:00:00",
-    "created_at": "2026-09-08 04:16:56",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news026.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "bc1fd819d736",
     "title": "企業資産の「36％」が“脆弱性ゾーン”で放置 AI攻撃時代に旧来の防御モデルは限界か",
     "published_date": "2026-09-07",
@@ -12200,33 +12057,6 @@
     "article_count": 1,
     "facets": [],
     "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "6c8868418976",
-    "title": "初登場の“あの技術”、早くも「過度な期待」ピーク期に Gartnerが2026年版ハイプ・サイクルを発表",
-    "published_date": "2026-09-07",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Gartnerが2026年ハイプ・サイクルを公表。エージェント型AIに続き、新規技術が早くも過度な期待期に入った点を分析している。",
-    "reason": "技術採用・投資判断に影響を与える定番レポートで、企業戦略の指針になるため掲載価値あり。",
-    "published_at": "2026-09-07 11:55:00",
-    "created_at": "2026-09-08 04:16:56",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news043.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
@@ -19180,6 +19010,319 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a6a6baa860f8",
+    "title": "Google、「Nano Banana 2.1」公開 APIの画像出力料金は「Nano Banana 2」の約半額に",
+    "published_date": "2026-10-07",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Googleが画像生成・編集モデル「Nano Banana 2.1」を発表。Geminiベースで性能向上、APIの画像出力料金は前モデルの約半額に。",
+    "reason": "画像生成コストが大幅に下がることで業務適用・プロダクト化が加速し、開発者や企業のコスト判断に影響するため掲載価値あり。",
+    "published_at": "2026-10-07 11:53:08",
+    "created_at": "2026-10-08 05:41:19",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002078/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "6d0b7cba91ea",
+    "title": "Google、原発大手Constellationと20年の電力購入契約 「他の電力利用者に負担なし」",
+    "published_date": "2026-10-07",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "GoogleがConstellationと20年の電力購入契約を締結。既存原発の出力増強で送電網に890MWを追加し、AI拡張に伴う電力需要を支える狙い。",
+    "reason": "AI拡大に伴う大規模電力確保はクラウド事業者の中長期戦略とデータセンター運用に重大な影響を与えるため高重要度。",
+    "published_at": "2026-10-07 06:55:42",
+    "created_at": "2026-10-08 05:41:19",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002068/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "456d2271b137",
+    "title": "IDCFクラウドへのランサム攻撃、495の企業・自治体に影響 一部には「復元難しい」との通達も",
+    "published_date": "2026-10-07",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "IDCFクラウドがランサムウェア攻撃を公表。東日本第1リージョンの不正アクセスで、約495の企業・自治体に影響が及んでいる。復元困難なケースもあると通知。",
+    "reason": "パブリッククラウドの大規模障害・ランサム攻撃で多数事業者に影響、即時対応と事業継続判断が求められるため最高級の重要度。",
+    "published_at": "2026-10-07 22:09:04",
+    "created_at": "2026-10-08 05:41:19",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002107/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1f28ebb87bb9",
+    "title": "Mistral、1兆パラメータの「Mistral Large 4」（通称「Le Chonk」）発表 10月末にオープンウェイトで公開へ",
+    "published_date": "2026-10-07",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Mistral AIが総パラメータ約1兆のMoE型モデル「Mistral Large 4」をプレビュー公開。サイバーセキュリティやコーディングで高性能を示し、重みは月末公開予定。",
+    "reason": "オープンウェイトで大規模モデルが公開予定で、研究・セキュリティ・開発コミュニティに直接影響するため注目度高。",
+    "published_at": "2026-10-07 10:43:15",
+    "created_at": "2026-10-08 05:41:19",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002075/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "740f82a91133",
+    "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張 論文722本をGitHubで公開",
+    "published_date": "2026-10-07",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "OpenAIが社内モデルが生成した数学の成果722本をGitHub公開。多くに形式証明を付し、数学界との対話を促す取り組みと説明。",
+    "reason": "AIの研究成果公開は学術・信頼性の観点で興味深いが、即時の実務影響は限定的のため中小程度の重要度。",
+    "published_at": "2026-10-07 09:32:40",
+    "created_at": "2026-10-08 05:41:19",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0579a012558b",
+    "title": "「焼肉きんぐ」ほぼ全会員1078万件の情報が漏えい パスワードは無事でも残るリスク",
+    "published_date": "2026-10-07",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "焼肉チェーン「焼肉きんぐ」の公式アプリで約1078万件の会員情報が漏えい。パスワードや決済情報は含まれないが氏名・連絡先等が流出。",
+    "reason": "国内での大規模個人情報漏えいは顧客対応や法令対応、ブランドリスクに直結するため多くの読者が押さえるべき事案。",
+    "published_at": "2026-10-07 15:00:00",
+    "created_at": "2026-10-08 05:41:19",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/07/news033.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "249ce023d898",
+    "title": "みずほ証券、国内金融業界初の直接液冷サーバ導入へ",
+    "published_date": "2026-10-07",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "みずほ証券が金融シミュレーション基盤に直接液冷サーバ「HPE Cray XD2000」を採用し、液冷データセンターを構築。国内金融業界では初導入とされる。",
+    "reason": "金融業界での液冷導入は高性能コンピューティング運用の潮流を示すが、影響は業界内に限定されるため中程度の重要度。",
+    "published_at": "2026-10-07 19:13:48",
+    "created_at": "2026-10-08 05:41:19",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002104/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "422ed6fc9b1f",
+    "title": "アンソロピック「ミュトス」提供拡大 防御・レッドチームで利用可能に",
+    "published_date": "2026-10-07",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "AnthropicがCyber Verification Programを拡充し、最上位モデル「Claude Mythos 5.1」をより多くのセキュリティ専門家向けに提供。防御・レッドチーム枠を新設。",
+    "reason": "高性能モデルを限定的に解放し脆弱性検証を促進する動きは、AIセキュリティ評価の実務に直接関わるため有益。",
+    "published_at": "2026-10-07 16:20:42",
+    "created_at": "2026-10-08 05:41:19",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2146399.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "e2fbd50e00f9",
+    "title": "バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査",
+    "published_date": "2026-10-07",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "Microsoftらの研究で、AI自動生成（バイブコーディング）で公開されたWebアプリの約9割に脆弱性が見つかった。生成プロセスと安全性の課題を指摘。",
+    "reason": "自動生成アプリの安全性が大きく疑われる研究結果で、開発・運用の実務対策を促すため掲載価値が高い。",
+    "published_at": "2026-10-07 12:12:12",
+    "created_at": "2026-10-08 05:41:19",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002055/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "7251f88c021c",
+    "title": "マイクロソフト、VS CodeにAIモデルのオーケストレーションで高品質低コストなAIを実現する「HydraFusion」をプレビュー実装",
+    "published_date": "2026-10-07",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "VS Codeに複数ベンダのAIモデルをオーケストレーションする機能「HydraFusion」をプレビュー実装。品質とコスト最適化を目指す開発者向け機能。",
+    "reason": "開発者ツールにおけるマルチモデルオーケストレーションはAI導入コストと品質管理に直結するため開発者向けに重要。",
+    "published_at": "2026-10-07 00:47:53",
+    "created_at": "2026-10-08 05:41:19",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "09643f77c644",
+    "title": "国際的ハッカー集団「Qilin」中心メンバーを大阪で拘束 ドイツ当局に身柄を引き渡し",
+    "published_date": "2026-10-07",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "国際的ハッカー集団Qilinの中心メンバーとされるロシア国籍の男を日本の捜査当局が拘束し、ドイツに身柄を引き渡したと報道。",
+    "reason": "国際的サイバー犯罪の摘発は脅威軽減と捜査協力の観点で重要。企業のリスク評価にも影響するため採用。",
+    "published_at": "2026-10-07 16:15:23",
+    "created_at": "2026-10-08 05:41:19",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002093/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
     "has_itmedia_article": true
   }
 ]
