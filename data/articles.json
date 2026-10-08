@@ -1,5 +1,137 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "サイバー攻撃多発で緊急の関係省庁会議 国家サイバー統括室で情報集約",
+    "url": "https://www.watch.impress.co.jp/docs/news/2146926.html",
+    "summary": "国家サイバー統括室が全府省庁を集めた関係省庁会議を開催。被害状況や攻撃手法の情報を集約し、近日中にサイバーセキュリティ対策の強化を求める注意喚起を出す予定。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "政府レベルでの情報集約と注意喚起の発出は規制・行政指導面で波及効果が大きいため上位評価",
+    "published_at": "2026-10-08 21:27:24",
+    "created_at": "2026-10-09 05:44:01"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "相次ぐ情報漏えい、攻撃側のAI活用「間違いない」 防御側はどう使うか 傾向と対策を大手ベンダー各社に聞く",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002136/",
+    "summary": "情報漏えいが相次ぐ中、ITベンダー各社に攻撃側のAI活用と防御側の対応を取材。AIをどう防御に組み込むかや傾向・対策を整理している。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "情シス・セキュリティ担当者が対策検討する際に参考になるベンダー視点の実践的解説で有用",
+    "published_at": "2026-10-08 21:19:08",
+    "created_at": "2026-10-09 05:44:01"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "国内で情報漏えい被害が相次ぐ JPCERT/CCが攻撃手法と対策を公表",
+    "url": "https://www.watch.impress.co.jp/docs/news/2146812.html",
+    "summary": "JPCERT/CCが国内で相次ぐ不正アクセスを受け、既知脆弱性や管理用API悪用など確認した攻撃手法と具体的な対策を注意喚起として公表した。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "情シス・運用部門向けに即効性のある脅威情報と対策を提供する内容で、業界影響が大きい",
+    "published_at": "2026-10-08 17:00:00",
+    "created_at": "2026-10-09 05:44:01"
+  },
+  {
+    "source": "＠IT",
+    "title": "タイムズ不正アクセス被害 裏で動いていた“20年前のシステム”とは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news032.html",
+    "summary": "タイムズカーの不正アクセスで免許証画像160万件の漏えいが発生。調査で古いシステム運用が被害拡大に関与していた可能性が指摘されている。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "個人を特定し得る大量機微情報の大規模流出で被害範囲と対応負荷が極めて大きく、重大レベルに相当",
+    "published_at": "2026-10-08 15:00:00",
+    "created_at": "2026-10-09 05:44:01"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
+    "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
+    "summary": "GoogleがAI生成コンテンツ判定ツール『SynthID Detector』を一般公開。画像や動画など生成物の検出・判定が広く利用可能に。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "メディア／企業の生成物検証業務に役立つが、単独で規制や緊急対応を引き起こす性質ではないため中程度評価",
+    "published_at": "2026-10-08 13:25:25",
+    "created_at": "2026-10-09 05:44:01"
+  },
+  {
+    "source": "＠IT",
+    "title": "写真や文書が7カ月半、閲覧可能に――「楽天ドライブ」不正アクセスで1万5382アカウントに被害",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news033.html",
+    "summary": "楽天ドライブで管理用認証情報の不正取得による不正アクセスが発生。1万5382アカウントのユーザーデータ（写真や文書）が取得・閲覧されたと確認。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "クラウドストレージの認証管理とユーザーデータ保護の実務的な教訓を含むため情シス向けに有用",
+    "published_at": "2026-10-08 13:00:00",
+    "created_at": "2026-10-09 05:44:01"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Windowsは「ハイブリッドAI」基盤へ RTX Spark搭載Surfaceも",
+    "url": "https://www.watch.impress.co.jp/docs/news/2146689.html",
+    "summary": "MicrosoftはローカルAIとクラウドAIを組み合わせる『ハイブリッドインテリジェンス』をWindowsの方針に据え、Copilotの強化やローカルで大規模モデルを実行する新PCを展開すると発表した。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "OSレベルのAI戦略で企業運用・エンドポイント設計やPC調達に影響が出るため企業IT視点で重要",
+    "published_at": "2026-10-08 12:52:36",
+    "created_at": "2026-10-09 05:44:01"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "IDCFクラウドの障害は「ランサムウェア攻撃」が原因 495の企業・自治体に影響",
+    "url": "https://www.watch.impress.co.jp/docs/news/2146693.html",
+    "summary": "IDCフロンティアは東日本リージョン1で発生したIDCFクラウドの障害が第三者によるランサムウェア攻撃を原因と発表。495の企業・自治体に影響が及んでいる。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "クラウド事業者への大規模ランサムウェアで多数組織に影響、復旧・対応が緊急かつ広範囲に及ぶため最高度評価",
+    "published_at": "2026-10-08 12:40:45",
+    "created_at": "2026-10-09 05:44:01"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ChatGPT、無料版を含む全ユーザーに「GPT-6」 回答内に“操作できる画面”を生成する「Intelligent UI」搭載",
+    "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002119/",
+    "summary": "OpenAIがChatGPTに新モデルGPT-6を導入。回答内でボタンやフォームなど操作できる画面を生成する『Intelligent UI』を搭載し順次提供開始する。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "生成AIがインタラクティブUIを出力することで業務自動化・UX設計に影響、企業導入や開発方針に直結するため高評価",
+    "published_at": "2026-10-08 11:09:40",
+    "created_at": "2026-10-09 05:44:01"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "富士通では「Copilot」10万ライセンスの利用率が“9割超え” 「導入したけど使われない」をどう防いだ？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news022.html",
+    "summary": "富士通がMicrosoft 365 Copilotを全社導入し10万ライセンスで利用率9割超を達成。導入定着の施策や運用ノウハウを紹介している。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大規模企業でのAI定着方法は他社導入の参考になり、経営・情シス判断に役立つ事例報告",
+    "published_at": "2026-10-08 11:00:00",
+    "created_at": "2026-10-09 05:44:01"
+  },
+  {
+    "source": "＠IT",
+    "title": "ECサイトを侵害してカード情報60万件超が流出 複数のAIエージェントが役割分担",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news025.html",
+    "summary": "Gambit Securityの報告で、AIエージェントを使う攻撃により複数の通販事業者が侵害され、カード情報計60万件超が窃取されたとされる。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AIを活用した攻撃の実被害と大規模な決済情報流出は業界全体のセキュリティ対策に直結するため高評価",
+    "published_at": "2026-10-08 08:00:00",
+    "created_at": "2026-10-09 05:44:01"
+  },
+  {
+    "source": "Publickey",
+    "title": "AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表",
+    "url": "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html",
+    "summary": "AWSがAurora PostgreSQLにDuckDBを統合し、Apache Iceberg等で構築したデータレイクをETL不要で直接読み取り・処理可能にしたと発表。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "データ基盤やETL設計に直接影響するアーキテクチャ変更で、企業のクラウド戦略やコスト構造に大きな波及効果あり",
+    "published_at": "2026-10-08 00:59:06",
+    "created_at": "2026-10-09 05:44:01"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "IDCFクラウドへのランサム攻撃、495の企業・自治体に影響 一部には「復元難しい」との通達も",
     "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002107/",
@@ -474,17 +606,6 @@
   },
   {
     "source": "ITmedia AI+",
-    "title": "人間は「取締役2人だけ」 実務をAIが担う新会社、セキュリティサービスのHENNGE",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/",
-    "summary": "HENNGEが新会社「HENNGE AI」を設立し、取締役2名以外はAIエージェントが実務を担う組織形態を採用すると発表。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "企業内でのAI自律運用とガバナンスの実験として興味深いが適用範囲はまだ限定的。",
-    "published_at": "2026-10-01 18:01:23",
-    "created_at": "2026-10-02 05:24:37"
-  },
-  {
-    "source": "ITmedia AI+",
     "title": "総額2.3兆円、千葉市に巨大な「AIデータセンター」建設へ 発電大手JERA参画の“ドリームチーム”、勝機どうつかむ？",
     "url": "https://www.itmedia.co.jp/business/articles/2610/01/news082.html",
     "summary": "JERA、Dell、RHAELMらが千葉市に総額2.3兆円超の大規模AIデータセンター建設を発表。国内最大級の投資計画となる。",
@@ -602,28 +723,6 @@
     "category": "半導体",
     "reason": "半導体市場でAI需要が収益を押し上げていることはサプライチェーンと投資判断に直結する重要ニュース。",
     "published_at": "2026-10-01 07:47:58",
-    "created_at": "2026-10-02 05:24:37"
-  },
-  {
-    "source": "Publickey",
-    "title": "JavaScriptの統合ツールチェーン「Vite+ 1.0」正式リリース。ランタイム、パッケージマネージャー、ビルドツール、リンター、フォーマッターなどを統一",
-    "url": "https://www.publickey1.jp/blog/26/javascriptvite_10.html",
-    "summary": "Viteを中心とした統合ツールチェーン「Vite+」が1.0に到達し、ランタイムやパッケージ管理まで統合する形で正式リリースされた。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "フロントエンド開発のワークフローに影響するが、対象は主に開発者コミュニティに限定される。",
-    "published_at": "2026-10-01 00:22:55",
-    "created_at": "2026-10-02 05:24:37"
-  },
-  {
-    "source": "Publickey",
-    "title": "Next.jsアプリをCloudflare WorkersやAWS LambdaなどVercel以外のサーバレス基盤へデプロイできる「Vinext 1.0」リリース",
-    "url": "https://www.publickey1.jp/blog/26/vercelnextjscloudflare_workersaws_lambdavercelvinext_10.html",
-    "summary": "Next.jsアプリをVercel以外のサーバレス基盤（Cloudflare Workers、AWS Lambda等）にデプロイ可能にするツール「Vinext 1.0」がリリースされた。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "デプロイ先の多様化は開発・運用の選択肢を広げるが影響は主に開発組織向け。",
-    "published_at": "2026-10-01 00:10:38",
     "created_at": "2026-10-02 05:24:37"
   },
   {
@@ -2750,39 +2849,6 @@
     "created_at": "2026-09-09 03:50:16"
   },
   {
-    "source": "＠IT",
-    "title": "「Wi-Fi 8」で何が変わる？ 「Wi-Fi 7」と“速さ勝負”はしない、無線LANの新たな進化",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news021.html",
-    "summary": "次世代無線LAN規格「Wi‑Fi 8」の仕様と、家庭・オフィスでの変化点を解説。単純な速度競争ではない設計思想を紹介する。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "ネットワーク基盤の進化は企業インフラや製品開発に直接影響するため、情シスや製品担当者向けに重要。",
-    "published_at": "2026-09-08 13:00:00",
-    "created_at": "2026-09-09 03:50:16"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "NEC、量子コンピュータの実機開発を中止か 実用化への課題重く 報道",
-    "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001250/",
-    "summary": "報道によればNECが量子コンピュータの実機開発を中止した可能性があると報じられた。実用化課題や事業判断が背景とされる。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "量子開発を先導してきた企業の方針変更は研究開発投資や業界競争に影響を与えるため業界注目度が高い。",
-    "published_at": "2026-09-08 11:13:56",
-    "created_at": "2026-09-09 03:50:16"
-  },
-  {
-    "source": "＠IT",
-    "title": "「VMware」環境の1500ワークロード、契約終了まで“わずか10カ月” 保険大手はどう移行した？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news015.html",
-    "summary": "大手保険会社State FarmがVMware依存の1500ワークロードを短期間で移行した事例。限られた人員での計画と実行手順を解説する。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "レガシー仮想化からの移行は多くの企業が直面する課題で、技術・運用の実務情報が有益。",
-    "published_at": "2026-09-08 11:00:00",
-    "created_at": "2026-09-09 03:50:16"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "東京科学大に不正アクセス、個人情報漏えいか 東工大・医科歯科大統合当時の学生・教職員情報も",
     "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001244/",
@@ -2791,50 +2857,6 @@
     "category": "セキュリティ",
     "reason": "教育機関での個人情報流出の疑いは影響範囲が広く、対応・通知・捜査が必要な事案のため高めに評価。",
     "published_at": "2026-09-08 10:02:59",
-    "created_at": "2026-09-09 03:50:16"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "PayPay、マルウェア感染スマホで「身に覚えのない送金・決済」のおそれ 注意喚起",
-    "url": "https://japan.cnet.com/article/35252367/",
-    "summary": "PayPayがマルウェアに感染したスマホで第三者により不正送金や決済が発生する可能性を指摘、利用者へ注意を呼びかけた。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "決済プラットフォームでの不正利用リスクは広範な利用者と企業の信頼に関わるため掲載価値が高い。",
-    "published_at": "2026-09-08 09:12:00",
-    "created_at": "2026-09-09 03:50:16"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "警察庁と日本MS、サイバー対策で協定 情報共有、教育で連携",
-    "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001241/",
-    "summary": "警察庁と日本マイクロソフトが官民でサイバー事案対策の協定を締結。情報共有や教育・啓発で連携するという。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "官民連携による体制強化は捜査・防御面での実務影響が大きく、企業の対応方針にも関係するため掲載価値あり。",
-    "published_at": "2026-09-08 08:45:01",
-    "created_at": "2026-09-09 03:50:16"
-  },
-  {
-    "source": "＠IT",
-    "title": "「AIの制限」でも「野放し」でも失敗する？ AI時代に“共有APIキー”は限界",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news034.html",
-    "summary": "Cloudflareが個人・チーム単位でAIリクエストを管理する「Identity-Aware AI Gateway」を発表。利用上限やリスク検出を組織で制御する狙いを解説。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業の生成AIガバナンスに直結する技術・運用の話で、情シスや経営判断に役立つため。",
-    "published_at": "2026-09-08 08:00:00",
-    "created_at": "2026-09-09 03:50:16"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "行政機関18万人を支える「源内」 わずか1～2人での運用を実現した“一見手の込んだ仕組み”",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news005.html",
-    "summary": "デジタル庁の生成AI基盤「源内」は、約18万人の行政利用を支えつつ、運用人員を極小化した設計とセキュリティ実務を紹介する。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "大規模組織での生成AI運用設計は企業・自治体の導入計画や情シス運用に参考になる実例情報。",
-    "published_at": "2026-09-08 08:00:00",
     "created_at": "2026-09-09 03:50:16"
   },
   {
