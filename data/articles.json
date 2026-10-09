@@ -1,6 +1,149 @@
 [
   {
     "source": "Impress Watch",
+    "title": "SpaceX、携帯キャリアへ本腰 米国で800MHz帯取得へ",
+    "url": "https://www.watch.impress.co.jp/docs/news/2147301.html",
+    "summary": "SpaceXが米国内で800MHz帯を用いた全国規模通信の権利取得を発表。最終承認はFCC待ちだが、Starlink Mobileをキャリアへ強化する狙い。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "通信事業者市場への大型プレーヤーの本格参入は業界構造を変えうる戦略的ニュースで、事業者・投資家向けに重要。",
+    "published_at": "2026-10-09 23:23:08",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NewsPicks、メアド32.3万件やクレカ情報の一部36.2万件漏えいか【訂正あり】",
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002175/",
+    "summary": "NewsPicksの管理ツールが不正アクセスされ、最大でメールアドレス約32.3万件、クレジットカード情報の一部約36.2万件などが漏えいした可能性を公表。詳細調査中。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "クレジット関連データを含む中規模漏えいで、消費者向けサービス運用上の対応・信頼回復が重要なため掲載価値あり。",
+    "published_at": "2026-10-09 20:13:47",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "ChatGPT、ついに音声ファイルに対応 文字起こしや要約などが可能に 有料ユーザー向け",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/",
+    "summary": "OpenAIがChatGPTで音声ファイルのアップロード対応を開始。文字起こし、要約、内容に関する質問などが可能に（有料/ワークスペース向け）。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "実務での利用幅は広がるが機能追加の範疇であり、影響は限定的なため中程度評価。",
+    "published_at": "2026-10-09 19:44:36",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「スカイチケット」に不正アクセス、計1467万件の個人情報流出 ハッシュ化されたパスワードも",
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002168/",
+    "summary": "旅行予約サイトskyticketで複数システムへの不正アクセスが判明。公表された影響は合算で約1467万件に上り、口座情報や予約データも含まれる可能性がある。対応中。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "数千万件規模の個人情報流出という重大インパクト。利用者・事業継続・金融面で広範な影響が想定されるため高評価。",
+    "published_at": "2026-10-09 14:48:36",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "米国防総省にも不正アクセス 個人情報300万人分が平文で漏えいか……発覚までに9カ月",
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002158/",
+    "summary": "米国防総省（DMDC）のサーバが不正アクセスを受け、軍人など約300万人分の個人情報が閲覧された可能性。侵害発覚までに長期間を要していたとされる。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "政府機関の個人情報漏えいは国家安全と運用に直結。規模・属性ともに業界横断で注視すべき事案。",
+    "published_at": "2026-10-09 14:32:32",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "金融庁、本人確認の「ICチップ一本化」へ早期移行を要請 免許証画像の漏えい相次ぎ",
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002166/",
+    "summary": "金融庁が本人確認における免許証画像の利用を前倒しで廃止し、ICチップ情報の読み取りへ速やかに移行するよう金融機関に要請。画像送信による漏えいが相次いでいるための対応。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "KYC運用と認証プロセスに関する行政の早期要請で、金融機関およびID管理に直接影響するため政策面で重要。",
+    "published_at": "2026-10-09 13:37:33",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」 OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/",
+    "summary": "Anthropicが社会インフラ保護支援の「Anthropic Cyber Mission」を発表。重要インフラ向け支援（CIDP）やOSSの無償脆弱性スキャンなどを提供する施策を開始。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AI事業者が防御支援に本腰を入れる動きは、セキュリティとAIの連携というトレンド上重要で、自治体・事業者に有益。",
+    "published_at": "2026-10-09 13:20:56",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "国家サイバー統括室、不正アクセスによる漏えい事案受け注意喚起 「いつ攻撃受けてもおかしくない」",
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002161/",
+    "summary": "内閣官房国家サイバー統括室が、不正アクセスによるデータ窃取事案を複数確認したとして事業者向けの注意喚起を公開。委託先管理やアクセスログ点検など具体策を列挙。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "官公庁からの公式注意喚起で、企業のセキュリティ対策・委託管理に即効性のある指針を示すため広く重要。",
+    "published_at": "2026-10-09 12:10:44",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
+    "summary": "Google Cloudが「Gemini Agent」を発表。Geminiに加えAnthropicのClaude Opus/Sonnetなど他社モデルの利用をサポートするクラウド上のマルチエージェントツール。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウド上でマルチモデル利用を公式にサポートする動きは、企業のAI選定・統合戦略に直接影響するため注目度高い。",
+    "published_at": "2026-10-09 09:40:57",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "企業が使うAIモデル、1年半で6割超が「中国製」に 「最高性能のオープンモデルはほぼ中国発」の理由",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/09/news033.html",
+    "summary": "RedMonkの分析を元に、企業利用のオープンウェイトモデルにおける地理的変化や中国モデルの台頭理由を解説。性能・ライセンス・経済性など複数観点で考察。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "企業のモデル選定やサプライチェーンに関するトレンド分析で、ベンダー選定やリスク評価に役立つため掲載価値あり。",
+    "published_at": "2026-10-09 08:00:00",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "IDCFクラウド障害、顧客データ「取り出し・復元困難」 復元は顧客側のバックアップ頼み",
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002147/",
+    "summary": "IDCFクラウドで大規模障害が発生。運営側は顧客データの復元が困難と説明し、顧客側のバックアップが復旧の頼みとされる。多数の下流サービスに影響が及ぶ懸念。",
+    "importance": 5,
+    "category": "クラウド",
+    "reason": "クラウド事業者の可用性・データ保全に関わる深刻事案で、多数の企業サービスに波及・業務停止や大規模漏えいリスクを伴うため最重要扱い。",
+    "published_at": "2026-10-09 07:43:55",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "損保ジャパン､2万人の「Gemini活用」どう管理？ 推進者が語る「リスク回避」の仕組み",
+    "url": "https://kn.itmedia.co.jp/kn/article/2610/09/2000002145/",
+    "summary": "損害保険ジャパンが約2万人規模でGemini Enterpriseを導入する際の運用設計やガバナンス、リスク回避策を紹介。単なる導入ではない運用ノウハウに焦点。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大規模企業導入の実例と運用設計は同業他社の参考になり、実務的な知見を提供するため有益。",
+    "published_at": "2026-10-09 07:00:00",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "Publickey",
+    "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
+    "url": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
+    "summary": "さくらインターネットが企業向けにGPU専有のマネージドLLMホスティング「AI Engine プライベートエディション」を提供開始。トークン課金を気にしない定額運用が特徴。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "企業向けにオンプレ/専有GPUでのLLM運用選択肢を拡大するプロダクトで、AI導入インフラの選定に直結するため有用。",
+    "published_at": "2026-10-09 00:49:01",
+    "created_at": "2026-10-10 05:09:48"
+  },
+  {
+    "source": "Impress Watch",
     "title": "サイバー攻撃多発で緊急の関係省庁会議 国家サイバー統括室で情報集約",
     "url": "https://www.watch.impress.co.jp/docs/news/2146926.html",
     "summary": "国家サイバー統括室が全府省庁を集めた関係省庁会議を開催。被害状況や攻撃手法の情報を集約し、近日中にサイバーセキュリティ対策の強化を求める注意喚起を出す予定。",
@@ -2740,17 +2883,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "PayPay、身に覚えのない送金に注意 マルウェア感染で遠隔操作リスク",
-    "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001306/",
-    "summary": "PayPayで不審な送金被害が確認された。SMSやメールの不審リンクからアプリをインストールしてマルウェアに感染し、遠隔操作で不正送金されるケースが報告されている。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "決済アプリの不正操作は金融被害に直結するため、利用者と情シスの注意喚起が必要。",
-    "published_at": "2026-09-09 12:08:27",
-    "created_at": "2026-09-10 03:44:42"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "店で免許証スキャン→数時間で闇サイトへ 米国防長官含む1億5300万枚の流出、被害者たちが突き止めた意外な出所",
     "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001284/",
     "summary": "米国・カナダの運転免許証画像1億5300万枚超が闇サイトで流通。出所は本人確認サービス会社とみられ、レンタカー大手との取引経路が指摘されている。FBIが捜査中。",
@@ -2758,50 +2890,6 @@
     "category": "セキュリティ",
     "reason": "大規模な個人情報（身分証画像）流出で被害範囲と二次被害リスクが極めて大きい。",
     "published_at": "2026-09-09 12:00:00",
-    "created_at": "2026-09-10 03:44:42"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Google DeepMind、90億通りの全塩基変異の影響を予測した「AlphaGenome Atlas」 学術向けに無償提供",
-    "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001296/",
-    "summary": "DeepMindがヒトゲノムの約90億通りの一塩基変異の影響を予測したデータベース『AlphaGenome Atlas』を公開。影響度スコアを付与し、学術研究向けに無償提供する。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "大規模予測データはゲノム解釈や医療研究の速度を上げるため、研究・ヘルスケア領域での技術適用に重要。",
-    "published_at": "2026-09-09 08:13:49",
-    "created_at": "2026-09-10 03:44:42"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Armが3つの新プロダクトを発表、モバイルとAIインフラ、フィジカルAI向け",
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/09/news059.html",
-    "summary": "Armがモバイル向けのArm CSS for Mobile 2、インフラ向けNeoverse CSS N4、フィジカルAI向けの設計支援拡張など3製品を発表。モバイルからクラウド・エッジまでのロードマップを示す。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "Armの新製品はチップ設計・供給に関わる企業のロードマップと性能設計に影響するため業界注目度が高い。",
-    "published_at": "2026-09-09 08:00:00",
-    "created_at": "2026-09-10 03:44:42"
-  },
-  {
-    "source": "＠IT",
-    "title": "COBOL、VMware、.NETまで――AWS「45億行に及ぶコード処理」で見えたAIレガシー刷新の現状",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/09/news027.html",
-    "summary": "AWSがAIを活用して数十億行規模のレガシーコード（COBOL, .NET等）の解析・移行を短期間で進めた事例を公開。従来は数年かかっていた刷新を大幅に短縮したという。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "企業システム刷新におけるAI実運用の成功例は、開発とIT投資の意思決定に直接役立つ。",
-    "published_at": "2026-09-09 08:00:00",
-    "created_at": "2026-09-10 03:44:42"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Meta、パーソナルAIエージェント「Muse」発表 メール送信や買い物も代行（まずは米国で無料提供開始）",
-    "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001294/",
-    "summary": "Metaが個人向けパーソナルAIエージェント『Muse』を発表。メール送信や旅行予約などの自律的代行が可能で、専用VMや多層防御で安全性を確保。まずは米国で提供開始。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "個人向け自律エージェントの普及は業務自動化・プライバシー・決済連携の実運用課題を前倒しするため注目。",
-    "published_at": "2026-09-09 06:41:57",
     "created_at": "2026-09-10 03:44:42"
   },
   {
@@ -2813,17 +2901,6 @@
     "category": "セキュリティ",
     "reason": "既に悪用確認の脆弱性を含む大規模パッチ、情シスとユーザーによる緊急適用が必要。",
     "published_at": "2026-09-09 05:00:00",
-    "created_at": "2026-09-10 03:44:42"
-  },
-  {
-    "source": "Publickey",
-    "title": "Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに",
-    "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
-    "summary": "AWSがAmazon Linuxのメジャーアップデート「Amazon Linux 2027」をパブリックプレビューで公開。SELinuxがデフォルトで強制モードになり、OSのセキュリティ設定が大きく変わる。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "AWS利用環境のデフォルトセキュリティ変更は運用・イメージ管理に直接影響するため、情シス向け必読のアナウンス。",
-    "published_at": "2026-09-09 00:54:55",
     "created_at": "2026-09-10 03:44:42"
   },
   {

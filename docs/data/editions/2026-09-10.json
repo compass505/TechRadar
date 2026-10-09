@@ -5,8 +5,6 @@
       "2b1ab890e869",
       "479f0454ec40",
       "ff7b64a24049",
-      "7f163fd92de3",
-      "9b9cd40670d0",
       "6b99b8a1bbf3",
       "2502af222f46",
       "22d3803ed63d"
@@ -30,30 +28,19 @@
     "yesterday_ai": [
       "479f0454ec40",
       "2502af222f46",
-      "ff7b64a24049",
-      "7f163fd92de3",
-      "46bf685487ff",
-      "9b9cd40670d0",
-      "30448b626a50"
+      "ff7b64a24049"
     ],
     "yesterday_enterprise_it": [
       "6b99b8a1bbf3",
       "2b1ab890e869",
       "479f0454ec40",
       "ff7b64a24049",
-      "22d3803ed63d",
-      "51eb646a5a34",
-      "7f163fd92de3",
-      "46bf685487ff",
-      "d04e969d8fa9"
+      "22d3803ed63d"
     ],
     "yesterday_development": [
       "479f0454ec40",
       "ff7b64a24049",
-      "22d3803ed63d",
-      "51eb646a5a34",
-      "7f163fd92de3",
-      "46bf685487ff"
+      "22d3803ed63d"
     ]
   }
 }
