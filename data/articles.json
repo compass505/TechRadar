@@ -1,6 +1,94 @@
 [
   {
     "source": "Impress Watch",
+    "title": "「最大627人分パスポート情報が抜かれた」 HISが公表まで”約10カ月”もかかった意外な理由",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news006.html",
+    "summary": "HISのタイ現地法人のファイルサーバが不正アクセスを受け、最大627人分のパスポート情報等が流出した可能性。データ混在で特定に手作業を要し公表が遅れた。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "旅行業界での個人情報流出と開示遅延の実例で、第三者調査や社内体制の課題を示すため開示事例として有益。",
+    "published_at": "2026-10-10 17:00:00",
+    "created_at": "2026-10-11 04:22:54"
+  },
+  {
+    "source": "＠IT",
+    "title": "大和証券、シチズン、損保ジャパン、東武鉄道、オリックス生命――5社に影響した「同じ委託先」への不正アクセス 各社はどう動いた？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news007.html",
+    "summary": "問い合わせ情報を管理する委託先への不正アクセスで5社に影響。各社の被害内容と事後対応、委託先の運用実態について追う。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "委託先リスクの具体事例として企業の情報管理・BCPに直結するため、情シスや経営判断に有用な分析記事。",
+    "published_at": "2026-10-10 13:00:00",
+    "created_at": "2026-10-11 04:22:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「お前たちのクラウドはわれわれのもの」 IDCFクラウドの管理画面に出た攻撃者のメッセージ 内容に運営元は",
+    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
+    "summary": "IDCFクラウドの管理コンソール上に攻撃者とみられるメッセージや被害規模の記載が拡散。IDCフロンティアに画像の真偽などを確認した。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "クラウド事業者へのランサム系攻撃で顧客影響が大きく、攻撃者の主張が管理画面に出た点で事業者・情シスに重大な示唆を与えるため。",
+    "published_at": "2026-10-10 12:38:24",
+    "created_at": "2026-10-11 04:22:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「コミューン」不正アクセスでLINEヤフー、Sansan、パナソニックでも会員情報漏えいの可能性",
+    "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002190/",
+    "summary": "委託先サービス「コミューン」への不正アクセスにより、LINE、ヤフー、Sansan、パナソニックなど複数社で会員情報流出の可能性が浮上している。",
+    "importance": 4,
+    "category": "その他",
+    "reason": "サプライチェーン型の委託先侵害で複数の主要企業に連鎖的影響が出る可能性が高く、企業ITとリスク管理の教訓となるため。",
+    "published_at": "2026-10-10 09:02:14",
+    "created_at": "2026-10-11 04:22:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+    "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+    "summary": "OpenAIで安全性研究に携わっていた研究者3人が解雇を公表。研究者側は安全性優先を主張し、OpenAIは機密情報規定違反を理由に挙げる。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AI安全性・企業ガバナンス両面で議論を呼ぶ事案で、業界の信頼や研究公開の在り方に影響を与える可能性があるため。",
+    "published_at": "2026-10-10 08:28:02",
+    "created_at": "2026-10-11 04:22:54"
+  },
+  {
+    "source": "＠IT",
+    "title": "不正アクセス被害激増、今、何をすべきか？ IPAから緊急の点検要請",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news008.html",
+    "summary": "IPAが公表事例と攻撃傾向を踏まえ、企業が直ちに実施すべき具体的なセキュリティ点検項目と対策を提示している。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "政府系機関からの緊急提言で、企業の短期対策に直接影響するため情シス・経営層向けの優先掲載事項。",
+    "published_at": "2026-10-10 08:00:00",
+    "created_at": "2026-10-11 04:22:54"
+  },
+  {
+    "source": "＠IT",
+    "title": "出社回帰で離職リスク？ AI得意言語の分析からインフラ人手不足解消まで、エンジニアの本音と課題",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news003.html",
+    "summary": "注目を集めたエンジニア向け記事10本をまとめ、出社回帰やAI活用、インフラ人材不足などエンジニアの本音と課題を整理している。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発現場のトレンドと人材課題がまとまっており、採用やプロダクト方針を考える上で参考になるため掲載価値あり。",
+    "published_at": "2026-10-10 08:00:00",
+    "created_at": "2026-10-11 04:22:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「バイトル」会員メアド最大約389万件漏えい 海外から「仕様不備」突く不正アクセス",
+    "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002186/",
+    "summary": "求人サイト「バイトル」で会員のメールアドレス最大約389万件が流出した可能性。原因は機能の仕様不備を突かれた不正アクセスとされる。",
+    "importance": 4,
+    "category": "その他",
+    "reason": "数百万規模の個人情報流出で利用者影響が大きく、仕様レベルの欠陥が狙われた点で開発・運用双方にとって重要。",
+    "published_at": "2026-10-10 07:27:31",
+    "created_at": "2026-10-11 04:22:54"
+  },
+  {
+    "source": "Impress Watch",
     "title": "SpaceX、携帯キャリアへ本腰 米国で800MHz帯取得へ",
     "url": "https://www.watch.impress.co.jp/docs/news/2147301.html",
     "summary": "SpaceXが米国内で800MHz帯を用いた全国規模通信の権利取得を発表。最終承認はFCC待ちだが、Starlink Mobileをキャリアへ強化する狙い。",
@@ -591,17 +679,6 @@
     "category": "セキュリティ",
     "reason": "主要OSベンダーによる権限設計変更は企業の運用・開発・コンプライアンスに直接影響するため重要。",
     "published_at": "2026-10-03 09:38:06",
-    "created_at": "2026-10-04 03:44:03"
-  },
-  {
-    "source": "＠IT",
-    "title": "「通信4社、5G速度最大9倍差」「AI生成コードのエラー率、JavaがPythonの6.7倍」、露わになった“格差”",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/03/news003.html",
-    "summary": "注目記事ランキングの紹介。通信事業者間の5G速度格差や、AI生成コードで言語ごとのエラー率差など、技術・サービスの間に生じる“格差”を指摘している。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "技術やサービスの実データに基づく格差指摘は開発者やSIerの選定判断に参考になるが速報性・影響は限定的。",
-    "published_at": "2026-10-03 08:00:00",
     "created_at": "2026-10-04 03:44:03"
   },
   {
@@ -2718,28 +2795,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "「AI社員」活用、NECは無人部署・DeNAには17体 南場社長「けなげ」と太鼓判",
-    "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001380/",
-    "summary": "NECやDeNAなどが業務に「AI社員」を導入し、NECはAIだけで運営する無人部署を新設。AIに権限を与えて業務を任せる取り組みと、今後のサービス展開の検討を報告。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業が人事・組織運営レベルでAIを正式導入する動きは業務設計やガバナンスに直結するため、情シス・経営層の注目事項。",
-    "published_at": "2026-09-10 17:47:19",
-    "created_at": "2026-09-11 03:35:11"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「iPhone Duo」発表 Apple初の折りたたみスマホ 36万4800円から",
-    "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001335/",
-    "summary": "Appleが初の折りたたみスマートフォン「iPhone Duo」を発表。閉じ5.4インチ、開いて7.6インチの2画面構成で、価格は36万4800円から。10月23日発売予定。",
-    "importance": 3,
-    "category": "ガジェット",
-    "reason": "Appleのフォルダブル参入はスマホ市場の競争地図に影響する戦略的な製品発表であり、業界トレンドとして重要。",
-    "published_at": "2026-09-10 15:40:47",
-    "created_at": "2026-09-11 03:35:11"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "さくら不正アクセス ハッシュ化されていない初期パスワード漏えいの可能性、レンタルサーバとVPSの一部契約者で",
     "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001360/",
     "summary": "さくらのレンタルサーバ／VPSで、一部の初期サーバパスワードがハッシュ化されておらず、第三者に閲覧・取得された可能性を公表。影響を受ける契約者に向けた対応を進めると説明。",
@@ -2747,28 +2802,6 @@
     "category": "セキュリティ",
     "reason": "ホスティング事業者の認証情報流出は顧客環境の大規模侵害につながる可能性があり、情シスや利用企業に即時対策を促す重要案件。",
     "published_at": "2026-09-10 13:36:08",
-    "created_at": "2026-09-11 03:35:11"
-  },
-  {
-    "source": "＠IT",
-    "title": "クラウドAIを信頼できないのは“中身が分からない”から？ ならば「AIインフラ」を自作して検証しよう",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news035.html",
-    "summary": "IPAがクラウドAIの不信を検証するため、自前でAIインフラを構築して挙動を調べた事例を解説。企業がクラウドAI利用に踏み切れない背景と検証手法を示す。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業のクラウドAI利用制限への実務的な回答であり、情シスや経営の導入判断に直接役立つため掲載価値が高い。",
-    "published_at": "2026-09-10 13:00:00",
-    "created_at": "2026-09-11 03:35:11"
-  },
-  {
-    "source": "＠IT",
-    "title": "煩雑化するAIスキル・MCPに一石を投じる共通規格「Agent Plugins 1.0.0」",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news034.html",
-    "summary": "AIエージェント向けスキルとMCPサーバを統合する共通仕様「Agent Plugins 1.0.0」が公開され、クライアント間での互換性向上と開発運用の簡素化を目指す取り組みを紹介。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "エージェント／プラグイン標準はエコシステムの互換性と開発効率に直結するため、AIプラットフォーム設計者や開発者に重要。",
-    "published_at": "2026-09-10 11:00:00",
     "created_at": "2026-09-11 03:35:11"
   },
   {
@@ -2802,39 +2835,6 @@
     "category": "セキュリティ",
     "reason": "データベース管理者権限の不正奪取は広範な被害を招くため、脆弱性情報として運用管理者・開発者に即時周知すべき重要度。",
     "published_at": "2026-09-10 08:00:00",
-    "created_at": "2026-09-11 03:35:11"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "GENIACの活動はAI×ロボティクスへ、ロボット基盤モデル開発の採択事業者を発表",
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/10/news053.html",
-    "summary": "経産省とNEDOが推進するGENIACの採択事業者を発表。ロボット基盤モデルやデータエコシステム構築の研究開発に関する公募の採択結果を示す。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "政府主導の生成AI・ロボティクス投資は国内産業政策と研究開発の方向性を示すため、企業と研究者の判断材料になる。",
-    "published_at": "2026-09-10 06:15:00",
-    "created_at": "2026-09-11 03:35:11"
-  },
-  {
-    "source": "＠IT",
-    "title": "攻撃者が狙うのは本番環境より「開発者」 npm installするだけで侵害される時代の守り方",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news010.html",
-    "summary": "ソフトウェアサプライチェーン攻撃が開発現場を標的に拡大。開発者が最初の侵入口になる構造を分析し、OSS活用時の防御策やプロセス設計の盲点を解説する。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "開発者環境を狙う攻撃は企業全体を危険にさらすため、開発/セキュリティ担当にとって必須の警戒情報。",
-    "published_at": "2026-09-10 05:00:00",
-    "created_at": "2026-09-11 03:35:11"
-  },
-  {
-    "source": "Publickey",
-    "title": "AWS、AIがフルスタックAWSアプリの基本コードを、セキュリティ、可観測性、インフラまで一気通貫で生成する「Nx Plugin for AWS 1.0」、オープンソースで公開",
-    "url": "https://www.publickey1.jp/blog/26/awsaiawsnx_plugin_for_aws_10.html",
-    "summary": "AWSが提供するツールで、AIを使ってフルスタックなAWSアプリのコードとインフラ構成（セキュリティや可観測性含む）を生成するNxプラグイン1.0をオープンソース公開した。開発効率と標準化を狙う。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "生成AIを組み込んだインフラ＆アプリ自動生成ツールは開発生産性とセキュリティ標準化に影響するため、開発者／DevOps向けに有用。",
-    "published_at": "2026-09-10 00:30:50",
     "created_at": "2026-09-11 03:35:11"
   },
   {

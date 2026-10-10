@@ -12323,65 +12323,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "2c82e4d11adc",
-    "title": "AWS、AIがフルスタックAWSアプリの基本コードを、セキュリティ、可観測性、インフラまで一気通貫で生成する「Nx Plugin for AWS 1.0」、オープンソースで公開",
-    "published_date": "2026-09-10",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "AWSが提供するツールで、AIを使ってフルスタックなAWSアプリのコードとインフラ構成（セキュリティや可観測性含む）を生成するNxプラグイン1.0をオープンソース公開した。開発効率と標準化を狙う。",
-    "reason": "生成AIを組み込んだインフラ＆アプリ自動生成ツールは開発生産性とセキュリティ標準化に影響するため、開発者／DevOps向けに有用。",
-    "published_at": "2026-09-10 00:30:50",
-    "created_at": "2026-09-11 03:35:11",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/awsaiawsnx_plugin_for_aws_10.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 3,
-    "urgency_score": 0,
-    "utility_score": 3,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "8d706bc76594",
-    "title": "GENIACの活動はAI×ロボティクスへ、ロボット基盤モデル開発の採択事業者を発表",
-    "published_date": "2026-09-10",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "経産省とNEDOが推進するGENIACの採択事業者を発表。ロボット基盤モデルやデータエコシステム構築の研究開発に関する公募の採択結果を示す。",
-    "reason": "政府主導の生成AI・ロボティクス投資は国内産業政策と研究開発の方向性を示すため、企業と研究者の判断材料になる。",
-    "published_at": "2026-09-10 06:15:00",
-    "created_at": "2026-09-11 03:35:11",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2609/10/news053.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "bc7d055a45d9",
     "title": "Google、フィンランドに過去最大の約2.3兆円投資 AIデータセンター増設や原発電力調達へ",
     "published_date": "2026-09-10",
@@ -12440,34 +12381,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "95f2c4301213",
-    "title": "「AI社員」活用、NECは無人部署・DeNAには17体 南場社長「けなげ」と太鼓判",
-    "published_date": "2026-09-10",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "NECやDeNAなどが業務に「AI社員」を導入し、NECはAIだけで運営する無人部署を新設。AIに権限を与えて業務を任せる取り組みと、今後のサービス展開の検討を報告。",
-    "reason": "企業が人事・組織運営レベルでAIを正式導入する動きは業務設計やガバナンスに直結するため、情シス・経営層の注目事項。",
-    "published_at": "2026-09-10 17:47:19",
-    "created_at": "2026-09-11 03:35:11",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/10/2000001380/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "c1415657fef3",
     "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正",
     "published_date": "2026-09-10",
@@ -12497,31 +12410,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "f87f58705ce5",
-    "title": "「iPhone Duo」発表 Apple初の折りたたみスマホ 36万4800円から",
-    "published_date": "2026-09-10",
-    "importance_score": 3,
-    "category": "ガジェット",
-    "summary": "Appleが初の折りたたみスマートフォン「iPhone Duo」を発表。閉じ5.4インチ、開いて7.6インチの2画面構成で、価格は36万4800円から。10月23日発売予定。",
-    "reason": "Appleのフォルダブル参入はスマホ市場の競争地図に影響する戦略的な製品発表であり、業界トレンドとして重要。",
-    "published_at": "2026-09-10 15:40:47",
-    "created_at": "2026-09-11 03:35:11",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/10/2000001335/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "a07bebc5fd95",
     "title": "さくら不正アクセス ハッシュ化されていない初期パスワード漏えいの可能性、レンタルサーバとVPSの一部契約者で",
     "published_date": "2026-09-10",
@@ -12548,94 +12436,6 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": true
-  },
-  {
-    "id": "2232d1fc7e9d",
-    "title": "クラウドAIを信頼できないのは“中身が分からない”から？ ならば「AIインフラ」を自作して検証しよう",
-    "published_date": "2026-09-10",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "IPAがクラウドAIの不信を検証するため、自前でAIインフラを構築して挙動を調べた事例を解説。企業がクラウドAI利用に踏み切れない背景と検証手法を示す。",
-    "reason": "企業のクラウドAI利用制限への実務的な回答であり、情シスや経営の導入判断に直接役立つため掲載価値が高い。",
-    "published_at": "2026-09-10 13:00:00",
-    "created_at": "2026-09-11 03:35:11",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news035.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "0636c133d57f",
-    "title": "攻撃者が狙うのは本番環境より「開発者」 npm installするだけで侵害される時代の守り方",
-    "published_date": "2026-09-10",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "ソフトウェアサプライチェーン攻撃が開発現場を標的に拡大。開発者が最初の侵入口になる構造を分析し、OSS活用時の防御策やプロセス設計の盲点を解説する。",
-    "reason": "開発者環境を狙う攻撃は企業全体を危険にさらすため、開発/セキュリティ担当にとって必須の警戒情報。",
-    "published_at": "2026-09-10 05:00:00",
-    "created_at": "2026-09-11 03:35:11",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news010.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "9962b4974747",
-    "title": "煩雑化するAIスキル・MCPに一石を投じる共通規格「Agent Plugins 1.0.0」",
-    "published_date": "2026-09-10",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "AIエージェント向けスキルとMCPサーバを統合する共通仕様「Agent Plugins 1.0.0」が公開され、クライアント間での互換性向上と開発運用の簡素化を目指す取り組みを紹介。",
-    "reason": "エージェント／プラグイン標準はエコシステムの互換性と開発効率に直結するため、AIプラットフォーム設計者や開発者に重要。",
-    "published_at": "2026-09-10 11:00:00",
-    "created_at": "2026-09-11 03:35:11",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news034.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 3,
-    "has_itmedia_article": false
   },
   {
     "id": "ef711a258226",
@@ -18135,35 +17935,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "94351704ea25",
-    "title": "「通信4社、5G速度最大9倍差」「AI生成コードのエラー率、JavaがPythonの6.7倍」、露わになった“格差”",
-    "published_date": "2026-10-03",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "注目記事ランキングの紹介。通信事業者間の5G速度格差や、AI生成コードで言語ごとのエラー率差など、技術・サービスの間に生じる“格差”を指摘している。",
-    "reason": "技術やサービスの実データに基づく格差指摘は開発者やSIerの選定判断に参考になるが速報性・影響は限定的。",
-    "published_at": "2026-10-03 08:00:00",
-    "created_at": "2026-10-04 03:44:03",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/03/news003.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 3,
-    "urgency_score": 0,
-    "utility_score": 3,
-    "has_itmedia_article": false
-  },
-  {
     "id": "9ef208cdc390",
     "title": "「ITエンジニア争奪戦」はむしろ激化、AIがあっても“技術者不足”が深まる理由",
     "published_date": "2026-10-04",
@@ -19575,5 +19346,223 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
+  },
+  {
+    "id": "1019faea6f11",
+    "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+    "published_date": "2026-10-10",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIで安全性研究に携わっていた研究者3人が解雇を公表。研究者側は安全性優先を主張し、OpenAIは機密情報規定違反を理由に挙げる。",
+    "reason": "AI安全性・企業ガバナンス両面で議論を呼ぶ事案で、業界の信頼や研究公開の在り方に影響を与える可能性があるため。",
+    "published_at": "2026-10-10 08:28:02",
+    "created_at": "2026-10-11 04:22:54",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "dc4b43ca0d96",
+    "title": "「お前たちのクラウドはわれわれのもの」 IDCFクラウドの管理画面に出た攻撃者のメッセージ 内容に運営元は",
+    "published_date": "2026-10-10",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "IDCFクラウドの管理コンソール上に攻撃者とみられるメッセージや被害規模の記載が拡散。IDCフロンティアに画像の真偽などを確認した。",
+    "reason": "クラウド事業者へのランサム系攻撃で顧客影響が大きく、攻撃者の主張が管理画面に出た点で事業者・情シスに重大な示唆を与えるため。",
+    "published_at": "2026-10-10 12:38:24",
+    "created_at": "2026-10-11 04:22:54",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f2c21b4a1992",
+    "title": "「コミューン」不正アクセスでLINEヤフー、Sansan、パナソニックでも会員情報漏えいの可能性",
+    "published_date": "2026-10-10",
+    "importance_score": 4,
+    "category": "その他",
+    "summary": "委託先サービス「コミューン」への不正アクセスにより、LINE、ヤフー、Sansan、パナソニックなど複数社で会員情報流出の可能性が浮上している。",
+    "reason": "サプライチェーン型の委託先侵害で複数の主要企業に連鎖的影響が出る可能性が高く、企業ITとリスク管理の教訓となるため。",
+    "published_at": "2026-10-10 09:02:14",
+    "created_at": "2026-10-11 04:22:54",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/10/2000002190/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5507cfbdc589",
+    "title": "「バイトル」会員メアド最大約389万件漏えい 海外から「仕様不備」突く不正アクセス",
+    "published_date": "2026-10-10",
+    "importance_score": 4,
+    "category": "その他",
+    "summary": "求人サイト「バイトル」で会員のメールアドレス最大約389万件が流出した可能性。原因は機能の仕様不備を突かれた不正アクセスとされる。",
+    "reason": "数百万規模の個人情報流出で利用者影響が大きく、仕様レベルの欠陥が狙われた点で開発・運用双方にとって重要。",
+    "published_at": "2026-10-10 07:27:31",
+    "created_at": "2026-10-11 04:22:54",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/10/2000002186/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f46c6aa9fb10",
+    "title": "「最大627人分パスポート情報が抜かれた」 HISが公表まで”約10カ月”もかかった意外な理由",
+    "published_date": "2026-10-10",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "HISのタイ現地法人のファイルサーバが不正アクセスを受け、最大627人分のパスポート情報等が流出した可能性。データ混在で特定に手作業を要し公表が遅れた。",
+    "reason": "旅行業界での個人情報流出と開示遅延の実例で、第三者調査や社内体制の課題を示すため開示事例として有益。",
+    "published_at": "2026-10-10 17:00:00",
+    "created_at": "2026-10-11 04:22:54",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news006.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "8c4f8cafd06a",
+    "title": "不正アクセス被害激増、今、何をすべきか？ IPAから緊急の点検要請",
+    "published_date": "2026-10-10",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "IPAが公表事例と攻撃傾向を踏まえ、企業が直ちに実施すべき具体的なセキュリティ点検項目と対策を提示している。",
+    "reason": "政府系機関からの緊急提言で、企業の短期対策に直接影響するため情シス・経営層向けの優先掲載事項。",
+    "published_at": "2026-10-10 08:00:00",
+    "created_at": "2026-10-11 04:22:54",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news008.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "06421d218fa3",
+    "title": "出社回帰で離職リスク？ AI得意言語の分析からインフラ人手不足解消まで、エンジニアの本音と課題",
+    "published_date": "2026-10-10",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "注目を集めたエンジニア向け記事10本をまとめ、出社回帰やAI活用、インフラ人材不足などエンジニアの本音と課題を整理している。",
+    "reason": "開発現場のトレンドと人材課題がまとまっており、採用やプロダクト方針を考える上で参考になるため掲載価値あり。",
+    "published_at": "2026-10-10 08:00:00",
+    "created_at": "2026-10-11 04:22:54",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news003.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "0b629dd84900",
+    "title": "大和証券、シチズン、損保ジャパン、東武鉄道、オリックス生命――5社に影響した「同じ委託先」への不正アクセス 各社はどう動いた？",
+    "published_date": "2026-10-10",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "問い合わせ情報を管理する委託先への不正アクセスで5社に影響。各社の被害内容と事後対応、委託先の運用実態について追う。",
+    "reason": "委託先リスクの具体事例として企業の情報管理・BCPに直結するため、情シスや経営判断に有用な分析記事。",
+    "published_at": "2026-10-10 13:00:00",
+    "created_at": "2026-10-11 04:22:54",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news007.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
   }
 ]
