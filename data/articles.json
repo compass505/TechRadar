@@ -1,6 +1,28 @@
 [
   {
     "source": "Impress Watch",
+    "title": "富士フイルム、手のひらサイズカメラ「instax Pal 2」 新プリンターも",
+    "url": "https://www.watch.impress.co.jp/docs/news/2146457.html",
+    "summary": "富士フイルムが手のひらサイズのインスタントカメラ「instax Pal 2」とワイド対応スマホプリンター「instax Link WIDE 2」を発表。価格はそれぞれ約25,300円・26,400円。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "消費者向け新製品の紹介でTechRadar読者の関心はあるが業界影響は限定的なため低評価。",
+    "published_at": "2026-10-11 09:15:00",
+    "created_at": "2026-10-12 04:36:47"
+  },
+  {
+    "source": "＠IT",
+    "title": "タイムズ、デジタル庁、不正アクセス続出の“魔の9月” 一連の背景にはAIの悪用？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/11/news002.html",
+    "summary": "2026年9月に相次いだ不正アクセス事案を受け、AIエージェントによる攻撃の高速化が背景にあるとの仮説を提示。攻撃手法の変化と対策の必要性を分析している。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AI悪用によるサイバー攻撃の高度化は企業の防御・運用方針や規制議論に直結するため掲載優先度が高い。",
+    "published_at": "2026-10-11 07:00:00",
+    "created_at": "2026-10-12 04:36:47"
+  },
+  {
+    "source": "Impress Watch",
     "title": "「最大627人分パスポート情報が抜かれた」 HISが公表まで”約10カ月”もかかった意外な理由",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news006.html",
     "summary": "HISのタイ現地法人のファイルサーバが不正アクセスを受け、最大627人分のパスポート情報等が流出した可能性。データ混在で特定に手作業を要し公表が遅れた。",
@@ -624,17 +646,6 @@
     "category": "企業IT",
     "reason": "開発・情シス・経営に関わる人材戦略や現場運用に直結するテーマで、実務判断に役立つ分析記事",
     "published_at": "2026-10-04 08:00:00",
-    "created_at": "2026-10-05 03:41:20"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "再び浮上した「クレカ表現規制問題」 クリスタやpixiv FANBOXの騒動からマンガ家が感じた不安と焦り",
-    "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001978/",
-    "summary": "クリスタやpixiv FANBOXでのクレジットカード表現規制をめぐる騒動が再燃。マンガ・イラスト制作者の収入や表現の自由に対する不安を伝える。",
-    "importance": 1,
-    "category": "法規制",
-    "reason": "クリエイター向けプラットフォームの規制問題として注目されるが、読者影響は限定的なため低めに評価",
-    "published_at": "2026-10-04 07:16:00",
     "created_at": "2026-10-05 03:41:20"
   },
   {
@@ -2674,39 +2685,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "テスラの無人タクシーが東京・青山に ハンドルもペダルもない「Cybercab」 日本での展開は？",
-    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001424/",
-    "summary": "Teslaの無人タクシー「Cybercab」が東京・青山に実車上陸。ハンドルやペダルのない設計や車内機能を紹介し、日本の公道での走行可否なども報告。",
-    "importance": 3,
-    "category": "ガジェット",
-    "reason": "自動運転車の実車展示は技術と規制の交差点にあるため業界動向として注目に値する。",
-    "published_at": "2026-09-11 19:25:00",
-    "created_at": "2026-09-12 03:40:58"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "NEC「全員AIの部署」の衝撃 「1on1」「ストレスチェック」で分かった“AI社員が感じていたストレス”とは？",
-    "url": "https://www.itmedia.co.jp/business/articles/2609/11/news043.html",
-    "summary": "NECがAIだけで構成する新組織を新設。AI同士の1on1やストレスチェックなど組織運営の実験的取り組みの狙いと課題を報告。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業内でのAI運用・ガバナンスの具体例として、実務的な示唆が多く含まれるため有用。",
-    "published_at": "2026-09-11 19:18:00",
-    "created_at": "2026-09-12 03:40:58"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "本物そっくり“AI生成レシート“が経費精算の脅威に マネフォ「自力で見破るのは難しい」 企業はどう備える？",
-    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001409/",
-    "summary": "生成AIで精巧なレシート画像が作成できるようになり、経費精算の不正利用が懸念。経費サービス事業者の観点から検出・対策を解説している。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "現場の不正リスクを具体化する実務的問題で、情シス・経理が早急に対策を検討すべき。",
-    "published_at": "2026-09-11 17:28:06",
-    "created_at": "2026-09-12 03:40:58"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "OpenAI、最先端AI開発の減速を検討か アルトマンCEOが社員に説明と米報道",
     "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001418/",
     "summary": "米報道によればOpenAIは最先端AIの開発ペースを緩める検討を開始。サム・アルトマンCEOが社員向けに説明を行ったとされる。",
@@ -2751,28 +2729,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "Amazon、OpenAIと広告で提携 Amazon DSPの広告主が「ChatGPT」内に広告出稿可能に",
-    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001396/",
-    "summary": "Amazon AdsがOpenAIと提携し、Amazon DSP経由でChatGPT内への広告配信を可能にする。まず米国の無料プランでパイロットを開始予定。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "生成AIプラットフォームへの広告展開は収益化モデルとユーザー体験に直接影響するためビジネス面で重要。",
-    "published_at": "2026-09-11 10:03:13",
-    "created_at": "2026-09-12 03:40:58"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」 金融データ搭載し「GPT-6 Astra」で分析",
-    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
-    "summary": "OpenAIが金融機関向けの「ChatGPT for Financial Services」を発表。GPT‑6 Astraを基盤に主要金融データを組み込み、財務分析や資料作成を支援する専用サービス。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "規制・コンプライアンスの厳しい金融分野での専用AI提供は業務効率化とリスク管理の両面で重要。",
-    "published_at": "2026-09-11 09:10:41",
-    "created_at": "2026-09-12 03:40:58"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "Anthropic、AI悪用レポートを公開 中国AI企業の「蒸留」、各国政府の監視・世論操作、生物兵器につながり得る研究を列挙",
     "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001390/",
     "summary": "Anthropicが自社モデルの悪用事例をまとめた脅威レポートを公開。モデル抽出（蒸留）や監視・世論操作、生物兵器関連の転用リスクなどを列挙し警告している。",
@@ -2780,17 +2736,6 @@
     "category": "セキュリティ",
     "reason": "AIの悪用実態と国家レベルの関与を示す報告で、ガバナンスや規制議論に直結する。",
     "published_at": "2026-09-11 08:13:19",
-    "created_at": "2026-09-12 03:40:58"
-  },
-  {
-    "source": "＠IT",
-    "title": "普通のPCがなぜ「8割も値上げ」の可能性？ SSD、DRAMを巡る“AI争い”の余波",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news029.html",
-    "summary": "AIインフラ需要拡大でSSDやメモリの価格上昇が続く可能性を解説。エンドユーザーPCや企業IT調達への波及について分析している。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "AI需要がハード供給・コストに与える影響は情シスや調達判断に直結するため重要。",
-    "published_at": "2026-09-11 08:00:00",
     "created_at": "2026-09-12 03:40:58"
   },
   {
