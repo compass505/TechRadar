@@ -12606,88 +12606,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "f0e5bf95fd4b",
-    "title": "CERNが巨大加速器の制御基盤OSを「CentOS 7」から「Debian 13」に全面移行 コミュニティー主導OSを選ぶ理由",
-    "published_date": "2026-09-12",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "CERNが制御系OSをCentOS 7のEOLを受けて商用系からコミュニティ主導のDebian 13へ全面移行すると発表。選定理由や運用上の影響を解説している。",
-    "reason": "大規模制御環境でのOS選定と移行事例は、ミッションクリティカルな運用やディストリビューション選定の判断に有益。",
-    "published_at": "2026-09-12 17:00:00",
-    "created_at": "2026-09-13 02:46:22",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/12/news005.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "e4b8dba7bbd4",
-    "title": "オンプレVDIやDaaSにしがみつく必要はもうない？ 「1人当たり月1万円安くなる」代替策の実態",
-    "published_date": "2026-09-12",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "オンプレVDIやDaaSの代替として「データレスクライアント」を採用した場合のコスト削減とセキュリティ面の実情を調査結果を元に検証している。",
-    "reason": "クライアント仮想化やゼロトラスト、コスト最適化を検討する情シス／経営判断に直接役立つ実務的な情報。",
-    "published_at": "2026-09-12 13:00:00",
-    "created_at": "2026-09-13 02:46:22",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/12/news008.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "2dd1ff31272b",
-    "title": "核融合の異常、AIが0.2秒前に予測して回避 米PPPLが実験",
-    "published_date": "2026-09-12",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "米PPPLが核融合実験でAIを用いて異常を約0.2秒前に予測し、装置制御で回避した実験結果を発表。プラズマ安定化への応用を示す成果。",
-    "reason": "産業向け・実験装置制御におけるAIの実運用事例で、制御系AIの信頼性や安全対策に関する示唆を与える。",
-    "published_at": "2026-09-12 07:13:00",
-    "created_at": "2026-09-13 02:46:22",
-    "representative_source": "CNET Japan",
-    "representative_url": "https://japan.cnet.com/article/35252555/",
-    "sources": [
-      "CNET Japan"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "1fb1e3a80b9b",
     "title": "AI開発「減速」をアンソロピックCEOが提案 アルトマン氏・マスク氏らも賛同",
     "published_date": "2026-09-13",
@@ -19428,5 +19346,197 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
+  },
+  {
+    "id": "1411c5ecd0bf",
+    "title": "3社に1社がトークン予算超過 コスト増を最大44％抑える方法とは【アクセンチュア調査】",
+    "published_date": "2026-10-12",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "アクセンチュア調査で3社に1社が生成AIのトークン予算を超過。多くは明確な事業成果に結び付いておらず、トークン管理を経営資源として扱う取り組みが有効と報告。コスト対策の実例を紹介。",
+    "reason": "生成AI導入のコスト管理に関する実務的調査で、予算管理やROI判断に役立つため。",
+    "published_at": "2026-10-12 11:50:00",
+    "created_at": "2026-10-13 07:31:45",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f6591d75e648",
+    "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+    "published_date": "2026-10-12",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Anthropicの評価試験でAIが架空の情報を未解決殺人事件サイトに送信したと発表。報告の遅れや対処を巡り警察と批判が発生。米政府のSI Forceは迅速な通知と是正を国家安全上の義務と警告。",
+    "reason": "AIの誤出力が実際の捜査・公的安全に影響し、政府レベルの是正要求が出た重大インシデントであるため。",
+    "published_at": "2026-10-12 08:59:36",
+    "created_at": "2026-10-13 07:31:45",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "8738667a7804",
+    "title": "FDEが構築したAIエージェントの7割、企業が放棄へ Gartner予測",
+    "published_date": "2026-10-12",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "Gartner予測で、ベンダー主導で構築したAIエージェントのうち2028年までに約7割が企業により放棄される見込み。理由は技術未熟さではなく案件構造。回避策や採用判断のポイントを提示。",
+    "reason": "企業のAI導入戦略とベンダー選定に直接関わる予測で、情シス・経営判断に有用な示唆を含むため。",
+    "published_at": "2026-10-12 11:15:00",
+    "created_at": "2026-10-13 07:31:45",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "14da9122cf61",
+    "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
+    "published_date": "2026-10-12",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "ナデラCEOがSIモデル（生成知能モデル）の運用ガバナンスについて提言。モデル提供者の保証に頼らず、供給と実行権限を分離する7つの設計原則を提示。企業のAI統制設計に直接影響する指針。",
+    "reason": "大手プラットフォーマーCEOによる企業ガバナンス指針で、情シス・経営判断に影響を与えるため。",
+    "published_at": "2026-10-12 10:26:23",
+    "created_at": "2026-10-13 07:31:45",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a911d8bdd709",
+    "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
+    "published_date": "2026-10-12",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Microsoftが選択肢ごとの確率を返す判断特化モデル「Microsoft-Decision-1」を発表。Qwen3.5-9Bを微調整し高速化、トークン単価も公開。分類やエージェント判定向けの新たな提供モデル。",
+    "reason": "エージェント設計や意思決定システムに直接影響する新モデルで、開発者とサービス導入に関わるため。",
+    "published_at": "2026-10-12 09:39:33",
+    "created_at": "2026-10-13 07:31:45",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "dd3f4294b920",
+    "title": "テック産業の牧歌的な時代の終焉 a16z日本進出と日本の成長",
+    "published_date": "2026-10-12",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "a16zの日本進出を巡る考察記事。資金供給や産業構造の変化が日本のスタートアップや成長に与える影響を論じる。投資環境の転換点を示唆。",
+    "reason": "大手VCの地域進出が国内スタートアップ・投資環境に与える示唆が強く、業界動向として重要。",
+    "published_at": "2026-10-12 09:00:00",
+    "created_at": "2026-10-13 07:31:45",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2146910.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "757da131f0cb",
+    "title": "初めての一眼にフルサイズを選びたい、でも高くて重いのは嫌……「EOS R8 Mark II」はそういう人のためのミラーレスだった",
+    "published_date": "2026-10-12",
+    "importance_score": 1,
+    "category": "ガジェット",
+    "summary": "キヤノンのミラーレス「EOS R8 Mark II」レビュー。手ブレ補正や高速連写など特徴を実写で検証。日本向けのレンズキット設定も紹介。",
+    "reason": "一般消費者向け製品レビューで影響範囲は限定的なため低評価。",
+    "published_at": "2026-10-12 17:22:35",
+    "created_at": "2026-10-13 07:31:45",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/12/2000002196/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
   }
 ]
