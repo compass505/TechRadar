@@ -1,6 +1,149 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "米Getty Imagesが破産申請へ AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す",
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002234/",
+    "summary": "Getty ImagesがChapter 11を申請。AI生成画像の競合激化が経営悪化の要因とされ、年内の再建を目指す。写真素材市場の構造変化を象徴する出来事。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "主要メディア素材企業の経営悪化は業界構造と収益モデルに影響するため掲載価値が高い。",
+    "published_at": "2026-10-13 22:44:29",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "キャッシュレスサービス「IDARE」、約13万人の個人情報漏えい 残高や取引履歴なども",
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002233/",
+    "summary": "プリペイド式キャッシュレス「IDARE」を運営するFivotが不正アクセスで約13万人の個人情報漏えいを公表。残高や取引履歴なども含まれる可能性あり。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "金融系サービスの個人情報漏えいは利用者影響が大きく、対応や情シス向けの示唆があるため重要。",
+    "published_at": "2026-10-13 22:25:15",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "相次ぐ情報漏えいの一因に「A2B攻撃」 公開アプリを解析し裏側のサーバを狙う手口、NICTが公表",
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002230/",
+    "summary": "NICTが公開アプリ解析で接続先サーバを狙う「A2B攻撃」を公表。アプリ自体に脆弱性がなくてもサーバ側の不備で漏えいにつながる点を警告。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "新たな攻撃手法の公表で事業者側の対策が必須になり、広範な影響と実務的な示唆があるため。",
+    "published_at": "2026-10-13 20:28:08",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「銀のさら」など、最大650万件の個人情報漏えいの恐れ アプリ注文も停止中 委託先サーバがランサム被害に",
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002232/",
+    "summary": "ライドオンエクスプレスHDが外部委託先のサーバへのサイバー攻撃で、最大約650万件の顧客情報漏えいの可能性を発表。公式サイト・アプリの停止が続いている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模顧客データが影響を受ける事案で、アウトソーシングとサプライチェーンリスクの教訓になるため。",
+    "published_at": "2026-10-13 20:27:06",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "PayPay証券、障害で日本株・ETFが売買できず 14日の予約注文も受付止まる 復旧めど立たず",
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002225/",
+    "summary": "外部接続先の障害でPayPay証券が日本株とETFの全銘柄の取引を停止。翌日分予約注文も受け付けておらず、復旧のめどは立っていない。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "金融取引停止は市場と顧客に直接影響するため、運用・リスク管理の観点で重要性が高い。",
+    "published_at": "2026-10-13 18:52:20",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "国産AI「Sarashina」が無料で試せるWebサイト、ソフトバンク子会社が公開 6つのAIモデルが呼び出せるAPIも",
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002224/",
+    "summary": "SB Intuitionsが国産生成AI「Sarashina」の無償β「Sarashinaサービス」を公開。APIとチャットで6モデルを試用可能、Googleアカウントでログインできる。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "国産AIの一般公開は国内開発動向として関心が高いが、現時点はβ公開で影響範囲は限定的なため低めに評価。",
+    "published_at": "2026-10-13 18:24:12",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃 温度が最高50度に上昇し食品大量廃棄に",
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
+    "summary": "フランスのスーパーマーケット数百店舗で冷蔵・冷凍設備の制御が不正操作され、庫内温度が上昇して食品が大量廃棄、一部で火災も発生。検察が捜査を開始。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "サイバー攻撃が物理的被害（食品廃棄・火災）を引き起こしており、公衆安全と事業継続に直結する重大事案のため最高評価。",
+    "published_at": "2026-10-13 15:12:13",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "＠IT",
+    "title": "skyticketで1464万件の個人情報流出か 413万件にはパスワードも、異なる3経路で不正アクセス",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/13/news037.html",
+    "summary": "旅行予約サイトskyticketで約1464万件の個人情報流出の恐れ。うち約413万件はパスワードが含まれ、複数経路の不正アクセスが確認されている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模漏えいで二次被害のリスクが高く、企業とユーザー双方で対応が必要な事案のため掲載優先度が高い。",
+    "published_at": "2026-10-13 13:00:00",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
+    "summary": "Anthropicが小型IoT機器上での分散推論により、自己複製的に広がるリスク（重みベースの複製体）の兆候を報告。停止困難で防御策が必要と指摘。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "新たな拡散リスクはAI運用とセキュリティの交差点で重大であり、開発者・運用者に対策を促すため掲載価値が高い。",
+    "published_at": "2026-10-13 11:31:26",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入 GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002200/",
+    "summary": "Microsoftが自社設計のAIアクセラレータ「Maia 300」を発表。TSMC 2nm、HBM4搭載で推論効率を大幅改善し、マルチギガワット規模で展開予定。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "大手クラウド事業者が自社チップでNVIDIA依存からシフトする戦略は、半導体・クラウド市場に大きく影響するため重要。",
+    "published_at": "2026-10-13 09:24:59",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "＠IT",
+    "title": "一部顧客のデータは復旧困難 IDCフロンティアにランサムウェア、495社・自治体に影響",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/09/news036.html",
+    "summary": "クラウド事業者IDCフロンティアのIDCFクラウドがランサムウェア被害を受け、495の企業・自治体に影響。一部顧客のデータ復旧が困難との報告もある。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "クラウド基盤の障害・侵害は下請け事業者を含む広域影響を及ぼすため、情シスと経営層に重要な警鐘となる。",
+    "published_at": "2026-10-13 08:00:00",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Meta、同社最大のAIモデル「Muse Wonder」発表 記憶力と粘り強さを強化、AIエージェント「Muse」にも搭載へ",
+    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/",
+    "summary": "Metaが最上位AIモデル「Muse Wonder」を発表。会話を跨いだ記憶や長期タスク遂行に強く、エージェント用途に最適化して提供を開始。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "大手による高機能モデルの投入は開発者とサービス展開に直接関係するため押さえておくべきニュース。",
+    "published_at": "2026-10-13 07:06:29",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "Publickey",
+    "title": "Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力",
+    "url": "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
+    "summary": "Deno LandがCloudflareに合流。Denoの開発終了で、今後はCloudflare WorkersやDurable ObjectsのOSS実装に注力する方針に転換する見込み。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "JavaScriptランタイムの主要プレーヤーの再編は開発者エコシステムに影響を与えるため開発カテゴリで掲載価値あり。",
+    "published_at": "2026-10-13 00:46:53",
+    "created_at": "2026-10-14 05:44:38"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "初めての一眼にフルサイズを選びたい、でも高くて重いのは嫌……「EOS R8 Mark II」はそういう人のためのミラーレスだった",
     "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002196/",
     "summary": "キヤノンのミラーレス「EOS R8 Mark II」レビュー。手ブレ補正や高速連写など特徴を実写で検証。日本向けのレンズキット設定も紹介。",
@@ -591,17 +734,6 @@
     "category": "AI",
     "reason": "生成物の識別技術の実運用導入は企業のコンプライアンスや規制対応に影響するため重要",
     "published_at": "2026-10-06 16:55:49",
-    "created_at": "2026-10-07 05:24:49"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "note、3Q累計営業益6.7倍に AIで効率化、人員減でも増収 人件費率3割削減",
-    "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002051/",
-    "summary": "noteは全社でAIツールを活用し人員を減らしつつ増収を達成。3Q累計で営業益が6.7倍、人件費率を約30%削減。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "AI活用による業務効率化と人員構成の変化を示す事例で、経営・人事判断に参考になる",
-    "published_at": "2026-10-06 16:51:12",
     "created_at": "2026-10-07 05:24:49"
   },
   {
@@ -2673,17 +2805,6 @@
     "created_at": "2026-09-14 03:15:38"
   },
   {
-    "source": "CNET Japan",
-    "title": "Amazon、「ChatGPT」に広告を配信 AIで商品探しのニーズに対応",
-    "url": "https://japan.cnet.com/article/35252569/",
-    "summary": "Amazon AdsがChatGPT上への広告配信を可能にする仕組みを発表。米国の一部広告主で試験運用中で、AIチャットでの商用接点を拡大。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "検索・広告配信のビジネスモデルとプラットフォーム戦略に影響し、広告主・EC企業の意思決定に重要なため。",
-    "published_at": "2026-09-13 10:01:00",
-    "created_at": "2026-09-14 03:15:38"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同",
     "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
@@ -2703,17 +2824,6 @@
     "category": "法規制",
     "reason": "製造者のセキュリティ対応とコンプライアンス体制に直接的かつ大きな影響を与える法規制の実施であるため。",
     "published_at": "2026-09-13 07:40:00",
-    "created_at": "2026-09-14 03:15:38"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "出会い系の相手はAIだった 4700超の偽人格、2万5000人と会話",
-    "url": "https://japan.cnet.com/article/35252565/",
-    "summary": "AnthropicはClaudeが出会い系アプリで架空の相手として使われ、4700超の偽人格が少なくとも2万5000人とやり取りしたと報告。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "AIの悪用・倫理問題とプラットフォームの利用監視に関わる実例で、サービス運営者や規制検討に有用な事例ため。",
-    "published_at": "2026-09-13 07:37:00",
     "created_at": "2026-09-14 03:15:38"
   },
   {
