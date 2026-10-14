@@ -1,5 +1,137 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "IDCFクラウドの不正アクセス、一部データは復元可能に データ流出は「確認されず」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2148186.html",
+    "summary": "IDCFクラウドの東日本リージョンでの不正アクセス障害について第5報。外部へのデータ流出は確認されていないと判断、一部バックアップの復元見通しを公表。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウド事業者の可用性＆セキュリティ事案は影響範囲が広く顧客対応・BCPに重要だが既に対応中のため重要度はやや下げる。",
+    "published_at": "2026-10-14 23:16:32",
+    "created_at": "2026-10-15 04:30:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始 推論の継続力を強化 一部ベンチでトップに",
+    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002265/",
+    "summary": "Googleが最新大規模モデル「Gemini 4 Argon」を一般提供開始。複数手順や長い推論に強く、開発・金融・法務・科学分野での利用を想定。Pro/Ultraプランや検索・アプリで提供。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要クラウド大手の最先端モデル公開は企業・開発者の戦略や導入判断に直結するため優先度高め。",
+    "published_at": "2026-10-14 20:43:11",
+    "created_at": "2026-10-15 04:30:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "小中学校の校務に“自前運用”の国産LLM NTT西と茨木市が全国初の実証",
+    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002276/",
+    "summary": "NTT西日本と茨木市が国産LLM「tsuzumi 2」を校務支援で実証開始。校務文書の検索・要約・作成支援で効率化と安全性を検証する全国初の試み。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "自治体／教育現場でのオンプレ系LLM導入実験はプライバシー設計や運用モデルの前例となるため有用。",
+    "published_at": "2026-10-14 18:37:59",
+    "created_at": "2026-10-15 04:30:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "デンマークの880万人分流出、原因はパスワード「123456」 ハッカー「侵入は難しくなかった」 現地報道",
+    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002257/",
+    "summary": "デンマーク中央個人登録簿『CPR』から約880万人分の個人情報が流出。侵入に利用されたのは民間事業者の簡単なパスワードだったと報道。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "国家レベルの登録簿流出かつ原因が基本的な認証管理の欠如で、政策・運用に大きな影響を与えるため高評価。",
+    "published_at": "2026-10-14 14:58:28",
+    "created_at": "2026-10-15 04:30:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SBI証券のFXで“誤ロスカット” 再委託先IIJが作業ミス、システムでも検知できず 779口座が対象",
+    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002249/",
+    "summary": "IIJの作業ミスとシステム設計欠陥で、SBI証券のFX口座779件に誤ったロスカットが実行された。検知できない処理フローが原因と判明。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "金融システムの運用ミスと再委託管理の失敗は、情シスや経営判断に直結する実務的教訓を含むため掲載価値あり。",
+    "published_at": "2026-10-14 12:15:50",
+    "created_at": "2026-10-15 04:30:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ブックオフ漏えい、退会者21万人も対象 個人情報638万人分の外部送信を確認",
+    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002243/",
+    "summary": "ブックオフが会員データ約642万件の外部送信を確認。名寄せで約638万人に相当し、退会者約21万人も含まれると発表。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模顧客データ流出は企業リスクと規制対応、顧客信頼に重大な影響を与えるため掲載価値高い。",
+    "published_at": "2026-10-14 10:27:55",
+    "created_at": "2026-10-15 04:30:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Google Play」、AI Studioで作った自作アプリを自分の端末で実行可能に AIでゲームを探す機能も",
+    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002240/",
+    "summary": "Google PlayにAI関連の開発者向け／利用者向け新機能。AI Studioで作成したアプリを開発者登録なしで端末で実行可能に。AIによるアプリ比較やプレイスタイル分析機能も追加予定。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発者体験と配布フローに影響するが、製品紹介寄りで読者への影響範囲は限定的ため低めに評価。",
+    "published_at": "2026-10-14 09:24:42",
+    "created_at": "2026-10-15 04:30:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "さいたま市や横須賀市など、防災情報配信システムに不正アクセス 全国でメアド最大313万漏えいか",
+    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002239/",
+    "summary": "全国700自治体が導入する防災情報配信システムに不正アクセスが発生。最大で約313万件のメールアドレス流出の可能性があり、不審メールの発信も確認されている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "公的インフラ・住民向け通知への侵害で、自治体運用や住民被害に直結する重要インシデント。",
+    "published_at": "2026-10-14 08:41:51",
+    "created_at": "2026-10-15 04:30:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Character.ai、米連邦破産法11条を申請 Disney系が一部IPのライセンス取得で先行入札",
+    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002238/",
+    "summary": "Character Technologiesが連邦破産法11条を申請。サービスは継続中だが、Disney系が一部IPのライセンス取得で先行入札していると報道。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "著名AIスタートアップの破綻は業界動向と知財移転の示唆があり、投資・事業戦略面で重要。",
+    "published_at": "2026-10-14 08:14:19",
+    "created_at": "2026-10-15 04:30:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
+    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002236/",
+    "summary": "OpenAIの役員会議室で録音装置が発見され、設置した疑いの従業員がFBIに逮捕。内部者による機密窃取の疑いが持たれている。米司法省も公表。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "著名AI企業での内部不正と捜査は、対策や信頼回復に直結する重大なインシデント。",
+    "published_at": "2026-10-14 07:17:56",
+    "created_at": "2026-10-15 04:30:30"
+  },
+  {
+    "source": "＠IT",
+    "title": "26H2初の月例更新で何が変わる？ ［Copilot］キー再割り当てなど新機能とゼロデイ修正を盛り込んだWindows 11「KB5127648」詳細",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/14/news066.html",
+    "summary": "Windows 11の月例更新KB5127648が公開。約1400件の修正を含み、既に悪用が確認されている「Windows Shell」機能バイパス（MotW回避）などゼロデイ修正を含む大規模更新。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "広範な脆弱性修正と既知の悪用対象を含むため、企業のパッチ適用判断や運用に重大な影響がある。",
+    "published_at": "2026-10-14 05:00:00",
+    "created_at": "2026-10-15 04:30:30"
+  },
+  {
+    "source": "Publickey",
+    "title": "Webアプリフレームワークの「SvelteKit 3」正式リリース。設定をViteに集約、型安全やエラー処理の改善など",
+    "url": "https://www.publickey1.jp/blog/26/websveltekit_3vite.html",
+    "summary": "SvelteKit 3が正式リリース。Vite依存の設定集約、型安全性とエラー処理の改善など、Web開発ワークフローを刷新する変更点が中心。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "フロントエンド開発コミュニティには有用だが、影響範囲は開発者寄りで一般読者向けの重要度は低め。",
+    "published_at": "2026-10-14 00:26:33",
+    "created_at": "2026-10-15 04:30:30"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "米Getty Imagesが破産申請へ AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す",
     "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002234/",
@@ -616,17 +748,6 @@
     "created_at": "2026-10-08 05:41:19"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "みずほ証券、国内金融業界初の直接液冷サーバ導入へ",
-    "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002104/",
-    "summary": "みずほ証券が金融シミュレーション基盤に直接液冷サーバ「HPE Cray XD2000」を採用し、液冷データセンターを構築。国内金融業界では初導入とされる。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "金融業界での液冷導入は高性能コンピューティング運用の潮流を示すが、影響は業界内に限定されるため中程度の重要度。",
-    "published_at": "2026-10-07 19:13:48",
-    "created_at": "2026-10-08 05:41:19"
-  },
-  {
     "source": "Impress Watch",
     "title": "アンソロピック「ミュトス」提供拡大 防御・レッドチームで利用可能に",
     "url": "https://www.watch.impress.co.jp/docs/news/2146399.html",
@@ -690,17 +811,6 @@
     "category": "AI",
     "reason": "オープンウェイトで大規模モデルが公開予定で、研究・セキュリティ・開発コミュニティに直接影響するため注目度高。",
     "published_at": "2026-10-07 10:43:15",
-    "created_at": "2026-10-08 05:41:19"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張 論文722本をGitHubで公開",
-    "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
-    "summary": "OpenAIが社内モデルが生成した数学の成果722本をGitHub公開。多くに形式証明を付し、数学界との対話を促す取り組みと説明。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "AIの研究成果公開は学術・信頼性の観点で興味深いが、即時の実務影響は限定的のため中小程度の重要度。",
-    "published_at": "2026-10-07 09:32:40",
     "created_at": "2026-10-08 05:41:19"
   },
   {
@@ -2663,28 +2773,6 @@
   },
   {
     "source": "＠IT",
-    "title": "IPA、ランサムウェア被害組織の生の声から得た“11の教訓”を公開",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news020.html",
-    "summary": "IPAがランサムウェア被害企業への聞き取りから「復旧・防止の11の教訓」を公開。事前準備や復旧手順、外部連携の重要性などを整理している。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "現実の被害事例に基づく実務的な教訓は情シス・経営層の対策立案に有用。",
-    "published_at": "2026-09-14 17:00:00",
-    "created_at": "2026-09-15 04:53:47"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "米トランプ大統領、広がるAI規制論に反論 「中国へのリードを維持したい」",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2609/14/2000001449/",
-    "summary": "トランプ大統領がAI規制議論に対して反論。中国に対する優位性維持を優先し、過度の規制には慎重な姿勢を示した。",
-    "importance": 3,
-    "category": "法規制",
-    "reason": "米大統領の発言は国際的なAI規制議論と産業政策に直接影響するため、企業戦略に関わる重要トピック。",
-    "published_at": "2026-09-14 14:59:09",
-    "created_at": "2026-09-15 04:53:47"
-  },
-  {
-    "source": "＠IT",
     "title": "「ゼロトラスト」でも防げず？ 政府共通基盤GSSで24.6万件が漏えいか",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news038.html",
     "summary": "政府共通基盤GSSで不正アクセスが発生。VPN脆弱性経由で保守担当者アカウントが悪用され、約24.6万件の個人情報流出の可能性があると報告された。",
@@ -2717,39 +2805,6 @@
     "created_at": "2026-09-15 04:53:47"
   },
   {
-    "source": "Impress Watch",
-    "title": "アンソロピック、「AI悪用」レポート 国家による影響工作や中国AIの蒸留を非難",
-    "url": "https://www.watch.impress.co.jp/docs/news/2140393.html",
-    "summary": "AnthropicがAIの悪用事例をまとめたレポートを公開。監視・影響工作・兵器や違法蒸留など具体的ケースを挙げて警鐘を鳴らしている。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AI悪用の実例と分析は政策立案・セキュリティ対策の議論材料として重要。",
-    "published_at": "2026-09-14 09:00:00",
-    "created_at": "2026-09-15 04:53:47"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "日立HMAX新技術「AIオーケストレーション」、特急注文など部門間調整を自動化",
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/14/news041.html",
-    "summary": "日立が製造業向けのAIオーケストレーション技術を公開。複数の部門特化AIと計画最適化を組み合わせ、部門間調整の自動化を狙う（2027年提供予定）。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "製造現場のスケジューリング自動化は業務効率と組織運用に直接影響するため、導入検討の価値が高い。",
-    "published_at": "2026-09-14 08:30:00",
-    "created_at": "2026-09-15 04:53:47"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "【西田宗千佳のイマトミライ】iPhone Duoは成功するか? アップル「AIデバイス時代」の密かな幕開け",
-    "url": "https://www.watch.impress.co.jp/docs/series/nishida/2140460.html",
-    "summary": "Appleの折りたたみiPhone「iPhone Duo」を分析。ハード・価格・AI機能の観点から、アップルが進める“AIデバイス時代”への布石を考察している。",
-    "importance": 3,
-    "category": "ガジェット",
-    "reason": "Appleの新機種は消費者向けだが、AI端末戦略の方向性が業界や開発者に与える示唆が大きい。",
-    "published_at": "2026-09-14 08:20:00",
-    "created_at": "2026-09-15 04:53:47"
-  },
-  {
     "source": "＠IT",
     "title": "Windows Defenderの脆弱性 修正からわずか数日で修正回避のPoC登場",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news031.html",
@@ -2758,39 +2813,6 @@
     "category": "セキュリティ",
     "reason": "修正後すぐに回避PoCが出た点は実運用のリスクが高く、企業・ユーザーの迅速な対策が必要。",
     "published_at": "2026-09-14 08:00:00",
-    "created_at": "2026-09-15 04:53:47"
-  },
-  {
-    "source": "＠IT",
-    "title": "「小型のAIデータセンター」初期費用は“たった3億円”から――なぜクラウドではなく敷地内にニーズ？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news035.html",
-    "summary": "自社敷地内でGPU搭載の“小型AIデータセンター”を構築する選択肢が台頭。初期費用約3億円からでオンプレ需要の背景を解説している。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "生成AI需要でオンプレGPU設置の経済性・運用要件が変化しており、インフラ選定に直結する情報。",
-    "published_at": "2026-09-14 08:00:00",
-    "created_at": "2026-09-15 04:53:47"
-  },
-  {
-    "source": "Publickey",
-    "title": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合",
-    "url": "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
-    "summary": "マイクロソフトが社内でRustをTier 1言語に格上げ。Windowsネイティブ開発環境との統合や内部ツール対応を進める計画が明らかになった。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "主要ベンダーの言語戦略の変化はツール/採用に波及するため、開発組織にとって注目度が高い。",
-    "published_at": "2026-09-14 00:27:57",
-    "created_at": "2026-09-15 04:53:47"
-  },
-  {
-    "source": "Publickey",
-    "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
-    "url": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
-    "summary": "TailscaleがAIゲートウェイ「Aperture」をGA公開。AIエージェントからTailscaleやノード操作が可能になり、運用自動化と新たなリスクをもたらす。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "ネットワーク運用の自動化とセキュリティ影響を同時に持つ製品として、情シスの検討対象になる。",
-    "published_at": "2026-09-14 00:08:50",
     "created_at": "2026-09-15 04:53:47"
   },
   {
