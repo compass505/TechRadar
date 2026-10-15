@@ -1,6 +1,138 @@
 [
   {
     "source": "Impress Watch",
+    "title": "ソースネクスト、最大2251万件の情報流出 パスワード再設定を",
+    "url": "https://www.watch.impress.co.jp/docs/news/2148547.html",
+    "summary": "ソースネクストが第三者の不正アクセスで会員情報約2,251万件が流出した可能性を公表。影響範囲が非常に大きく、パスワード再設定の通知を実施している。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模な個人情報流出で影響範囲・対応負荷が極めて大きく、規制・運用面で重大なインパクトがあるため。",
+    "published_at": "2026-10-15 19:46:49",
+    "created_at": "2026-10-16 04:16:10"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "国内WebサイトへのAIエージェント攻撃を観測 「8時間弱」続いた攻撃の推移を公開 国内セキュリティベンダー",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
+    "summary": "ビットフォレストがAIエージェントを使った日本企業Webサイトへの攻撃を観測。複数IPから攻撃が行われ、1つは8時間弱にわたり攻撃手法を変化させ続けたと報告。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "生成AIを使った新たな攻撃パターンの実観測で、防御設計や検知ルール更新の必要性が高い事例のため。",
+    "published_at": "2026-10-15 14:39:29",
+    "created_at": "2026-10-16 04:16:10"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "CTOが「AI導入で生産性を1年で2倍に」掲げた企業のその後 米国が開発者802人の進捗を追跡調査",
+    "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002260/",
+    "summary": "AI導入を義務化したソフトウェア企業の開発者802人を追跡した研究で、現場の生産性やレビュー負荷などに与える影響を分析。企業のAI導入戦略の実務的示唆を示す論文の紹介。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "経営判断や導入計画に直結する実証研究で、企業IT部門が押さえておくべき内容のため。",
+    "published_at": "2026-10-15 12:00:00",
+    "created_at": "2026-10-16 04:16:10"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "メドレーの産婦人科向けシステムに不正アクセス、患者の個人情報漏えいか 最大787の医療機関が対象",
+    "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002293/",
+    "summary": "メドレーの産婦人科向けシステムが不正アクセスを受け、患者情報の漏えいの有無や範囲を調査中。対象医療機関は最大787件に上る可能性がある。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "医療情報という高感度データへの侵害であり、被害の深刻度と業界影響が大きいため。",
+    "published_at": "2026-10-15 11:16:16",
+    "created_at": "2026-10-16 04:16:10"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ネットフリックスがレイオフ 従業員1000人削減へ 2022年以来の規模",
+    "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002291/",
+    "summary": "Netflixが全従業員の約6%に相当する約1000人の削減を実施すると発表。2022年以来の大規模レイオフで、業界の人員構成や求人動向に影響を与える可能性がある。",
+    "importance": 2,
+    "category": "ビジネス",
+    "reason": "大手テック企業の人員削減は業界の雇用・投資判断に影響を与えるため留意すべきニュース。",
+    "published_at": "2026-10-15 11:16:08",
+    "created_at": "2026-10-16 04:16:10"
+  },
+  {
+    "source": "＠IT",
+    "title": "Webアプリを狙う攻撃急増、優先順位どう付ける？ Microsoftが「11戦術・35テクニック」で対策を体系化",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/15/news022.html",
+    "summary": "Microsoftがクラウドホスト型Webアプリやサーバレスを標的とする「Threat Matrix for Cloud Web Applications」を公開。11の戦術・35のテクニックで対策を整理している。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "クラウド/Webアプリ運用での優先的対策指針を示す実務的フレームワークで、情シス/開発者に有用なため。",
+    "published_at": "2026-10-15 11:00:00",
+    "created_at": "2026-10-16 04:16:10"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "米8州「OpenAI」提訴 ChatGPTが「子供らに危害」 安全対策導入など求める",
+    "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002290/",
+    "summary": "アリゾナ州など8州がChatGPTを開発するOpenAIを提訴。子供への危害を理由に安全対策の導入や制裁金を求める法的措置が複数州で進行中。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "複数州による訴訟はAI事業者の運用・法規制の枠組みに直接影響し、業界全体で注視すべきため。",
+    "published_at": "2026-10-15 10:39:24",
+    "created_at": "2026-10-16 04:16:10"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "消防の一斉連絡システムに不正アクセス、個人情報漏えいか 防災メール配信システムのアルカディア運営",
+    "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002288/",
+    "summary": "防災メール配信システムへの不正アクセスで、自治体利用者のメールアドレス最大約313.6万件が漏えいした可能性を発表。自治体向けサービスのため公的影響が大きい。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "行政向けの連絡基盤に関わる漏えいで、公共安全・運用に直接関わるため優先度が高い。",
+    "published_at": "2026-10-15 10:37:33",
+    "created_at": "2026-10-16 04:16:10"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「YouTube Music」、生成AIで作られた楽曲にラベル表示",
+    "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002287/",
+    "summary": "YouTube Musicが生成AIで作られた楽曲にラベルを表示する機能を導入。メタデータ申告だけでなく独自検知でも判定し、今後YouTube本体にも拡大予定。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "生成コンテンツの透明性強化というプラットフォーム方針で、業界やクリエイター影響があるため。",
+    "published_at": "2026-10-15 10:27:38",
+    "created_at": "2026-10-16 04:16:10"
+  },
+  {
+    "source": "＠IT",
+    "title": "「一般公開していないから安全」は通用しない JPCERT/CCが示した不正アクセス4つの手口",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/15/news021.html",
+    "summary": "JPCERT/CCが国内組織で発生した不正アクセス事案の痕跡と手口を公表。公開外システムや内部向けツールが侵入経路になった事例など、実務的な対策ポイントを整理している。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "現場での防御対策に直結する具体的手口の公表で、情シス・セキュリティ担当に有益なため。",
+    "published_at": "2026-10-15 08:00:00",
+    "created_at": "2026-10-16 04:16:10"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AIデータセンターの電力問題、答えは「計算処理の引っ越し」か？ 日立など5社、横浜と北九州をつないで実証",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/14/news029.html",
+    "summary": "再生可能エネルギーの余剰を活用するため、AIワークロードを発電状況に応じて別拠点に移す「ワークロードシフト」の実証を日立などが実施。省エネ・需給調整の可能性を検証する。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "AIインフラと電力需給の現実的ソリューションで、データセンター運用や企業のコスト戦略に影響するため。",
+    "published_at": "2026-10-15 08:00:00",
+    "created_at": "2026-10-16 04:16:10"
+  },
+  {
+    "source": "Publickey",
+    "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
+    "url": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
+    "summary": "マイクロソフトがWindows 11向けにAIエージェントを隔離実行するMXCを正式リリース。ファイル・ネットワーク境界の柔軟な設定で安全にローカルエージェントを走らせられる。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発者・運用がAIエージェントを安全に扱うための基盤技術であり、実務導入の判断に役立つため。",
+    "published_at": "2026-10-15 00:57:19",
+    "created_at": "2026-10-16 04:16:10"
+  },
+  {
+    "source": "Impress Watch",
     "title": "IDCFクラウドの不正アクセス、一部データは復元可能に データ流出は「確認されず」",
     "url": "https://www.watch.impress.co.jp/docs/news/2148186.html",
     "summary": "IDCFクラウドの東日本リージョンでの不正アクセス障害について第5報。外部へのデータ流出は確認されていないと判断、一部バックアップの復元見通しを公表。",
@@ -31,6 +163,17 @@
     "reason": "自治体／教育現場でのオンプレ系LLM導入実験はプライバシー設計や運用モデルの前例となるため有用。",
     "published_at": "2026-10-14 18:37:59",
     "created_at": "2026-10-15 04:30:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft、3つの国際的な犯罪ネットサービスを解体へ 日本狙った詐欺がきっかけ",
+    "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002299/",
+    "summary": "Microsoftと非営利団体が連携し、フィッシング詐欺支援の国際的サービス3件のドメイン差し押さえなどで解体を進めたと発表。日本を狙う詐欺情報提供がきっかけ。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "プラットフォーム企業と国際連携によるサイバー犯罪インフラ解体は業界と被害軽減に直結する重要事例のため。",
+    "published_at": "2026-10-14 15:46:53",
+    "created_at": "2026-10-16 04:16:10"
   },
   {
     "source": "ITmedia NEWS",
@@ -2652,39 +2795,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "「監視されていないときのAIは、もう評価できない」 OpenAI現役研究者が個人声明",
-    "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001500/",
-    "summary": "OpenAIの現役研究者が個人声明で、モデルの状況認識向上により人間が真の振る舞いを評価できなくなりつつあると警告。意図しない目標獲得や現行の安全対策への懸念を表明した。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "内部研究者の警鐘はAI安全論議や企業のガバナンス判断に影響を与えるため、読者の理解に資するニュース。",
-    "published_at": "2026-09-15 17:33:37",
-    "created_at": "2026-09-16 04:06:56"
-  },
-  {
-    "source": "CNET Japan",
-    "title": "KDDI、「Starlink Mobile V2」27年導入 通信速度が向上しVoLTEも利用可能",
-    "url": "https://japan.cnet.com/article/35252636/",
-    "summary": "KDDIがSpaceXとStarlink Mobile V2の提供契約を締結。衛星とスマホの直接接続で、圏外エリアでも高速データ通信やVoLTEを2027年内に提供する計画を発表した。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "携帯・衛星融合の商用化は企業の可用性戦略やリモート運用、通信インフラ設計に影響するため掲載価値あり。",
-    "published_at": "2026-09-15 15:40:00",
-    "created_at": "2026-09-16 04:06:56"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "日本郵便、荷物の本人確認をICチップ付き身分証4種に限定 スマホのマイナカードで受け取れる場合も",
-    "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001492/",
-    "summary": "日本郵便が本人限定受取郵便の本人確認書類を、ICチップ付き写真付きの4種類に限定する見直しを発表。パスポートなどは使えなくなる。2027年4月1日施行予定。",
-    "importance": 3,
-    "category": "法規制",
-    "reason": "本人確認方式の変更は物流業務フローや顧客対応、自治体・事業者のID連携に影響するため実務的価値が高い。",
-    "published_at": "2026-09-15 14:55:27",
-    "created_at": "2026-09-16 04:06:56"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "シャープ、AIサーバ事業に参入 30年度に新規事業の“大半”占める売上2500億円目指す 狙いは？",
     "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001483/",
     "summary": "シャープがNVIDIA搭載の業務向けAIサーバを受注開始。サーバ販売から導入支援・保守・国内生産へ展開し、2030年度に売上2500億円を目指すと表明した。国内AI推論市場を主戦場に据える戦略。",
@@ -2692,39 +2802,6 @@
     "category": "企業IT",
     "reason": "国内大手がAIインフラ市場に本格参入する戦略発表で、データセンター需要・ベンダ構図に直接影響するため掲載価値が高い。",
     "published_at": "2026-09-15 14:45:06",
-    "created_at": "2026-09-16 04:06:56"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "推論領域への野心強めるNVIDIA 韓国新興と協議か",
-    "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/15/news061.html",
-    "summary": "NVIDIAが韓国の推論用NPUに強みを持つスタートアップRebellionsと協議中。技術提携や出資、買収の可能性が報じられ、推論向けハード戦略を強化する動きとされる。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "推論向けNPUはAIインフラ競争の焦点であり、NVIDIAの戦略展開は業界の競争環境に影響するため重要。",
-    "published_at": "2026-09-15 11:00:00",
-    "created_at": "2026-09-16 04:06:56"
-  },
-  {
-    "source": "＠IT",
-    "title": "AIの「脱クラウド・オンプレミス回帰」が66％、「AI案件の中止」も多数――その原因は？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news031.html",
-    "summary": "Cloudera調査で、企業の66％がAIをクラウドからオンプレへ戻す動きを経験。またAI案件の延期・中止も多数報告され、理由にコスト・セキュリティ・運用負荷が挙がる。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "企業のAIインフラ選定に関する実務トレンドを示す調査で、クラウド戦略やコスト管理に直接示唆を与える。",
-    "published_at": "2026-09-15 11:00:00",
-    "created_at": "2026-09-16 04:06:56"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
-    "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
-    "summary": "配車アプリGOとWaymo、日本交通が合意し、段階的に100台規模で自動運転タクシーを東京で運行する計画。2027年の商用運行に向けた協力体制を整える。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "自動運転の商用化は都市交通・雇用・規制に影響する主要な産業動向で、TechRadar読者にも関連性が高い。",
-    "published_at": "2026-09-15 09:39:38",
     "created_at": "2026-09-16 04:06:56"
   },
   {
@@ -2747,28 +2824,6 @@
     "category": "セキュリティ",
     "reason": "AIの普及に伴う実務上の脅威モデルの変化を示すもので、情シス・セキュリティ対策に直接関わる重要情報。",
     "published_at": "2026-09-15 07:00:00",
-    "created_at": "2026-09-16 04:06:56"
-  },
-  {
-    "source": "atmarkit.itmedia.co.jp",
-    "title": "その.envのAPIキーが、AIエージェントを「内通者」に変える――“人間前提のやり方”は破綻した",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news013.html",
-    "summary": "AIエージェントの普及でAPIキーやトークン管理が大量化。従来の.envや人手前提の管理手法が限界に達し、機密管理・認証設計の再構築が必要になっていると指摘する。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発・運用現場で直面する認証管理の課題を具体的に示しており、開発者・情シスの実務判断に役立つため。",
-    "published_at": "2026-09-15 05:00:00",
-    "created_at": "2026-09-16 04:06:56"
-  },
-  {
-    "source": "Publickey",
-    "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
-    "url": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
-    "summary": "Linux Foundation傘下でAgent Routerをオープンソース化・標準化へ。各社のAIエージェントAPI差を吸収し、相互運用性を高める取り組みを推進する。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "エージェント間の相互運用性を標準化する動きは、開発者・企業の実装負荷とベンダロックインに直結するため重要。",
-    "published_at": "2026-09-15 00:51:16",
     "created_at": "2026-09-16 04:06:56"
   },
   {
