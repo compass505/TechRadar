@@ -12921,33 +12921,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "632ec85c1bd5",
-    "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
-    "published_date": "2026-09-16",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Bloomberg報道によればOpenAIがAnthropicやGoogle DeepMindとAI安全性で協議中。反トラスト除外や政府介入への議論が活発化している。業界内の安全・規制対応の動きが注目される。",
-    "reason": "主要プレイヤー間の安全協議は業界潮流と規制リスクを左右するため、ビジネス・政策観点で重要。",
-    "published_at": "2026-09-16 07:13:20",
-    "created_at": "2026-09-17 03:57:37",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/16/2000001522/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "2985cbbe0177",
     "title": "Salesforceで大規模障害 「夕方以降に落ちるなんて」阿鼻叫喚 PayPayのフォームにも影響",
     "published_date": "2026-09-16",
@@ -12973,293 +12946,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 2,
     "utility_score": 4,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "7dadebc7cc7c",
-    "title": "「APIキーは.envに」はもはや通用しない AIエージェントの“内通者化”をどう防ぐ？",
-    "published_date": "2026-09-16",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "AIエージェント普及で増えるAPIキーやトークン管理の課題を整理。従来の.env運用が抱える欠点と、認証情報の安全な管理・設計パターンを提案している。開発・運用のセキュリティ実務に直結する内容。",
-    "reason": "AIエージェント時代の認証情報管理は現場リスクが高く、技術的な対策指針として有用。",
-    "published_at": "2026-09-16 05:00:00",
-    "created_at": "2026-09-17 03:57:37",
-    "representative_source": "atmarkit.itmedia.co.jp",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html",
-    "sources": [
-      "atmarkit.itmedia.co.jp"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 3,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "52fa86402d35",
-    "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
-    "published_date": "2026-09-16",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "OracleがJava 27を正式リリース。G1 GCの全環境デフォルト化や耐量子暗号向けハイブリッド鍵交換などを含むアップデート。開発・運用での互換性・セキュリティ対応の確認が必要。",
-    "reason": "主要ランタイムのメジャーアップデートは開発者・運用に影響するため早期把握が有用。",
-    "published_at": "2026-09-16 00:52:17",
-    "created_at": "2026-09-17 03:57:37",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 3,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "361500a1b3cd",
-    "title": "なぜクラウド支出の「約4分の1」が無駄になる？ その理由と、コストを適正にする“13のポイント”",
-    "published_date": "2026-09-16",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "A.T. カーニーの分析を元に、パブリッククラウド移行で発生する無駄な支出の典型事例と、コスト最適化の13ポイントを解説。クラウド移行・運用のコスト管理に役立つ実務的な指針が提示されている。",
-    "reason": "クラウドコスト最適化は多くの企業の経営判断に直結するため、実践的ガイドは読者価値が高い。",
-    "published_at": "2026-09-16 11:00:00",
-    "created_at": "2026-09-17 03:57:37",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news021.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "2c1fed7f13b8",
-    "title": "ウェザーニューズが「社外AIは漏えいが怖い」を“独自AI”で解決 社員8割が使うその中身とは",
-    "published_date": "2026-09-16",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "ウェザーニューズが自社開発の独自AIを導入し、情報漏洩リスクを抑えつつ社内の業務効率化を推進。社員の約8割が利用する運用実例と設計方針を紹介している。",
-    "reason": "社内AIの現実的な導入例は他社の導入判断やガバナンス設計に役立つため編集価値が高い。",
-    "published_at": "2026-09-16 11:00:00",
-    "created_at": "2026-09-17 03:57:37",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news030.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 3,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "cff0dbfd750e",
-    "title": "オラクル、Javaのセキュリティパッチを毎月提供開始、AIが脆弱性の発見を加速しているとして",
-    "published_date": "2026-09-16",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "OracleがJavaのパッチ提供サイクルを四半期から月次に短縮。AIによる脆弱性発見の加速を理由に早期対応を強化するとしている。セキュリティ運用やパッチ管理プロセスの見直しが必要になる。",
-    "reason": "パッチ頻度変更は運用負荷とリスク管理に直結し、情シスの優先対応事項となるため掲載価値が高い。",
-    "published_at": "2026-09-16 00:49:38",
-    "created_at": "2026-09-17 03:57:37",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/javaai.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 1,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "8371435cad70",
-    "title": "グーグル、新ライブ対話モデル「Gemini 3.8 Live」 推論強化の上位版も",
-    "published_date": "2026-09-16",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Googleが音声対話を止めずに裏でツール実行や推論を進められる「Gemini 3.8 Live」とExtended版を発表。リアルタイム音声/ビジュアル対話と強化推論で音声エージェントの実用性が向上する。WorkspaceやAPIで提供予定。",
-    "reason": "音声エージェントとリアルタイム推論の進化は音声UIや業務自動化に影響し、開発・導入判断に有用。",
-    "published_at": "2026-09-16 12:16:23",
-    "created_at": "2026-09-17 03:57:37",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2141266.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "4fce979fae28",
-    "title": "ドコモ、34万ユーザーの電話番号などAmazonに無断提供 人的ミスで同意事項を削除",
-    "published_date": "2026-09-16",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "NTTドコモが人的ミスで同意項目を削除し、約34万件の電話番号などをAmazonに無断提供。個人情報取り扱いのガバナンスと顧客同意管理に問題があるとされる。監督当局や顧客対応が注目される。",
-    "reason": "大手キャリアによる同意ミスは個人情報規制・信頼に直結し、企業ガバナンス面で示唆が大きい。",
-    "published_at": "2026-09-16 12:53:56",
-    "created_at": "2026-09-17 03:57:37",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/16/2000001538/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "80d27f8164d0",
-    "title": "ヒューマン・イン・ザ・ループ万能説崩壊 NISTが提唱するAIエージェント運用のあるべき姿",
-    "published_date": "2026-09-16",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "NISTがAIエージェント運用に関する見解を提示し、単純な『人の承認』依存の運用では穴があると指摘。安全なエージェント運用設計や管理体制の見直しが求められる内容。",
-    "reason": "企業でのAI導入・運用に直結するガバナンス指針で、情シス／開発チームに示唆を与えるため重要。",
-    "published_at": "2026-09-16 08:00:00",
-    "created_at": "2026-09-17 03:57:37",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news017.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "94e772ab6330",
-    "title": "人が「承認」した無害なコマンドでAIが乗っ取られる コードエディタCursorを襲った“2行の攻撃”",
-    "published_date": "2026-09-16",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "AIコーディングエージェントで、人間が承認した無害なコマンドが環境変数改変を通じて攻撃コードを実行させるケースを解説。承認フローや環境隔離の脆弱性を具体例で示している。",
-    "reason": "実運用で発生するAIエージェントの攻撃パターンは開発現場とセキュリティ対策に直接関わるため注目に値する。",
-    "published_at": "2026-09-16 08:00:00",
-    "created_at": "2026-09-17 03:57:37",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news033.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 2,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "f9121b10d2ad",
-    "title": "富士通、国産CPU「モナカ」販売 スパコン技術を結集した“小さなチップ”に託す「3兆円のAIビジネス」の行方",
-    "published_date": "2026-09-16",
-    "importance_score": 3,
-    "category": "半導体",
-    "summary": "富士通が国産CPU『モナカ』を販売開始。スパコン技術を凝縮したチップで、2035年度までにAI関連で3兆円規模のビジネスを狙う戦略を示す。半導体・AIインフラの国内戦略として注目。",
-    "reason": "国家的な半導体・AI戦略に関わる製品リリースであり、市場・産業戦略の観点で重要。",
-    "published_at": "2026-09-16 07:00:00",
-    "created_at": "2026-09-17 03:57:37",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/business/articles/2609/16/news039.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
     "has_itmedia_article": true
   },
   {
@@ -18158,33 +17844,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "8b221bc4f0d1",
-    "title": "ChatGPT、ついに音声ファイルに対応 文字起こしや要約などが可能に 有料ユーザー向け",
-    "published_date": "2026-10-09",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "OpenAIがChatGPTで音声ファイルのアップロード対応を開始。文字起こし、要約、内容に関する質問などが可能に（有料/ワークスペース向け）。",
-    "reason": "実務での利用幅は広がるが機能追加の範疇であり、影響は限定的なため中程度評価。",
-    "published_at": "2026-10-09 19:44:36",
-    "created_at": "2026-10-10 05:09:48",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "1e0c5b02b1b0",
     "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
     "published_date": "2026-10-09",
@@ -20020,6 +19679,256 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "019f7b55eba9",
+    "title": "AIエージェントに「何を指示するか」より「何をさせないか」――NVIDIAが示す設計の原則",
+    "published_date": "2026-10-16",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "NVIDIAがAIエージェントが社内システムを操作する際の設計原則を提言。実行環境でのアクセス制御や権限管理、継続的検証の重要性を強調している。",
+    "reason": "AIエージェントの実装に伴う具体的なセキュリティ設計指針で、開発者・情シス双方にとって実務的価値が高い。",
+    "published_at": "2026-10-16 11:00:00",
+    "created_at": "2026-10-17 03:52:09",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news032.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d759c7b35816",
+    "title": "Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与 公表に拒否権なし",
+    "published_date": "2026-10-16",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "AnthropicはAI評価団体METRに端末やオフィスを提供し常駐評価を開始。社内システムへの従業員並みアクセスを認め、報告の公表拒否は認めない取り決めを導入した。",
+    "reason": "外部評価の実態と透明性確保の新しい枠組みは、AI企業ガバナンスや信頼性評価の業界標準化に影響するため注目すべき。",
+    "published_at": "2026-10-16 09:49:28",
+    "created_at": "2026-10-17 03:52:09",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/16/2000002315/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5c1966417f60",
+    "title": "Meta、「米国製で最高性能」のオープンモデル「Muse Spark Open」発表 Apple Siliconに最適化、Mac Studio×2でローカル動作",
+    "published_date": "2026-10-16",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "MetaがオープンウェイトモデルMuse Spark Openを公開。重みの公開によりローカル運用やカスタマイズが可能で、商用利用は条件付きの独自ライセンス。",
+    "reason": "オープンモデルの高性能化は研究・開発環境と商業利用の両面で影響が大きく、企業のモデル戦略やオンプレ運用の選択肢を変える可能性がある。",
+    "published_at": "2026-10-16 14:14:11",
+    "created_at": "2026-10-17 03:52:09",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "6f8c701c94c9",
+    "title": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析 生産性どう変わる",
+    "published_date": "2026-10-16",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "Microsoft社内でコマンドライン型AIコーディング支援（Claude Code、Copilot CLI）を数万人規模で導入した効果を分析した論文を公表。利用傾向や生産性への影響を実データで評価している。",
+    "reason": "企業でのAI開発ツール導入がエンジニア生産性に与える具体的な示唆を示すため、開発組織の導入判断に有益。",
+    "published_at": "2026-10-16 12:00:00",
+    "created_at": "2026-10-17 03:52:09",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "af08f2d5e71e",
+    "title": "TSMCが純利益68.7％増で最高益更新 魏会長「需要は極めて堅調」",
+    "published_date": "2026-10-16",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "TSMCの2026年7～9月期決算が過去最高を更新。売上高・純利益とも大幅増で、半導体需要の強さと供給面の優位性が示された。",
+    "reason": "業界最大手の業績好調はサプライチェーン、価格、投資動向に直結し、半導体関連企業や顧客企業の戦略判断に影響する。",
+    "published_at": "2026-10-16 10:30:00",
+    "created_at": "2026-10-17 03:52:09",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/business/articles/2610/16/news052.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e4eb51125d85",
+    "title": "うるう秒、27年5月に廃止 国際度量衡総会で決定 通信や情報システムの障害防止へ",
+    "published_date": "2026-10-16",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "国際度量衡総会は2027年5月20日にうるう秒を廃止する決議を採択。半世紀余の運用が終了し、時刻基準の取り扱い変更が確定した。",
+    "reason": "時刻同期やタイムスタンプ依存のシステムに広範な影響が及ぶため、通信・金融・情報システム運用側での計画的対応が必須。",
+    "published_at": "2026-10-16 17:48:15",
+    "created_at": "2026-10-17 03:52:09",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/16/2000002343/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "93f71fcf4a5f",
+    "title": "タイムズカー、退会後も7年間保管していた免許証画像を全削除へ 約660万アカウント分の漏えい受け",
+    "published_date": "2026-10-16",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "タイムズモビリティのカーシェアで約660万アカウントの個人情報が流出。うち約160万件に運転免許証画像が含まれる。社内ルールを見直し、登録確認後の画像削除を明言した。",
+    "reason": "大規模な個人情報漏えいかつ本人確認画像を含むため、利用者影響と運用ルール変更の必要性が高く、情シス・法務に直接影響する。",
+    "published_at": "2026-10-16 19:09:01",
+    "created_at": "2026-10-17 03:52:09",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "47acb9a8d3a1",
+    "title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
+    "published_date": "2026-10-16",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "不正アクセスの増加を受け、Gartnerが日本企業向けに短期で実施すべき「7つのアクション」を提示。AI悪用で攻撃速度が速まるリスクに対応する実務的提言を含む。",
+    "reason": "経営・情シスレベルで即時検討すべき実務指針であり、多数の企業が短期対応を迫られる情勢判断に資する。",
+    "published_at": "2026-10-16 14:20:00",
+    "created_at": "2026-10-17 03:52:09",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "6f2d7bac15ce",
+    "title": "人気Web制作ツール「Studio」全ユーザーの情報漏えいか フォームに送信された内容、外部APIキーなども",
+    "published_date": "2026-10-16",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "Web制作プラットフォームStudioで、アカウント情報やフォーム送信内容、外部サービスのAPIキーなど広範囲な情報流出の可能性が報告された。開発者・運用者への連鎖的影響が懸念される。",
+    "reason": "開発者が利用するツールで外部APIキー等が漏れるとサプライチェーン的に即時かつ広範な悪用・連鎖被害が発生するリスクがあり、緊急対応性が高い。",
+    "published_at": "2026-10-16 14:41:39",
+    "created_at": "2026-10-17 03:52:09",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/16/2000002332/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 3,
     "has_itmedia_article": true
   }
 ]
