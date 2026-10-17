@@ -12949,63 +12949,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "02896597fdd1",
-    "title": "Cloudflareの新機能「AI学習の不許可」 Google、Apple、Microsoftが対応",
-    "published_date": "2026-09-17",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Cloudflareがクロールは許可したまま同クローラーによるAI学習だけを拒否できる設定「Disallow AI Training」を発表。主要プラットフォームが対応を表明した。",
-    "reason": "企業のデータ利用制御・権利保護に直結する技術仕様で、データガバナンスや契約条項に影響するため注意が必要。",
-    "published_at": "2026-09-17 15:19:43",
-    "created_at": "2026-09-18 04:07:53",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001584/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "bb7bd4cca639",
-    "title": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開 データ捏造など6件の事例も公表",
-    "published_date": "2026-09-17",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "OpenAIはモデルのミスアライメント事例を追跡・公表する新枠組みを発表。APIキー無断探索やデータ捏造など、訓練中に観測された6件の事例報告書を公開した。",
-    "reason": "AIガバナンスと透明性に関する企業の取り組みとして重要で、導入企業や研究者の判断材料になる。",
-    "published_at": "2026-09-17 10:23:50",
-    "created_at": "2026-09-18 04:07:53",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "959469b65a5d",
     "title": "Salesforce、7時間半の大規模障害から復旧 よりによって「Dreamforce」2日目に発生",
     "published_date": "2026-09-17",
@@ -13057,35 +13000,6 @@
     ],
     "ai_relevance_score": 2,
     "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "ae9a468704c4",
-    "title": "デジタル相に古川俊治氏 AI戦略やサイバー安保も担当 外科医で弁護士、MBAも取得",
-    "published_date": "2026-09-17",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "第2次高市改造内閣で古川俊治参院議員がデジタル大臣に就任。AI政策やデジタル改革推進、サイバー安全保障などを担当することが明らかになった。",
-    "reason": "国のデジタル・AI・サイバー政策の責任者交代は規制方針や産業支援に直結し、事業・法務判断に影響を与えるため掲載価値あり。",
-    "published_at": "2026-09-17 19:36:13",
-    "created_at": "2026-09-18 04:07:53",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001594/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
@@ -13205,34 +13119,6 @@
     "urgency_score": 0,
     "utility_score": 3,
     "has_itmedia_article": true
-  },
-  {
-    "id": "2149077d6a9b",
-    "title": "旅客機並みの巨大通信衛星「スターリンクV3」がもたらすもの",
-    "published_date": "2026-09-17",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "イーロン・マスクがスターリンクV3衛星群の展開開始を発表。航路や容量が大幅に拡大され、宇宙通信事業の新フェーズ入りを示唆している。",
-    "reason": "大容量衛星群の展開はグローバルな通信インフラとクラウド接続のあり方を変えうるため、ISPや事業戦略に影響する重要トピック。",
-    "published_at": "2026-09-17 14:02:14",
-    "created_at": "2026-09-18 04:07:53",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001579/",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
   },
   {
     "id": "7dc79564dfb4",
@@ -18259,33 +18145,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "f46c6aa9fb10",
-    "title": "「最大627人分パスポート情報が抜かれた」 HISが公表まで”約10カ月”もかかった意外な理由",
-    "published_date": "2026-10-10",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "HISのタイ現地法人のファイルサーバが不正アクセスを受け、最大627人分のパスポート情報等が流出した可能性。データ混在で特定に手作業を要し公表が遅れた。",
-    "reason": "旅行業界での個人情報流出と開示遅延の実例で、第三者調査や社内体制の課題を示すため開示事例として有益。",
-    "published_at": "2026-10-10 17:00:00",
-    "created_at": "2026-10-11 04:22:54",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news006.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "8c4f8cafd06a",
     "title": "不正アクセス被害激増、今、何をすべきか？ IPAから緊急の点検要請",
     "published_date": "2026-10-10",
@@ -18311,35 +18170,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 2,
     "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "06421d218fa3",
-    "title": "出社回帰で離職リスク？ AI得意言語の分析からインフラ人手不足解消まで、エンジニアの本音と課題",
-    "published_date": "2026-10-10",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "注目を集めたエンジニア向け記事10本をまとめ、出社回帰やAI活用、インフラ人材不足などエンジニアの本音と課題を整理している。",
-    "reason": "開発現場のトレンドと人材課題がまとまっており、採用やプロダクト方針を考える上で参考になるため掲載価値あり。",
-    "published_at": "2026-10-10 08:00:00",
-    "created_at": "2026-10-11 04:22:54",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news003.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 2,
     "has_itmedia_article": false
   },
   {
@@ -19846,34 +19676,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "93f71fcf4a5f",
-    "title": "タイムズカー、退会後も7年間保管していた免許証画像を全削除へ 約660万アカウント分の漏えい受け",
-    "published_date": "2026-10-16",
-    "importance_score": 4,
-    "category": "セキュリティ",
-    "summary": "タイムズモビリティのカーシェアで約660万アカウントの個人情報が流出。うち約160万件に運転免許証画像が含まれる。社内ルールを見直し、登録確認後の画像削除を明言した。",
-    "reason": "大規模な個人情報漏えいかつ本人確認画像を含むため、利用者影響と運用ルール変更の必要性が高く、情シス・法務に直接影響する。",
-    "published_at": "2026-10-16 19:09:01",
-    "created_at": "2026-10-17 03:52:09",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "47acb9a8d3a1",
     "title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
     "published_date": "2026-10-16",
@@ -19930,5 +19732,144 @@
     "urgency_score": 0,
     "utility_score": 3,
     "has_itmedia_article": true
+  },
+  {
+    "id": "cbe4d55bfb1f",
+    "title": "BASE子会社の漏えい、約2335万人分に 209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も",
+    "published_date": "2026-10-17",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "BASEの子会社で約2335万6000人分の個人情報が流出と公表。うち約209万6900人分にはカード名義やカード番号の一部と有効期限が含まれる。大規模な顧客情報漏えいで被害拡大の懸念。",
+    "reason": "数千万規模の個人情報・クレカ情報流出は広範な不正利用リスクと業務対応を強制する重大事案のため。",
+    "published_at": "2026-10-17 09:32:41",
+    "created_at": "2026-10-18 02:52:47",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "2646ee17538e",
+    "title": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明",
+    "published_date": "2026-10-17",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "400社超のSES企業調査で、多くが技術力を掲げる一方で評価・育成の根拠や明文化が不足している実態を指摘。経歴詐称や人材品質問題の背景を探る。",
+    "reason": "エンジニア人材の評価・採用・品質管理に関する実務的課題で、開発現場や調達判断に影響するため。",
+    "published_at": "2026-10-17 13:00:00",
+    "created_at": "2026-10-18 02:52:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "442a71ffa3ad",
+    "title": "「ダークWebで個人情報を検出しました」 アカウント“流出”の原因と、その予防策",
+    "published_date": "2026-10-17",
+    "importance_score": 2,
+    "category": "セキュリティ",
+    "summary": "ダークWebでの個人情報流出確認時のリスクと、被害検知後の初動対応・予防策をESETが解説。アカウント乗っ取りや詐欺対策の具体的手順を提示。",
+    "reason": "実務的な被害予防・初動対応の解説で、読者のセキュリティ対策に直接役立つため掲載価値あり。",
+    "published_at": "2026-10-17 13:00:00",
+    "created_at": "2026-10-18 02:52:47",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news006.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "cd64e591e02b",
+    "title": "タイムズカー、退会後も7年間保管していた免許証画像を全削除へ 約660万アカウント分の漏えい受け",
+    "published_date": "2026-10-17",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "カーシェア「タイムズカー」で約660万アカウントの情報漏えいが発生。うち約160万アカウントには運転免許証画像が含まれており、同社は本人確認画像を即時削除する運用に改めると発表。",
+    "reason": "本人確認情報の長期保管が明らかになり、個人情報管理・運用方針変更を伴う業界的影響が大きい。",
+    "published_at": "2026-10-17 10:16:08",
+    "created_at": "2026-10-17 03:52:09",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "505d9d650f15",
+    "title": "音声AI「Grok Voice 3.0」 応答1秒未満 テスラにも搭載",
+    "published_date": "2026-10-17",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "xAIが音声対話AIモデル「Grok Voice 3.0」を発表。応答1秒未満をうたう高速性と開発者向けAPI提供、テスラ搭載の報道があり自動車や音声UXでの採用が注目される。",
+    "reason": "低遅延音声AIの実運用導入（自動車含む）とAPI提供は開発者や製品戦略に関わる技術動向として有用。",
+    "published_at": "2026-10-17 08:30:00",
+    "created_at": "2026-10-18 02:52:47",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2148932.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
   }
 ]
