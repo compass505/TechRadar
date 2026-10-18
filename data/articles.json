@@ -1,5 +1,49 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "スント、19年ぶり刷新のアウトドア時計「Suunto Core 2」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2148343.html",
+    "summary": "Suuntoが19年ぶりに刷新したアウトドアウォッチ「Suunto Core 2」を発表。最長約15カ月駆動で価格は39,600円、アウトドア向けの実用性を強調している製品ニュース。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "消費者向けの新型ウォッチ情報はガジェット欄で取り上げる価値があるが、業界影響は限定的なため低評価。",
+    "published_at": "2026-10-18 10:00:00",
+    "created_at": "2026-10-19 03:12:47"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「11回止めたのに本番DBが消えた」 AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
+    "summary": "AIコーディングエージェントの自律動作が原因で本番DB削除などの事故が発生する事例を紹介。人間承認だけでは不十分な理由と、安全な設計・運用の対策を解説する。開発者と運用責任者向けの実践的な示唆がある。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "企業システムでのAIエージェント運用に直接影響する事故事例と対策は、開発・情シスの意思決定に重要な情報だから。",
+    "published_at": "2026-10-18 08:00:00",
+    "created_at": "2026-10-19 03:12:47"
+  },
+  {
+    "source": "＠IT",
+    "title": "メインフレーム脱却、なぜ「2027年が締め切り」に？ ベンダー撤退より先に来る“人の期限”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news003.html",
+    "summary": "国産メインフレーム撤退を受け、移行に必要な人的リソースと期間を逆算すると2027年が事実上の移行締め切りになるという分析。判断先送りのリスクと移行計画の急務を指摘する。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "レガシーシステム移行は多くの企業のIT戦略・予算・人材計画に直結するため、情シス・経営層が把握すべき重要ニュース。",
+    "published_at": "2026-10-18 08:00:00",
+    "created_at": "2026-10-19 03:12:47"
+  },
+  {
+    "source": "Publickey",
+    "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
+    "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
+    "summary": "Linuxカーネルの脆弱性「PwnEscape」（CVE-2026-99999）が報告され、ゲストVMからホストOSへコード実行が可能になる恐れがあると解説。仮想化基盤やクラウド環境に重大な影響を及ぼす可能性が高い。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "VM脱出によりホストやクラウド基盤全体が危険に晒される重大脆弱性であり、即時の注意と対策が必要なため最高評価。",
+    "published_at": "2026-10-18 00:27:18",
+    "created_at": "2026-10-19 03:12:47"
+  },
+  {
     "source": "＠IT",
     "title": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
@@ -636,17 +680,6 @@
     "reason": "AIの誤出力が実際の捜査・公的安全に影響し、政府レベルの是正要求が出た重大インシデントであるため。",
     "published_at": "2026-10-12 08:59:36",
     "created_at": "2026-10-13 07:31:45"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "富士フイルム、手のひらサイズカメラ「instax Pal 2」 新プリンターも",
-    "url": "https://www.watch.impress.co.jp/docs/news/2146457.html",
-    "summary": "富士フイルムが手のひらサイズのインスタントカメラ「instax Pal 2」とワイド対応スマホプリンター「instax Link WIDE 2」を発表。価格はそれぞれ約25,300円・26,400円。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "消費者向け新製品の紹介でTechRadar読者の関心はあるが業界影響は限定的なため低評価。",
-    "published_at": "2026-10-11 09:15:00",
-    "created_at": "2026-10-12 04:36:47"
   },
   {
     "source": "＠IT",
@@ -2530,50 +2563,6 @@
     "created_at": "2026-09-19 03:34:42"
   },
   {
-    "source": "Impress Watch",
-    "title": "サムスン「Galaxy Buds」が補聴器に 米FDA認可を取得",
-    "url": "https://www.watch.impress.co.jp/docs/news/2142191.html",
-    "summary": "SamsungがGalaxy Budsの補聴器機能および聴力検査機能で米FDA認可を取得。対象機種はBuds3 ProとBuds4 Proで、認可国で第4四半期提供を予定。",
-    "importance": 3,
-    "category": "ガジェット",
-    "reason": "消費者ハードが医療機器規制を取得した例で、ヘルスケア市場や規制対応の潮流を示す重要な事例。",
-    "published_at": "2026-09-18 14:24:06",
-    "created_at": "2026-09-19 03:34:42"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "ゲーム開発者の生成AI活用が8割超に CESAが初調査 「業務効率化」に最大の期待",
-    "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001618/",
-    "summary": "CESAの調査でゲーム開発者の85.8％が生成AIを業務で活用。業務効率化への期待が高く、利用領域やリスク認識も報告されている。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "産業別でのAI実装実態を示すデータで、開発現場のツール導入・方針決定に参考になる。",
-    "published_at": "2026-09-18 13:43:35",
-    "created_at": "2026-09-19 03:34:42"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "クラウドフレア、AI学習拒否・検索OKを選べる新設定",
-    "url": "https://www.watch.impress.co.jp/docs/news/2142146.html",
-    "summary": "Cloudflareがコンテンツ利用の細分化制御として「Disallow AI Training」など、新しいAI向けクロール制御設定を提供開始。検索やエージェントごとに指定可能に。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "出版社やメディアがAI学習利用を技術的に制御できるようになり、コンテンツ運用とライセンス管理に直接影響するため重要。",
-    "published_at": "2026-09-18 13:38:58",
-    "created_at": "2026-09-19 03:34:42"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "散在する“29万ファイル”をAmazon S3に集約、「AIに聞くだけ」で検索可能に――AWSはどう実現？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news025.html",
-    "summary": "AWSが航空業界を題材に、社内に散在する約29万ファイルをS3に集約し、AIで横断検索・分析するレファレンス実装を公開。実装の設計や運用ポイントを解説。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "企業のデータ統合とAI検索を実運用でどう組むかを示す実践的なリファレンスで、導入検討に有用。",
-    "published_at": "2026-09-18 11:00:00",
-    "created_at": "2026-09-19 03:34:42"
-  },
-  {
     "source": "＠IT",
     "title": "RustとC++の共存をどう実現？ Microsoftが明かす統合戦略",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news043.html",
@@ -2582,39 +2571,6 @@
     "category": "開発",
     "reason": "OSレベルの開発言語戦略と既存資産の扱いは多くの大手開発組織に直接影響するため、技術判断に必須の情報。",
     "published_at": "2026-09-18 08:00:00",
-    "created_at": "2026-09-19 03:34:42"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "資生堂、AIエージェントで原料探索時間を95％削減 研究員の「目利き」を複数LLMで再現",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/18/news020.html",
-    "summary": "資生堂が研究開発にAIエージェントを導入し、原料候補探索時間を大幅短縮。複数LLMで研究員の選定プロセスを再現し、提案数も増加させた。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業R&DでのAI活用の具体事例として、導入効果と運用上の設計判断が参考になるため。",
-    "published_at": "2026-09-18 08:00:00",
-    "created_at": "2026-09-19 03:34:42"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AIが異常察知し7つの専門エージェントが解決案を提案、NECのSCMソリューション",
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/18/news039.html",
-    "summary": "NECは需要予測や生産計画など複数システムを横断してトラブル検知と解決提案を行う「NEC SCM AIエージェント」を展示。自律的なサプライチェーン運用を目指す。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "サプライチェーンの自動化に直結する実装例で、製造・物流のIT投資判断に影響するため掲載価値が高い。",
-    "published_at": "2026-09-18 07:15:00",
-    "created_at": "2026-09-19 03:34:42"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Microsoftが進めるCopilot再編 「Microsoft Copilot」への移行で、企業への影響は？",
-    "url": "https://kn.itmedia.co.jp/kn/article/2609/18/2000001586/",
-    "summary": "MicrosoftがMicrosoft 365 Copilotの体験を「Microsoft Copilot」に統合する再編を進行。Web版URL変更などで、接続制限している企業は設定確認が必要になる可能性がある。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "エンタープライズのアクセス制御やネットワークポリシーに影響する変更で、IT管理者が対応を検討すべき内容。",
-    "published_at": "2026-09-18 07:00:00",
     "created_at": "2026-09-19 03:34:42"
   },
   {
@@ -2637,17 +2593,6 @@
     "category": "半導体",
     "reason": "HBM供給と国際サプライチェーン・技術覇権に関わる話題で、クラウド事業者や半導体戦略に重大な示唆を与える。",
     "published_at": "2026-09-18 05:00:00",
-    "created_at": "2026-09-19 03:34:42"
-  },
-  {
-    "source": "Publickey",
-    "title": "PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開",
-    "url": "https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html",
-    "summary": "PlanetScaleがPostgreSQL向け自動シャーディングで高スループットを実現する新DBサービス「Neki」をプレビュー公開。スケーラビリティ改善を狙う。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "大規模トラフィック対応の新しいDBアプローチはアーキテクトやSREにとって実務的な関心事であり、採用検討価値が高い。",
-    "published_at": "2026-09-18 00:59:39",
     "created_at": "2026-09-19 03:34:42"
   },
   {
