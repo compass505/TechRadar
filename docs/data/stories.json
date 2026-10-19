@@ -13235,63 +13235,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "25b183aca013",
-    "title": "AI導入は6割、でも8割超が「チャット止まり」 業務自動化まで進まない原因は？",
-    "published_date": "2026-09-19",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "クラウドワークス調査を基に、企業のAI利用は進むが多くがチャット用途に留まり業務自動化へ進まない要因を分析する。",
-    "reason": "企業のAI活用成熟度を示す調査報告で、情シス・経営層の判断や導入ロードマップ策定に有益な示唆を与える。",
-    "published_at": "2026-09-19 07:00:00",
-    "created_at": "2026-09-20 03:07:34",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001624/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "172acea3f443",
-    "title": "パナソニック・サムスン撤退の裏で「中国勢5割」 独IT見本市「IFA」トップが明かす舞台裏",
-    "published_date": "2026-09-19",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "IFAで中国企業の出展が過半数を占め、サムスンなど大手の撤退や会場構成の変化が進行。運営トップへの単独取材で背景を深掘りする。",
-    "reason": "グローバル家電・ハードウェア市場の勢力図変化を示す重要な業界ニュースで、企業戦略やサプライチェーンに影響を与える可能性あり。",
-    "published_at": "2026-09-19 08:00:00",
-    "created_at": "2026-09-20 03:07:34",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/business/articles/2609/19/news010.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "2e8cff200c14",
     "title": "AIを入れても仕事は変わらない？ アビームとNotionが「企業ナレッジ」に注目する理由",
     "published_date": "2026-09-20",
@@ -18004,34 +17947,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "1411c5ecd0bf",
-    "title": "3社に1社がトークン予算超過 コスト増を最大44％抑える方法とは【アクセンチュア調査】",
-    "published_date": "2026-10-12",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "アクセンチュア調査で3社に1社が生成AIのトークン予算を超過。多くは明確な事業成果に結び付いておらず、トークン管理を経営資源として扱う取り組みが有効と報告。コスト対策の実例を紹介。",
-    "reason": "生成AI導入のコスト管理に関する実務的調査で、予算管理やROI判断に役立つため。",
-    "published_at": "2026-10-12 11:50:00",
-    "created_at": "2026-10-13 07:31:45",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "f6591d75e648",
     "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
     "published_date": "2026-10-12",
@@ -18169,31 +18084,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
-  },
-  {
-    "id": "757da131f0cb",
-    "title": "初めての一眼にフルサイズを選びたい、でも高くて重いのは嫌……「EOS R8 Mark II」はそういう人のためのミラーレスだった",
-    "published_date": "2026-10-12",
-    "importance_score": 1,
-    "category": "ガジェット",
-    "summary": "キヤノンのミラーレス「EOS R8 Mark II」レビュー。手ブレ補正や高速連写など特徴を実写で検証。日本向けのレンズキット設定も紹介。",
-    "reason": "一般消費者向け製品レビューで影響範囲は限定的なため低評価。",
-    "published_at": "2026-10-12 17:22:35",
-    "created_at": "2026-10-13 07:31:45",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/12/2000002196/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "ff06e54de8b8",
@@ -19624,21 +19514,22 @@
   },
   {
     "id": "81f8c0fe8cd7",
-    "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
+    "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999） ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
     "published_date": "2026-10-18",
     "importance_score": 5,
     "category": "セキュリティ",
-    "summary": "Linuxカーネルの脆弱性「PwnEscape」（CVE-2026-99999）が報告され、ゲストVMからホストOSへコード実行が可能になる恐れがあると解説。仮想化基盤やクラウド環境に重大な影響を及ぼす可能性が高い。",
-    "reason": "VM脱出によりホストやクラウド基盤全体が危険に晒される重大脆弱性であり、即時の注意と対策が必要なため最高評価。",
-    "published_at": "2026-10-18 00:27:18",
-    "created_at": "2026-10-19 03:12:47",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
+    "summary": "Linuxカーネルの脆弱性「PwnEscape」が公表。仮想マシンのゲストからホストOSで任意コード実行が可能になる恐れがあり、クラウド環境に深刻な影響を与える可能性がある。",
+    "reason": "VM境界破りはクラウド事業者・情シスに直接影響する深刻な脆弱性で、早急な対応指針が必要。",
+    "published_at": "2026-10-19 11:04:19",
+    "created_at": "2026-10-20 05:39:44",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/19/2000002365/",
     "sources": [
+      "ITmedia NEWS",
       "Publickey"
     ],
-    "source_count": 1,
-    "article_count": 1,
+    "source_count": 2,
+    "article_count": 2,
     "facets": [
       "cloud",
       "development",
@@ -19650,7 +19541,7 @@
     "dev_cloud_relevance_score": 2,
     "urgency_score": 1,
     "utility_score": 1,
-    "has_itmedia_article": false
+    "has_itmedia_article": true
   },
   {
     "id": "9181f9b105d1",
@@ -19731,6 +19622,229 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "00444faeaad6",
+    "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
+    "published_date": "2026-10-19",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Anthropic内部の調査でAI稼働時間が人間を大きく上回り、初級技術職の採用比率が急減。AIによる業務自動化認識に関して従業員と一般市民の感覚に差があることも示された。",
+    "reason": "雇用・採用戦略とAI導入の実務影響を示す企業データとして、経営・人事・政策議論に有益。",
+    "published_at": "2026-10-19 08:02:13",
+    "created_at": "2026-10-20 05:39:44",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "bc99cb69f6bc",
+    "title": "BASE子会社の「Eストアー」、2336万人の情報漏えい",
+    "published_date": "2026-10-19",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "EC構築サービス「ショップサーブ」での不正アクセス調査が完了。最終的に2335万6000人分の情報が漏えい、約209万人分にカード情報の一部が含まれると報告。",
+    "reason": "規模が極めて大きくクレジット情報も含む大規模漏えいで、事業継続・法的対応・顧客影響が広範囲に及ぶため最優先で掲載。",
+    "published_at": "2026-10-19 11:22:59",
+    "created_at": "2026-10-20 05:39:44",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2149147.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6e628665762d",
+    "title": "Google、量子コンピュータの“魔法状態”生成を実機で効率化 エラーを40分の1に",
+    "published_date": "2026-10-19",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "Googleが実機で「魔法状態栽培」を実証し、魔法状態生成のエラーを約40分の1に低減。99.99％の忠実度を達成し、表面符号への接ぎ木でリソース削減に道を開く成果を報告。",
+    "reason": "量子ハードウェアのエラー低減は長期的な技術・産業インパクトが大きく、研究動向として注目に値するため。",
+    "published_at": "2026-10-19 11:03:41",
+    "created_at": "2026-10-20 05:39:44",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/19/2000002366/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "2bd646071e56",
+    "title": "Teamsに届く「パスキーを更新してください」――“不正アクセスのわな”だった",
+    "published_date": "2026-10-19",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "パスキー更新を促すメッセージが企業へのサイバー攻撃の入口になっている事例をMicrosoftが報告。パスキー関連の案内が不正ログインや情報窃取に利用される手口が確認された。",
+    "reason": "パスキー普及の過程で出る新たな攻撃手法は企業の認証設計やセキュリティ教育に直接影響するため重要。",
+    "published_at": "2026-10-19 17:00:00",
+    "created_at": "2026-10-20 05:39:44",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news022.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6828faf50a86",
+    "title": "「GPUが余っている。だが遅い」はなぜ起こる？ Googleが検証、AI推論の負荷分散",
+    "published_date": "2026-10-19",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "Googleが大規模環境でのAI推論におけるGPU資源の非効率利用を検証。複数地域に分散したGPUを有効活用する負荷分散手法を1万7000ノード規模で試験した。",
+    "reason": "生成AI運用コストと性能に直結するインフラ技術で、情シス・SRE・クラウド事業者に有益な知見。",
+    "published_at": "2026-10-19 11:00:00",
+    "created_at": "2026-10-20 05:39:44",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news021.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "980a5c8ae79b",
+    "title": "マイクロソフト、.NETのツールチェーンマネージャ「dotnetup」プレビュー公開。複数バージョンの.NET環境を管理可能",
+    "published_date": "2026-10-19",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "Microsoftが.NETのツールチェーンをまとめてインストール・管理できる「dotnetup」をプレビュー公開。ツールやランタイムのバージョン管理が容易になる。",
+    "reason": "開発環境管理の効率化に直結する実務ツールで、.NET開発者や組織の運用負担軽減につながるため掲載。",
+    "published_at": "2026-10-19 00:35:52",
+    "created_at": "2026-10-20 05:39:44",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a4a9a90e13ae",
+    "title": "中国DeepSeek、V4.1-Flash新バージョンを公開 一部Astra超えをうたうモデルがオープンに",
+    "published_date": "2026-10-19",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "DeepSeekが「DeepSeek-V4.1-Flash-1017」を公開。コーディングエージェント性能の一部でGPT-6 Astraを上回ると主張し、重みをMITライセンスで提供している。",
+    "reason": "オープン公開モデルで性能競争に影響を与え、開発者や企業のモデル選定・導入に関わるため注目。",
+    "published_at": "2026-10-19 09:35:40",
+    "created_at": "2026-10-20 05:39:44",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "0f6277b999fd",
+    "title": "連続不正アクセスの実態判明 Androidアプリを解析してAPIに侵入か",
+    "published_date": "2026-10-19",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "JPCERT/CCの調査で、不正アクセス連鎖の手口が判明。Androidアプリ解析や配布ファイル、スクリプトを使いAPIの弱点を突く手法が確認され、AIも悪用されている可能性が示唆される。",
+    "reason": "複数事案に共通する攻撃手法の解明は防御対策とインシデント対応に直結するため掲載価値が高い。",
+    "published_at": "2026-10-19 08:00:00",
+    "created_at": "2026-10-20 05:39:44",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news019.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
     "has_itmedia_article": false
   }
 ]

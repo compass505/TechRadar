@@ -1,5 +1,104 @@
 [
   {
+    "source": "＠IT",
+    "title": "Teamsに届く「パスキーを更新してください」――“不正アクセスのわな”だった",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news022.html",
+    "summary": "パスキー更新を促すメッセージが企業へのサイバー攻撃の入口になっている事例をMicrosoftが報告。パスキー関連の案内が不正ログインや情報窃取に利用される手口が確認された。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "パスキー普及の過程で出る新たな攻撃手法は企業の認証設計やセキュリティ教育に直接影響するため重要。",
+    "published_at": "2026-10-19 17:00:00",
+    "created_at": "2026-10-20 05:39:44"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "BASE子会社の「Eストアー」、2336万人の情報漏えい",
+    "url": "https://www.watch.impress.co.jp/docs/news/2149147.html",
+    "summary": "EC構築サービス「ショップサーブ」での不正アクセス調査が完了。最終的に2335万6000人分の情報が漏えい、約209万人分にカード情報の一部が含まれると報告。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "規模が極めて大きくクレジット情報も含む大規模漏えいで、事業継続・法的対応・顧客影響が広範囲に及ぶため最優先で掲載。",
+    "published_at": "2026-10-19 11:22:59",
+    "created_at": "2026-10-20 05:39:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999） ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
+    "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002365/",
+    "summary": "Linuxカーネルの脆弱性「PwnEscape」が公表。仮想マシンのゲストからホストOSで任意コード実行が可能になる恐れがあり、クラウド環境に深刻な影響を与える可能性がある。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "VM境界破りはクラウド事業者・情シスに直接影響する深刻な脆弱性で、早急な対応指針が必要。",
+    "published_at": "2026-10-19 11:04:19",
+    "created_at": "2026-10-20 05:39:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、量子コンピュータの“魔法状態”生成を実機で効率化 エラーを40分の1に",
+    "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002366/",
+    "summary": "Googleが実機で「魔法状態栽培」を実証し、魔法状態生成のエラーを約40分の1に低減。99.99％の忠実度を達成し、表面符号への接ぎ木でリソース削減に道を開く成果を報告。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "量子ハードウェアのエラー低減は長期的な技術・産業インパクトが大きく、研究動向として注目に値するため。",
+    "published_at": "2026-10-19 11:03:41",
+    "created_at": "2026-10-20 05:39:44"
+  },
+  {
+    "source": "＠IT",
+    "title": "「GPUが余っている。だが遅い」はなぜ起こる？ Googleが検証、AI推論の負荷分散",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news021.html",
+    "summary": "Googleが大規模環境でのAI推論におけるGPU資源の非効率利用を検証。複数地域に分散したGPUを有効活用する負荷分散手法を1万7000ノード規模で試験した。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "生成AI運用コストと性能に直結するインフラ技術で、情シス・SRE・クラウド事業者に有益な知見。",
+    "published_at": "2026-10-19 11:00:00",
+    "created_at": "2026-10-20 05:39:44"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "中国DeepSeek、V4.1-Flash新バージョンを公開 一部Astra超えをうたうモデルがオープンに",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/",
+    "summary": "DeepSeekが「DeepSeek-V4.1-Flash-1017」を公開。コーディングエージェント性能の一部でGPT-6 Astraを上回ると主張し、重みをMITライセンスで提供している。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "オープン公開モデルで性能競争に影響を与え、開発者や企業のモデル選定・導入に関わるため注目。",
+    "published_at": "2026-10-19 09:35:40",
+    "created_at": "2026-10-20 05:39:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
+    "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+    "summary": "Anthropic内部の調査でAI稼働時間が人間を大きく上回り、初級技術職の採用比率が急減。AIによる業務自動化認識に関して従業員と一般市民の感覚に差があることも示された。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "雇用・採用戦略とAI導入の実務影響を示す企業データとして、経営・人事・政策議論に有益。",
+    "published_at": "2026-10-19 08:02:13",
+    "created_at": "2026-10-20 05:39:44"
+  },
+  {
+    "source": "＠IT",
+    "title": "連続不正アクセスの実態判明 Androidアプリを解析してAPIに侵入か",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news019.html",
+    "summary": "JPCERT/CCの調査で、不正アクセス連鎖の手口が判明。Androidアプリ解析や配布ファイル、スクリプトを使いAPIの弱点を突く手法が確認され、AIも悪用されている可能性が示唆される。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "複数事案に共通する攻撃手法の解明は防御対策とインシデント対応に直結するため掲載価値が高い。",
+    "published_at": "2026-10-19 08:00:00",
+    "created_at": "2026-10-20 05:39:44"
+  },
+  {
+    "source": "Publickey",
+    "title": "マイクロソフト、.NETのツールチェーンマネージャ「dotnetup」プレビュー公開。複数バージョンの.NET環境を管理可能",
+    "url": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
+    "summary": "Microsoftが.NETのツールチェーンをまとめてインストール・管理できる「dotnetup」をプレビュー公開。ツールやランタイムのバージョン管理が容易になる。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発環境管理の効率化に直結する実務ツールで、.NET開発者や組織の運用負担軽減につながるため掲載。",
+    "published_at": "2026-10-19 00:35:52",
+    "created_at": "2026-10-20 05:39:44"
+  },
+  {
     "source": "Impress Watch",
     "title": "スント、19年ぶり刷新のアウトドア時計「Suunto Core 2」",
     "url": "https://www.watch.impress.co.jp/docs/news/2148343.html",
@@ -603,28 +702,6 @@
     "reason": "JavaScriptランタイムの主要プレーヤーの再編は開発者エコシステムに影響を与えるため開発カテゴリで掲載価値あり。",
     "published_at": "2026-10-13 00:46:53",
     "created_at": "2026-10-14 05:44:38"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "初めての一眼にフルサイズを選びたい、でも高くて重いのは嫌……「EOS R8 Mark II」はそういう人のためのミラーレスだった",
-    "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002196/",
-    "summary": "キヤノンのミラーレス「EOS R8 Mark II」レビュー。手ブレ補正や高速連写など特徴を実写で検証。日本向けのレンズキット設定も紹介。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "一般消費者向け製品レビューで影響範囲は限定的なため低評価。",
-    "published_at": "2026-10-12 17:22:35",
-    "created_at": "2026-10-13 07:31:45"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "3社に1社がトークン予算超過 コスト増を最大44％抑える方法とは【アクセンチュア調査】",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html",
-    "summary": "アクセンチュア調査で3社に1社が生成AIのトークン予算を超過。多くは明確な事業成果に結び付いておらず、トークン管理を経営資源として扱う取り組みが有効と報告。コスト対策の実例を紹介。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "生成AI導入のコスト管理に関する実務的調査で、予算管理やROI判断に役立つため。",
-    "published_at": "2026-10-12 11:50:00",
-    "created_at": "2026-10-13 07:31:45"
   },
   {
     "source": "ITmedia AI+",
@@ -2528,28 +2605,6 @@
     "reason": "企業のAI活用で実務に直結するナレッジ整備は情シス・経営の判断に直結するため、実務的価値が高い。",
     "published_at": "2026-09-20 07:00:00",
     "created_at": "2026-09-21 03:14:38"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "パナソニック・サムスン撤退の裏で「中国勢5割」 独IT見本市「IFA」トップが明かす舞台裏",
-    "url": "https://www.itmedia.co.jp/business/articles/2609/19/news010.html",
-    "summary": "IFAで中国企業の出展が過半数を占め、サムスンなど大手の撤退や会場構成の変化が進行。運営トップへの単独取材で背景を深掘りする。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "グローバル家電・ハードウェア市場の勢力図変化を示す重要な業界ニュースで、企業戦略やサプライチェーンに影響を与える可能性あり。",
-    "published_at": "2026-09-19 08:00:00",
-    "created_at": "2026-09-20 03:07:34"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AI導入は6割、でも8割超が「チャット止まり」 業務自動化まで進まない原因は？",
-    "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001624/",
-    "summary": "クラウドワークス調査を基に、企業のAI利用は進むが多くがチャット用途に留まり業務自動化へ進まない要因を分析する。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業のAI活用成熟度を示す調査報告で、情シス・経営層の判断や導入ロードマップ策定に有益な示唆を与える。",
-    "published_at": "2026-09-19 07:00:00",
-    "created_at": "2026-09-20 03:07:34"
   },
   {
     "source": "ITmedia NEWS",
