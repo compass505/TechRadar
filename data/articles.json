@@ -1,5 +1,137 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "栃木県警、全職員の情報流出か アルカディア不正アクセス、他県警でも被害判明相次ぐ 報道",
+    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002435/",
+    "summary": "防災情報配信サービス『アルカディア』への不正アクセスで、栃木県警約3900人分の職員個人情報が流出した可能性。神奈川や埼玉など他県警への影響も確認されている。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "緊急性が高く、警察・公共インフラに関わる個人情報流出で二次被害のリスクが大きいため最優先。",
+    "published_at": "2026-10-20 19:51:58",
+    "created_at": "2026-10-21 04:24:41"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NECの委託先にサイバー攻撃 正規アカウント悪用し顧客のサーバ暗号化、個人情報の漏えいも",
+    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002433/",
+    "summary": "NECのシステム開発・保守を委託する企業が攻撃を受け、正規アカウントの悪用で顧客サーバの暗号化や個人情報漏えいが発生したと報告。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "サプライチェーン経由の被害で影響範囲が企業顧客に広がるため情シス・経営判断に重要。",
+    "published_at": "2026-10-20 18:00:53",
+    "created_at": "2026-10-21 04:24:41"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "日本企業狙う不正アクセスにAI 攻撃者が自律型侵入テスト「ARTEX」を悪用 GMOイエラエ調査",
+    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002423/",
+    "summary": "GMOサイバーセキュリティ byイエラエが、日本企業を狙う不正アクセスで中国製AI侵入テストツール『ARTEX』の悪用を確認。AIを使った攻撃の実例を報告。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AIを悪用した攻撃手法の現実化で防御戦略と検知体制の見直しが必要になるため重要。",
+    "published_at": "2026-10-20 17:16:45",
+    "created_at": "2026-10-21 04:24:41"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "デジタル庁、政府職員18万人にAIエージェント環境を展開──「源内」で提供開始、独自の安全基準も",
+    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002428/",
+    "summary": "デジタル庁が生成AI環境『源内』を政府職員約18万人向けに順次導入。職員が自らAIエージェントを作れる環境と安全ルール『源内基準』を公表。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "大規模な政府導入で政策・業務運用・ガバナンスに直結するため掲載価値が高い。",
+    "published_at": "2026-10-20 17:14:44",
+    "created_at": "2026-10-21 04:24:41"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "「最先端モデルも信頼できない」 マイクロソフトが企業AIエージェントの統制強化策",
+    "url": "https://www.watch.impress.co.jp/docs/news/2149546.html",
+    "summary": "マイクロソフトが自律型AIエージェントに対する統制強化の取り組みを発表。企業向けの安全対策やガバナンスに関する方針を提示。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "主要クラウドベンダーのガイドライン更新は企業のAI導入方針に影響するため、経営・情シス向けに重要。",
+    "published_at": "2026-10-20 12:45:58",
+    "created_at": "2026-10-21 04:24:41"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ネットバンキングにログインしたまま別作業は危険？ 「ChatGPT Atlas」などのAIブラウザ7種でデータ窃取を検証",
+    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002377/",
+    "summary": "研究論文でAIブラウザ（エージェント型ブラウザ）が同一生成元ポリシーを迂回し、メールやネットバンキング等の機密データを悪意あるサイトに窃取されうるリスクを検証。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AIエージェントの新たな脅威モデルを示す研究で、ブラウザ/エージェントの運用に影響を与えるため開発者・情シス向けに有益。",
+    "published_at": "2026-10-20 12:00:00",
+    "created_at": "2026-10-21 04:24:41"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AWS Transformが機能拡充 Azure Functions用のコードをAWS Lambda用に変換など、Azure→AWSへの移行に対応",
+    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002414/",
+    "summary": "AWSがAzure SDKで書かれた.NETアプリケーションをAWS SDKベースに変換する機能をAWS Transformに追加し、AzureからAWSへの移行を支援。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウド移行を検討する企業や情シスにとって実務的な影響があり、移行コスト/戦略に役立つため掲載。",
+    "published_at": "2026-10-20 11:24:52",
+    "created_at": "2026-10-21 04:24:41"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "メール配信のユミルリンクに不正アクセス メアドなど約900万件漏えいか",
+    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002409/",
+    "summary": "専用ASPの複数システムからデータが出力され、メールアドレスを含む情報のべ約900万件が流出したと試算。大規模な顧客情報流出の可能性。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "規模が非常に大きくスパム・フィッシングや二次被害の影響範囲が広いため掲載価値が高い。",
+    "published_at": "2026-10-20 08:59:17",
+    "created_at": "2026-10-21 04:24:41"
+  },
+  {
+    "source": "＠IT",
+    "title": "さくらインターネットが新規サーバ受付を停止 クラウド運用を直撃したLinuxの脆弱性とは？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/20/news024.html",
+    "summary": "Linuxカーネルの脆弱性『PwnEscape』公表を受け、さくらインターネットが新規サーバの受付停止や一部機能停止を実施。クラウド運用に直接影響する脆弱性。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "カーネル脆弱性がクラウド事業者の運用停止に直結するため、クラウド事業者と情シスに影響が大きい。",
+    "published_at": "2026-10-20 08:00:00",
+    "created_at": "2026-10-21 04:24:41"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令",
+    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002405/",
+    "summary": "米国土安全保障省がDeepSeekの製品・関連サービスを連邦民間機関の調達とITシステムから排除する命令を公示。実装を用いた第三者製品も対象。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "連邦レベルの排除措置で調達・サプライチェーンに影響が出るため、企業のベンダー評価に重要。",
+    "published_at": "2026-10-20 07:07:09",
+    "created_at": "2026-10-21 04:24:41"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「データセンター×発電設備」一体開発がトレンド？ 日立・東京ガスが九州で計画、JERAは千葉で 狙いは",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/20/news051.html",
+    "summary": "日立や東京ガスなどがデータセンターと発電設備を一体開発する協業計画を発表。発電所一体型データセンターの採用が増えている背景を解説。",
+    "importance": 2,
+    "category": "クラウド",
+    "reason": "クラウド／インフラの設計トレンドとして興味深く、耐障害性や電力調達戦略を考える上で参考になる。",
+    "published_at": "2026-10-20 07:00:00",
+    "created_at": "2026-10-21 04:24:41"
+  },
+  {
+    "source": "Publickey",
+    "title": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
+    "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
+    "summary": "AWSがLambda上でNext.jsやExpress、HonoなどのNode.jsフレームワークをそのままデプロイして実行できる『AWS Lambda Web Functions』を発表。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "サーバレスやフロントエンドのデプロイ運用に直接関係する開発者向けの重要アップデート。",
+    "published_at": "2026-10-20 00:49:22",
+    "created_at": "2026-10-21 04:24:41"
+  },
+  {
     "source": "＠IT",
     "title": "Teamsに届く「パスキーを更新してください」――“不正アクセスのわな”だった",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news022.html",
@@ -613,17 +745,6 @@
     "category": "ビジネス",
     "reason": "金融取引停止は市場と顧客に直接影響するため、運用・リスク管理の観点で重要性が高い。",
     "published_at": "2026-10-13 18:52:20",
-    "created_at": "2026-10-14 05:44:38"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "国産AI「Sarashina」が無料で試せるWebサイト、ソフトバンク子会社が公開 6つのAIモデルが呼び出せるAPIも",
-    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002224/",
-    "summary": "SB Intuitionsが国産生成AI「Sarashina」の無償β「Sarashinaサービス」を公開。APIとチャットで6モデルを試用可能、Googleアカウントでログインできる。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "国産AIの一般公開は国内開発動向として関心が高いが、現時点はβ公開で影響範囲は限定的なため低めに評価。",
-    "published_at": "2026-10-13 18:24:12",
     "created_at": "2026-10-14 05:44:38"
   },
   {
@@ -2553,17 +2674,6 @@
   },
   {
     "source": "ITmedia AI+",
-    "title": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
-    "summary": "元OpenAI研究者が開発した新しいAIモデル「Jev」が注目を集めている。LLMとは異なる設計思想やユースケースの可能性を整理する記事。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "新しいAIアーキテクチャの登場は技術トレンドと開発・事業戦略に影響するため、多くの読者が把握すべき内容。",
-    "published_at": "2026-09-20 16:00:26",
-    "created_at": "2026-09-21 03:14:38"
-  },
-  {
-    "source": "ITmedia AI+",
     "title": "AI攻撃は「調べて対応」では間に合わない ゼットスケーラーがSOCをAIエージェント化",
     "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001661/",
     "summary": "AIで攻撃速度が増す中、ゼットスケーラーは検知から調査・対応までAIエージェントで自動化する新たなSOCを提案している。",
@@ -2592,17 +2702,6 @@
     "importance": 4,
     "category": "セキュリティ",
     "reason": "ゼロデイの発見/悪用環境がAIで変化するという業界全体の脅威認識は、組織のセキュリティ戦略に直結するため重要。",
-    "published_at": "2026-09-20 07:00:00",
-    "created_at": "2026-09-21 03:14:38"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AIを入れても仕事は変わらない？ アビームとNotionが「企業ナレッジ」に注目する理由",
-    "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001660/",
-    "summary": "AIエージェントに企業固有業務を任せるには分散するナレッジの整備が不可欠。アビームとNotionがナレッジ起点の変革を提唱する。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業のAI活用で実務に直結するナレッジ整備は情シス・経営の判断に直結するため、実務的価値が高い。",
     "published_at": "2026-09-20 07:00:00",
     "created_at": "2026-09-21 03:14:38"
   },
