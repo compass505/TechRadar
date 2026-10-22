@@ -1,6 +1,149 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表 混乱広げた企業を名指しで批判",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002525/",
+    "summary": "The PHP Foundationが、脆弱性情報の先出し（PoC公開）の経緯を公表し、開示運用の問題点と混乱を招いた関係者を批判した。",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "脆弱性開示の運用面に直接影響し、今後の脆弱性対応ポリシー議論に資するため選出。",
+    "published_at": "2026-10-22 18:29:19",
+    "created_at": "2026-10-23 04:18:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "カプコン、1177万件漏えい 不正アクセスで",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002523/",
+    "summary": "カプコンは不正アクセスにより会員サービスの情報が1177万件超漏えいしたと発表。被害規模が非常に大きい。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "1,000万件級の顧客情報流出は企業信用・法令対応・被害対応で大きな波及があり、読者にとって必須押さえネタ。",
+    "published_at": "2026-10-22 17:24:50",
+    "created_at": "2026-10-23 04:18:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "PHPの「緊急」脆弱性悪用の試み、数百万件に CloudflareのCEOが報告",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002516/",
+    "summary": "脆弱性公表後、短時間で悪用の試みが急増し、数百万件規模に達したとCloudflareのCEOが報告。実攻撃の監視と緩和が続く。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "公表直後から大規模なスキャン／攻撃が確認され、運用停止や緊急対応が多発しているため高い業界影響度。",
+    "published_at": "2026-10-22 15:30:05",
+    "created_at": "2026-10-23 04:18:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "認証局eMudhraの中間証明書、秘密鍵が「数ミリ秒」で復元可能な脆弱性 大手各社が緊急遮断",
+    "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002444/",
+    "summary": "インドの認証局eMudhraの中間証明書で秘密鍵が瞬時に復元可能な欠陥が判明。主要ブラウザは当該証明書を遮断し、非ブラウザ環境向けに緊急修正が配布された。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "Webの信頼基盤に直結する問題で広域な遮断・修正が発生。企業の証明書管理や運用に重大影響。",
+    "published_at": "2026-10-22 14:58:18",
+    "created_at": "2026-10-22 04:23:35"
+  },
+  {
+    "source": "＠IT",
+    "title": "「光ファイバー価格が最大5倍超」、AIデータセンター建設ラッシュが招く“供給危機”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/22/news030.html",
+    "summary": "AIデータセンター需要の拡大で光ファイバーの世界的供給不足が深刻化。価格高騰と供給遅延は少なくとも2028年まで続く見込み。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "データセンター建設とネットワーク資材の供給制約はクラウド事業・インフラ計画に実務的な影響を与えるため重要。",
+    "published_at": "2026-10-22 13:00:00",
+    "created_at": "2026-10-23 04:18:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「GitLab」に深刻度“最大”の脆弱性 認証なしで任意のコード実行の恐れ、修正版適用を CVSS「10.0」",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002501/",
+    "summary": "GitLabに認証不要で任意コード実行の恐れがある新たな深刻脆弱性が確認。広範なバージョンが影響し、修正版の適用が強く求められている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "開発プラットフォームの未認証RCEはサプライチェーンとCI/CD環境に直結するため、幅広い組織に重大な影響。",
+    "published_at": "2026-10-22 12:30:12",
+    "created_at": "2026-10-23 04:18:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開 OpenSSHの修正にも貢献",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/",
+    "summary": "AnthropicがClaudeを用いてOSSの攻撃対象領域を分析・削減する研究を公開。OpenSSHで到達可能なコードを大幅削減し、対策が取り込まれた。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "AIを使った実務的なセキュリティ改善の実例で、開発者やOSS運用者にとって有益な示唆があるため選出。",
+    "published_at": "2026-10-22 11:48:47",
+    "created_at": "2026-10-23 04:18:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NVIDIA、AIファクトリーをコンテナで届ける「DSX POD」発表 アヒル型ロボット「Microduck」も登壇──GTC Berlin基調講演",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002492/",
+    "summary": "NVIDIAがコンテナ化したAI工場設計『DSX POD』や安全なエージェント基盤『OpenShell』などを発表。欧州投資や新モデル、ロボットも紹介された。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AIインフラとエッジ／コンテナ戦略は企業IT投資やクラウド・オンプレ構成に影響するため注目度高し。",
+    "published_at": "2026-10-22 10:56:01",
+    "created_at": "2026-10-23 04:18:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "大阪大、学生など7.8万人の情報漏えい NECが無断で協力会社とデータ共有",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002491/",
+    "summary": "大阪大学で学生ら約7.8万人の情報が流出。原因はNECによる協力会社への無断データ共有とされ、機密管理・委託先統制の問題が浮上している。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "委託先管理と個人情報ガバナンスの失敗事例で、企業の情報共有ルールと統制の見直しにつながるため掲載価値あり。",
+    "published_at": "2026-10-22 10:11:54",
+    "created_at": "2026-10-23 04:18:15"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Google Cloudに「Astra」含むOpenAIのモデルが追加 「主要3社のクローズドモデル使える唯一のハイパースケーラー」に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/",
+    "summary": "Google CloudのModel GardenにOpenAIのGPT-6系モデル群（Astra等）が追加され、主要クローズドモデルを使えるハイパースケーラーとしての立ち位置を強化。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "大手クラウドで主要クローズドモデルが利用可能になることは企業のAI選定・運用設計に直接影響する。",
+    "published_at": "2026-10-22 08:59:39",
+    "created_at": "2026-10-23 04:18:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Meta、Cambridge Analytica問題巡る訴訟で250億ドルの支払い命令",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002484/",
+    "summary": "米裁判所はFacebookを巡る訴訟でMetaに対し250億ドル（約3兆9500億円）の民事制裁金支払いを命じた。陪審は数千万件の違反を認定した。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "個人情報取り扱いに関する巨額判決は企業のコンプライアンス、規制リスク、国際ビジネスに重大な示唆を与える。",
+    "published_at": "2026-10-22 07:39:42",
+    "created_at": "2026-10-23 04:18:15"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開 「直ちにアップデートを」",
+    "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002480/",
+    "summary": "PHPプロジェクトがリモートコード実行の脆弱性を修正した複数バージョンを緊急公開。全PHPユーザーに即時アップデートを強く推奨している。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "Web/企業サービスに広範に影響する言語の緊急パッチ。情シス・開発者に即時対応を促す重要ニュース。",
+    "published_at": "2026-10-22 00:53:13",
+    "created_at": "2026-10-23 04:18:15"
+  },
+  {
+    "source": "Publickey",
+    "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
+    "url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+    "summary": "CloudflareがTypeScriptをRustで実装する「tsrs」を公開。メモリ使用を大幅削減し高速化、将来的にLSP等全機能対応を目指す。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "言語ツールチェーンの性能改善は大規模開発やクラウド環境での運用コストに寄与するが即時の危機ではないため厳しめ評価。",
+    "published_at": "2026-10-22 00:42:36",
+    "created_at": "2026-10-23 04:18:15"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "PHP緊急脆弱性「php2shell」パッチ今夜11時公開、その前にできる対策は……GMO系セキュリティ企業が提唱【更新】",
     "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002462/",
     "summary": "PHPの重大脆弱性「php2shell」についてGMO系が解析結果と暫定対策を提示。修正パッチは日本時間10月21日23時公開予定で、即時対応が難しい環境向けの対処指針を解説。",
@@ -63,17 +206,6 @@
     "category": "クラウド",
     "reason": "クラウド事業者の障害が金融・司法機能に直結して混乱を招いた重大インシデントで、企業の事業継続・委託判断に直結するため最高度。",
     "published_at": "2026-10-21 09:32:07",
-    "created_at": "2026-10-22 04:23:35"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "認証局eMudhraの中間証明書、秘密鍵が「数ミリ秒」で復元可能な脆弱性 大手各社が緊急遮断",
-    "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002444/",
-    "summary": "インドの認証局eMudhraの中間証明書で秘密鍵が瞬時に復元可能な脆弱性が判明。主要ブラウザは当該証明書を遮断、非ブラウザ環境向けに緊急修正が配布された。",
-    "importance": 4,
-    "category": "セキュリティ",
-    "reason": "認証基盤の鍵に関わる脆弱性でWebのなりすましリスクが高く、運用者側で迅速な遮断・検証が必要なため重要度高め。",
-    "published_at": "2026-10-21 09:17:27",
     "created_at": "2026-10-22 04:23:35"
   },
   {
@@ -550,17 +682,6 @@
     "created_at": "2026-10-16 04:16:10"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "ネットフリックスがレイオフ 従業員1000人削減へ 2022年以来の規模",
-    "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002291/",
-    "summary": "Netflixが全従業員の約6%に相当する約1000人の削減を実施すると発表。2022年以来の大規模レイオフで、業界の人員構成や求人動向に影響を与える可能性がある。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "大手テック企業の人員削減は業界の雇用・投資判断に影響を与えるため留意すべきニュース。",
-    "published_at": "2026-10-15 11:16:08",
-    "created_at": "2026-10-16 04:16:10"
-  },
-  {
     "source": "＠IT",
     "title": "Webアプリを狙う攻撃急増、優先順位どう付ける？ Microsoftが「11戦術・35テクニック」で対策を体系化",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/15/news022.html",
@@ -591,17 +712,6 @@
     "category": "セキュリティ",
     "reason": "行政向けの連絡基盤に関わる漏えいで、公共安全・運用に直接関わるため優先度が高い。",
     "published_at": "2026-10-15 10:37:33",
-    "created_at": "2026-10-16 04:16:10"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「YouTube Music」、生成AIで作られた楽曲にラベル表示",
-    "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002287/",
-    "summary": "YouTube Musicが生成AIで作られた楽曲にラベルを表示する機能を導入。メタデータ申告だけでなく独自検知でも判定し、今後YouTube本体にも拡大予定。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "生成コンテンツの透明性強化というプラットフォーム方針で、業界やクリエイター影響があるため。",
-    "published_at": "2026-10-15 10:27:38",
     "created_at": "2026-10-16 04:16:10"
   },
   {
@@ -2574,17 +2684,6 @@
     "created_at": "2026-09-24 04:07:35"
   },
   {
-    "source": "＠IT",
-    "title": "7割が“知っているだけ”の総務省AIセキュリティガイドライン “放置リスク”を避ける第一歩とは？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news011.html",
-    "summary": "総務省のAIセキュリティガイドラインの認知は高いが実践は進んでいない現状を指摘し、企業が取るべき初動対策を示す。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "ガイドラインの実装不足は企業の放置リスクにつながるため、情シス・経営層で共有すべき内容。",
-    "published_at": "2026-09-22 13:00:00",
-    "created_at": "2026-09-23 04:00:21"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "OpenAI、数学者の独立諮問グループと連携 内部モデルは「100件超の未解決問題を解決」",
     "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
@@ -2604,50 +2703,6 @@
     "category": "法規制",
     "reason": "国家レベルの標準・ガバナンス提案は政策・企業戦略に直結するため掲載優先度が高い。",
     "published_at": "2026-09-22 10:51:09",
-    "created_at": "2026-09-23 04:00:21"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック Shopifyは全店舗で対応へ",
-    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001669/",
-    "summary": "AmazonがMetaのAIエージェントMuseによる自社サイトでの代理購入をブロック。Shopify側は対応拡大を発表し、プラットフォーム間でAIエージェント対応方針が対立。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "AIエージェントが商取引に介入する現実的リスクとプラットフォームポリシー対立はEC事業者・開発者に関係する。",
-    "published_at": "2026-09-22 09:43:43",
-    "created_at": "2026-09-23 04:00:21"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "SpaceXAI、「Grok 4.7」発表 コーディングと知識労働向けで同社最高性能、価格は据え置き",
-    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
-    "summary": "SpaceXAIが新モデルGrok 4.7を発表。コーディング・長時間タスク向けに性能と安全性を強化し、従来と同価格で提供すると主張。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "クラウドAIモデル市場での競争・コスト動向に関わるため、開発者やプラットフォーム担当者の関心が高い。",
-    "published_at": "2026-09-22 08:46:47",
-    "created_at": "2026-09-23 04:00:21"
-  },
-  {
-    "source": "＠IT",
-    "title": "脱メインフレーム、7割超が失敗 背景に「生成AIへの過信」 2026年度上半期システム刷新記事ランキング",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/22/news018.html",
-    "summary": "システム刷新でメインフレーム脱却に失敗する事例が多く、生成AIへの過信が一因と指摘。上半期の関連記事をまとめて振り返る。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "レガシー刷新の教訓は大規模IT投資や経営判断に直結するため多くの読者に有益。",
-    "published_at": "2026-09-22 08:00:00",
-    "created_at": "2026-09-23 04:00:21"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Google、「Googlebook」の予約受付開始 899ドル（約14万円）から",
-    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001667/",
-    "summary": "Googleが新ノートPCプラットフォーム「Googlebook」を発売開始。複数メーカーから展開し、Androidベースでデスクトップ機能・長期OS更新を売りにする。",
-    "importance": 3,
-    "category": "ガジェット",
-    "reason": "OSプラットフォームの新カテゴリと長期アップデート保証は企業導入やデバイス戦略に影響するため注目。",
-    "published_at": "2026-09-22 07:30:05",
     "created_at": "2026-09-23 04:00:21"
   },
   {
