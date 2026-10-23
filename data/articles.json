@@ -1,6 +1,116 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002562/",
+    "summary": "パナソニック子会社の社員が、社内で使用禁止の外部生成AIサービスに約33万4000人分の従業員・関係者データをアップロード。企業ガバナンスとAI利用ルールの運用実態が問題化。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "企業内の生成AI利用と個人情報管理の実運用問題で、情シス・法務・経営に直接影響するため掲載価値高し。",
+    "published_at": "2026-10-23 21:48:45",
+    "created_at": "2026-10-24 04:22:02"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "「Claude」全機能がGoogle Cloudから利用可能に",
+    "url": "https://www.watch.impress.co.jp/docs/news/2150851.html",
+    "summary": "AnthropicがGoogle Cloud上で管理運用する形で『Claude』の全機能提供を開始。法人向けにグローバルで利用可能に。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "主要LLMのクラウド統合は企業AI導入やクラウド戦略に影響するため、企業IT／クラウド担当者に有益。",
+    "published_at": "2026-10-23 19:23:05",
+    "created_at": "2026-10-24 04:22:02"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "佐川への不正アクセス、最大5323万件の個人情報流出か 9月末のサイバー攻撃で続報",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002553/",
+    "summary": "佐川急便は不正アクセスで最大約5323万件の個人情報が外部流出した可能性を公表。追跡サービスは点検後に再開。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "数千万件規模の大規模漏えいで社会影響と対応負荷が非常に大きく、緊急性と公共性が高いため最高ランク。",
+    "published_at": "2026-10-23 17:38:23",
+    "created_at": "2026-10-24 04:22:02"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "メール配信サービスの契約者情報全て漏えい 横浜市やJR四国などに影響 ラクス子会社に不正アクセス",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002551/",
+    "summary": "クラウド型メール配信サービス『ブラストメール』が不正アクセスを受け、全契約者の登録情報などが流出。自治体や企業の広範な顧客に影響。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "クラウド型サービス経由で自治体・企業が巻き込まれる事例で、サプライチェーン型リスクとして情シスに重要。",
+    "published_at": "2026-10-23 17:32:46",
+    "created_at": "2026-10-24 04:22:02"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「エージェント向け1Password」発表 AIにパスワード渡さずアクセス権限付与可能に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
+    "summary": "1PasswordがAIエージェント向けに、パスワードを直接渡さずにアクセス権を付与できる『1Password for Agents』を発表。エージェント統合を想定。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AIエージェントと機密情報の連携に対する実務的な解決策で、導入検討やセキュリティ設計に役立つため掲載。",
+    "published_at": "2026-10-23 15:24:45",
+    "created_at": "2026-10-24 04:22:02"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "1000万のWebサイトで「生きたAPIキー」が大量に“丸見え”状態？ 大手銀行やインフラの鍵も 米スタンフォード大などが調査",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002515/",
+    "summary": "スタンフォード大などの調査で、約1000万サイト上に本来秘匿すべき『生きたAPIキー』が大量露出。大手金融・インフラの鍵も含まれる可能性。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "開発・運用の現場で起こる設定ミスや秘密管理の弱点を示す調査で、開発者や情シスに注意喚起を促すため有用。",
+    "published_at": "2026-10-23 12:00:00",
+    "created_at": "2026-10-24 04:22:02"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Muse」日本で提供開始 MetaのAIエージェント、メルカリやマネフォ、ぴあと連携へ",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002535/",
+    "summary": "MetaのパーソナルAIエージェント『Muse』が日本で提供開始。国内サービス（メルカリ、マネーフォワード、チケットぴあ等）との連携予定を発表。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "消費者向けAIエージェントの日本展開と主要サービス連携は市場動向・データ連携リスクの両面で注目に値する。",
+    "published_at": "2026-10-23 10:33:41",
+    "created_at": "2026-10-24 04:22:02"
+  },
+  {
+    "source": "＠IT",
+    "title": "EOLのPHP 7.4、8.0、8.1にも異例のパッチ JPCERT/CCが警告する「php2shell」の侵害痕跡3つと緊急対策",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news035.html",
+    "summary": "JPCERT/CCがphp2shell関連脆弱性(CVE群)への注意喚起。EOL版のPHPにも対応パッチが出る異例対応と、侵害痕跡の検査・緊急対策を提示。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "Web基盤に深刻な影響を与える脆弱性とEOL環境での対応問題は開発・運用チームに即時対応を求めるため重要。",
+    "published_at": "2026-10-23 08:30:00",
+    "created_at": "2026-10-24 04:22:02"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与 Microsoftが警告",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
+    "summary": "Microsoftは中国に結び付く攻撃者がAI侵入テストツール『ARTEX』で攻撃を自動化し、ConnectWise経由の侵害など世界数百組織を標的にしたと警告。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AIツールを用いた自動化攻撃とサプライチェーン侵害の組合せは組織防御と運用に重大な示唆を与えるため重要。",
+    "published_at": "2026-10-23 07:45:34",
+    "created_at": "2026-10-24 04:22:02"
+  },
+  {
+    "source": "＠IT",
+    "title": "第316回 AI相場の崩壊前夜か？ 中国半導体メーカー「CXMT」が引き起こすDRAM市場の大改編",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news009.html",
+    "summary": "中国CXMTの先進DRAM投入計画が市場を揺るがし、韓国勢との競争・地政学的規制下でDRAM市場の再編観測が強まっていると分析。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "メモリ市場と地政学が交差する重大な産業動向で、サプライチェーン戦略や投資判断に直結するため高い掲載価値あり。",
+    "published_at": "2026-10-23 05:00:00",
+    "created_at": "2026-10-24 04:22:02"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表 混乱広げた企業を名指しで批判",
     "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002525/",
     "summary": "The PHP Foundationが、脆弱性情報の先出し（PoC公開）の経緯を公表し、開示運用の問題点と混乱を招いた関係者を批判した。",
@@ -42,6 +152,17 @@
     "reason": "Webの信頼基盤に直結する問題で広域な遮断・修正が発生。企業の証明書管理や運用に重大影響。",
     "published_at": "2026-10-22 14:58:18",
     "created_at": "2026-10-22 04:23:35"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "デジタル庁、公式サイトへの問い合わせ最大1万3000件漏えいか Web制作ツール「Studio」不正アクセスで",
+    "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002543/",
+    "summary": "デジタル庁は制作ツール『Studio』への不正アクセスで問い合わせフォーム入力情報が最大1万3323件漏えいした可能性を発表。政府サイトのサプライチェーンリスクが浮上。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "政府機関サイトがサードパーティ制作ツール経由で影響を受けた事例で、自治体・省庁の委託管理に示唆があるため重要。",
+    "published_at": "2026-10-22 14:05:58",
+    "created_at": "2026-10-24 04:22:02"
   },
   {
     "source": "＠IT",
@@ -2630,17 +2751,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "Microsoft、Xboxで新たに268人削減 次期「Halo」はActivisionが開発、Ninja Theoryは閉鎖案",
-    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001675/",
-    "summary": "MicrosoftのXbox部門が268人を削減。スタジオ統合で次期Halo開発をActivisionへ移管し、Ninja Theoryは閉鎖協議を開始。7月の大規模再編の継続。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "大手プラットフォーマーの組織再編は業界の人員構造や開発体制に影響し、企業戦略の変化を示すため重要。",
-    "published_at": "2026-09-23 09:55:58",
-    "created_at": "2026-09-24 04:07:35"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
     "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
     "summary": "OpenAIがGPT-6シリーズのうちコスト効率重視の「Sol」と「Luna」を公開。API料金を前世代の半額に引き下げ、ChatGPTやCodexへの順次提供を表明。アライメント課題も残ると指摘。",
@@ -2648,39 +2758,6 @@
     "category": "AI",
     "reason": "主要AIプロバイダの新世代モデルと価格改定はクラウドコスト、開発体制、事業戦略に直結する重要ニュース。",
     "published_at": "2026-09-23 09:12:02",
-    "created_at": "2026-09-24 04:07:35"
-  },
-  {
-    "source": "＠IT",
-    "title": "クラウドもシャドーITも「見えない」 千葉銀行はグループ20以上の組織のセキュリティを、どう一元化した？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/23/news010.html",
-    "summary": "グループ複数組織にまたがるクラウドとシャドーITの可視化・統合管理の事例を解説。ID、端末、データ、クラウド利用を一元管理してリスクを統合的にコントロールした方法を紹介。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "大規模組織でのクラウド/シャドーIT管理の実務事例は、同様課題を抱える企業にとって参考度が高い。",
-    "published_at": "2026-09-23 08:00:00",
-    "created_at": "2026-09-24 04:07:35"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AWS、SalesforceがAI連携を強化 データ分断をどう解消するか",
-    "url": "https://kn.itmedia.co.jp/kn/article/2609/23/2000001663/",
-    "summary": "AWSとSalesforceがデータ移動を最小化しつつ、普段使うツール内でAIを活用する連携を強化。データ分断がAI導入のボトルネックである点に着目した取り組みを紹介。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "企業のAI導入で頻出するデータ連携問題に対する主要クラウドとSaaSの協調は、情シスと導入判断に直結する話題。",
-    "published_at": "2026-09-23 07:00:00",
-    "created_at": "2026-09-24 04:07:35"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減",
-    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
-    "summary": "AnthropicがClaude Opus 5.5を発表。多くのタスクで上位モデル相当の性能を維持しつつ、前モデル比で利用コストを約40%削減。ProプランとAPIで即日提供。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "競合モデルのコスト性能改善は企業のモデル選定や運用コストに影響するため開発者・情シス向けに有益。",
-    "published_at": "2026-09-23 06:57:43",
     "created_at": "2026-09-24 04:07:35"
   },
   {
