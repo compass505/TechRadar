@@ -1,6 +1,28 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検で分かったこと",
+    "url": "https://www.itmedia.co.jp/news/article/2610/25/2000002569/",
+    "summary": "納車から5年・約4万km走行のModel 3を5年目点検。バッテリーの劣化状況や維持費の実数値、アプリ中心の点検フローを報告している。",
+    "importance": 2,
+    "category": "ガジェット",
+    "reason": "実走行データに基づくバッテリー劣化と維持費の実例は消費者や車両管理に参考になるが、業界全体への即時的な影響は限定的。",
+    "published_at": "2026-10-25 20:37:30",
+    "created_at": "2026-10-26 03:27:54"
+  },
+  {
+    "source": "＠IT",
+    "title": "“コピー”をやめて工数削減――「データのサイロ化」を解消した2社の選択と、消えない“Excelの呪縛”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/25/news001.html",
+    "summary": "データがシステムごとに散在する『サイロ化』を解消した2社の事例。手作業やデータコピーを減らす具体策と、根強いExcel依存の課題を示す。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "実運用でのデータ統合・プロセス改善の具体例は情シスや開発、経営判断に直接役立つため掲載価値が高い。",
+    "published_at": "2026-10-25 08:00:00",
+    "created_at": "2026-10-26 03:27:54"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "GMO、「能動的サイバー防御」発動を政府に要請 「お名前.com」FX用VPSへの攻撃で",
     "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002567/",
     "summary": "お名前.comデスクトップクラウドの不正アクセスでFX口座を狙った不正取引が発生。GMOは被害拡大を受けて政府に能動的サイバー防御の適用を要請した。法整備と事業者対応の枠組みが焦点に。",
@@ -625,17 +647,6 @@
     "reason": "開発環境管理の効率化に直結する実務ツールで、.NET開発者や組織の運用負担軽減につながるため掲載。",
     "published_at": "2026-10-19 00:35:52",
     "created_at": "2026-10-20 05:39:44"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "スント、19年ぶり刷新のアウトドア時計「Suunto Core 2」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2148343.html",
-    "summary": "Suuntoが19年ぶりに刷新したアウトドアウォッチ「Suunto Core 2」を発表。最長約15カ月駆動で価格は39,600円、アウトドア向けの実用性を強調している製品ニュース。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "消費者向けの新型ウォッチ情報はガジェット欄で取り上げる価値があるが、業界影響は限定的なため低評価。",
-    "published_at": "2026-10-18 10:00:00",
-    "created_at": "2026-10-19 03:12:47"
   },
   {
     "source": "ITmedia AI+",
@@ -2553,28 +2564,6 @@
   },
   {
     "source": "＠IT",
-    "title": "【マネしないで】AIが暴走してやらかす“3つの主要パターン”を解説",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news059.html",
-    "summary": "AIエージェントの外部侵入事案を踏まえ、AIが暴走する代表的な3パターンを実例で紹介し、注意点や対策を解説する。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AI運用で現実に起きている侵入・暴走事例と対策が整理されており、セキュリティ対策に有用。",
-    "published_at": "2026-09-25 15:00:00",
-    "created_at": "2026-09-26 04:21:55"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "freeeで一時障害、給料日の朝に「振り込めない」「勤怠打てない」と困惑の声 すでに復旧",
-    "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001739/",
-    "summary": "クラウド会計・給与のfreeeでログイン障害などが発生。給料日に影響が出たとしてユーザーからの困惑の声が上がり、復旧後も監視を継続。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "給与・会計クラウドの障害は業務運営に直結するためIT部門や経営にとって重要な事例。",
-    "published_at": "2026-09-25 11:24:24",
-    "created_at": "2026-09-26 04:21:55"
-  },
-  {
-    "source": "＠IT",
     "title": "AIエージェントの監査証拠を標準化 特定クラウドに依存しないオープン仕様「TRACE」",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news056.html",
     "summary": "Linux FoundationがAIエージェントの実行時検証証拠を扱うオープン仕様「TRACE」を受贈、クラウド非依存での監査証拠標準化を目指す。",
@@ -2582,39 +2571,6 @@
     "category": "開発",
     "reason": "AIエージェントの透明性・監査性に関する標準化は企業導入や規制対応に重大な影響を及ぼす。",
     "published_at": "2026-09-25 11:00:00",
-    "created_at": "2026-09-26 04:21:55"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始 画像1枚で独自アバターも",
-    "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001730/",
-    "summary": "GoogleがGemini 3.8でリアルタイム音声対話と動画生成アバターを組み合わせた機能をGemini Enterpriseで提供開始。写真1枚からアバター生成が可能。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "顧客対応や店頭端末での商用活用が見込まれる実運用向けAI機能で、導入検討の材料になる。",
-    "published_at": "2026-09-25 09:10:33",
-    "created_at": "2026-09-26 04:21:55"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AI内製化、9割超が「停滞、頓挫」を経験 つまずく原因は“技術”ではなかった",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news049.html",
-    "summary": "企業のAI内製化に関する実態調査で、推進責任者の9割超がプロジェクト停滞や頓挫を経験。技術以外の組織課題が主要因と報告された。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業のAI導入戦略や組織設計に直結する実務的な洞察で、経営・情シスの判断に役立つ。",
-    "published_at": "2026-09-25 08:00:00",
-    "created_at": "2026-09-26 04:21:55"
-  },
-  {
-    "source": "atmarkit.itmedia.co.jp",
-    "title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news055.html",
-    "summary": "TypeSafe AIが自動化特化の新AIモデル「Jev」を早期提供。文字列生成を廃止し、従来LLM比で最大200倍の高速化とハルシネーション低減をうたう。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "ハルシネーション削減と高速化は自動化用途での実運用に直結するため、開発・導入検討の価値あり。",
-    "published_at": "2026-09-25 08:00:00",
     "created_at": "2026-09-26 04:21:55"
   },
   {
@@ -2637,28 +2593,6 @@
     "category": "クラウド",
     "reason": "クラウド・AIインフラの新たなフロンティアであり、長期的な事業戦略や技術選定に影響を与える。",
     "published_at": "2026-09-25 07:18:56",
-    "created_at": "2026-09-26 04:21:55"
-  },
-  {
-    "source": "kn.itmedia.co.jp",
-    "title": "AI同士が取引する時代、「相手は誰か」をどう確認する？ GMOが信頼基盤を実証",
-    "url": "https://kn.itmedia.co.jp/kn/article/2609/25/2000001724/",
-    "summary": "AIエージェントが企業間取引を担う際の「誰が操作しているか」「権限範囲」を検証する信頼基盤の実証をGMOが実施したと報告。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "AIエージェントの商用取引普及に不可欠な認証・信頼基盤の実証で、商取引設計に影響する。",
-    "published_at": "2026-09-25 07:00:00",
-    "created_at": "2026-09-26 04:21:55"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.36PFLOPS",
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html",
-    "summary": "EdgeCortixがフィジカルAI向け次世代スケーラブルAIチップレットプラットフォーム「RAIDEN」を発表。最大3.36PFLOPSのAI処理性能をうたう。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "国内ベンダーによる高性能チップの発表は半導体エコシステムとAIハード選定に影響を与える可能性がある。",
-    "published_at": "2026-09-25 06:45:00",
     "created_at": "2026-09-26 04:21:55"
   },
   {
