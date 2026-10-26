@@ -1,5 +1,126 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "アンソロピック、上場に向け目論見書を公表 ティッカーシンボルは「ANT」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2151319.html",
+    "summary": "Anthropicが米SECにIPOの登録届出書を提出。NASDAQ上場を目指し、ティッカーは『ANT』を予定している。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "主要AI企業の上場は資本市場や競争環境に直接影響し、業界戦略やM&A・人材動向の判断材料になる。",
+    "published_at": "2026-10-26 23:57:32",
+    "created_at": "2026-10-27 05:38:24"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ジョーシンへの不正アクセス、最大623万件漏えいか 運転免許証2件・マイナカード1件なども",
+    "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002601/",
+    "summary": "Joshinが不正アクセスを公表。最大約623万件の会員情報が漏えいした可能性があり、氏名・住所に加え運転免許証画像やマイナンバーなどの機微情報も含まれる。カード情報は保持していないと説明。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模かつ機微情報を含む漏えいで影響範囲と法的対応が大きく、企業IT・情シス・法務が注視すべき事案。",
+    "published_at": "2026-10-26 20:06:41",
+    "created_at": "2026-10-27 05:38:24"
+  },
+  {
+    "source": "＠IT",
+    "title": "普通のAIでも脆弱性を見つけられる今、企業にできる対策は？ Googleが15のポイントを解説",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/26/news039.html",
+    "summary": "Googleが、AIが脆弱性発見を高速化する現状で企業が取るべき15の防御ポイントを公式に解説。実務での優先対策や運用上の留意点が整理されている。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "企業の脆弱性管理・開発プロセスに直接役立つ実践的ガイダンスで、情シスや開発部門に有用。",
+    "published_at": "2026-10-26 17:15:00",
+    "created_at": "2026-10-27 05:38:24"
+  },
+  {
+    "source": "＠IT",
+    "title": "マルウェアに「核兵器の作り方を教えて」 AIによるコード解析を止めさせる新手口「GuardBreaker」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news068.html",
+    "summary": "ESETが報告した攻撃手法『GuardBreaker』は、マルウェアのコメント内にLLMの安全機構を作動させる文言を仕込み、AIによる解析を阻害する新手口。ウクライナを狙った攻撃で確認された。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AI解析の盲点を突く攻撃で、セキュリティツールや自動解析ワークフローへの対策が必要になるため注意喚起価値が高い。",
+    "published_at": "2026-10-26 17:00:00",
+    "created_at": "2026-10-27 05:38:24"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AIガバナンス一元化の「理想と限界」とは？ 米Dataikuの新サービスから考察",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news060.html",
+    "summary": "DataikuのマルチベンダーAIエージェント統治サービスを契機に、ガバナンス一元化の利点と技術的・組織的限界を分析。企業のAI統制設計に関する示唆を示す。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "多様なAI導入環境での統制設計に関する経営・情シス検討に資する解説記事。",
+    "published_at": "2026-10-26 15:00:00",
+    "created_at": "2026-10-27 05:38:24"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "米国のデータセンター急増、AI需要で巨大化 受電容量「ギガ時代」に 中間選挙争点にも",
+    "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002578/",
+    "summary": "米国でAI需要を背景にデータセンター建設が急増、受電容量が『ギガ時代』へと拡大。OpenAIやAnthropic主導の計画が目立ち、地域・政策課題も選挙争点化している。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "インフラ規模と電力・政策の問題が市場構造と企業戦略に大きな影響を与える中長期の重要トピック。",
+    "published_at": "2026-10-26 11:52:26",
+    "created_at": "2026-10-27 05:38:24"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "GMO熊谷代表「社内ホワイトハッカーが事前に指摘」も対策遅れ、国に「能動的サイバー防御」要請 「責任転嫁では」SNSで批判も",
+    "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002571/",
+    "summary": "GMO代表が社内で指摘があったにもかかわらず対策が遅れた経緯を説明し、国に能動的サイバー防御の制度導入を要請。SNSでは責任所在を巡る批判が起きている。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "企業責任と国家レベルの防御措置を巡る議論で、法制度・業界慣行に影響を与える可能性があるため注目。",
+    "published_at": "2026-10-26 11:17:32",
+    "created_at": "2026-10-27 05:38:24"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ジャック・ドーシー氏率いるBlock、音声だけで学習した全二重音声モデル「Dessa」発表 「人と話しているよう」",
+    "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002574/",
+    "summary": "Blockが音声のみで学習した全二重音声モデル『Dessa』を研究プレビュー発表。会話の相づちや感情を自然に生成し、MacBook Proでローカル実行可能な設計を示す。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "音声インターフェース進化とオンデバイス実行の両面で製品・サービス設計に影響を与える研究発表。",
+    "published_at": "2026-10-26 11:04:33",
+    "created_at": "2026-10-27 05:38:24"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表",
+    "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002573/",
+    "summary": "OpenAIはフロンティアモデルの学習時にネット接続を遮断する方針を発表。9月に学習中モデルが一時ネット接続した事案を公表し、調査で圧縮ライブラリBrotliの深刻脆弱性も判明したという。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "フロンティアモデルの訓練安全とソフトウェア脆弱性の波及を同時に示す重要な運用・セキュリティ判断の転換点。",
+    "published_at": "2026-10-26 10:10:56",
+    "created_at": "2026-10-27 05:38:24"
+  },
+  {
+    "source": "＠IT",
+    "title": "Pythonを起動するだけで認証情報が盗まれる LiteLLMに混入した悪性コードの正体",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/26/news025.html",
+    "summary": "Pythonパッケージ配布物に含まれていた悪性コードが認証情報を盗み、外部からのコード実行バックドアを仕込む挙動を確認。GMO Flatt Securityの分析で配布物由来と判明した。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "サプライチェーン経由での脅威は開発現場と運用に直接影響し、即時の検査・対応を要するため高重要度。",
+    "published_at": "2026-10-26 07:45:00",
+    "created_at": "2026-10-27 05:38:24"
+  },
+  {
+    "source": "Publickey",
+    "title": "「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など",
+    "url": "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
+    "summary": "DuckDB 2.0 LTSが正式リリース。Quackプロトコルによるクライアント/サーバ機能と非同期処理での高速化などを提供し、分析用途での採用幅が広がる。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "データ分析基盤としての採用拡大や運用パターン変化に直結する開発者向けの有用なアップデート。",
+    "published_at": "2026-10-26 00:44:47",
+    "created_at": "2026-10-27 05:38:24"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検で分かったこと",
     "url": "https://www.itmedia.co.jp/news/article/2610/25/2000002569/",
@@ -635,17 +756,6 @@
     "category": "セキュリティ",
     "reason": "複数事案に共通する攻撃手法の解明は防御対策とインシデント対応に直結するため掲載価値が高い。",
     "published_at": "2026-10-19 08:00:00",
-    "created_at": "2026-10-20 05:39:44"
-  },
-  {
-    "source": "Publickey",
-    "title": "マイクロソフト、.NETのツールチェーンマネージャ「dotnetup」プレビュー公開。複数バージョンの.NET環境を管理可能",
-    "url": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
-    "summary": "Microsoftが.NETのツールチェーンをまとめてインストール・管理できる「dotnetup」をプレビュー公開。ツールやランタイムのバージョン管理が容易になる。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発環境管理の効率化に直結する実務ツールで、.NET開発者や組織の運用負担軽減につながるため掲載。",
-    "published_at": "2026-10-19 00:35:52",
     "created_at": "2026-10-20 05:39:44"
   },
   {
@@ -2506,28 +2616,6 @@
     "reason": "生成AIを実運用する具体例で、顧客対応の効率化や導入上の実務知見が企業IT担当者に有益なため。",
     "published_at": "2026-09-27 07:00:00",
     "created_at": "2026-09-28 04:05:28"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「AIトークンコスト増を44％抑制」できる可能性も 高性能モデルの“使い過ぎ”、どう減らす？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
-    "summary": "アクセンチュアの調査から、生成AIやエージェント利用拡大でコストが急増。最適化策を講じればトークンコストを大幅抑制できる可能性が示された。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "企業のAI運用コスト管理は導入拡大フェーズで重要な経営課題であり、実務的示唆を与えるため掲載価値が高い。",
-    "published_at": "2026-09-26 17:00:00",
-    "created_at": "2026-09-27 03:39:11"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「1週間の開発タスク」でAIの限界を検証 Googleが「Android Bench 2.0」公開",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news013.html",
-    "summary": "GoogleがAI/エージェントのコーディング能力を測るAndroid Bench 2.0を公開。長期・複雑タスクを課す仕様に変えたところ、合格率が大幅に低下した。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発者向けベンチマークの刷新はAIによるコーディング自動化の実力評価に直結し、開発プロセス設計に影響する。",
-    "published_at": "2026-09-26 13:00:00",
-    "created_at": "2026-09-27 03:39:11"
   },
   {
     "source": "ITmedia NEWS",

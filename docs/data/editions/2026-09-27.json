@@ -2,9 +2,7 @@
   "edition_date": "2026-09-27",
   "surfaces": {
     "top_yesterday": [
-      "3a17555bba52",
-      "52b2519a71a8",
-      "2b7a0cd10f27"
+      "3a17555bba52"
     ],
     "recent_important": [
       "f072e9e00a16",
@@ -17,13 +15,9 @@
       "acc368a05bae"
     ],
     "yesterday_ai": [
-      "3a17555bba52",
-      "52b2519a71a8",
-      "2b7a0cd10f27"
+      "3a17555bba52"
     ],
     "yesterday_enterprise_it": [],
-    "yesterday_development": [
-      "52b2519a71a8"
-    ]
+    "yesterday_development": []
   }
 }
