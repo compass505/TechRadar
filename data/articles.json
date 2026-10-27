@@ -1,5 +1,115 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
+    "summary": "GMOインターネットは傘下VPSサービスへの不正アクセスを巡り、犯人特定につながる情報に総額100万ドル（約1億5000万円）の懸賞金制度を開始すると発表。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "進行中の大規模インシデントに対する異例の懸賞金・補償策は業界対応の前例になりうる",
+    "published_at": "2026-10-27 19:58:09",
+    "created_at": "2026-10-28 05:08:50"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "So-net、会員情報約259万件が漏えい 一部メールサービスではパスワードも流出",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002643/",
+    "summary": "ソニーネットワークコミュニケーションズはSo-netの会員DBが不正アクセスを受け、約259万件の会員情報が漏えい。一部ではメールアドレスとパスワードの流出も確認。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模顧客データ流出は被害範囲・対応コスト・法的影響が大きく、企業・情シスに重要",
+    "published_at": "2026-10-27 19:48:13",
+    "created_at": "2026-10-28 05:08:50"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "OpenAI、実務遂行能力を大幅に向上した「GPT-6.1 Terra」",
+    "url": "https://www.watch.impress.co.jp/docs/news/2151433.html",
+    "summary": "OpenAIがコスト効率と実務性能を高めた新モデル「GPT-6.1 Terra」を発表。APIやChatGPT Workでの利用が想定される。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "実務適用が進むモデル更新は開発・導入判断に参考になるが、即時の緊急性は限定的",
+    "published_at": "2026-10-27 12:25:13",
+    "created_at": "2026-10-28 05:08:50"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "政府、サイバー攻撃の「緊急対策パッケージ」来週中に策定へ 高市首相がサイバー閣僚会議の初会合で指示",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002620/",
+    "summary": "首相がサイバー閣僚会議で、相次ぐ企業への攻撃を受けた緊急対策パッケージの策定を指示。来週中の取りまとめを命じたと報じられる。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "政府主導の緊急対策は規制・企業対応基準や公的支援に直結するため幅広い影響あり",
+    "published_at": "2026-10-27 12:18:21",
+    "created_at": "2026-10-28 05:08:50"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "メアドを検索→AIで“その人専用フィッシングメール”を生成する手法、クリック率が約2.7倍に 7000人以上で実験",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002550/",
+    "summary": "研究チームがLLMを使った大規模個別化フィッシングの実効性を検証し、生成メールのクリック率が約2.7倍に増加することを報告。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AIによるスピアフィッシングの有効性を実証する研究は企業の対策優先度を高めるため実務的価値がある",
+    "published_at": "2026-10-27 12:00:00",
+    "created_at": "2026-10-28 05:08:50"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「楽天トラベル」に不正アクセス 顧客情報最大約260万件など流出か 予約者約3.6万件のクレカ情報も",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002606/",
+    "summary": "楽天トラベルの一部ページが不正アクセスを受け、最大約260万件の顧客情報や約3.6万件の予約者のクレジットカード情報下4桁などが流出した可能性。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大手プラットフォームでの大規模漏えいは利用者影響と規制・対応コストが大きく企業側の対応指針が求められる",
+    "published_at": "2026-10-27 07:44:55",
+    "created_at": "2026-10-28 05:08:50"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画 NVIDIA、AMD、Broadcomも出資に関心",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002605/",
+    "summary": "MetaがAIインフラとパーソナル超知能に向け最大約950億ドルの資金調達計画を発表。まず約350億ドルを公募し、半導体大手も出資に関心を示す。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "巨大資金調達はAIインフラ投資の加速と半導体・クラウド需要に直接影響するため市場重要度が高い",
+    "published_at": "2026-10-27 07:26:55",
+    "created_at": "2026-10-28 05:08:50"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft、約6万人対象の希望退職制度を発表 巨額のAI投資で経費抑制か",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002604/",
+    "summary": "Microsoftは米英加印で約6万人規模を対象にした希望退職制度を導入。AI関連設備投資が続く中での経費見直しと見られる。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "主要テック企業の大規模人員施策は業界再編や人材市場に広範な影響を与える",
+    "published_at": "2026-10-27 06:53:53",
+    "created_at": "2026-10-28 05:08:50"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、IPOを正式申請 上半期売上高は約14倍、純損失807億ドル",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002603/",
+    "summary": "AnthropicがSECにForm S-1を提出し上場を正式申請。上半期売上の急伸や大規模な純損失、創業者グループの支配的ガバナンス体制などが明らかに。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要AI企業の上場申請は資金調達・ガバナンス・競争環境に直結するため業界影響が大きい",
+    "published_at": "2026-10-27 06:28:38",
+    "created_at": "2026-10-28 05:08:50"
+  },
+  {
+    "source": "Publickey",
+    "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
+    "url": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
+    "summary": "AWSとGoogle Cloudが自社AIアクセラレータ（Trainium/TPU）対応のPyTorch版をオープンソースで公開し、NVIDIA依存からの選択肢拡大を狙う。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "クラウド事業者によるアクセラレータ互換性強化はAIインフラ構成とコストに直接影響する",
+    "published_at": "2026-10-27 00:59:52",
+    "created_at": "2026-10-28 05:08:50"
+  },
+  {
     "source": "Impress Watch",
     "title": "アンソロピック、上場に向け目論見書を公表 ティッカーシンボルは「ANT」",
     "url": "https://www.watch.impress.co.jp/docs/news/2151319.html",
@@ -646,17 +756,6 @@
     "category": "法規制",
     "reason": "連邦レベルの排除措置で調達・サプライチェーンに影響が出るため、企業のベンダー評価に重要。",
     "published_at": "2026-10-20 07:07:09",
-    "created_at": "2026-10-21 04:24:41"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「データセンター×発電設備」一体開発がトレンド？ 日立・東京ガスが九州で計画、JERAは千葉で 狙いは",
-    "url": "https://www.itmedia.co.jp/business/articles/2610/20/news051.html",
-    "summary": "日立や東京ガスなどがデータセンターと発電設備を一体開発する協業計画を発表。発電所一体型データセンターの採用が増えている背景を解説。",
-    "importance": 2,
-    "category": "クラウド",
-    "reason": "クラウド／インフラの設計トレンドとして興味深く、耐障害性や電力調達戦略を考える上で参考になる。",
-    "published_at": "2026-10-20 07:00:00",
     "created_at": "2026-10-21 04:24:41"
   },
   {
@@ -2604,17 +2703,6 @@
     "category": "企業IT",
     "reason": "インフラ移行や人材・運用戦略に直接影響する業界課題で、情シス・経営判断にとって重要な示唆を含むため。",
     "published_at": "2026-09-27 08:00:00",
-    "created_at": "2026-09-28 04:05:28"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
-    "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
-    "summary": "NTTドコモが顧客の短い問い合わせから意図を汲み取って聞き返し、手続きへ導く対話型生成AIを導入。本番運用に耐える仕組みも整備している。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "生成AIを実運用する具体例で、顧客対応の効率化や導入上の実務知見が企業IT担当者に有益なため。",
-    "published_at": "2026-09-27 07:00:00",
     "created_at": "2026-09-28 04:05:28"
   },
   {
