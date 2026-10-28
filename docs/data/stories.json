@@ -13805,62 +13805,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "d73dd6c1483a",
-    "title": "Excel、40年続く原則を変更へ 1個のセルで複数の値を扱う新機能",
-    "published_date": "2026-09-28",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "MicrosoftがExcelで1セルに複数値を持てる新機能「Lists」を発表。プレビュー提供を開始し、集計・絞り込みの扱いが変わる可能性がある。",
-    "reason": "長年の表計算ワークフローに影響する仕様変更で、業務運用や互換性の検討が必要。",
-    "published_at": "2026-09-28 19:17:12",
-    "created_at": "2026-09-29 06:17:39",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/28/2000001820/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "f4568a4e0454",
-    "title": "NTTがGPUリソースサービスを提供開始 「クラウドに閉じない」「GPSのキャパシティサービスではない」",
-    "published_date": "2026-09-28",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "NTTドコモビジネスが多様なGPU利用形態に対応する「GPUaaS」を開始。分散構成で小規模から大規模利用までカバーし、電力不足対策も想定している。",
-    "reason": "国内のGPU供給増でAI開発・運用の選択肢が広がり、企業のインフラ戦略に関係するため。",
-    "published_at": "2026-09-28 14:57:00",
-    "created_at": "2026-09-29 06:17:39",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news100.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "b99cd2725096",
     "title": "OpenAI、最上位モデルのツール使用を伴う学習・評価・推論を全て停止したと発表",
     "published_date": "2026-09-28",
@@ -13915,35 +13859,6 @@
     "urgency_score": 2,
     "utility_score": 2,
     "has_itmedia_article": true
-  },
-  {
-    "id": "013dfd5a074b",
-    "title": "「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に",
-    "published_date": "2026-09-28",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "DockerがAIエージェント向けのクラウド提供サンドボックス「Docker Cloud Sandboxes」を発表。ローカルとクラウド間で環境移動が可能に。",
-    "reason": "AIエージェント運用のセキュアな実行環境に関するインフラ進展として開発・運用に影響。",
-    "published_at": "2026-09-28 01:02:18",
-    "created_at": "2026-09-29 06:17:39",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 3,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
   },
   {
     "id": "6532a4840018",
@@ -14028,120 +13943,6 @@
     "urgency_score": 0,
     "utility_score": 3,
     "has_itmedia_article": false
-  },
-  {
-    "id": "bb3010966558",
-    "title": "マルチクラウド接続から“AI時代の基盤”へと進化した「Equinix Fabric」、ANAがネットワーク構築期間を80％短縮",
-    "published_date": "2026-09-28",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "Equinix FabricがAI時代の基盤機能を強化。ANAが採用しネットワーク構築期間を80%短縮した事例を紹介している。",
-    "reason": "マルチクラウド基盤の進化と実運用短縮効果はクラウド設計・投資判断に有用。",
-    "published_at": "2026-09-28 05:00:00",
-    "created_at": "2026-09-29 06:17:39",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news010.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "e3e21f69f1c1",
-    "title": "京王グループにランサム攻撃、京王ストアの決済やホテル予約などに影響……鉄道は影響なし",
-    "published_date": "2026-09-28",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "京王グループがランサムウェア攻撃を受け、京王ストアの決済やホテル予約、定期券販売等で影響が発生。鉄道運行自体は影響を受けていないとのこと。",
-    "reason": "実業務の停止・購買決済に影響した事例として、企業のBCPや決済セキュリティの教訓になるため。",
-    "published_at": "2026-09-28 09:11:20",
-    "created_at": "2026-09-29 06:17:39",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/28/2000001779/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "355b1776cfdd",
-    "title": "損保ジャパン、Gemini Enterpriseを従業員約2万人に展開 標準機能の制約をどう補っている？",
-    "published_date": "2026-09-28",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "損保ジャパンがGemini Enterpriseを全社展開。標準の制約やクォータ上限をどのように補って運用しているか、チーフエンジニアが説明。",
-    "reason": "大規模な企業導入事例で、実運用やガバナンスのヒントが得られるため開発・情シス向けに有益。",
-    "published_at": "2026-09-28 14:30:00",
-    "created_at": "2026-09-29 06:17:39",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2609/28/news016.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "456f8ff46129",
-    "title": "次期指導要領の全体像固まる 情報学習強化、英語でAI導入が柱",
-    "published_date": "2026-09-28",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "中央教育審議会が次期学習指導要領の取りまとめ案を了承。情報教育強化と英語授業でのAI導入が柱で、年度内に改定予定。",
-    "reason": "教育現場へのAI導入が制度として進むことで長期的な人材育成と企業の人材戦略に影響。",
-    "published_at": "2026-09-28 18:52:47",
-    "created_at": "2026-09-29 06:17:39",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/28/2000001818/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "15c40aaff7a1",
@@ -20653,6 +20454,375 @@
     "practical_impact_score": 3,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 2,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "64a4a8a2be1c",
+    "title": "AndurilとQualcomm、米国製PC「BlueChip」を発表 Snapdragon X搭載、2027年に受注開始へ",
+    "published_date": "2026-10-28",
+    "importance_score": 3,
+    "category": "半導体",
+    "summary": "AndurilとQualcommが米国内で製造するPCブランド「BlueChip」を発表。Snapdragon X搭載ノートPCを開発し、筐体や基板組み立てを国内で行い2027年に受注開始予定。",
+    "reason": "米国発のオンショア製造・サプライチェーン強化は半導体・ハードウェアの地政学的影響が大きい。",
+    "published_at": "2026-10-28 09:48:10",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/28/2000002653/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "16ec881adc84",
+    "title": "Anthropic、独自の“創薬活動”に着手 社員1人のバイオ企業を買収、小児難病の治療薬研究を進める",
+    "published_date": "2026-10-28",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Anthropicが小児希少疾患向けの創薬活動に参入。AI（Claude）を活用して実験機関と連携していた企業を買収し、研究を引き継ぐと発表した。",
+    "reason": "AI企業のバイオ領域への直接参入は産業横断的な戦略変化であり、業界動向として重要。",
+    "published_at": "2026-10-28 13:07:50",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e3e525873bc8",
+    "title": "Discord、公開サーバの会話をGoogle検索などの対象に プライバシーへの懸念も",
+    "published_date": "2026-10-28",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Discordが一部公開サーバーの会話をWeb検索の対象にすると発表。11月にAI要約公開、12月に投稿本文の検索対応を開始。日本は初期設定でオンとなる点に懸念が出ている。",
+    "reason": "公開会話の検索化はプライバシーとAI学習データ利用の問題を直撃し、コミュニティ運用や法令対応に影響する。",
+    "published_at": "2026-10-28 11:07:59",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/28/2000002656/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "8bb555b70924",
+    "title": "JALの予約システムに不正アクセス 約9万人分の予約情報が漏えい 一部ではパスポート番号も",
+    "published_date": "2026-10-28",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "日本航空とJTAの予約管理システム提供元が不正アクセスを受け、約9万2000人分の予約情報が外部から閲覧された形跡。パスポート番号を含むデータが一部で含まれる可能性があると発表。",
+    "reason": "大手航空の個人情報大量漏えいは顧客影響が大きく、情シス・法務対応が必須の重大インシデント。",
+    "published_at": "2026-10-28 20:52:00",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/28/2000002687/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f1ce53cff629",
+    "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表 「Muse」の強化や次世代インフラ構築で協力",
+    "published_date": "2026-10-28",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "NVIDIAとAMDがそれぞれMetaとのAI提携を拡大。MetaのAIエージェントMuse強化や次世代インフラ構築で協力し、両社が巨額出資を実施する計画を表明。",
+    "reason": "主要半導体メーカーと大手プラットフォーマーの資本・技術連携はAIインフラと市場構造に大きな影響を与える。",
+    "published_at": "2026-10-28 08:55:26",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "7d1877ec1937",
+    "title": "Oracle CloudがGoogle TPU導入へ 2027年に提供を開始",
+    "published_date": "2026-10-28",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "Oracle CloudがGoogleのAI専用チップ TPU を導入し、2027年からOCI上で提供を開始すると発表。クラウド間でのAIアクセラレータ選択肢が拡大する動き。",
+    "reason": "主要クラウドが他社AIチップを採用する戦略はAIインフラ競争と顧客選択に大きな影響を与える。",
+    "published_at": "2026-10-28 18:48:42",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "f7b1b57c7c7d",
+    "title": "PFNの国産フラグシップモデル「PLaMo 3.1 Prime」発表 オンプレでDeep Research対応 API無料プランも開始",
+    "published_date": "2026-10-28",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Preferred Networksが国産生成AIモデル「PLaMo 3.1 Prime」を発表。オンプレ展開のDeep Research対応やハルシネーション抑制の機能を打ち出し、API無料プランも開始する。",
+    "reason": "国内でオンプレ中心の高性能モデル提供は、企業のAI導入戦略とデータ主権に関わる意義がある。",
+    "published_at": "2026-10-28 11:32:41",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "9dbf2d0c1224",
+    "title": "「AIで攻撃コード生成はたったの数時間に」 Fortinetが5製品を緊急更新＆警鐘",
+    "published_date": "2026-10-28",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Fortinetが複数製品の緊急修正を公開。AI進化で脆弱性を突く攻撃コード生成が短時間で可能になり、公開機器の迅速な更新を強く呼び掛けている。",
+    "reason": "大手セキュリティベンダーの緊急対応は多くの事業者に直接影響し、即時対応が求められる。",
+    "published_at": "2026-10-28 17:00:00",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/28/news020.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 3,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "abee438817bc",
+    "title": "「対策を後回しにしたサーバが軒並み狙われている」 相次ぐ不正アクセスにラックCTOが警鐘",
+    "published_date": "2026-10-28",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "ラックCTOがKDDI SUMMITで、脆弱性対策を先送りにしたサーバ群が攻撃者に狙われていると警告。AIによる攻撃の高速化を踏まえた基本対策の見直しを訴えた。",
+    "reason": "実運用での被害傾向と対策優先度に関する実務的な警鐘で、情シス・開発者に役立つ。",
+    "published_at": "2026-10-28 17:19:23",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/28/2000002675/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "be88210fa916",
+    "title": "「攻撃者に権限なし」でも危険 BIND 9の脆弱性、回避策なく更新必須",
+    "published_date": "2026-10-28",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "DNSサーバソフトBIND 9にリモートコード実行につながるメモリ破損の脆弱性（CVSS 8.1）が発見。既知の回避策がなく、管理者による速やかなアップデートが必要とされる。",
+    "reason": "DNSはインフラ基盤であり、回避策がない高危険度脆弱性は幅広い緊急対応を要する。",
+    "published_at": "2026-10-28 07:45:00",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/28/news021.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 2,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "d797a1f079e4",
+    "title": "「禁止」するだけでは防げない？ パナソニックグループで約33万人分の個人情報が外部生成AIに",
+    "published_date": "2026-10-28",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "パナソニックグループで従業員・元従業員約33万人分の個人情報が社内から外部の生成AIサービスへアップロードされた可能性を公表。禁止ルールだけでは防げない課題を指摘。",
+    "reason": "大企業でのデータ流出・ガバナンス失敗は他社のAI利用ポリシー設計に直接の教訓を提供する。",
+    "published_at": "2026-10-28 15:30:00",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "4cd62c6287c5",
+    "title": "日本取引所、金融市場の取引システム運用監視にAIを導入 精度97％を実現した方法",
+    "published_date": "2026-10-28",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "JPXと日立が取引システムの運用監視にAIを本格導入し、97％の精度を実現した手法を解説。ハルシネーション対策やミッションクリティカルな運用への適用が焦点。",
+    "reason": "金融のミッションクリティカル運用へのAI適用事例は、同分野や他業界の採用判断に有益な実務情報を示す。",
+    "published_at": "2026-10-28 07:00:00",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/article/2610/28/2000002621/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5e53d486c260",
+    "title": "顧客も巻き込むサイバー脅迫 GMO攻撃が問う企業の防御と国の対処、被害の連鎖どう断つ",
+    "published_date": "2026-10-28",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "GMOインターネットグループへの不正アクセスで攻撃者がデータ公開を行うなど事態が進展。AIを使ったサイバー攻撃の本格化と、企業・政府の対処が問われている。",
+    "reason": "顧客データを巻き込む大規模事案で影響範囲が広く、業界・国レベルの対応議論を促す。",
+    "published_at": "2026-10-28 12:42:31",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/28/2000002660/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
     "utility_score": 1,
     "has_itmedia_article": true
   }
