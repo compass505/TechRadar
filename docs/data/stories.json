@@ -13974,34 +13974,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "73f1db00a914",
-    "title": "7割の企業が生成AI「個人利用」への対策せず デロイト調査",
-    "published_date": "2026-09-29",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "デロイトの調査で、多くの企業が業務での生成AIの個人利用に関するガイドラインや対策を実施しておらず、運用ルールが不十分である実態が判明。",
-    "reason": "ガバナンス不備は企業リスクに直結するため、情シス・経営層にとって有益な調査結果。",
-    "published_at": "2026-09-29 17:50:50",
-    "created_at": "2026-09-30 05:04:20",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001855/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 3,
-    "has_itmedia_article": true
-  },
-  {
     "id": "d49fff35de4e",
     "title": "AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ ハードとモデルを一体化したオープンAIエコシステム加速へ",
     "published_date": "2026-09-29",
@@ -14054,34 +14026,6 @@
     "ai_relevance_score": 3,
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "16afdc2eef16",
-    "title": "Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％以上高速化、タスク当たりコスト最大3割減",
-    "published_date": "2026-09-29",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "AnthropicがClaude Sonnet 5.5を発表。速度とトークン効率を改善し、コスト削減とコーディング性能向上を実現。即日APIなどで提供開始。",
-    "reason": "開発者やサービス提供者のコスト・性能に直接影響するモデルアップデートのため有用。",
-    "published_at": "2026-09-29 06:55:33",
-    "created_at": "2026-09-30 05:04:20",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/29/2000001823/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": true
@@ -14171,35 +14115,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "494af92a95a0",
-    "title": "「APIキーを守る」ではなく「AIエージェントに渡さない」――Postmanが発表した新アプローチ",
-    "published_date": "2026-09-29",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "PostmanがAIエージェントに実際の資格情報を渡さずにAPI呼び出しを行える仕組みを発表し、資格情報漏えいリスクを低減する新アプローチを提示。",
-    "reason": "AI連携APIの実務的なセキュリティ対策で、開発チームやプラットフォーム構築者に有益。",
-    "published_at": "2026-09-29 15:00:00",
-    "created_at": "2026-09-30 05:04:20",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/29/news036.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "ce205f9f922f",
     "title": "「パッチを当てても安心できない」 Citrix NetScalerゼロデイ、CISAが異例の対応を要求",
     "published_date": "2026-09-29",
@@ -14282,34 +14197,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": false
-  },
-  {
-    "id": "11e6a6e909e9",
-    "title": "日本郵便に不正アクセスか 国際郵便の「調査請求Web受付」を停止、原因は調査中",
-    "published_date": "2026-09-29",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "日本郵便が国際郵便の調査請求Web受付サーバに外部からの不正アクセスの可能性を発表し、該当サービスを停止。原因と影響範囲を調査中。",
-    "reason": "公共インフラを担う組織での不正アクセス疑いは影響範囲が広く、早期把握が必要だから。",
-    "published_at": "2026-09-29 13:40:17",
-    "created_at": "2026-09-30 05:04:20",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2609/29/2000001841/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
   },
   {
     "id": "20d4c2912218",
@@ -19015,34 +18902,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "9947f9a49ada",
-    "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
-    "published_date": "2026-10-22",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "CloudflareがTypeScriptをRustで実装する「tsrs」を公開。メモリ使用を大幅削減し高速化、将来的にLSP等全機能対応を目指す。",
-    "reason": "言語ツールチェーンの性能改善は大規模開発やクラウド環境での運用コストに寄与するが即時の危機ではないため厳しめ評価。",
-    "published_at": "2026-10-22 00:42:36",
-    "created_at": "2026-10-23 04:18:15",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "65ad5e581159",
     "title": "Google Cloudに「Astra」含むOpenAIのモデルが追加 「主要3社のクローズドモデル使える唯一のハイパースケーラー」に",
     "published_date": "2026-10-22",
@@ -19180,34 +19039,6 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 3,
     "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "c195560dd531",
-    "title": "PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表 混乱広げた企業を名指しで批判",
-    "published_date": "2026-10-22",
-    "importance_score": 2,
-    "category": "セキュリティ",
-    "summary": "The PHP Foundationが、脆弱性情報の先出し（PoC公開）の経緯を公表し、開示運用の問題点と混乱を招いた関係者を批判した。",
-    "reason": "脆弱性開示の運用面に直接影響し、今後の脆弱性対応ポリシー議論に資するため選出。",
-    "published_at": "2026-10-22 18:29:19",
-    "created_at": "2026-10-23 04:18:15",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/22/2000002525/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 2,
     "has_itmedia_article": true
   },
   {
@@ -20597,35 +20428,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "7d1877ec1937",
-    "title": "Oracle CloudがGoogle TPU導入へ 2027年に提供を開始",
-    "published_date": "2026-10-28",
-    "importance_score": 4,
-    "category": "クラウド",
-    "summary": "Oracle CloudがGoogleのAI専用チップ TPU を導入し、2027年からOCI上で提供を開始すると発表。クラウド間でのAIアクセラレータ選択肢が拡大する動き。",
-    "reason": "主要クラウドが他社AIチップを採用する戦略はAIインフラ競争と顧客選択に大きな影響を与える。",
-    "published_at": "2026-10-28 18:48:42",
-    "created_at": "2026-10-29 05:24:06",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "f7b1b57c7c7d",
     "title": "PFNの国産フラグシップモデル「PLaMo 3.1 Prime」発表 オンプレでDeep Research対応 API無料プランも開始",
     "published_date": "2026-10-28",
@@ -20824,6 +20626,322 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
     "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "cb619e3b657a",
+    "title": "ANAの予約情報に不正アクセス、JALと同じ委託先経由で 個人情報をのぞき見た痕跡も",
+    "published_date": "2026-10-29",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "ANAはAmadeusの旅客サービスシステムへの不正アクセスで一部顧客の個人情報が参照された痕跡を確認。JALでも同様の委託先経由の被害が報告されている。",
+    "reason": "航空業界共通の委託システムを狙った不正アクセスで広範囲に影響、顧客情報と渡航情報の漏えいリスクが高い。",
+    "published_at": "2026-10-29 16:37:03",
+    "created_at": "2026-10-30 05:22:33",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/29/2000002722/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "51ad2fa597b9",
+    "title": "Alphabet、25％増収も純利益は25％減 Google Cloudは103％増収、AI投資負担増",
+    "published_date": "2026-10-29",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "Alphabetの四半期決算で売上高は25%増だが純利益は25%減。Google Cloudは103%増収と急成長する一方で、AI設備投資が拡大しFCFは赤字に転落した。",
+    "reason": "主要テック企業の業績とAI投資の影響を示す決算で、クラウド・AIビジネスの投資判断に参考になるため。",
+    "published_at": "2026-10-29 09:42:56",
+    "created_at": "2026-10-30 05:22:33",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/29/2000002693/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "fff5a36d5406",
+    "title": "ChatGPTのPro・Businessプランで「API利用」可能に 月最大500ドル分",
+    "published_date": "2026-10-29",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIがChatGPTのPro/Businessプラン加入者向けにAPI利用枠を追加、月最大500ドル分を付与することを発表した。",
+    "reason": "開発者・企業の導入コストと開発フローに直接影響する商用プランの変更で、API利用拡大に繋がるため有益。",
+    "published_at": "2026-10-29 17:46:39",
+    "created_at": "2026-10-30 05:22:33",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5dfb24f72c57",
+    "title": "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化",
+    "published_date": "2026-10-29",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "Googleはフロンティアモデル「Gemini 4 Carbon」を発表。サイバー防御や長期自律作業能力を強化し、一部のサイバー防御組織へ限定提供を開始する方針。",
+    "reason": "最先端モデルの公開でサイバー防御や長時間タスク自動化に影響、企業のAI導入戦略やセキュリティ運用に関係するため。",
+    "published_at": "2026-10-29 07:13:47",
+    "created_at": "2026-10-30 05:22:33",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e47ad9372471",
+    "title": "Oracle CloudがGoogle TPU導入へ 2027年に提供を開始",
+    "published_date": "2026-10-29",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "Oracle Cloudが2027年にGoogleのTPUを導入して提供開始する方針を発表。クラウド上でのAI推論・学習インフラが強化される見込み。",
+    "reason": "クラウド間でのAIアクセラレータ採用が進み、クラウド競争と企業のAIインフラ選定に直接影響するため重要。",
+    "published_at": "2026-10-29 10:12:13",
+    "created_at": "2026-10-29 05:24:06",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "c561500bc562",
+    "title": "SAP移行のABAPコード変換が「87％減」 AWSの「Kiro」がベンチマークで示した実力",
+    "published_date": "2026-10-29",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "AWSのAIコーディングエージェント「Kiro」によるABAPコード変換のベンチマークで、工数が87%削減されたと報告。SAPモダナイゼーションでの効果を示す。",
+    "reason": "レガシーSAPの移行・モダナイゼーションに即効性のある自動化成果を示し、企業の開発工数・コスト見積もりに影響するため。",
+    "published_at": "2026-10-29 12:45:00",
+    "created_at": "2026-10-30 05:22:33",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/29/news039.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "151546824da8",
+    "title": "「EDR無効化」「暗号化はしない」 2026年のランサムウェアに起きた変化",
+    "published_date": "2026-10-29",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "ランサムウェア攻撃が暗号化中心からデータ人質化やEDR無効化など新戦術へ変化。攻撃者の手法や防御側の常識の見直しを解説する。",
+    "reason": "攻撃手法のトレンド変化がセキュリティ運用に直接影響し、対策方針の見直しが必須となるため重要。",
+    "published_at": "2026-10-29 17:15:00",
+    "created_at": "2026-10-30 05:22:33",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/29/news019.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "1a4072152901",
+    "title": "オラクル、社員が業務アプリをAIで自動作成、Oracle Cloud上で共有できる「Oracle App Composer」発表。Oracle AI World 2026",
+    "published_date": "2026-10-29",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "Oracleは社員がAIで業務アプリを自動生成しOracle Cloudにデプロイ・共有できる「Oracle App Composer」を発表。ローコード/市民開発とAIを結合。",
+    "reason": "企業内でのアプリ開発生産性向上とガバナンスの課題を同時に変える可能性があり、情シスの導入検討に有用。",
+    "published_at": "2026-10-29 00:39:53",
+    "created_at": "2026-10-30 05:22:33",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 3,
+    "urgency_score": 0,
+    "utility_score": 3,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "acd76c412203",
+    "title": "クラウドの「中枢」を奪われたら何が起きる？ 495社の仮想サーバを止めたIDCFランサムウェア攻撃の全容",
+    "published_date": "2026-10-29",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "IDCFクラウドで認証系OSSの脆弱性を突くランサムウェア攻撃が発生し、495社の仮想サーバが停止・暗号化された。攻撃経路と再発防止の課題を分析する。",
+    "reason": "クラウド事業者への侵害が多数の利用企業に波及。クラウド依存企業のBCPや構成管理の教訓として重要。",
+    "published_at": "2026-10-29 07:45:00",
+    "created_at": "2026-10-30 05:22:33",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/29/news044.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 4,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 3,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "52ac1a5dd20d",
+    "title": "不正アクセスによる漏えい人数、半年余りでのべ2億6000万人に 日本人口の2倍超",
+    "published_date": "2026-10-29",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "個人情報保護委によれば、2026年4月1日から10月16日までに報告された不正アクセスによる漏えい・恐れの対象者数が延べ約2億6000万人に達した。日本の総人口の2倍超に相当する規模。",
+    "reason": "国民規模の個人情報被害の集計で影響範囲が極めて大きく、政策・対策と企業対応の緊急性が高いため。",
+    "published_at": "2026-10-29 19:18:19",
+    "created_at": "2026-10-30 05:22:33",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/29/2000002730/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a116b5611e12",
+    "title": "経産省「デントリネット」不正アクセスで停止 電力・ガス事業者の定期報告サイト",
+    "published_date": "2026-10-29",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "経済産業省の電力・ガス事業者向け定期報告サイト「デントリネット」が不正アクセスで停止。情報流出は確認中で、復旧までの報告はメールで受け付ける。",
+    "reason": "インフラ事業者向けの政府報告サイトが停止し、法定報告や監督に直接影響するため規制・運用面で重大。",
+    "published_at": "2026-10-29 10:31:38",
+    "created_at": "2026-10-30 05:22:33",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2610/29/2000002696/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
     "has_itmedia_article": true
   }
 ]
