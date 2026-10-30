@@ -1,5 +1,126 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "トヨタとウェイモ、27年に国内で自動運転タクシー",
+    "url": "https://www.watch.impress.co.jp/docs/news/2152732.html",
+    "summary": "トヨタとWaymoが2027年に日本で自動運転タクシーの試験を開始すると発表。両社の協業を次の段階に進める取り組みで、国内実装に向けた試験運用が始まる。",
+    "importance": 4,
+    "category": "開発",
+    "reason": "主要自動車メーカーと自動運転企業の国内実証は産業構造と規制対応に大きな影響を与えるため高い優先度。",
+    "published_at": "2026-10-30 18:05:41",
+    "created_at": "2026-10-31 04:58:19"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "“でぶねこ”の重み公開 1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
+    "summary": "Mistral AIが1兆パラメータ級モデル『Mistral Large 4（Le Chonk）』の重みを公開し、Hugging Faceでダウンロード可能に。コーディングやサイバーセキュリティ分野で高性能を示すと報告。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "大規模モデルの重み公開は研究・商用利用に直結し、セキュリティや業界競争にも影響するため高度な注目記事。",
+    "published_at": "2026-10-30 17:46:58",
+    "created_at": "2026-10-31 04:58:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「ITノウハウ持つ人材少なく」 PHP脆弱性問題、31市町村でサイト一時停止継続",
+    "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002766/",
+    "summary": "重大なPHP脆弱性への対応で、少なくとも31の自治体がWebサイトを一時停止または縮小中。人材不足で復旧に時間を要している事例が目立つ。自治体運用と依存度の脆弱性が浮き彫りに。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "公共サービスに影響する広域な脆弱性対応で、自治体・情シスに直接影響するため高い優先度。",
+    "published_at": "2026-10-30 17:38:01",
+    "created_at": "2026-10-31 04:58:19"
+  },
+  {
+    "source": "＠IT",
+    "title": "もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
+    "summary": "GitHubがAdvisory Databaseの分析を基に、CVSSのみではなく実被害やエコシステム要因を加味した脆弱性優先度付けを提案。優先対応を劇的に減らす手法を示す。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "情シス・開発チームの脆弱性対応負荷を下げる実務的提言で、運用方針にすぐ役立つため。",
+    "published_at": "2026-10-30 17:15:00",
+    "created_at": "2026-10-31 04:58:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請 報道",
+    "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
+    "summary": "総務省がGMOインターネットへの不正アクセス問題を受け、攻撃者とみられるWebサイトのブロッキングを通信事業者に要請したと報道。政府の関与と通信事業者の対応が焦点に。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "政府が通信事業者に介入する形でのブロッキング要請は国家的対応であり、前例と法的影響を伴うため業界的に重要。",
+    "published_at": "2026-10-30 17:13:12",
+    "created_at": "2026-10-31 04:58:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "無印良品、不正アクセスで最大2726万件の会員情報漏えいか 退会済みのユーザーも対象",
+    "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002756/",
+    "summary": "良品計画はMUJIアプリで最大約2726万件の顧客情報が流出した可能性を発表。退会済みユーザーの情報も含まれることを示唆している。影響範囲と原因調査を継続中。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "数千万件規模の個人情報漏えいは社会・企業リスクが極めて大きく、対応・監督の観点で最優先扱い。",
+    "published_at": "2026-10-30 15:18:29",
+    "created_at": "2026-10-31 04:58:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "暗号資産取引所Binance、ハッキングで約1兆円の被害か 入出金を全面停止",
+    "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002749/",
+    "summary": "Binanceが大規模な不正アクセスで推定約63億ドルの被害を公表。入出金を全面停止し、オンチェーンで資産凍結を進めている。攻撃はエンジニアのPCを起点とする可能性があると報告。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模な不正出金・サービス停止で金融市場・ユーザーに直ちに広範な影響が及ぶ重大インシデントのため。",
+    "published_at": "2026-10-30 12:52:04",
+    "created_at": "2026-10-31 04:58:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Meta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃",
+    "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002684/",
+    "summary": "研究者らがスマートグラス映像から指の動きを解析し、スマホのパスワードを推定する手法を実証。スマートグラスのプライバシーと盗み見リスクが顕在化した研究結果。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "スマートグラス普及に伴う新たなサイドチャネル攻撃の実証は製品設計・利用ポリシーに影響するため掲載価値が高い。",
+    "published_at": "2026-10-30 12:00:00",
+    "created_at": "2026-10-31 04:58:19"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "国産LLM「Sarashina」に初の「思考モデル」 ツール呼び出しやWeb検索性能が向上 APIで提供",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
+    "summary": "SB Intuitionsが国産LLM『Sarashina3.2 mini thinking』を発表。初の“思考モデル”で応答精度を高め、ツール呼び出し・Web検索性能を改善、API提供を開始する。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "国内開発のLLMで実運用向けの改善が進む点は企業導入やデータ主権の観点で重要。",
+    "published_at": "2026-10-30 11:11:54",
+    "created_at": "2026-10-31 04:58:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Amazon決算、AWS売上高が39.3％増で約5年ぶりの高成長 フリーキャッシュフローは大幅悪化",
+    "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002736/",
+    "summary": "Amazonの四半期決算でAWSが前年比39.3％増と加速、一方で設備投資でフリーキャッシュフローは大幅赤字。Anthropic関連の一時要因で純利益は微減。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウド市場の成長率・投資動向を示す決算は企業戦略と市場予測に直接影響するため重要。",
+    "published_at": "2026-10-30 09:14:48",
+    "created_at": "2026-10-31 04:58:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、AIの行動指針「Model Spec」を改定 “記憶”の使い方や人間による監督を明記",
+    "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
+    "summary": "OpenAIがModel Specを改定し、メモリ扱いやエージェントの人間による監督について明確化。モデル呼称を変更するなどガバナンス面の再構成を行った。運用指針の更新が中心。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AI運用とガバナンスに関わる主要プレーヤーの仕様変更で、企業の導入方針や安全管理に示唆を与えるため。",
+    "published_at": "2026-10-30 08:24:32",
+    "created_at": "2026-10-31 04:58:19"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "不正アクセスによる漏えい人数、半年余りでのべ2億6000万人に 日本人口の2倍超",
     "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002730/",
@@ -2574,39 +2695,6 @@
     "created_at": "2026-10-01 05:09:30"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "「声」もパブリシティー権の保護対象に 津田健次郎さんのAI声模倣訴訟で東京地裁が判断──削除請求自体は棄却",
-    "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001892/",
-    "summary": "東京地裁は生成AIで声を模倣された訴訟で、声もパブリシティー権の保護対象になり得ると判断した。ただし今回の削除請求は既に動画が消えたことから退けられた。",
-    "importance": 3,
-    "category": "法規制",
-    "reason": "AI音声合成に関する法的先例で、クリエイター保護や企業の利用ルールに影響するため",
-    "published_at": "2026-09-30 15:32:29",
-    "created_at": "2026-10-01 05:09:30"
-  },
-  {
-    "source": "＠IT",
-    "title": "トークン消費85％減 Googleが脆弱性を自動修正するオープンソースハーネス「Mantis」公開",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news056.html",
-    "summary": "Googleが脆弱性の発見から修正までを自動化するオープンソースハーネス「Mantis」を公開。自動修正によりトークン消費や手戻りを削減する効果をうたう。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "脆弱性発見→修正の自動化は開発とセキュリティ運用の効率化に直結するため開発者・情シスに有益",
-    "published_at": "2026-09-30 15:00:00",
-    "created_at": "2026-10-01 05:09:30"
-  },
-  {
-    "source": "Publickey",
-    "title": "WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」正式リリース。コマンドラインとAPIから利用可能",
-    "url": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html",
-    "summary": "MicrosoftがWSLの新機能「WSL Containers」を正式リリース。Windows上でLinuxコンテナの作成・実行をCLIとAPIから行え、開発環境の一元化を支援する。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "Windows開発環境でのコンテナ運用が容易になり、開発者のワークフローやCI/CDに影響を与えるため",
-    "published_at": "2026-09-30 11:43:18",
-    "created_at": "2026-10-01 05:09:30"
-  },
-  {
     "source": "＠IT",
     "title": "タイムズカーで不正アクセス 「退会済み」含む約660万件の情報が流出",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news038.html",
@@ -2637,17 +2725,6 @@
     "category": "AI",
     "reason": "主要モデル性能・エージェント・開発者向け機能の強化は業界のサービス構造と導入判断に影響するため",
     "published_at": "2026-09-30 06:36:34",
-    "created_at": "2026-10-01 05:09:30"
-  },
-  {
-    "source": "Publickey",
-    "title": "Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表",
-    "url": "https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html",
-    "summary": "Google Cloudが、AIエージェントの読み取りワークロードを本番PostgreSQLから切り離す専用インスタンスを数秒でプロビジョニングする機能を発表。運用リスクを低減する狙い。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "AIエージェント運用で生じる本番DB負荷・安全性問題への実務的解決策で、クラウド運用者と開発者に影響するため",
-    "published_at": "2026-09-30 00:46:18",
     "created_at": "2026-10-01 05:09:30"
   },
   {
