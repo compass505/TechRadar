@@ -1,5 +1,82 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請 報道",
+    "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
+    "summary": "総務省がGMOインターネットへの不正アクセスを巡り、攻撃者とみられるWebサイトのブロッキングを通信事業者に要請したと報道。政府の介入による技術的・法的対応の前例となる可能性がある。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "政府が通信事業者に直接措置を要請した点は業界・規制の枠組みに影響を与えるため掲載価値が高い。",
+    "published_at": "2026-10-31 19:02:50",
+    "created_at": "2026-10-31 04:58:19"
+  },
+  {
+    "source": "＠IT",
+    "title": "「基本を忘れてはならない」 優先すべき4つのセキュリティ戦略をMicrosoftが提言",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/31/news014.html",
+    "summary": "Microsoftが予防可能な攻撃を踏まえ、優先すべき4つのセキュリティ戦略を公開。実務で再確認すべき基本的な防御策に焦点を当てている。",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "情シス向けの実践的指針として有用だが、新規インシデントや緊急性の高い事象ではないため中程度の重要度。",
+    "published_at": "2026-10-31 17:15:00",
+    "created_at": "2026-11-01 04:23:55"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AIの「費用対効果が分からない」問題、解決へ？ Claude Enterprise搭載の「3つの新機能」",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+    "summary": "Anthropicの企業向けプランClaude Enterpriseに、利用可視化やコスト配分支援などの3機能が追加。IT部門がAIの費用対効果を説明するための機能強化が中心。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "企業のAI導入判断やコスト管理に直接関係する実務的アップデートとして価値があるが重大事案ではない。",
+    "published_at": "2026-10-31 09:00:00",
+    "created_at": "2026-11-01 04:23:55"
+  },
+  {
+    "source": "＠IT",
+    "title": "“完全テレワーク時代の終わり”で出社、なのに結局「オンライン会議ばかり」――調査で見えた若手の不満",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/31/news007.html",
+    "summary": "出社回帰が進む中で、若手社員がオフィス出社に不満を抱く実態を調査で報告。対面の機会設計と実務の乖離が課題として浮上している。",
+    "importance": 1,
+    "category": "ビジネス",
+    "reason": "職場文化・働き方の示唆として価値はあるが影響範囲は限定的なため低めの重要度。",
+    "published_at": "2026-10-31 08:30:00",
+    "created_at": "2026-11-01 04:23:55"
+  },
+  {
+    "source": "＠IT",
+    "title": "「Pythonは今年も2位」 いま人とAIが“最も使える”言語とは――GitHub年次調査「Octoverse 2026」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/31/news006.html",
+    "summary": "GitHubの年次レポートで過去1年のプッシュ数やAIエージェント起点のPull Request比率（40％超）などを公表。開発ワークフローと言語選択の変化が示されている。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発現場のワークフロー変化（AI起点のPR増加など）はエンジニア組織やツール選定に直接影響するため重要。",
+    "published_at": "2026-10-31 08:15:00",
+    "created_at": "2026-11-01 04:23:55"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か",
+    "url": "https://www.itmedia.co.jp/news/article/2610/31/2000002775/",
+    "summary": "Binanceから約60億ドル相当の暗号資産が流出。TRM LabsとChainalysisは北朝鮮系ハッカー集団「TraderTraitor」の関与を指摘している。盗難資産の分散洗浄と凍結対応が進行中。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "過去最大級の暗号資産流出で資金洗浄や規制・取引所対応に広範な影響が及ぶため重要。",
+    "published_at": "2026-10-31 07:13:43",
+    "created_at": "2026-11-01 04:23:55"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AIエージェントは「実運用」が主流に 「明確な成果」を得る企業の共通点は？",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
+    "summary": "生成AIエージェントの“試用”から“実運用”への移行が進展。INDUSTRIAL-Xの調査で、技術以外（組織・運用）の差が成果を分ける点が明らかに。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業のAI導入フェーズ変化と運用上の示唆は経営・情シスの判断に直結するため多くの読者が押さえるべき。",
+    "published_at": "2026-10-31 07:00:00",
+    "created_at": "2026-11-01 04:23:55"
+  },
+  {
     "source": "Impress Watch",
     "title": "トヨタとウェイモ、27年に国内で自動運転タクシー",
     "url": "https://www.watch.impress.co.jp/docs/news/2152732.html",
@@ -41,17 +118,6 @@
     "category": "セキュリティ",
     "reason": "情シス・開発チームの脆弱性対応負荷を下げる実務的提言で、運用方針にすぐ役立つため。",
     "published_at": "2026-10-30 17:15:00",
-    "created_at": "2026-10-31 04:58:19"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請 報道",
-    "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
-    "summary": "総務省がGMOインターネットへの不正アクセス問題を受け、攻撃者とみられるWebサイトのブロッキングを通信事業者に要請したと報道。政府の関与と通信事業者の対応が焦点に。",
-    "importance": 4,
-    "category": "法規制",
-    "reason": "政府が通信事業者に介入する形でのブロッキング要請は国家的対応であり、前例と法的影響を伴うため業界的に重要。",
-    "published_at": "2026-10-30 17:13:12",
     "created_at": "2026-10-31 04:58:19"
   },
   {
@@ -2564,17 +2630,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
-    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
-    "summary": "佐川急便が荷物追跡サービスへの不正アクセスで、送り主・届け先など約100日分の荷物データが外部流出した可能性を公表し、一部Webサービスを停止。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "物流データの流出はサプライチェーンと顧客信頼に関わるため、企業側の対応と影響確認が必要。",
-    "published_at": "2026-10-01 16:15:57",
-    "created_at": "2026-10-02 05:24:37"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "米連邦取引委がAI大手の調査開始 AnthropicやOpenAIなど、暴走や悪用の懸念",
     "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001931/",
     "summary": "米FTCが主要AI開発企業に対する広範な調査を開始したと報じられる。暴走や悪用のリスク評価が焦点とされる。",
@@ -2582,28 +2637,6 @@
     "category": "法規制",
     "reason": "米規制当局の動きは国際的な規制基準や事業リスクに直結するため、企業戦略やコンプライアンスに重要。",
     "published_at": "2026-10-01 16:01:45",
-    "created_at": "2026-10-02 05:24:37"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止 「Kimi」開発元の関係者が関与と主張",
-    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001929/",
-    "summary": "OpenAIがモデルの推論過程を抜き出す敵対的蒸留行為を特定・阻止。アカウント停止や推論保護強化、業界・政府との脅威共有を進めると発表。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "モデル抽出や推論保護は企業のモデル資産保護と信頼性に関わる実運用上の課題であり注目に値する。",
-    "published_at": "2026-10-01 15:06:55",
-    "created_at": "2026-10-02 05:24:37"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "LINEミニアプリ、事業者収益80%に アップル手数料引き下げで",
-    "url": "https://www.watch.impress.co.jp/docs/news/2144828.html",
-    "summary": "LINEヤフーがAppleのMini Apps Partner Program参加により、LINEミニアプリのアプリ内課金手数料が20%に下がり、事業者取り分が80%に改善されると発表。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "手数料改定は国内ミニアプリ事業者の収益構造を直接変えるため、プラットフォーム戦略に重要。",
-    "published_at": "2026-10-01 14:16:15",
     "created_at": "2026-10-02 05:24:37"
   },
   {
@@ -2629,17 +2662,6 @@
     "created_at": "2026-10-02 05:24:37"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "Reddit、RSSフィードを11月13日に終了 公開APIも2027年3月に閉鎖へ",
-    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001919/",
-    "summary": "RedditがRSSフィードのサポートを11月13日に終了、公開データAPIの段階的閉鎖を発表。開発者向けの移行支援も実施する方針。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "コミュニティ運営と外部開発者エコシステムに影響を与える変更で、開発者にとって対応必須の一報。",
-    "published_at": "2026-10-01 12:19:50",
-    "created_at": "2026-10-02 05:24:37"
-  },
-  {
     "source": "Impress Watch",
     "title": "セイコーマート、会員のほぼ半数に当たる情報漏えい 約57万人分",
     "url": "https://www.watch.impress.co.jp/docs/news/2144946.html",
@@ -2648,17 +2670,6 @@
     "category": "セキュリティ",
     "reason": "規模が大きく顧客基盤への影響が広範なため、個人情報管理と事業継続に重要な示唆を与える。",
     "published_at": "2026-10-01 10:04:42",
-    "created_at": "2026-10-02 05:24:37"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "AI時代に接近する決済とトークン Stripeが描くエージェンティックエコノミー",
-    "url": "https://www.watch.impress.co.jp/docs/news/2144549.html",
-    "summary": "Stripeが「Stripe Tour Tokyo 2026」で、AI主体の経済圏＝エージェンティックエコノミーに向けた新サービス群を提示した。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "AIが経済主体として機能する構想は決済・プラットフォーム戦略に長期的影響を与えるため注目度が高い。",
-    "published_at": "2026-10-01 09:00:00",
     "created_at": "2026-10-02 05:24:37"
   },
   {
