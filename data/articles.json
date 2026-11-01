@@ -1,5 +1,38 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "カシオ、リングウォッチに“チープカシオ”デザイン",
+    "url": "https://www.watch.impress.co.jp/docs/news/2152258.html",
+    "summary": "カシオが指輪型デジタルウォッチ「CRW-002」を発表。A168のデザインを指輪サイズで再現、クオーツ駆動、11月発売で価格は19,800〜22,000円。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "話題性のあるガジェットの製品発表だが、技術的・業界的影響は限定的。",
+    "published_at": "2026-11-01 10:00:00",
+    "created_at": "2026-11-02 04:48:19"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+    "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+    "summary": "OpenAI、Google、MicrosoftらがWeb運営者がrobots.txtでAI学習可否を一元指定できる共通仕組みに対応表明。Anthropicも実装表明を出している。AIクローラーの一括管理が可能に。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要AIベンダーによる共通仕様はデータ利用ポリシーと運用に直接影響し、ウェブ管理者・企業のガバナンス判断に重要。",
+    "published_at": "2026-11-01 08:31:07",
+    "created_at": "2026-11-02 04:48:19"
+  },
+  {
+    "source": "＠IT",
+    "title": "「モバイル4社の5G速度、最大9倍の違い」「Wi-Fi 8は“つながらない”を改善へ」――無線通信のいま",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/01/news001.html",
+    "summary": "山手線での実測で同一規格でも5G速度に大きな差、Wi‑Fi 8は最高速度より安定性重視の設計へ。NTTはサブテラヘルツ帯で光に匹敵する超高速伝送を実現する研究を紹介。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "通信事業者・端末メーカー・インフラ投資に関わる技術トレンドと性能差を示す調査で、現場の判断や製品戦略に有用。",
+    "published_at": "2026-11-01 08:00:00",
+    "created_at": "2026-11-02 04:48:19"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請 報道",
     "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
@@ -669,17 +702,6 @@
     "reason": "データ分析基盤としての採用拡大や運用パターン変化に直結する開発者向けの有用なアップデート。",
     "published_at": "2026-10-26 00:44:47",
     "created_at": "2026-10-27 05:38:24"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検で分かったこと",
-    "url": "https://www.itmedia.co.jp/news/article/2610/25/2000002569/",
-    "summary": "納車から5年・約4万km走行のModel 3を5年目点検。バッテリーの劣化状況や維持費の実数値、アプリ中心の点検フローを報告している。",
-    "importance": 2,
-    "category": "ガジェット",
-    "reason": "実走行データに基づくバッテリー劣化と維持費の実例は消費者や車両管理に参考になるが、業界全体への即時的な影響は限定的。",
-    "published_at": "2026-10-25 20:37:30",
-    "created_at": "2026-10-26 03:27:54"
   },
   {
     "source": "＠IT",
@@ -2475,28 +2497,6 @@
     "created_at": "2026-10-04 03:44:03"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
-    "summary": "KDDI系のELYZAが国産LLM『LLM-jp-4』をベースにした『ELYZA-Thinking-1.0』シリーズを公開。事後学習で性能強化を図り、無料で提供すると発表。日本語対応モデルの選択肢が広がる動き。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "国産大規模言語モデルの公開は国内のAI導入やローカル開発環境に直接寄与するため、開発コミュニティに重要。",
-    "published_at": "2026-10-02 20:04:32",
-    "created_at": "2026-10-03 04:59:48"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "ヤマト運輸、「クロネコ代金後払いサービス」への不正アクセスで続報 利用者など一部個人情報が漏えいか",
-    "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001979/",
-    "summary": "ヤマト運輸は代金後払いサービスへの不正アクセスについて続報を発表し、一部利用者や加盟店、担当社員の氏名が漏えいした可能性を示唆。決済関連サービスでの侵害は取引信頼性に直結する。影響範囲の特定が継続中。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "物流・決済に関わるサービスの不正アクセスで顧客信頼や運用に影響が大きく、読者の警戒が必要。",
-    "published_at": "2026-10-02 19:32:25",
-    "created_at": "2026-10-03 04:59:48"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "「Androidのマイナンバーカード」提供へ 20日から 物理カードなしでも本人確認など可能に",
     "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001968/",
@@ -2516,50 +2516,6 @@
     "category": "セキュリティ",
     "reason": "大規模な従業員データ漏えいで企業の人事・コンプライアンス・法務に直接影響するため掲載優先度高い。",
     "published_at": "2026-10-02 16:49:41",
-    "created_at": "2026-10-03 04:59:48"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "パーク24株、一時4カ月ぶり安値 タイムズカー漏えいの集団訴訟に2000人超参加意向の報道",
-    "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001956/",
-    "summary": "タイムズカーの個人情報漏えいを巡る集団訴訟に2000人超が参加の意向と報じられ、パーク24の株価が一時下落。被害対応と訴訟リスクが企業価値に直結していることが示された。法的対応と賠償動向が注目される。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "個人情報漏えいに伴う集団訴訟が企業の株価や賠償負担に直結しており、経営判断や法務面での示唆が強い。",
-    "published_at": "2026-10-02 14:47:31",
-    "created_at": "2026-10-03 04:59:48"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「Gemini 4 Argon」とは 性能評価にみるAstra／Fable／Opusとの違い 一般提供は年内？",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/",
-    "summary": "Googleが新AIモデル『Gemini 4 Argon』を発表。自社評価で競合モデルを上回ると主張し、当面は限定提供だが年内の一般提供を示唆。防御・安全性配慮や提供範囲が焦点となる。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "主要クラウド/AIプレイヤーによる新モデルは製品戦略や競争環境に影響するため開発者と事業側の関心が高い。",
-    "published_at": "2026-10-02 12:17:21",
-    "created_at": "2026-10-03 04:59:48"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Microsoft、初のストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」公開 音声合成「MAI-Voice-2.1」と高速版も",
-    "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
-    "summary": "Microsoftは低遅延のストリーミング文字起こしモデル『MAI-Transcribe-2-Streaming』と多言語音声合成『MAI-Voice-2.1』等を発表。音声エージェントや通話解析用途を想定し、Foundryでプレビュー提供を開始した。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "リアルタイム音声処理のモデルは音声サービス開発に直結するため、開発者・プロダクト責任者に有用な情報。",
-    "published_at": "2026-10-02 10:47:09",
-    "created_at": "2026-10-03 04:59:48"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "ローソンのメールサーバが踏み台に、不審メール約70万件送信 件名「RE」など",
-    "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001947/",
-    "summary": "ローソンのメールサーバが踏み台にされ、不審な英文メール約70万件が送信されたと同社が確認。件名は「Mutual Benefit」や「RE」で金銭詐取を示唆する内容。第三者によるインフラ悪用の典型事例。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "大規模なメール踏み台で企業の通信インフラが悪用されており、情シス向けの検知対策情報として価値がある。",
-    "published_at": "2026-10-02 08:52:46",
     "created_at": "2026-10-03 04:59:48"
   },
   {
