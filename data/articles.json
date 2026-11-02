@@ -1,5 +1,115 @@
 [
   {
+    "source": "Publickey",
+    "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+    "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+    "summary": "GitHubがCopilotの新機能『Copilot Fusion』を正式リリース。タスクに応じ複数モデルを最適選択し、性能とコストのバランスを取る仕組みを提供する。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発者向けAIツールの進化は生産性とコストに直結するため、エンジニア読者に有用なアップデート。",
+    "published_at": "2026-11-02 23:36:38",
+    "created_at": "2026-11-03 08:09:24"
+  },
+  {
+    "source": "＠IT",
+    "title": "パスキー万能説破れる？ Google同期パスキー実装に見つかった“想定外の穴”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/02/news025.html",
+    "summary": "Googleの同期パスキーを支える実装と復旧仕組みに起因する3つの攻撃パターンが公開。侵害済み端末を前提とした攻撃で、パスキー信頼モデルに疑問が投げかけられている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "パスキー普及に影響する実装上の欠陥を指摘する調査で、認証戦略や運用に影響を与えうるため掲載価値が高い。",
+    "published_at": "2026-11-02 17:15:00",
+    "created_at": "2026-11-03 08:09:24"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ニコニコレンタカー、免許証画像の事前登録を廃止 保存済み画像も全削除 サイバー攻撃の増加受け",
+    "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002786/",
+    "summary": "ニコニコレンタカーはアプリでの運転免許証画像事前登録機能を廃止し、既存の画像データを全削除したと発表。サイバー攻撃増加を受けた措置。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "個人情報保存の見直しという実務的対応で、同種サービス運用者にとって示唆があるため掲載価値あり。",
+    "published_at": "2026-11-02 12:23:04",
+    "created_at": "2026-11-03 08:09:24"
+  },
+  {
+    "source": "＠IT",
+    "title": "OSを更新しても防げない 「Brotli」に重大脆弱性、Node.jsに潜む“見えない侵入口”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/02/news020.html",
+    "summary": "Googleの圧縮ライブラリBrotliにCVSS 9.2の重大脆弱性が発見。Node.js経由でのコード実行が実証され、攻撃の試みも観測されている。広範なライブラリ依存がリスクを拡大。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "PoCと攻撃観測がある重大脆弱性で、広く使われるライブラリのため即時の対策が必要。",
+    "published_at": "2026-11-02 12:00:00",
+    "created_at": "2026-11-03 08:09:24"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "ChatGPTの「Chat」と「Work」統合へ 利用制限はCodexと共通化",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
+    "summary": "OpenAIがChatGPTのChatとWorkタブを統合し、Codexと利用枠を共通化する計画を発表。エージェント機能の統合で有料プランの利用規定も見直される。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "ChatGPTの機能統合は開発者・企業の利用フローと料金管理に影響するため押さえておくべき変更。",
+    "published_at": "2026-11-02 10:50:32",
+    "created_at": "2026-11-03 08:09:24"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "クラブツーリズムに不正アクセス 個人情報約432万件漏えいの可能性、サイト停止",
+    "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002782/",
+    "summary": "旅行代理店クラブツーリズムが不正アクセスを受け、氏名や国籍、住所など約432万件の個人情報流出の可能性を公表。サービスを停止して調査中。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "数百万件規模の個人情報流出の可能性という大規模インシデントで被害範囲が広く緊急性が高い。",
+    "published_at": "2026-11-02 10:48:11",
+    "created_at": "2026-11-03 08:09:24"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、宇宙のTPUから初のAI応答を受信 「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
+    "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
+    "summary": "GoogleのProject Suncatcherで、軌道上のTPUに送ったプロンプトから初のAI応答を受信。試作衛星による宇宙空間でのAI運用評価を進める段階。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "宇宙を含む分散型AIインフラの実証は長期的なクラウド/インフラ戦略に示唆を与えるため注目に値する。",
+    "published_at": "2026-11-02 08:59:31",
+    "created_at": "2026-11-03 08:09:24"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "FBI、Binanceからの60億ドル超の暗号資産窃盗は北朝鮮「TraderTraitor」の犯行と発表",
+    "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002778/",
+    "summary": "FBIはBinanceからの巨額暗号資産窃盗（60億ドル超）を北朝鮮のサイバー組織『TraderTraitor』の犯行と断定。民間事業者に資金洗浄阻止の協力を要請している。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "国家支援のサイバー犯罪による巨額被害の確定報告で、暗号資産業界とサプライチェーンの対応に直結する重要ニュース。",
+    "published_at": "2026-11-02 07:28:21",
+    "created_at": "2026-11-03 08:09:24"
+  },
+  {
+    "source": "kn.itmedia.co.jp (ITmedia)",
+    "title": "オラクルの機能がChatGPTで利用可能に 複数システムをまたぐ業務をAIで自動化",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/02/2000002740/",
+    "summary": "オラクルがOpenAIと連携を拡大し、ChatGPT経由でオラクルの機能を利用可能に。業務自動化や脆弱性検出、アプリ開発支援など企業向け機能を統合する。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "大手クラウド/ERPベンダーとOpenAIの連携は企業システム運用と自動化の潮流に影響するため重要。",
+    "published_at": "2026-11-02 07:00:00",
+    "created_at": "2026-11-03 08:09:24"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "キオクシア「設備投資を急がねば……」 2027年分は完売、メモリ供給追い付くか",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/02/news031.html",
+    "summary": "キオクシアは2027年分のメモリ生産能力が完売と発表。AIブームでメモリ需要が逼迫しており、新工場建設に年約5000億円の投資を計画している。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "メモリ市場の供給逼迫と大規模投資は半導体サプライチェーンやクラウド/AI事業者の収益・調達に影響する。",
+    "published_at": "2026-11-02 07:00:00",
+    "created_at": "2026-11-03 08:09:24"
+  },
+  {
     "source": "Impress Watch",
     "title": "カシオ、リングウォッチに“チープカシオ”デザイン",
     "url": "https://www.watch.impress.co.jp/docs/news/2152258.html",
@@ -627,17 +737,6 @@
     "created_at": "2026-10-27 05:38:24"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "AIガバナンス一元化の「理想と限界」とは？ 米Dataikuの新サービスから考察",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news060.html",
-    "summary": "DataikuのマルチベンダーAIエージェント統治サービスを契機に、ガバナンス一元化の利点と技術的・組織的限界を分析。企業のAI統制設計に関する示唆を示す。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "多様なAI導入環境での統制設計に関する経営・情シス検討に資する解説記事。",
-    "published_at": "2026-10-26 15:00:00",
-    "created_at": "2026-10-27 05:38:24"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "米国のデータセンター急増、AI需要で巨大化 受電容量「ギガ時代」に 中間選挙争点にも",
     "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002578/",
@@ -690,17 +789,6 @@
     "category": "セキュリティ",
     "reason": "サプライチェーン経由での脅威は開発現場と運用に直接影響し、即時の検査・対応を要するため高重要度。",
     "published_at": "2026-10-26 07:45:00",
-    "created_at": "2026-10-27 05:38:24"
-  },
-  {
-    "source": "Publickey",
-    "title": "「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など",
-    "url": "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
-    "summary": "DuckDB 2.0 LTSが正式リリース。Quackプロトコルによるクライアント/サーバ機能と非同期処理での高速化などを提供し、分析用途での採用幅が広がる。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "データ分析基盤としての採用拡大や運用パターン変化に直結する開発者向けの有用なアップデート。",
-    "published_at": "2026-10-26 00:44:47",
     "created_at": "2026-10-27 05:38:24"
   },
   {
@@ -2472,17 +2560,6 @@
     "category": "セキュリティ",
     "reason": "大規模な顧客情報流出の可能性は消費者被害と法的対応、情シスのインシデント対応に直結するため重要。",
     "published_at": "2026-10-03 10:45:11",
-    "created_at": "2026-10-04 03:44:03"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開 「Raspberry Pi」などに対応",
-    "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
-    "summary": "MetaがパーソナルAI「Muse」と連携する自作ガジェット向けプロジェクト「Muse Gadgets」を発表。ESP32やRaspberry Pi向けのSDKをOSSで公開し、Home Linkデバイスを一部会員に提供する。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "AIエージェントのハード連携を開発者へ広げる動きで、エコシステムやプライバシー・セキュリティの議論につながるため注目に値する。",
-    "published_at": "2026-10-03 10:41:21",
     "created_at": "2026-10-04 03:44:03"
   },
   {
