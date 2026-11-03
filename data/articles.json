@@ -1,5 +1,60 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
+    "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
+    "summary": "Appleの7–9月期決算は売上高・純利益ともに同四半期で過去最高を記録。新CEOターナスがSiri AIや折りたたみiPhoneなどの戦略を説明。次期も増収見込みを示す。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "主要テック企業の業績とAI戦略が明示され、業界動向や製品ロードマップ把握に有用なため。",
+    "published_at": "2026-11-03 09:44:48",
+    "created_at": "2026-11-04 06:08:13"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "JCB、「枯山水」デザインのゴールド/プラチナカード",
+    "url": "https://www.watch.impress.co.jp/docs/news/2153186.html",
+    "summary": "JCBが数量限定デザインの「枯山水」ゴールド/プラチナカードを発行開始。年会費はそれぞれ11,000円と27,500円で在庫限り。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "消費者向けの限定カード発表でTechRadar 505では興味層が限定されるが、小ネタとして掲載価値あり。",
+    "published_at": "2026-11-03 08:30:00",
+    "created_at": "2026-11-04 06:08:13"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、IPO申請書を修正 7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
+    "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
+    "summary": "AnthropicがSEC向けにIPO修正版を提出。第3四半期売上が急拡大する一方、営業は赤字に転落。将来のAIインフラ契約額が膨大で資本支出リスクが示された。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "著名AI企業の財務実態と巨額のインフラコミットは投資・クラウド需給・産業戦略に直接影響するため高い掲載価値がある。",
+    "published_at": "2026-11-03 08:20:20",
+    "created_at": "2026-11-04 06:08:13"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
+    "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
+    "summary": "Marvellが光通信機器のLumentumを約1150億ドルで買収する合意。半導体と光技術の統合でAIデータセンター向け高速接続を強化する狙い。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "大規模M&Aによりデータセンター向けサプライチェーンと技術競争が変化し、業界・顧客に広範な影響を及ぼすため。",
+    "published_at": "2026-11-03 07:07:56",
+    "created_at": "2026-11-04 06:08:13"
+  },
+  {
+    "source": "＠IT",
+    "title": "「ネットのセキュリティもGMO」の実態 イエラエの事前指摘はなぜ放置されたか",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/03/news014.html",
+    "summary": "お名前.com デスクトップクラウドで発生した大規模不正アクセスを巡り、GMOグループのセキュリティガバナンス欠陥と事前指摘の放置が明らかに。記者会見で経営陣が問題点を説明。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模な不正アクセスとガバナンス不備は顧客・企業ITに直接影響し、再発防止や規制対応を促す重要案件のため代表記事として選定。",
+    "published_at": "2026-11-03 07:00:00",
+    "created_at": "2026-11-04 06:08:13"
+  },
+  {
     "source": "Publickey",
     "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
     "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
@@ -2506,39 +2561,6 @@
     "reason": "コンテナセキュリティ/ランタイムのエコシステム変化は開発者・プラットフォーム運用に長期的影響",
     "published_at": "2026-10-06 00:27:19",
     "created_at": "2026-10-07 05:24:49"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
-    "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
-    "summary": "Googleが個人向けGeminiの利用可能モデルを契約プランごとに再編。無料アカウントは「Flash-Lite」のみに制限される。上位モデルは有料プラン限定となる。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "主要AIプラットフォームのアクセス制限は開発者・個人利用やビジネス判断に直結するため重要",
-    "published_at": "2026-10-04 11:27:25",
-    "created_at": "2026-10-05 03:41:20"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
-    "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
-    "summary": "OpenAIで安全性報告を統括した人物が退社し、企業文化の問題点と安全対策の不備を指摘する寄稿を発表。原子力や航空分野の安全知見導入を提案している。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "AI安全性とガバナンスに関する内部告発的な内容は業界の信頼や規制議論に影響するため注目度高い",
-    "published_at": "2026-10-04 08:05:47",
-    "created_at": "2026-10-05 03:41:20"
-  },
-  {
-    "source": "＠IT",
-    "title": "「ITエンジニア争奪戦」はむしろ激化、AIがあっても“技術者不足”が深まる理由",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/04/news002.html",
-    "summary": "生成AIや自動化の進展にもかかわらず、ITエンジニア不足は解消されておらず争奪戦が激化している理由を分析。必要スキルや採用の構造的課題を解説。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "開発・情シス・経営に関わる人材戦略や現場運用に直結するテーマで、実務判断に役立つ分析記事",
-    "published_at": "2026-10-04 08:00:00",
-    "created_at": "2026-10-05 03:41:20"
   },
   {
     "source": "ITmedia NEWS",
