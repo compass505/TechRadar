@@ -1,5 +1,115 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "e-Taxが緊急メンテナンス 不審な通信を検知",
+    "url": "https://www.watch.impress.co.jp/docs/news/2153747.html",
+    "summary": "国税庁の電子申告・納税システム「e-Tax」で不審な通信を検知し、緊急メンテナンスに入ったと発表。利用者向けの影響や詳細な原因は調査中。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "国家インフラに関わるオンライン税申告サービスでの異常検知・メンテは広範な業務影響と行政対応を伴うため業界的に重大。",
+    "published_at": "2026-11-04 23:29:43",
+    "created_at": "2026-11-05 06:22:43"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止",
+    "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
+    "summary": "Googleが出荷前のAndroid端末にバックドアが組み込まれ、犯罪者へアクセス権が販売されていたと発表。約130万台に不正ソフトが含まれ、広告詐欺や通信中継に悪用された疑い。Googleは当該企業との取引を停止。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "サプライチェーン寄生のバックドアが大量端末に組み込まれ、既に悪用されている可能性があるため短期的な被害・対応が重大。",
+    "published_at": "2026-11-04 18:51:41",
+    "created_at": "2026-11-05 06:22:43"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか 不正アクセスで続報",
+    "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002885/",
+    "summary": "良品計画の公式アプリへの不正アクセスで、MUJI Cardのカード番号全桁など約109万件の会員情報が外部からアクセスされた可能性が判明。氏名や住所なども含まれる。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "カード番号全桁を含む大規模な顧客情報漏えいは金融被害の直接リスクが高く、企業対応の判断材料となるため重要。",
+    "published_at": "2026-11-04 18:33:11",
+    "created_at": "2026-11-05 06:22:43"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+    "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
+    "summary": "GitHubはAI支援の新機能『Copilot Fusion』を正式リリース。タスクに応じた最適モデル選択で性能とコストの両立を図り、開発ワークフローへのAI統合が進む。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発者ツールの進化で実務の生産性とコスト感が変わるため、エンジニアや組織の導入判断に有用。",
+    "published_at": "2026-11-04 13:13:20",
+    "created_at": "2026-11-05 06:22:43"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "メルアド7700万件流出か アララメッセージの不正アクセスで続報 共通環境から契約企業のサーバへ侵入 悪用も確認",
+    "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002861/",
+    "summary": "メール配信サービス『アララメッセージ』への不正アクセスで約7700万件のメールアドレスが外部へ流出、影響は最大約380社に及ぶ可能性。サービスは全面停止中で再開時期未定。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "多数企業に波及する大規模流出で、顧客対応・通知と業務停止が広範に発生しているため業界影響が大きい。",
+    "published_at": "2026-11-04 10:41:58",
+    "created_at": "2026-11-05 06:22:43"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002863/",
+    "summary": "Anthropicが応答が指定モデル由来であることを証明する暗号ベースのシステム『FlashProve』を発表。zkSNARKを活用した研究プロトタイプとしてコード等を公開した。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "出力信頼性やモデルすり替え対策に直結する技術であり、AIサービス運用やセキュリティ設計に示唆を与えるため重要。",
+    "published_at": "2026-11-04 10:40:15",
+    "created_at": "2026-11-05 06:22:43"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Apple、刷新版「Siri AI」を全開発者に開放 アプリ連携で予約や注文などの操作が可能に",
+    "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
+    "summary": "AppleがSiri AIの新機能を開発者向けに開放。App Intents経由でアプリ連携し、ユーザーはアプリを開かずに予約や注文などをSiri経由で操作可能に。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "プラットフォーム側のAPI開放はアプリ設計やUX、データ・権限設計に影響するため開発者と事業者に重要。",
+    "published_at": "2026-11-04 09:37:42",
+    "created_at": "2026-11-05 06:22:43"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft、メモリ8GBのWindows 11 PCを高速化 マルチタスク処理は最大40％向上",
+    "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/",
+    "summary": "Microsoftが8GB搭載Windows 11 PC向けにメモリ圧縮などを最適化する更新を提供。応答性やマルチタスクが向上し、特定ビルド以降で利用可能となる。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "広範なユーザー影響はあるが技術的に既存最適化の延長であり、運用や更新判断で参考になるため掲載価値あり。",
+    "published_at": "2026-11-04 08:33:38",
+    "created_at": "2026-11-05 06:22:43"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news046.html",
+    "summary": "東北大学とアイシンがSTT-MRAMを搭載した近メモリコンピューティング型AIチップを開発。OS起動やAI推論の高速化・省電力化を実証し、組込みやエッジ用途での実用化を目指す。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "メモリ技術と近メモリ演算による省電力・高速化はAIチップ設計とエッジ適用に直接関係するため半導体分野で注目度が高い。",
+    "published_at": "2026-11-04 06:45:00",
+    "created_at": "2026-11-05 06:22:43"
+  },
+  {
+    "source": "Publickey",
+    "title": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
+    "url": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+    "summary": "GitHubがAIエージェント時代を見据え、来年初頭に従来比で最大180倍のスループット向上を目指す計画を発表。大規模自動化への対応が目的。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発プラットフォームの大幅なスケール改善はCI/CDや自動化、AIエージェント実行環境に影響するため開発組織に重要。",
+    "published_at": "2026-11-04 00:16:22",
+    "created_at": "2026-11-05 06:22:43"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
     "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
