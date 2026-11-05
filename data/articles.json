@@ -1,6 +1,160 @@
 [
   {
     "source": "Impress Watch",
+    "title": "ドコモ、不正アクセスで最大30万件の情報漏えい My docomoとオンラインショップ",
+    "url": "https://www.watch.impress.co.jp/docs/news/2154107.html",
+    "summary": "NTTドコモはMy docomoとドコモオンラインショップに外部からの不正アクセスがあり、最大約30万件の会員情報が流出したと発表した。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "国内最大手キャリアでの顧客情報漏洩は影響範囲が広く、企業IT・情シス向けの対応情報が必要。",
+    "published_at": "2026-11-05 20:15:05",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "医療機関のサイバーセキュリティー強化へ ランサムウエア攻撃で診療への長期影響リスク",
+    "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002921/",
+    "summary": "厚生労働省は来年度、医療機関のサイバーセキュリティ強化を進める方針。ランサムウェア等による診療停滞の長期リスクを踏まえた対策を検討する。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "医療分野への政府主導のセキュリティ強化は業界ルールや予算配分に直結する政策的ニュース。",
+    "published_at": "2026-11-05 17:19:11",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "＠IT",
+    "title": "「脆弱性報告数が別次元に」 Mythos一般公開を恐れる前に、推奨される7つの優先対策",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news040.html",
+    "summary": "Anthropicの報告を受け、AIモデルを悪用する脅威が増加する現状を踏まえて、企業のセキュリティチームが優先すべき7つの対策をまとめて提示している。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AIを悪用した攻撃の加速に対する実務的対策は、情シス・セキュリティ担当者にとって有益な指南。",
+    "published_at": "2026-11-05 17:15:00",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "不正アクセスで停止の「ふるさとチョイス」6日再開 まずWeb版から",
+    "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002910/",
+    "summary": "トラストバンクのふるさと納税サイトが不正アクセスでサービス停止。約445万4097件の個人情報流出を公表し、対策完了後に段階的に再開予定。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "4.45百万件規模の個人情報流出とサービス停止は国民影響が大きく、即時報道に値する重大事案。",
+    "published_at": "2026-11-05 15:06:01",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "公表済みの脆弱性に気づかず39万6920人分漏えい 採用サービスApplyNow 一部マイナンバーや口座情報も",
+    "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002908/",
+    "summary": "採用サービスApplyNowでの不正アクセスにより、約39万6920人分の個人情報が流出。マイナンバーや口座情報の一部含むと発表。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "マイナンバーや口座情報が含まれる大規模漏えいで、企業・CSIRT向けの対応指針が必要。",
+    "published_at": "2026-11-05 14:23:32",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "モスやワークマン、IIJmioも アララへの不正アクセスで顧客情報の流出発表相次ぐ",
+    "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002907/",
+    "summary": "メール配信サービスのアララへの不正アクセスを起点に、複数の利用企業が顧客情報流出を順次公表。初期案内と異なり後から影響が明らかになった事例もある。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "メール配信という外部委託サービスの侵害が複数企業に波及するサプライチェーン型インシデントで、対策が業界的に重要。",
+    "published_at": "2026-11-05 14:11:54",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN 0.8?31Bの4サイズ オンデバイスにも対応",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
+    "summary": "Preferred Networksが翻訳特化LLM「PLaMo 3 Translate」をオープンウェイトで公開。オフラインでスマホや社内サーバー上で動作可能な点を強調している。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "オープンウェイトかつオンデバイス動作可能な翻訳モデルはプライバシー重視の企業導入で利点が大きい。",
+    "published_at": "2026-11-05 13:24:50",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Google、警察庁と協力してAndroid TVに仕込まれていたバックドアを無効化",
+    "url": "https://www.watch.impress.co.jp/docs/news/2153874.html",
+    "summary": "Googleと日本の警察庁が協力し、130万台以上のセットトップボックスに仕込まれていたXCPEバックドアを無効化したと発表。広範なデバイス対策を実施。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "多数デバイスに仕込まれたバックドアの無効化は供給網・デバイスセキュリティ上の大事件で、運用面の示唆が大きい。",
+    "published_at": "2026-11-05 12:49:41",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "人気ゲーム「NIKKE」公式PCランチャーで不正プログラム実行か CDN上でスクリプト改ざん ユーザーは対策を",
+    "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002895/",
+    "summary": "人気ゲームの公式PCランチャーでCDN上のスクリプトが改ざんされ、不正プログラムが配布された可能性。運営はパスワード変更やAPIキー再発行などユーザーに対策を呼びかけ。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "ゲームのランチャー改ざんはサプライチェーン攻撃の一例で、開発者・運用側への注意喚起になるため掲載価値あり。",
+    "published_at": "2026-11-05 11:54:38",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に",
+    "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
+    "summary": "OpenAIが画像生成の新版「Images 2.6」を発表。生成速度の向上、GIFアニメ生成、保存写真の再利用などを追加し、開発者向けAPIや電子透かしなど安全対策も強化。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "生成AIの機能向上とAPI・安全対策の更新はプロダクト開発や規程作りに参考になる技術トレンド。",
+    "published_at": "2026-11-05 10:59:38",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SpaceX、Qualcommと複数年契約 「Starlink Mobile」の地上5G網を2027年から全米に展開へ",
+    "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002889/",
+    "summary": "QualcommとSpaceXが複数年契約を締結。SpaceXは2027年から米国で地上5G基地局を数万カ所設置し、衛星通信と地上網を統合する計画。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "衛星＋地上網統合と大規模基地局展開は通信インフラと半導体需要に大きな影響を与える戦略的提携。",
+    "published_at": "2026-11-05 08:01:39",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "＠IT",
+    "title": "【RHELとOpenShiftを直撃】LinuxカーネルにCVSS 9.8の緊急脆弱性、アップデートできないときの暫定策は？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news021.html",
+    "summary": "認証不要でネットワーク越しに攻撃可能なLinuxカーネルの深刻脆弱性（CVSS 9.8）が判明。RHEL/OpenShiftなど企業向け環境やコンテナ基盤への影響が指摘されている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "企業サーバやコンテナ基盤直撃の高危険度カーネル脆弱性で、情シスや開発者は即時対応が必要。",
+    "published_at": "2026-11-05 07:45:00",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "Publickey",
+    "title": "クラウドインフラのシェア、AWSが26％に後退、Google Cloudは16％に上昇。クラウドインフラ市場全体は過去最大の高成長率へ。2026年第3四半期、Synergy Research",
+    "url": "https://www.publickey1.jp/blog/26/aws26google_cloud1620263synergy_research.html",
+    "summary": "Synergy Researchの調査で2026年第3四半期のクラウドインフラ市場を分析。AWSが市場シェアをやや低下、Google Cloudが上昇し市場全体は高成長を維持している。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウド事業者のシェア変動は企業のクラウド戦略やベンダー選定に影響するため業界注目の指標。",
+    "published_at": "2026-11-05 00:23:21",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "Publickey",
+    "title": "GitHubで最も使われている言語は2年連続TypeScript、プルリクの増加率はRust。急成長したOSSはCC Switch、Omarchyなど。GitHub Octoverse 2026",
+    "url": "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html",
+    "summary": "GitHubが年次レポートOctoverse 2026を発表。TypeScriptがトップ言語を維持、RustのPR増加、急成長OSSなど開発者動向をまとめている。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発者動向レポートは技術選定や採用戦略、OSSのトレンド把握に有用。",
+    "published_at": "2026-11-05 00:18:02",
+    "created_at": "2026-11-06 06:30:45"
+  },
+  {
+    "source": "Impress Watch",
     "title": "e-Taxが緊急メンテナンス 不審な通信を検知",
     "url": "https://www.watch.impress.co.jp/docs/news/2153747.html",
     "summary": "国税庁の電子申告・納税システム「e-Tax」で不審な通信を検知し、緊急メンテナンスに入ったと発表。利用者向けの影響や詳細な原因は調査中。",
@@ -2574,28 +2728,6 @@
     "created_at": "2026-10-08 05:41:19"
   },
   {
-    "source": "Impress Watch",
-    "title": "OpenAI、ChatGPTの生成文に電子透かし EUで導入へ",
-    "url": "https://www.watch.impress.co.jp/docs/news/2145957.html",
-    "summary": "OpenAIがChatGPTやCodexの生成テキストに電子透かしを導入。EUでは数週間かけて適用、APIでは一部モデルで任意に有効化可能（初期はオフ）。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "生成物の識別技術の実運用導入は企業のコンプライアンスや規制対応に影響するため重要",
-    "published_at": "2026-10-06 16:55:49",
-    "created_at": "2026-10-07 05:24:49"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Claude Coworkの「ローカル実行」オプションが廃止 モデル推論、VM共にクラウド実行へ",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002045/",
-    "summary": "Anthropicのエージェント機能Coworkで、ユーザーPCでの「このコンピュータのみ」実行オプションが廃止され、タスクはクラウドで実行されるように。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "ローカル実行の撤去はプライバシー・セキュリティ設計や企業導入ポリシーに直接影響する変更",
-    "published_at": "2026-10-06 15:49:55",
-    "created_at": "2026-10-07 05:24:49"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "デンマークで住民登録簿に不正アクセス 880万人分の個人番号など流出 政府「極めて深刻」",
     "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002032/",
@@ -2607,28 +2739,6 @@
     "created_at": "2026-10-07 05:24:49"
   },
   {
-    "source": "Impress Watch",
-    "title": "Reflection、米国発のオープンウェイトモデル「Beam」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2145917.html",
-    "summary": "Reflectionが5010億パラメータ（アクティブ23B）のMoEモデル『Beam』を発表。コーディングや推論、エージェント型ワークロード向けに設計、レッドチーム評価中。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "大規模MoEモデルの登場はモデル選定や研究・製品開発に影響するため技術層向けに重要",
-    "published_at": "2026-10-06 11:47:22",
-    "created_at": "2026-10-07 05:24:49"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "新卒就活「OfferBox」、学生の氏名などを利用企業が開発者ツール経由で閲覧可能に 最大31万人",
-    "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002026/",
-    "summary": "OfferBoxの画面で開発者向けモードを表示すると、学生の氏名など個人情報が閲覧できる状態だった。理論上の影響者は最大約31万4009人。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "大規模なUI/実装上の情報露出はプライバシー保護やサービス選定に直結するため開示価値が高い",
-    "published_at": "2026-10-06 10:26:08",
-    "created_at": "2026-10-07 05:24:49"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は",
     "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002013/",
@@ -2637,39 +2747,6 @@
     "category": "セキュリティ",
     "reason": "多数の流出事案が続く中での原因分析は、情シスや経営判断に直結するため掲載優先度高い",
     "published_at": "2026-10-06 10:00:00",
-    "created_at": "2026-10-07 05:24:49"
-  },
-  {
-    "source": "＠IT",
-    "title": "「ベンチマーク高得点」AIでも“本番”で障害頻発 GitHubがLLMの誤検知を「95％削減」した7つの教訓",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news028.html",
-    "summary": "GitHubがLLMを本番導入する際の評価・運用手法を共有。誤検知を大幅に削減した7つの教訓を解説し、本番移行の実践的手順を提示。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "LLMを本番運用する開発者・SRE向けに実践的かつ即応用可能な知見を提供するため有用",
-    "published_at": "2026-10-06 08:00:00",
-    "created_at": "2026-10-07 05:24:49"
-  },
-  {
-    "source": "Publickey",
-    "title": "Cloudflare ContainersがAIエージェント向けに刷新。起動が6倍速、ファイルシステムのスナップショット機能など",
-    "url": "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
-    "summary": "Cloudflareがエッジで動くコンテナ型VMサービスをAIエージェント向けに改良。起動6倍速化、ファイルシステムのスナップショット等を追加しエージェント運用を支援。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "エッジでのAIエージェント運用を実務的に前進させるアップデートで、開発・運用に影響",
-    "published_at": "2026-10-06 00:29:53",
-    "created_at": "2026-10-07 05:24:49"
-  },
-  {
-    "source": "Publickey",
-    "title": "Google、サンドボックス型コンテナランタイムの「gVisor」をCNCFに寄贈したと発表",
-    "url": "https://www.publickey1.jp/blog/26/googlegvisorcncf.html",
-    "summary": "Googleがサンドボックス型コンテナランタイムgVisorをCloud Native Computing Foundationへ寄贈。オープンな運用・標準化に移行へ。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "コンテナセキュリティ/ランタイムのエコシステム変化は開発者・プラットフォーム運用に長期的影響",
-    "published_at": "2026-10-06 00:27:19",
     "created_at": "2026-10-07 05:24:49"
   },
   {
