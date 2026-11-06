@@ -14825,34 +14825,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "a6a6baa860f8",
-    "title": "Google、「Nano Banana 2.1」公開 APIの画像出力料金は「Nano Banana 2」の約半額に",
-    "published_date": "2026-10-07",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Googleが画像生成・編集モデル「Nano Banana 2.1」を発表。Geminiベースで性能向上、APIの画像出力料金は前モデルの約半額に。",
-    "reason": "画像生成コストが大幅に下がることで業務適用・プロダクト化が加速し、開発者や企業のコスト判断に影響するため掲載価値あり。",
-    "published_at": "2026-10-07 11:53:08",
-    "created_at": "2026-10-08 05:41:19",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002078/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "6d0b7cba91ea",
     "title": "Google、原発大手Constellationと20年の電力購入契約 「他の電力利用者に負担なし」",
     "published_date": "2026-10-07",
@@ -14909,177 +14881,6 @@
     "dev_cloud_relevance_score": 1,
     "urgency_score": 1,
     "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "1f28ebb87bb9",
-    "title": "Mistral、1兆パラメータの「Mistral Large 4」（通称「Le Chonk」）発表 10月末にオープンウェイトで公開へ",
-    "published_date": "2026-10-07",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Mistral AIが総パラメータ約1兆のMoE型モデル「Mistral Large 4」をプレビュー公開。サイバーセキュリティやコーディングで高性能を示し、重みは月末公開予定。",
-    "reason": "オープンウェイトで大規模モデルが公開予定で、研究・セキュリティ・開発コミュニティに直接影響するため注目度高。",
-    "published_at": "2026-10-07 10:43:15",
-    "created_at": "2026-10-08 05:41:19",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002075/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "0579a012558b",
-    "title": "「焼肉きんぐ」ほぼ全会員1078万件の情報が漏えい パスワードは無事でも残るリスク",
-    "published_date": "2026-10-07",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "焼肉チェーン「焼肉きんぐ」の公式アプリで約1078万件の会員情報が漏えい。パスワードや決済情報は含まれないが氏名・連絡先等が流出。",
-    "reason": "国内での大規模個人情報漏えいは顧客対応や法令対応、ブランドリスクに直結するため多くの読者が押さえるべき事案。",
-    "published_at": "2026-10-07 15:00:00",
-    "created_at": "2026-10-08 05:41:19",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/07/news033.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "422ed6fc9b1f",
-    "title": "アンソロピック「ミュトス」提供拡大 防御・レッドチームで利用可能に",
-    "published_date": "2026-10-07",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "AnthropicがCyber Verification Programを拡充し、最上位モデル「Claude Mythos 5.1」をより多くのセキュリティ専門家向けに提供。防御・レッドチーム枠を新設。",
-    "reason": "高性能モデルを限定的に解放し脆弱性検証を促進する動きは、AIセキュリティ評価の実務に直接関わるため有益。",
-    "published_at": "2026-10-07 16:20:42",
-    "created_at": "2026-10-08 05:41:19",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2146399.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 4,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "e2fbd50e00f9",
-    "title": "バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査",
-    "published_date": "2026-10-07",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "Microsoftらの研究で、AI自動生成（バイブコーディング）で公開されたWebアプリの約9割に脆弱性が見つかった。生成プロセスと安全性の課題を指摘。",
-    "reason": "自動生成アプリの安全性が大きく疑われる研究結果で、開発・運用の実務対策を促すため掲載価値が高い。",
-    "published_at": "2026-10-07 12:12:12",
-    "created_at": "2026-10-08 05:41:19",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002055/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "7251f88c021c",
-    "title": "マイクロソフト、VS CodeにAIモデルのオーケストレーションで高品質低コストなAIを実現する「HydraFusion」をプレビュー実装",
-    "published_date": "2026-10-07",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "VS Codeに複数ベンダのAIモデルをオーケストレーションする機能「HydraFusion」をプレビュー実装。品質とコスト最適化を目指す開発者向け機能。",
-    "reason": "開発者ツールにおけるマルチモデルオーケストレーションはAI導入コストと品質管理に直結するため開発者向けに重要。",
-    "published_at": "2026-10-07 00:47:53",
-    "created_at": "2026-10-08 05:41:19",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "09643f77c644",
-    "title": "国際的ハッカー集団「Qilin」中心メンバーを大阪で拘束 ドイツ当局に身柄を引き渡し",
-    "published_date": "2026-10-07",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "国際的ハッカー集団Qilinの中心メンバーとされるロシア国籍の男を日本の捜査当局が拘束し、ドイツに身柄を引き渡したと報道。",
-    "reason": "国際的サイバー犯罪の摘発は脅威軽減と捜査協力の観点で重要。企業のリスク評価にも影響するため採用。",
-    "published_at": "2026-10-07 16:15:23",
-    "created_at": "2026-10-08 05:41:19",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002093/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
     "has_itmedia_article": true
   },
   {
@@ -21782,6 +21583,460 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
     "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "b5c023ef5754",
+    "title": "2D図面をAIで3Dモデル化、編集可能なフィーチャー履歴も再構築",
+    "published_date": "2026-11-06",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "WOGOが図面や3D CAD作業を自律実行する「Hacadly AIエージェント」を提供開始。2Dから3D生成や履歴のないCADデータのフィーチャー再構築を支援。",
+    "reason": "設計業務の自動化に直結する技術で開発・製造現場への影響があるが適用は限定的。",
+    "published_at": "2026-11-06 16:00:00",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news072.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "edd7a94ec9b1",
+    "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
+    "published_date": "2026-11-06",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "AnthropicがClaudeに銀行口座連携の家計管理機能「Personal Finance」βを追加。Plaid経由で読み取り専用データを解析し自然言語で家計支援を行う。",
+    "reason": "消費者向けAIと金融データ連携の進展はプライバシー・UX観点で注目されるが影響は限定的。",
+    "published_at": "2026-11-06 08:49:28",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "bf4a68031f67",
+    "title": "Google、ワイオミング州のデータセンターなどに170億ドル投資へ 電力費全額負担を約束",
+    "published_date": "2026-11-06",
+    "importance_score": 3,
+    "category": "クラウド",
+    "summary": "Googleがワイオミング州のデータセンター建設などに長期で約170億ドルを投資。電力費やインフラ整備費の全額負担を約束し地域共生を打ち出す。",
+    "reason": "大規模投資でデータセンター戦略と地域対応のトレンドに影響するが即時の危機度は中程度。",
+    "published_at": "2026-11-06 09:43:37",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.impress.co.jp/docs/news/2154351.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9ca703916313",
+    "title": "MetaのAIエージェント「Muse」に音声対話機能 表情豊かなアバターと会話、まず米国で提供",
+    "published_date": "2026-11-06",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "MetaがAIエージェントMuseにリアルタイム音声対話と表情・身ぶりを変えるアバター機能を追加。まず米国で提供開始。",
+    "reason": "コンシューマー向けAI体験の進化で市場動向として注目されるが即時業務影響は限られる。",
+    "published_at": "2026-11-06 10:39:30",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "adb05bc3769d",
+    "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
+    "published_date": "2026-11-06",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "OpenAIがセキュリティ特化型モデル「GPT-6 Cyber」を発表。脆弱性発見能力を強化し、防御者向けに厳格審査のもと提供を始めていると報告。",
+    "reason": "高度な自動脆弱性発見能力は防御側の利器である一方、悪用リスクもはらむ産業的転換点のため高評価。",
+    "published_at": "2026-11-06 07:57:34",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "08039872ecf5",
+    "title": "PHPの重大欠陥「PHP2Shell」 4600万台中2900万台がいまだに脆弱",
+    "published_date": "2026-11-06",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "PHPの深刻な脆弱性「PHP2Shell」について、修正後も約2,900万台が依然として脆弱で攻撃が継続。パッチ適用だけでは不十分な事例も報告されている。",
+    "reason": "大規模かつ攻撃継続中の深刻脆弱性で、即時対応が求められるため最高ランク。",
+    "published_at": "2026-11-06 08:00:00",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news031.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "24e26b89cdfc",
+    "title": "アイリスオーヤマ、非会員含む約770万人分の情報漏えいか 外部クラウドに不審ファイル発見→不正アクセス発覚",
+    "published_date": "2026-11-06",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "外部クラウド上で不審ファイルを発見し、関連システムを停止して調査。最大約770万人分の個人情報漏えいの可能性があると発表。",
+    "reason": "数百万規模の個人情報流出の可能性がある大規模事案で、企業対応と影響範囲が重要。",
+    "published_at": "2026-11-06 08:48:01",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/06/2000002934/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "24a1831269ee",
+    "title": "グーグル、「マシンスピード」で脆弱性修正する「CodeMender」などAI防御策",
+    "published_date": "2026-11-06",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "Google Cloudが脆弱性発見・修正を自動化するAIエージェント「CodeMender」など、AIエージェント時代のセキュリティ強化策を発表。",
+    "reason": "運用自動化による防御強化は企業IT運用に影響する実務的ニュースで掲載価値あり。",
+    "published_at": "2026-11-06 18:31:33",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2154443.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "60acf92c972f",
+    "title": "ドコモ不正アクセス、最大30万件の顧客情報流出 「My docomo」など緊急メンテ、再開未定",
+    "published_date": "2026-11-06",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "NTTドコモの会員向けサービスに外部から不正アクセスがあり、最大約30万件の顧客情報が流出した可能性。My docomoなどは緊急メンテで停止中。",
+    "reason": "主要キャリアの会員情報漏えいは広範な影響と顧客対応を伴うため高評価。",
+    "published_at": "2026-11-06 07:08:51",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/06/2000002929/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a7fbc06b1e6b",
+    "title": "ロート製薬、約280万人分の個人情報漏えい 9715件は通話音声データとクレカ情報が流出",
+    "published_date": "2026-11-06",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "通信販売システムへの不正アクセスで顧客約279万7千人分の個人情報が漏えい。うち9,715件は通話音声とクレジットカード情報が含まれる。",
+    "reason": "大手消費財企業での数百万件規模かつクレカ情報流出を含む事案は事業・顧客対応面で重大。",
+    "published_at": "2026-11-06 19:31:25",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "8352af98cb38",
+    "title": "国内GPUサーバでオープンモデルを利用可能に フィックスターズが新サービス まずは「DeepSeek-V4.1-Flash-1017」から",
+    "published_date": "2026-11-06",
+    "importance_score": 2,
+    "category": "クラウド",
+    "summary": "フィックスターズが国内GPUサーバでオープンウェイトモデルを利用できるサービスを開始。オンプレ／国内提供を重視する顧客向け。",
+    "reason": "国内でのモデル運用オプションが増える点は開発者と企業の選択肢拡大につながるため有用。",
+    "published_at": "2026-11-06 13:21:45",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002955/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "03659b1e2447",
+    "title": "年収やローン保証額、免許証番号など最大32万人分漏えい SMBC系、保証業務システムに不正アクセス",
+    "published_date": "2026-11-06",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "SMBCコンシューマーファイナンスの保証業務システムが不正アクセスを受け、最大約32万件の氏名・住所・運転免許番号などが外部送信された可能性を公表。",
+    "reason": "金融データ・本人確認情報が漏えいした点で信用リスクと法的対応が必要な重大事案。",
+    "published_at": "2026-11-06 07:43:41",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/06/2000002930/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "6b18c9c693ea",
+    "title": "政府、相次ぐ情報漏えいで事業者に注意喚起 「基本的な対策が不十分」な事例を複数確認",
+    "published_date": "2026-11-06",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "国家サイバー統括室が相次ぐ個人情報漏えいを受けて事業者向け注意喚起を公表。基本的対策の不備やAI悪用の指摘、具体的対策例を示した。",
+    "reason": "政府による公式注意喚起で企業のセキュリティ投資・運用方針に直接影響するため掲載価値大。",
+    "published_at": "2026-11-06 17:52:16",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/06/2000002976/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "60097e8a37dc",
+    "title": "消防庁「安否情報システム」不正アクセスでサービス停止 委託先の富士ソフトから報告",
+    "published_date": "2026-11-06",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "消防庁の安否情報システムが委託先から不正アクセスの報告を受け、影響範囲調査のためサービスを停止し外部アクセスを遮断。",
+    "reason": "公的な安否システムへの不正アクセスは公共安全面で重大な影響を与える可能性があるため重要。",
+    "published_at": "2026-11-06 12:31:28",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/06/2000002952/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "3e59f74ed207",
+    "title": "米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も",
+    "published_date": "2026-11-06",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "米中間選挙に合わせた住民投票で、AI向けデータセンター建設の是非を問う計41件のうち多くが建設禁止や規制強化を可決。設置推進に逆風が強まる。",
+    "reason": "地域レベルでの大規模な反対可決はクラウド/AIインフラの立地戦略と政策に直接影響するため重要。",
+    "published_at": "2026-11-06 12:38:10",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/06/2000002949/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "22f60dc0d84e",
+    "title": "複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か 再開めど立たず",
+    "published_date": "2026-11-06",
+    "importance_score": 4,
+    "category": "ビジネス",
+    "summary": "しんきん共同センターの西日本センターで障害が発生し、128の信用金庫で窓口取引やATM入出金、振込が不能に。復旧の見通しは未定。",
+    "reason": "地域金融インフラの広域停止は経済・顧客影響が大きく業界対応が必要。",
+    "published_at": "2026-11-06 16:03:57",
+    "created_at": "2026-11-07 05:57:57",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/06/2000002971/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
     "has_itmedia_article": true
   }
 ]
