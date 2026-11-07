@@ -14968,33 +14968,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "e8fe9313fdff",
-    "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
-    "published_date": "2026-10-08",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "GoogleがAI生成コンテンツ判定ツール『SynthID Detector』を一般公開。画像や動画など生成物の検出・判定が広く利用可能に。",
-    "reason": "メディア／企業の生成物検証業務に役立つが、単独で規制や緊急対応を引き起こす性質ではないため中程度評価",
-    "published_at": "2026-10-08 13:25:25",
-    "created_at": "2026-10-09 05:44:01",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "54ef905c6e38",
     "title": "IDCFクラウドの障害は「ランサムウェア攻撃」が原因 495の企業・自治体に影響",
     "published_date": "2026-10-08",
@@ -15111,34 +15084,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "de63b528b6c3",
-    "title": "写真や文書が7カ月半、閲覧可能に――「楽天ドライブ」不正アクセスで1万5382アカウントに被害",
-    "published_date": "2026-10-08",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "楽天ドライブで管理用認証情報の不正取得による不正アクセスが発生。1万5382アカウントのユーザーデータ（写真や文書）が取得・閲覧されたと確認。",
-    "reason": "クラウドストレージの認証管理とユーザーデータ保護の実務的な教訓を含むため情シス向けに有用",
-    "published_at": "2026-10-08 13:00:00",
-    "created_at": "2026-10-09 05:44:01",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news033.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "d1fb7cd6e80c",
     "title": "国内で情報漏えい被害が相次ぐ JPCERT/CCが攻撃手法と対策を公表",
     "published_date": "2026-10-08",
@@ -15166,63 +15111,6 @@
     "urgency_score": 3,
     "utility_score": 1,
     "has_itmedia_article": false
-  },
-  {
-    "id": "79f8d5b515c2",
-    "title": "富士通では「Copilot」10万ライセンスの利用率が“9割超え” 「導入したけど使われない」をどう防いだ？",
-    "published_date": "2026-10-08",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "富士通がMicrosoft 365 Copilotを全社導入し10万ライセンスで利用率9割超を達成。導入定着の施策や運用ノウハウを紹介している。",
-    "reason": "大規模企業でのAI定着方法は他社導入の参考になり、経営・情シス判断に役立つ事例報告",
-    "published_at": "2026-10-08 11:00:00",
-    "created_at": "2026-10-09 05:44:01",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news022.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "8a9a3cfbb8e4",
-    "title": "相次ぐ情報漏えい、攻撃側のAI活用「間違いない」 防御側はどう使うか 傾向と対策を大手ベンダー各社に聞く",
-    "published_date": "2026-10-08",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "情報漏えいが相次ぐ中、ITベンダー各社に攻撃側のAI活用と防御側の対応を取材。AIをどう防御に組み込むかや傾向・対策を整理している。",
-    "reason": "情シス・セキュリティ担当者が対策検討する際に参考になるベンダー視点の実践的解説で有用",
-    "published_at": "2026-10-08 21:19:08",
-    "created_at": "2026-10-09 05:44:01",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002136/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "47a92b2f6c7e",
@@ -20219,34 +20107,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "6d5194d6f965",
-    "title": "AIの「費用対効果が分からない」問題、解決へ？ Claude Enterprise搭載の「3つの新機能」",
-    "published_date": "2026-10-31",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "Anthropicの企業向けプランClaude Enterpriseに、利用可視化やコスト配分支援などの3機能が追加。IT部門がAIの費用対効果を説明するための機能強化が中心。",
-    "reason": "企業のAI導入判断やコスト管理に直接関係する実務的アップデートとして価値があるが重大事案ではない。",
-    "published_at": "2026-10-31 09:00:00",
-    "created_at": "2026-11-01 04:23:55",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 3,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "cd799e010035",
     "title": "AIエージェントは「実運用」が主流に 「明確な成果」を得る企業の共通点は？",
     "published_date": "2026-10-31",
@@ -20304,33 +20164,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "ff5beca76a9e",
-    "title": "“完全テレワーク時代の終わり”で出社、なのに結局「オンライン会議ばかり」――調査で見えた若手の不満",
-    "published_date": "2026-10-31",
-    "importance_score": 1,
-    "category": "ビジネス",
-    "summary": "出社回帰が進む中で、若手社員がオフィス出社に不満を抱く実態を調査で報告。対面の機会設計と実務の乖離が課題として浮上している。",
-    "reason": "職場文化・働き方の示唆として価値はあるが影響範囲は限定的なため低めの重要度。",
-    "published_at": "2026-10-31 08:30:00",
-    "created_at": "2026-11-01 04:23:55",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/31/news007.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "24d247fa9ef0",
     "title": "「Pythonは今年も2位」 いま人とAIが“最も使える”言語とは――GitHub年次調査「Octoverse 2026」",
     "published_date": "2026-10-31",
@@ -20357,34 +20190,6 @@
     "dev_cloud_relevance_score": 3,
     "urgency_score": 0,
     "utility_score": 3,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "2ea436580319",
-    "title": "「基本を忘れてはならない」 優先すべき4つのセキュリティ戦略をMicrosoftが提言",
-    "published_date": "2026-10-31",
-    "importance_score": 2,
-    "category": "セキュリティ",
-    "summary": "Microsoftが予防可能な攻撃を踏まえ、優先すべき4つのセキュリティ戦略を公開。実務で再確認すべき基本的な防御策に焦点を当てている。",
-    "reason": "情シス向けの実践的指針として有用だが、新規インシデントや緊急性の高い事象ではないため中程度の重要度。",
-    "published_at": "2026-10-31 17:15:00",
-    "created_at": "2026-11-01 04:23:55",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/31/news014.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
     "has_itmedia_article": false
   },
   {
@@ -22038,5 +21843,229 @@
     "urgency_score": 1,
     "utility_score": 1,
     "has_itmedia_article": true
+  },
+  {
+    "id": "9d295a3f1c1c",
+    "title": "AIが見落とす“COBOL解析の盲点”――「探す」では足りない、「たどれる文脈」をどう作る？",
+    "published_date": "2026-11-07",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "レガシーCOBOL解析でAIが依存関係や影響範囲を見落とす理由を解説。知識グラフを用いた文脈付与による改善策を提案する。",
+    "reason": "金融や官公庁などレガシー維持管理に直結する技術的課題と解決策を示しており、開発者・情シスに有用。",
+    "published_at": "2026-11-07 05:00:00",
+    "created_at": "2026-11-08 04:30:03",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/07/news001.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "f6c38f1ec3b2",
+    "title": "AIで営業は効率化した、でもなぜ売れない？ 成果を出す人が大切にしていること",
+    "published_date": "2026-11-07",
+    "importance_score": 1,
+    "category": "AI",
+    "summary": "提案書作成などでAIは効率化するが、営業成果には人のスキルやプロセス改善が重要である点を指摘。AI運用の現場課題を整理する。",
+    "reason": "営業現場向けの運用知見で影響範囲は限定的だが、導入企業の実務判断に資するため選定。",
+    "published_at": "2026-11-07 07:00:00",
+    "created_at": "2026-11-08 04:30:03",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "30d6b7969687",
+    "title": "AI面接を導入したのに、応募者情報は手入力？ 採用現場の「二度手間」を解消へ",
+    "published_date": "2026-11-07",
+    "importance_score": 1,
+    "category": "AI",
+    "summary": "AI面接導入後も応募者情報の登録や選考結果の転記など手作業が残る課題を指摘。採用業務とHRシステムの連携改善の必要性を論じる。",
+    "reason": "企業の採用プロセス改善に関わる実務的な課題で、導入検討中の情シス/HRに示唆を与えるため掲載価値あり。",
+    "published_at": "2026-11-07 07:00:00",
+    "created_at": "2026-11-08 04:30:03",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "8a099a5507f7",
+    "title": "IPA、ランサムウェア被害組織の生の声から得た“11の教訓”を公開",
+    "published_date": "2026-11-07",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "IPAがランサムウェア被害企業への聞き取りから得た11の教訓を公表。予防策と被害後の復旧・対応に関する具体的示唆を提示する。",
+    "reason": "ランサムウェア対策は企業全体のリスク管理に直結し、情シスや経営の優先対応事項となるため高い掲載価値がある。",
+    "published_at": "2026-11-07 17:15:00",
+    "created_at": "2026-11-08 04:30:03",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/07/news008.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "46ac7f55a079",
+    "title": "Meta、「Muse」で自分専用アプリを作れる新機能「スペース」",
+    "published_date": "2026-11-07",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "MetaのパーソナルAIエージェントMuseに、自分専用のアプリを作れる「スペース」機能が追加。カスタムワークフローやデータ接続が可能に。",
+    "reason": "主要プラットフォーマのAI機能拡張は業界動向として注目に値するが、現時点では限定的な新機能リリースのため中程度の重要度。",
+    "published_at": "2026-11-07 18:30:00",
+    "created_at": "2026-11-08 04:30:03",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2154571.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "836192a04e66",
+    "title": "「ChatGPTの回答にリンクがない＝見られていない」 実は違うAIの情報収集",
+    "published_date": "2026-11-07",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "生成AIが回答に表示するリンクだけでは、実際に参照したウェブサイトを判断できないと解説。企業の情報発信やSEO対策への影響を説明する。",
+    "reason": "自社サイトの情報がAIにどう扱われるかを理解することは、マーケティングや企業広報に実務的価値があるため。",
+    "published_at": "2026-11-07 07:00:00",
+    "created_at": "2026-11-08 04:30:03",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ae717b2c0eac",
+    "title": "政府、「サイバーセキュリティ緊急対策パッケージ」策定 予備費から100億円",
+    "published_date": "2026-11-07",
+    "importance_score": 4,
+    "category": "法規制",
+    "summary": "政府がサイバー攻撃対策として『サイバーセキュリティ緊急対策パッケージ』を策定。予備費から100億円を充当し早期対策を進める計画を示した。",
+    "reason": "国家レベルでの資金投入と政策決定は企業のセキュリティ投資や規制対応に直接影響するため、業界的に重要。",
+    "published_at": "2026-11-07 08:00:00",
+    "created_at": "2026-11-08 04:30:03",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2154548.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a6f757323852",
+    "title": "無印良品の情報流出拡大、「ネットストア」やクレカ情報にも不正アクセスか",
+    "published_date": "2026-11-07",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "MUJIアプリの顧客情報流出に関する続報。ネットストア利用者や一部の氏名・住所、MUJI Cardのクレジットカード番号全桁への不正アクセスの可能性が判明。",
+    "reason": "クレジットカード番号全桁を含む個人情報流出の拡大は大規模漏えいに該当し、顧客や企業に即時的かつ広範な影響を与えるため最高ランク。",
+    "published_at": "2026-11-07 08:15:00",
+    "created_at": "2026-11-08 04:30:03",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/07/news003.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
   }
 ]
