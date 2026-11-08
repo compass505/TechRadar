@@ -1,5 +1,16 @@
 [
   {
+    "source": "ITmedia AI+",
+    "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+    "summary": "GitHub、Google、Siemensが示したマルチエージェント設計の15パターンを図解で整理。設計上の課題や具体的な活用場面を解説。エージェント連携の実装指針として開発者・アーキテクト向けに有用。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要ベンダーのパターンを体系化した実践的ガイドで、マルチエージェント設計を行う開発者やアーキテクトに価値がある。緊急性や重大リスクはないため中位評価。",
+    "published_at": "2026-11-08 08:00:00",
+    "created_at": "2026-11-09 04:47:37"
+  },
+  {
     "source": "Impress Watch",
     "title": "Meta、「Muse」で自分専用アプリを作れる新機能「スペース」",
     "url": "https://www.watch.impress.co.jp/docs/news/2154571.html",
@@ -691,17 +702,6 @@
     "reason": "メモリ市場の供給逼迫と大規模投資は半導体サプライチェーンやクラウド/AI事業者の収益・調達に影響する。",
     "published_at": "2026-11-02 07:00:00",
     "created_at": "2026-11-03 08:09:24"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "カシオ、リングウォッチに“チープカシオ”デザイン",
-    "url": "https://www.watch.impress.co.jp/docs/news/2152258.html",
-    "summary": "カシオが指輪型デジタルウォッチ「CRW-002」を発表。A168のデザインを指輪サイズで再現、クオーツ駆動、11月発売で価格は19,800〜22,000円。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "話題性のあるガジェットの製品発表だが、技術的・業界的影響は限定的。",
-    "published_at": "2026-11-01 10:00:00",
-    "created_at": "2026-11-02 04:48:19"
   },
   {
     "source": "ITmedia NEWS",
@@ -2596,28 +2596,6 @@
     "created_at": "2026-10-11 04:22:54"
   },
   {
-    "source": "Impress Watch",
-    "title": "SpaceX、携帯キャリアへ本腰 米国で800MHz帯取得へ",
-    "url": "https://www.watch.impress.co.jp/docs/news/2147301.html",
-    "summary": "SpaceXが米国内で800MHz帯を用いた全国規模通信の権利取得を発表。最終承認はFCC待ちだが、Starlink Mobileをキャリアへ強化する狙い。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "通信事業者市場への大型プレーヤーの本格参入は業界構造を変えうる戦略的ニュースで、事業者・投資家向けに重要。",
-    "published_at": "2026-10-09 23:23:08",
-    "created_at": "2026-10-10 05:09:48"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "NewsPicks、メアド32.3万件やクレカ情報の一部36.2万件漏えいか【訂正あり】",
-    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002175/",
-    "summary": "NewsPicksの管理ツールが不正アクセスされ、最大でメールアドレス約32.3万件、クレジットカード情報の一部約36.2万件などが漏えいした可能性を公表。詳細調査中。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "クレジット関連データを含む中規模漏えいで、消費者向けサービス運用上の対応・信頼回復が重要なため掲載価値あり。",
-    "published_at": "2026-10-09 20:13:47",
-    "created_at": "2026-10-10 05:09:48"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "「スカイチケット」に不正アクセス、計1467万件の個人情報流出 ハッシュ化されたパスワードも",
     "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002168/",
@@ -2652,17 +2630,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」 OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
-    "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/",
-    "summary": "Anthropicが社会インフラ保護支援の「Anthropic Cyber Mission」を発表。重要インフラ向け支援（CIDP）やOSSの無償脆弱性スキャンなどを提供する施策を開始。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AI事業者が防御支援に本腰を入れる動きは、セキュリティとAIの連携というトレンド上重要で、自治体・事業者に有益。",
-    "published_at": "2026-10-09 13:20:56",
-    "created_at": "2026-10-10 05:09:48"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "国家サイバー統括室、不正アクセスによる漏えい事案受け注意喚起 「いつ攻撃受けてもおかしくない」",
     "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002161/",
     "summary": "内閣官房国家サイバー統括室が、不正アクセスによるデータ窃取事案を複数確認したとして事業者向けの注意喚起を公開。委託先管理やアクセスログ点検など具体策を列挙。",
@@ -2670,28 +2637,6 @@
     "category": "セキュリティ",
     "reason": "官公庁からの公式注意喚起で、企業のセキュリティ対策・委託管理に即効性のある指針を示すため広く重要。",
     "published_at": "2026-10-09 12:10:44",
-    "created_at": "2026-10-10 05:09:48"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
-    "summary": "Google Cloudが「Gemini Agent」を発表。Geminiに加えAnthropicのClaude Opus/Sonnetなど他社モデルの利用をサポートするクラウド上のマルチエージェントツール。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "クラウド上でマルチモデル利用を公式にサポートする動きは、企業のAI選定・統合戦略に直接影響するため注目度高い。",
-    "published_at": "2026-10-09 09:40:57",
-    "created_at": "2026-10-10 05:09:48"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "企業が使うAIモデル、1年半で6割超が「中国製」に 「最高性能のオープンモデルはほぼ中国発」の理由",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/09/news033.html",
-    "summary": "RedMonkの分析を元に、企業利用のオープンウェイトモデルにおける地理的変化や中国モデルの台頭理由を解説。性能・ライセンス・経済性など複数観点で考察。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "企業のモデル選定やサプライチェーンに関するトレンド分析で、ベンダー選定やリスク評価に役立つため掲載価値あり。",
-    "published_at": "2026-10-09 08:00:00",
     "created_at": "2026-10-10 05:09:48"
   },
   {
@@ -2703,28 +2648,6 @@
     "category": "クラウド",
     "reason": "クラウド事業者の可用性・データ保全に関わる深刻事案で、多数の企業サービスに波及・業務停止や大規模漏えいリスクを伴うため最重要扱い。",
     "published_at": "2026-10-09 07:43:55",
-    "created_at": "2026-10-10 05:09:48"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "損保ジャパン､2万人の「Gemini活用」どう管理？ 推進者が語る「リスク回避」の仕組み",
-    "url": "https://kn.itmedia.co.jp/kn/article/2610/09/2000002145/",
-    "summary": "損害保険ジャパンが約2万人規模でGemini Enterpriseを導入する際の運用設計やガバナンス、リスク回避策を紹介。単なる導入ではない運用ノウハウに焦点。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "大規模企業導入の実例と運用設計は同業他社の参考になり、実務的な知見を提供するため有益。",
-    "published_at": "2026-10-09 07:00:00",
-    "created_at": "2026-10-10 05:09:48"
-  },
-  {
-    "source": "Publickey",
-    "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
-    "url": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
-    "summary": "さくらインターネットが企業向けにGPU専有のマネージドLLMホスティング「AI Engine プライベートエディション」を提供開始。トークン課金を気にしない定額運用が特徴。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "企業向けにオンプレ/専有GPUでのLLM運用選択肢を拡大するプロダクトで、AI導入インフラの選定に直結するため有用。",
-    "published_at": "2026-10-09 00:49:01",
     "created_at": "2026-10-10 05:09:48"
   },
   {
