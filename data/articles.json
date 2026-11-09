@@ -1,5 +1,115 @@
 [
   {
+    "source": "＠IT",
+    "title": "「AIインフラは地殻変動」 Googleが第8世代TPU発表からわずか半年で強化版を投入する理由",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/09/news088.html",
+    "summary": "Googleが第8世代TPUの強化版を発表し、前回発表から半年での改良を実施。エージェント型AI普及でAIインフラの需要と仕様が急速に変化していると説明。ハードとクラウド両面で競争の加速を示唆。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "AIインフラの急速な進化・世代交代はデータセンター投資やモデル運用コストに直結し、業界影響が大きいため。",
+    "published_at": "2026-11-09 22:00:00",
+    "created_at": "2026-11-10 08:49:03"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ニトリに不正アクセス、最大3762万件の個人情報流出の可能性 法人会員も対象に",
+    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/",
+    "summary": "ニトリが管理するシステムへ不正アクセスがあり、最大3,762万件の個人情報流出の可能性を発表。発覚は11月6日で影響範囲は広範。法人会員情報も含まれる可能性がある。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "極めて大規模な個人情報流出の可能性で社会的影響と企業対応・規制対応を即時に要するため。",
+    "published_at": "2026-11-09 19:40:53",
+    "created_at": "2026-11-10 08:49:03"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "楽天、自社衛星通信網を本格整備へ 国家戦略「J-LEO」に採択",
+    "url": "https://www.watch.impress.co.jp/docs/news/2154947.html",
+    "summary": "楽天とAST SpaceMobileがJ-LEO公募に採択され、新会社を設立。スマホと衛星を直接つなぐサービスを2029年3月末までに開始予定。国家戦略案件として選定された事業。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "国策プロジェクトへの採択で通信インフラの競争とサービス提供モデルが変わるため、企業戦略や規制に影響する重要案件。",
+    "published_at": "2026-11-09 19:29:32",
+    "created_at": "2026-11-10 08:49:03"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Meta、MuseとMeta AIを強化 記憶力とタスク実行能力が向上",
+    "url": "https://www.watch.impress.co.jp/docs/news/2154793.html",
+    "summary": "MetaがパーソナルAIエージェントMuseとMeta AIに、記憶力やタスク実行能力を強化した新モデルを導入。過去会話の記憶や問題対応能力を向上させ順次提供開始する。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "常時動作型エージェントの性能向上はユーザー習慣とプライバシー・運用面で影響が大きく、採用動向の指標となるため。",
+    "published_at": "2026-11-09 14:02:52",
+    "created_at": "2026-11-10 08:49:03"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ 予備費100億円支出",
+    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003005/",
+    "summary": "政府が相次ぐ大規模情報漏えいを受け、サイバーセキュリティ対策の緊急パッケージを決定。専門チーム（「トップガン人材」）の設立や予備費100億円の支出を含む。官民の対応強化が進む見込み。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "国家レベルでの資金投入と人材配置による政策対応で、企業のセキュリティ投資や規制環境に直結するため。",
+    "published_at": "2026-11-09 12:02:03",
+    "created_at": "2026-11-10 08:49:03"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "画像生成AIは既存のキャラクターをどれくらい出力する？ ソニーAIなどが14モデルを調査",
+    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
+    "summary": "Sony AIらの研究チームが14の画像生成モデルを調査し、既存IPの再生成頻度とガードレールの有効性を評価。生成モデルと知的財産保護の現状を技術的に分析している。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "生成AIと知財リスクの定量的評価は、開発者・事業者・法務にとって重要な判断材料となるため。",
+    "published_at": "2026-11-09 12:00:00",
+    "created_at": "2026-11-10 08:49:03"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "クラウドインフラのシェア、AWSが26％に後退 Google Cloudは16％に上昇 市場全体は過去最大の高成長率へ 2026年第3四半期調査",
+    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003001/",
+    "summary": "Synergyの調査で2026年第3四半期のクラウド市場動向を発表。AWSのシェアが低下し、Google Cloudが上昇。市場全体は過去最大の高成長率を記録している。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウド事業者の相対的地位変化と高成長市場は、企業のクラウド戦略や調達判断に影響するため代表的に報じる価値がある。",
+    "published_at": "2026-11-09 11:00:00",
+    "created_at": "2026-11-10 08:49:03"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news023.html",
+    "summary": "IDCの予測を基に、AI投資と人材育成の重要性を解説。投資を怠る企業は収益成長で大きく遅れる可能性があると指摘。どの分野に予算を振るべきかを論じる。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "経営判断とIT投資戦略に直結する示唆で、企業のAI採用・教育方針を左右するため掲載価値が高い。",
+    "published_at": "2026-11-09 08:00:00",
+    "created_at": "2026-11-10 08:49:03"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪",
+    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
+    "summary": "NVIDIA取締役会がフアンCEOに関する報道を受け独立調査を開始。フアンCEOは社内向けに不倫関係を認め謝罪したが、機密情報流出の事実は確認されていないと報告。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "世界的半導体・AI企業のCEOに関わる疑惑でガバナンスと国家安全保障リスクが問われ、業界と市場に影響するため。",
+    "published_at": "2026-11-09 07:44:13",
+    "created_at": "2026-11-10 08:49:03"
+  },
+  {
+    "source": "＠IT",
+    "title": "企業が知らない“野良ID”、「想定よりはるかに多い」――AIエージェント時代の新たな盲点",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/09/news015.html",
+    "summary": "AIエージェント普及で企業が管理すべきIDが増加し、“野良ID”という新たな盲点が生じている。人間IDや従来のマシンIDと異なる管理上の課題やセキュリティリスクを解説。対策の必要性を指摘。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業のID管理と認証戦略に直結する実務的なリスクで、情シスや開発者に有用な警鐘となるため。",
+    "published_at": "2026-11-09 05:00:00",
+    "created_at": "2026-11-10 08:49:03"
+  },
+  {
     "source": "ITmedia AI+",
     "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
@@ -613,17 +723,6 @@
     "category": "セキュリティ",
     "reason": "パスキー普及に影響する実装上の欠陥を指摘する調査で、認証戦略や運用に影響を与えうるため掲載価値が高い。",
     "published_at": "2026-11-02 17:15:00",
-    "created_at": "2026-11-03 08:09:24"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "ニコニコレンタカー、免許証画像の事前登録を廃止 保存済み画像も全削除 サイバー攻撃の増加受け",
-    "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002786/",
-    "summary": "ニコニコレンタカーはアプリでの運転免許証画像事前登録機能を廃止し、既存の画像データを全削除したと発表。サイバー攻撃増加を受けた措置。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "個人情報保存の見直しという実務的対応で、同種サービス運用者にとって示唆があるため掲載価値あり。",
-    "published_at": "2026-11-02 12:23:04",
     "created_at": "2026-11-03 08:09:24"
   },
   {
@@ -2530,17 +2629,6 @@
     "created_at": "2026-10-12 04:36:47"
   },
   {
-    "source": "＠IT",
-    "title": "大和証券、シチズン、損保ジャパン、東武鉄道、オリックス生命――5社に影響した「同じ委託先」への不正アクセス 各社はどう動いた？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/10/news007.html",
-    "summary": "問い合わせ情報を管理する委託先への不正アクセスで5社に影響。各社の被害内容と事後対応、委託先の運用実態について追う。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "委託先リスクの具体事例として企業の情報管理・BCPに直結するため、情シスや経営判断に有用な分析記事。",
-    "published_at": "2026-10-10 13:00:00",
-    "created_at": "2026-10-11 04:22:54"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "「お前たちのクラウドはわれわれのもの」 IDCFクラウドの管理画面に出た攻撃者のメッセージ 内容に運営元は",
     "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002184/",
@@ -2560,17 +2648,6 @@
     "category": "その他",
     "reason": "サプライチェーン型の委託先侵害で複数の主要企業に連鎖的影響が出る可能性が高く、企業ITとリスク管理の教訓となるため。",
     "published_at": "2026-10-10 09:02:14",
-    "created_at": "2026-10-11 04:22:54"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
-    "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
-    "summary": "OpenAIで安全性研究に携わっていた研究者3人が解雇を公表。研究者側は安全性優先を主張し、OpenAIは機密情報規定違反を理由に挙げる。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "AI安全性・企業ガバナンス両面で議論を呼ぶ事案で、業界の信頼や研究公開の在り方に影響を与える可能性があるため。",
-    "published_at": "2026-10-10 08:28:02",
     "created_at": "2026-10-11 04:22:54"
   },
   {
