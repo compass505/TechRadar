@@ -1,5 +1,225 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "アドビとグーグルが提携拡大 Geminiで画像・PDF編集 GmailからAcrobat",
+    "url": "https://www.watch.impress.co.jp/docs/news/2155258.html",
+    "summary": "AdobeとGoogleが連携を拡大し、GmailやDriveから直接Acrobatを利用可能に。GoogleのGeminiからAdobeの編集機能を呼び出す統合も発表。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要クラウドとクリエイティブツールの連携強化はワークフロー変化とSaaS競争に影響するため注目。",
+    "published_at": "2026-11-10 23:01:00",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "日商簿記などの受験者情報、最大98万人分が漏えいの可能性",
+    "url": "https://www.watch.impress.co.jp/docs/news/2155307.html",
+    "summary": "商工会議所のネット試験管理システムへの不正アクセスにより、最大約98万人分の受験者情報が漏えいした可能性があると公表された。",
+    "importance": 3,
+    "category": "その他",
+    "reason": "教育系資格情報の大量漏えいは本人確認書類悪用など二次被害と運用ガバナンスの議論を促すため報じる価値がある。",
+    "published_at": "2026-11-10 19:17:37",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "スキマバイト「シェアフル」に不正アクセス 最大750万アカウント漏えいか 給与振込用の口座情報なども",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003072/",
+    "summary": "シェアフルの社内管理システムへの不正アクセスで最大約750万アカウントの個人情報が流出した可能性。給与振込口座などセンシティブ情報も含まれる懸念がある。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大量アカウントと金融情報が含まれる点で被害範囲と二次被害リスクが高く業務対策情報として重要。",
+    "published_at": "2026-11-10 18:50:02",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "＠IT",
+    "title": "「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news041.html",
+    "summary": "Mandiantの年次レポート『M-Trends 2026』を踏まえ、サイバー犯罪の分業化で侵入から攻撃実行までの時間が大幅短縮した実態と対策を解説。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "攻撃手法とタイムライン変化は企業の検知・ログ運用方針に直結するため情シス・経営判断で重要。",
+    "published_at": "2026-11-10 17:15:00",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "＠IT",
+    "title": "「Wi-Fi 8を待つ必要はない」――Ciscoが解説、“Wi-Fi 7との違い”と企業導入の考え方",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news017.html",
+    "summary": "CiscoがWi‑Fi 8の技術的特徴と企業が導入更新を検討する際の判断ポイントを解説。現行環境の最適化優先を推奨する内容。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "企業ネットワーク更新の判断材料として実務的価値があるため情シス向けに掲載適性あり。",
+    "published_at": "2026-11-10 17:00:00",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "マイナカードを使うコンビニ交付に障害 自治体が相次ぎ公表 富士フイルム系システムで通信異常か",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003062/",
+    "summary": "マイナンバーカードを使ったコンビニ交付で全国的に障害が発生。富士フイルム系の証明書発行システムの通信異常が原因と一部自治体が説明。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "国民向け行政サービスの停止は広範な影響と運用リスクを伴い、自治体・ベンダーにとって優先度高。",
+    "published_at": "2026-11-10 14:29:01",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "＠IT",
+    "title": "ドコモ利用者を襲う“次のリスク” 最大30万件情報流出で狙われるのは何か？",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news026.html",
+    "summary": "ドコモのオンラインショップ等から最大約30万件の顧客情報が流出した事故を受け、二次被害で狙われるポイントや対策を解説する記事。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "大手通信事業者の顧客情報漏えいは二次被害リスクと業務継続計画の見直しにつながるため企業読者に有用。",
+    "published_at": "2026-11-10 12:45:00",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "仏スーパー冷蔵庫へのサイバー攻撃、イラン革命防衛隊関連組織の犯行と断定 フランス外務省が声明",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003053/",
+    "summary": "フランスの大手スーパー約700店舗の冷蔵・冷凍設備が被害を受けた攻撃を、フランス当局がイラン革命防衛隊関連組織の犯行と断定したと発表。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "国家関連組織による重要インフラへの攻撃認定は地政学的リスクとサプライチェーン影響が大きい。",
+    "published_at": "2026-11-10 12:05:09",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "サイバー攻撃受けた医療現場のリアル 患者の死亡率が3割上昇 乳がん患者の半裸画像流出、セラピー記録で脅迫され自殺も",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003027/",
+    "summary": "病院へのサイバー攻撃が患者安全に及ぼす被害を世界規模で調査した論文。攻撃後の死亡率上昇や深刻な個人被害の事例が報告されている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "医療という社会インフラでの被害が実証され、対策優先度や法制度議論に直結するため業界的影響が大きい。",
+    "published_at": "2026-11-10 12:00:00",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "＠IT",
+    "title": "Alpine Linuxも要確認 OpenSSHにパスワード認証を回避される問題",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news023.html",
+    "summary": "OpenSSHでパスワード認証を回避される問題が判明。OpenSSH Projectは修正版を公開しており、各Linux配布での確認・適用が必要とされる。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "SSHは広く使われる基盤技術であり認証回避の脆弱性は即時パッチ適用を促す重要トピック。",
+    "published_at": "2026-11-10 12:00:00",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "アクセスキー直書き→委託先がテスト用イメージをネット公開 「ラフールサーベイ」約2.4万人の情報漏えい",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003052/",
+    "summary": "ラフールでアクセスキーを直書きした結果、委託先がテストイメージを公開し約2.4万人分の情報が流出した可能性があると発表。",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "開発・委託運用における基本的な設定ミスに起因する漏えいで、開発現場への注意喚起として有用。",
+    "published_at": "2026-11-10 11:55:20",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "三井化学、JSRを1兆8400億円で買収 「国内トップクラスの半導体材料企業に」",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003045/",
+    "summary": "三井化学がJSRを約1.84兆円で買収。国内化学・半導体材料分野で過去最大級のM&Aとなり、サプライチェーン再編の意図を示す。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "巨額M&Aは半導体材料市場の競争構造と供給体制に直結するため業界の戦略判断に重要。",
+    "published_at": "2026-11-10 11:55:08",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NTTデータ、住友生命から受託したシステムに不正アクセス 「Vitality」利用者約8万人の情報漏えい",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003051/",
+    "summary": "NTTデータが受託運用する住友生命のシステムが不正アクセスを受け、Vitality利用者約8万人の個人情報が流出。新規申込を停止。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "受託開発・運用を巡るセキュリティ事案はBPO／SI事業者にとって契約・運用リスクの警鐘となる。",
+    "published_at": "2026-11-10 11:26:43",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/",
+    "summary": "AdobeとDisneyが共同でDisney向けの安全なカスタム生成AIモデルを開発する戦略的提携を発表。映像制作からテーマパーク開発まで活用を見据える。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "コンテンツ産業でのカスタム生成AI導入は著作権・ブランド保護・制作ワークフローに影響するため業界示唆がある。",
+    "published_at": "2026-11-10 11:10:07",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/",
+    "summary": "Metaが反復タスク向けの効率重視モデルMuse Emberを発表。上位モデルに迫る性能を低コストで提供し、反復処理の大規模化に向く。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "低コスト効率モデルは運用コスト削減とエッジ／常時稼働エージェントの普及に寄与するため開発者目線で重要。",
+    "published_at": "2026-11-10 09:06:40",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「AI店長」、対人関係に苦戦 指摘が生かされずスタッフからの報告減少 PwCが“売店”で実験",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003040/",
+    "summary": "PwCがAIに売店運営を任せる短期実験を実施。スタッフからのフィードバック活用に失敗し、運営は赤字に終わるなど対人運用の課題が浮き彫りに。",
+    "importance": 1,
+    "category": "AI",
+    "reason": "実証実験レベルの事例で示唆はあるが影響範囲が限定的なため低めの重要度。",
+    "published_at": "2026-11-10 08:00:00",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
+    "summary": "Googleが第8世代TPUに機密データ向けのTPU 8txと、大容量コンテキスト処理向けの8i Maxを追加。TPU周辺ソフトのオープン化や資源効率化機能も発表。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "AIインフラの世代更新はクラウド提供能力と企業のAIアーキテクチャ選定に直接影響するため業界的重要ニュース。",
+    "published_at": "2026-11-10 07:26:48",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
+    "summary": "AnthropicがClaudeの上位モデルFable 5.2と審査制Mythos 5.2を発表。出力高速化とAPI料金引き下げで長時間推論やエージェント用途を強化。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要モデルの性能向上と価格改定は開発者と企業のコスト・導入判断に影響するため注目に値する。",
+    "published_at": "2026-11-10 07:03:56",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "＠IT",
+    "title": "ニトリから「最大3762万件」の個人情報が流出か――EC注文データも対象に",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news032.html",
+    "summary": "ニトリの管理システムへの不正アクセスで最大約3762万件の個人情報が流出した可能性。会員情報やEC注文データが含まれ、決済情報は除くが影響範囲が極めて大きい。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "数千万件規模の大規模漏えいの可能性は広範な二次被害を招くため即時性・掲載優先度が最高。",
+    "published_at": "2026-11-10 06:00:00",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
+    "source": "Publickey",
+    "title": "Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表",
+    "url": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
+    "summary": "GoogleがKubernetes上でAIエージェントを高密度に実行するためのAgent SubstrateとgVisorをCNCFに寄贈、オープンソース化を発表。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "Kubernetes上でのAIエージェント運用効率化はクラウドネイティブ運用とコスト面で企業導入に影響を与えるため重要。",
+    "published_at": "2026-11-10 00:25:30",
+    "created_at": "2026-11-11 06:22:07"
+  },
+  {
     "source": "＠IT",
     "title": "「AIインフラは地殻変動」 Googleが第8世代TPU発表からわずか半年で強化版を投入する理由",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/09/news088.html",
@@ -657,17 +877,6 @@
     "category": "ビジネス",
     "reason": "主要テック企業の業績とAI戦略が明示され、業界動向や製品ロードマップ把握に有用なため。",
     "published_at": "2026-11-03 09:44:48",
-    "created_at": "2026-11-04 06:08:13"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "JCB、「枯山水」デザインのゴールド/プラチナカード",
-    "url": "https://www.watch.impress.co.jp/docs/news/2153186.html",
-    "summary": "JCBが数量限定デザインの「枯山水」ゴールド/プラチナカードを発行開始。年会費はそれぞれ11,000円と27,500円で在庫限り。",
-    "importance": 1,
-    "category": "ガジェット",
-    "reason": "消費者向けの限定カード発表でTechRadar 505では興味層が限定されるが、小ネタとして掲載価値あり。",
-    "published_at": "2026-11-03 08:30:00",
     "created_at": "2026-11-04 06:08:13"
   },
   {
