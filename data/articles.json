@@ -1,5 +1,115 @@
 [
   {
+    "source": "ITmedia NEWS",
+    "title": "続くドコモ通信障害 一部除き復旧も、完全解消には至らず 原因は調査中",
+    "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
+    "summary": "NTTドコモの5G SA契約者向けで全国的な通信障害が発生。一部は復旧したが完全解消はしておらず原因を調査中。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "国内最大手キャリアの広域サービス障害は事業継続・企業サービス連携に重大影響を与えるため、情シス・事業者向けに重要。",
+    "published_at": "2026-11-11 18:36:04",
+    "created_at": "2026-11-12 07:04:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "メール配信のユミルリンク、不正アクセスで約4786万件漏えい JR東海やアイスタイルに影響",
+    "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
+    "summary": "ユミルリンクのメール配信サービスが不正アクセスを受け、約4786万件の個人情報が流出。利用企業への影響が広がっている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "数千万件規模かつ複数大手顧客に波及する漏えいで、顧客企業の対応と被害連鎖が重要な実務課題となるため。",
+    "published_at": "2026-11-11 17:35:52",
+    "created_at": "2026-11-12 07:04:54"
+  },
+  {
+    "source": "＠IT",
+    "title": "「Google ドライブもランサムウェアに狙われている」 身代金を払わずに一括ファイル復元するには",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news037.html",
+    "summary": "Google ドライブのランサムウェア検知と一括ファイル復元機能が一般提供。ランサム被害発生時の対応手順と機能の活用法を解説。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "クラウドストレージに対するランサムの現実的脅威と復旧手段が広く影響するため、情シスの実務対応に直結する情報。",
+    "published_at": "2026-11-11 17:15:00",
+    "created_at": "2026-11-12 07:04:54"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "OpenAI、APIの処理・推論が国内で可能に GPT-6 Lunaから",
+    "url": "https://www.watch.impress.co.jp/docs/news/2155544.html",
+    "summary": "OpenAIがGPT-6 Lunaのリクエスト処理と推論を日本国内で可能にする機能を一般提供。テキスト/画像入力とテキスト出力が対象。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "国内での推論処理はデータ主権・コンプライアンス対応に直結し、企業の導入判断やアーキテクチャ設計に影響するため。",
+    "published_at": "2026-11-11 16:00:00",
+    "created_at": "2026-11-12 07:04:54"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「AIとのチャット記録」が漏えいか、Notion 委託先に不正アクセス",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
+    "summary": "NotionのAI機能「Notion AI」のチャット記録が、委託先への不正アクセスで漏洩した恐れがあると発表。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "生成AIの会話ログ流出は機密情報・IP漏洩のリスクが高く、企業のAI利用ポリシーや委託管理に直接影響するため。",
+    "published_at": "2026-11-11 14:16:43",
+    "created_at": "2026-11-12 07:04:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "“同じWi-Fiにいる誰か”に通信をのぞかれる？ 「クライアント分離」を2秒で突破する攻撃 米大学が検証",
+    "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
+    "summary": "研究チームがWi‑Fiのクライアント分離を短時間で突破する攻撃手法を発表。公開論文で手法と実証を示している。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "LANセグメントの想定保護が現実に破られる実証で、企業・組織ネットワーク設計や対策強化を促す重要な研究成果。",
+    "published_at": "2026-11-11 12:11:32",
+    "created_at": "2026-11-12 07:04:54"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "Anthropic、IPOの仮条件を1株70?78ドルに 調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資",
+    "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003085/",
+    "summary": "AnthropicがIPO仮条件を公表。大規模調達とGoogle/NVIDIAによる巨額出資が報じられ、AI業界の資本構造に影響。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "主要AI企業の大型上場と大手テックによる出資は市場構図やパートナー戦略に大きく影響するため、業界動向として重要。",
+    "published_at": "2026-11-11 08:02:05",
+    "created_at": "2026-11-12 07:04:54"
+  },
+  {
+    "source": "＠IT",
+    "title": "セガの220万件流出は氷山の一角 委託先侵害でメールアドレス8100万件が流出",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news034.html",
+    "summary": "配信委託先（アララ）への不正アクセスでメールアドレス約8100万件が流出、最大380社に影響の可能性。委託先サプライチェーン全体の被害拡大が示唆される。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模な委託先侵害で複数企業に波及、二次被害・フィッシング悪用の現実的リスクが高く業界影響が甚大。",
+    "published_at": "2026-11-11 07:45:00",
+    "created_at": "2026-11-12 07:04:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
+    "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
+    "summary": "Googleが最上位AIモデル「Gemini 4 Carbon」の一般提供を開始。高負荷推論や開発者向けAPI、新機能「/swarm」プレビューも展開。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "最先端モデルの一般提供とマルチエージェント機能は開発・企業導入の潮流を動かすため、開発者・経営判断に重要。",
+    "published_at": "2026-11-11 07:03:30",
+    "created_at": "2026-11-12 07:04:54"
+  },
+  {
+    "source": "Publickey",
+    "title": "マイクロソフト、.NET 11正式リリース。C#に共用型を導入、JITやAOTコンパイラの高速化、コマンドラインツール強化など新機能",
+    "url": "https://www.publickey1.jp/blog/26/net_11cjitaot.html",
+    "summary": ".NET 11が正式リリース。C#の新機能、JIT/AOTの高速化、CLI強化など開発者に影響する変更が含まれる。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "主要フレームワークのメジャーリリースで移行計画やパフォーマンス面の見直しが必要なため、開発チームに有用。",
+    "published_at": "2026-11-11 02:58:43",
+    "created_at": "2026-11-12 07:04:54"
+  },
+  {
     "source": "Impress Watch",
     "title": "アドビとグーグルが提携拡大 Geminiで画像・PDF編集 GmailからAcrobat",
     "url": "https://www.watch.impress.co.jp/docs/news/2155258.html",
@@ -833,17 +943,6 @@
     "category": "AI",
     "reason": "プラットフォーム側のAPI開放はアプリ設計やUX、データ・権限設計に影響するため開発者と事業者に重要。",
     "published_at": "2026-11-04 09:37:42",
-    "created_at": "2026-11-05 06:22:43"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Microsoft、メモリ8GBのWindows 11 PCを高速化 マルチタスク処理は最大40％向上",
-    "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/",
-    "summary": "Microsoftが8GB搭載Windows 11 PC向けにメモリ圧縮などを最適化する更新を提供。応答性やマルチタスクが向上し、特定ビルド以降で利用可能となる。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "広範なユーザー影響はあるが技術的に既存最適化の延長であり、運用や更新判断で参考になるため掲載価値あり。",
-    "published_at": "2026-11-04 08:33:38",
     "created_at": "2026-11-05 06:22:43"
   },
   {
@@ -2772,17 +2871,6 @@
     "created_at": "2026-10-14 05:44:38"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "FDEが構築したAIエージェントの7割、企業が放棄へ Gartner予測",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html",
-    "summary": "Gartner予測で、ベンダー主導で構築したAIエージェントのうち2028年までに約7割が企業により放棄される見込み。理由は技術未熟さではなく案件構造。回避策や採用判断のポイントを提示。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "企業のAI導入戦略とベンダー選定に直接関わる予測で、情シス・経営判断に有用な示唆を含むため。",
-    "published_at": "2026-10-12 11:15:00",
-    "created_at": "2026-10-13 07:31:45"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
     "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
@@ -2791,28 +2879,6 @@
     "category": "AI",
     "reason": "大手プラットフォーマーCEOによる企業ガバナンス指針で、情シス・経営判断に影響を与えるため。",
     "published_at": "2026-10-12 10:26:23",
-    "created_at": "2026-10-13 07:31:45"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
-    "summary": "Microsoftが選択肢ごとの確率を返す判断特化モデル「Microsoft-Decision-1」を発表。Qwen3.5-9Bを微調整し高速化、トークン単価も公開。分類やエージェント判定向けの新たな提供モデル。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "エージェント設計や意思決定システムに直接影響する新モデルで、開発者とサービス導入に関わるため。",
-    "published_at": "2026-10-12 09:39:33",
-    "created_at": "2026-10-13 07:31:45"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "テック産業の牧歌的な時代の終焉 a16z日本進出と日本の成長",
-    "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2146910.html",
-    "summary": "a16zの日本進出を巡る考察記事。資金供給や産業構造の変化が日本のスタートアップや成長に与える影響を論じる。投資環境の転換点を示唆。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "大手VCの地域進出が国内スタートアップ・投資環境に与える示唆が強く、業界動向として重要。",
-    "published_at": "2026-10-12 09:00:00",
     "created_at": "2026-10-13 07:31:45"
   },
   {
