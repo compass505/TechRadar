@@ -27,8 +27,7 @@
     "yesterday_ai": [
       "ff06e54de8b8",
       "dd381f70984e",
-      "a3f3038fcad2",
-      "2aedb59c0c9c"
+      "a3f3038fcad2"
     ],
     "yesterday_enterprise_it": [
       "35146bf23621",
@@ -37,12 +36,10 @@
       "fde00cacea8f",
       "5a07137300a7",
       "e05a60bbc29a",
-      "a3f3038fcad2",
-      "96aceb34baf6"
+      "a3f3038fcad2"
     ],
     "yesterday_development": [
-      "e05a60bbc29a",
-      "c78723c4d7bc"
+      "e05a60bbc29a"
     ]
   }
 }
