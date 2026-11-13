@@ -37,10 +37,7 @@
       "adb05bc3769d",
       "6b18c9c693ea",
       "3e59f74ed207",
-      "24a1831269ee",
-      "b5c023ef5754",
-      "edd7a94ec9b1",
-      "9ca703916313"
+      "24a1831269ee"
     ],
     "yesterday_enterprise_it": [
       "08039872ecf5",
@@ -54,15 +51,12 @@
       "03659b1e2447",
       "3e59f74ed207",
       "24a1831269ee",
-      "bf4a68031f67",
-      "8352af98cb38"
+      "bf4a68031f67"
     ],
     "yesterday_development": [
       "24e26b89cdfc",
       "24a1831269ee",
-      "bf4a68031f67",
-      "b5c023ef5754",
-      "8352af98cb38"
+      "bf4a68031f67"
     ]
   }
 }

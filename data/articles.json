@@ -1,5 +1,181 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "マネックス証券、口座開設システムに不正アクセス 一部は本人確認書類画像も",
+    "url": "https://www.watch.impress.co.jp/docs/news/2156455.html",
+    "summary": "外部委託先が運営する口座開設システムに第三者の不正アクセスがあり、個人情報や本人確認書類画像が漏えいした可能性があるとマネックス証券が発表。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "金融分野の顧客データ流出は影響範囲と信頼損失が大きく、金融IT担当や法務への参考になる。",
+    "published_at": "2026-11-13 21:28:23",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「お名前.com」不正アクセス、補償申請約30億円に GMOインターネットが決算説明会で謝罪",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003197/",
+    "summary": "GMOインターネットは「お名前.com デスクトップクラウド」への不正アクセスに伴う直接費用が約30億5000万円に上る見込みと発表。通期予想は未修正だが、被害と対応コストが大きい。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "ドメイン/クラウド系サービスへの不正アクセスが企業決算に影響する事例として、経営判断やリスク管理に有用。",
+    "published_at": "2026-11-13 18:17:23",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Qoo10」不正アクセス、個人情報漏えい 「住所の地理座標」や「身体的特徴」も対象の可能性",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003186/",
+    "summary": "Qoo10で不正アクセスが発生し、氏名・住所のほか住所の地理座標や任意入力の身体的特徴などが漏えいした可能性があると報告。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "位置情報やセンシティブな任意入力項目を含む個人情報漏えいはプライバシーと業務リスクの観点で重要。",
+    "published_at": "2026-11-13 13:31:03",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "パナHD、AIとロボ組み合わせた「フィジカルAI」研究開発強化 倉庫・物流へ展開視野",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003184/",
+    "summary": "パナソニックHDがAIとロボを組み合わせた「フィジカルAI」の研究開発を強化。倉庫や物流領域への展開を視野に、製品化と事業化を推進する方針を示した。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "製造・物流分野でのAI×ロボの本格導入は業務効率化と投資判断に影響するため、企業戦略面で重要。",
+    "published_at": "2026-11-13 12:55:31",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "＠IT",
+    "title": "「AI特化“ネオクラウド”の8割が消える」 553兆円の減損リスクが暴く、巨額AI投資の“不都合な真実”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news032.html",
+    "summary": "GartnerはAIインフラ投資の過剰リスクを指摘し、2030年末までに大規模な減損リスクが生じる可能性を示した。AI専用クラウドや設備投資の評価見直しを促す内容。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "AIインフラの投資リスクは企業戦略・資本政策に直結するため、経営層や投資判断に重要な示唆を与える。",
+    "published_at": "2026-11-13 12:00:00",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Googleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+    "summary": "Googleが社内開発データを大量に学習させた社内コーディングAI「GfG」を構築した研究報告。社内専用モデルの手法と業務効率化の効果を示している。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "企業内データでカスタムLLMを作る実例は、開発プロセスとデータガバナンス方針に示唆を与えるため開発者／情シス向けに有用。",
+    "published_at": "2026-11-13 12:00:00",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "ClaudeがGoogle Meetに参加 議事録や資料作成、質問回答も",
+    "url": "https://www.watch.impress.co.jp/docs/news/2156161.html",
+    "summary": "AnthropicのClaudeがビデオ会議参加で議事録作成や質問応答、共同編集を行う「Claude Meetings」ベータを提供開始。まずはGoogle Meet対応、Team/Enterpriseプラン向け。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "会議支援AIの実運用例は業務生産性に直結するが、現状はベータで限定提供のため重要度は中程度。",
+    "published_at": "2026-11-13 11:48:09",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
+    "summary": "Notionの法人向けゼロデータ保持（ZDR）利用ユーザーのチャット記録が委託先の仕様問題で漏えいした恐れがあると運営元が説明。企業データ保護機能の信頼性が問われている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "SaaSのデータ非保持保証が破られる可能性は企業のクラウド利用ポリシーとサプライヤー管理に直結する重大案件。",
+    "published_at": "2026-11-13 10:22:05",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "緊急情報の音声放送システムにランサムウェア攻撃 滋賀県甲賀市、屋外拡声器など使えず",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003167/",
+    "summary": "甲賀市の緊急音声放送システムがランサムウェア被害で停止。屋外拡声器等が利用不能となり、緊急情報はLINEや放送に切替えて伝達している状況。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "地方自治体の緊急インフラが攻撃で機能停止した事例は公共安全に直結するため掲載優先度が高い。",
+    "published_at": "2026-11-13 09:44:12",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、Gemini搭載のメガネを米韓で予約開始 395ドルからで12月10日発売へ",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003166/",
+    "summary": "GoogleがGemini搭載スマートグラス「Intelligent Eyewear」を米国と韓国で予約開始。カメラ・マイク搭載で音声対話や周辺情報処理が可能。日本での展開は未定。",
+    "importance": 2,
+    "category": "ガジェット",
+    "reason": "消費者向けAR機器の実装例として注目だが、現時点では地域限定の製品展開情報に留まるため深掘りは二次的。",
+    "published_at": "2026-11-13 09:30:33",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "フィッシング攻撃を“遮断” 物理パスキー「YubiKey」日本で本格展開",
+    "url": "https://www.watch.impress.co.jp/docs/news/2156008.html",
+    "summary": "Yubicoがパスキー対応ハードウェアセキュリティキー「YubiKey」を日本市場で本格展開。価格帯や販売チャネル整備を発表し、国内導入を強化する方針。",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "フィッシング対策としての物理パスキー普及は企業の認証戦略に影響するため、情シス向けの有益な市場情報。",
+    "published_at": "2026-11-13 09:00:00",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
+    "summary": "Googleが作業やコーディング向けの高速・高効率モデル「Gemini 4 Hydrogen」を発表。従来モデルより大幅に高速化し、APIや各種サービスで順次提供開始される。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要モデルの性能向上は開発者ワークフローや企業導入コストに直接影響し、競合や市場戦略の変化を促すため重要。",
+    "published_at": "2026-11-13 08:04:46",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "NECがデータカタログ1435個を1年で整備 AIによる意思決定支援への挑戦",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html",
+    "summary": "NECはデータ基盤とカタログ整備を短期間で進め、経営層まで共通のダッシュボードで判断する文化を醸成。AIによる意思決定支援の実用化に向けた課題と対応策を解説。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "実務的なデータガバナンスとAI活用の取り組み事例として、情シスやDX推進担当者に参考になる。",
+    "published_at": "2026-11-13 08:00:00",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
+    "summary": "米国時間11月12日、Exchange Onlineなどに接続できない大規模障害が発生。多数のサーバが自動ヘルスチェックに失敗したのが原因で、一部サービスは復旧中。企業の業務やセキュリティ機能に広範な影響が出た可能性あり。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "大手クラウドSaaSの広域障害は企業の業務継続とセキュリティに直接影響するため、情シス・経営に必須の報道。",
+    "published_at": "2026-11-13 06:41:21",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "Publickey",
+    "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
+    "url": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+    "summary": "Googleの開発向けAI環境Antigravityに、クラウド上で継続実行する「リモートエージェント」機能が追加。エージェントが自動でタスクを継続実行する仕組み。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "エージェント化の進展は運用・セキュリティ上の新たな管理課題を生み、開発現場やSREに影響を与えるため注目に値する。",
+    "published_at": "2026-11-13 00:13:43",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
+    "source": "Publickey",
+    "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミュレータ」正式リリース",
+    "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
+    "summary": "AWSがローカル環境で主要APIをエミュレートする公式ツールを正式リリース。ダウンロードしてオフラインで開発・テストが可能になり、AWSアカウント不要で利用できる。",
+    "importance": 2,
+    "category": "クラウド",
+    "reason": "ローカルでのクラウドAPIエミュレーションは開発効率とコスト削減に直結するため、開発チームへの実務的利点が大きい。",
+    "published_at": "2026-11-13 00:09:51",
+    "created_at": "2026-11-14 06:28:57"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "NVIDIA、“革ジャンCEO”ことフアン氏が辞任 クレスCFOが暫定CEOに",
     "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/",
@@ -715,28 +891,6 @@
     "created_at": "2026-11-07 05:57:57"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "2D図面をAIで3Dモデル化、編集可能なフィーチャー履歴も再構築",
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news072.html",
-    "summary": "WOGOが図面や3D CAD作業を自律実行する「Hacadly AIエージェント」を提供開始。2Dから3D生成や履歴のないCADデータのフィーチャー再構築を支援。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "設計業務の自動化に直結する技術で開発・製造現場への影響があるが適用は限定的。",
-    "published_at": "2026-11-06 16:00:00",
-    "created_at": "2026-11-07 05:57:57"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "国内GPUサーバでオープンモデルを利用可能に フィックスターズが新サービス まずは「DeepSeek-V4.1-Flash-1017」から",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002955/",
-    "summary": "フィックスターズが国内GPUサーバでオープンウェイトモデルを利用できるサービスを開始。オンプレ／国内提供を重視する顧客向け。",
-    "importance": 2,
-    "category": "クラウド",
-    "reason": "国内でのモデル運用オプションが増える点は開発者と企業の選択肢拡大につながるため有用。",
-    "published_at": "2026-11-06 13:21:45",
-    "created_at": "2026-11-07 05:57:57"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も",
     "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002949/",
@@ -759,17 +913,6 @@
     "created_at": "2026-11-07 05:57:57"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "MetaのAIエージェント「Muse」に音声対話機能 表情豊かなアバターと会話、まず米国で提供",
-    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
-    "summary": "MetaがAIエージェントMuseにリアルタイム音声対話と表情・身ぶりを変えるアバター機能を追加。まず米国で提供開始。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "コンシューマー向けAI体験の進化で市場動向として注目されるが即時業務影響は限られる。",
-    "published_at": "2026-11-06 10:39:30",
-    "created_at": "2026-11-07 05:57:57"
-  },
-  {
     "source": "Impress Watch",
     "title": "Google、ワイオミング州のデータセンターなどに170億ドル投資へ 電力費全額負担を約束",
     "url": "https://www.impress.co.jp/docs/news/2154351.html",
@@ -778,17 +921,6 @@
     "category": "クラウド",
     "reason": "大規模投資でデータセンター戦略と地域対応のトレンドに影響するが即時の危機度は中程度。",
     "published_at": "2026-11-06 09:43:37",
-    "created_at": "2026-11-07 05:57:57"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
-    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
-    "summary": "AnthropicがClaudeに銀行口座連携の家計管理機能「Personal Finance」βを追加。Plaid経由で読み取り専用データを解析し自然言語で家計支援を行う。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "消費者向けAIと金融データ連携の進展はプライバシー・UX観点で注目されるが影響は限定的。",
-    "published_at": "2026-11-06 08:49:28",
     "created_at": "2026-11-07 05:57:57"
   },
   {
@@ -2750,17 +2882,6 @@
     "created_at": "2026-10-16 04:16:10"
   },
   {
-    "source": "Impress Watch",
-    "title": "IDCFクラウドの不正アクセス、一部データは復元可能に データ流出は「確認されず」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2148186.html",
-    "summary": "IDCFクラウドの東日本リージョンでの不正アクセス障害について第5報。外部へのデータ流出は確認されていないと判断、一部バックアップの復元見通しを公表。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "クラウド事業者の可用性＆セキュリティ事案は影響範囲が広く顧客対応・BCPに重要だが既に対応中のため重要度はやや下げる。",
-    "published_at": "2026-10-14 23:16:32",
-    "created_at": "2026-10-15 04:30:30"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始 推論の継続力を強化 一部ベンチでトップに",
     "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002265/",
@@ -2769,17 +2890,6 @@
     "category": "AI",
     "reason": "主要クラウド大手の最先端モデル公開は企業・開発者の戦略や導入判断に直結するため優先度高め。",
     "published_at": "2026-10-14 20:43:11",
-    "created_at": "2026-10-15 04:30:30"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "小中学校の校務に“自前運用”の国産LLM NTT西と茨木市が全国初の実証",
-    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002276/",
-    "summary": "NTT西日本と茨木市が国産LLM「tsuzumi 2」を校務支援で実証開始。校務文書の検索・要約・作成支援で効率化と安全性を検証する全国初の試み。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "自治体／教育現場でのオンプレ系LLM導入実験はプライバシー設計や運用モデルの前例となるため有用。",
-    "published_at": "2026-10-14 18:37:59",
     "created_at": "2026-10-15 04:30:30"
   },
   {
@@ -2806,17 +2916,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "SBI証券のFXで“誤ロスカット” 再委託先IIJが作業ミス、システムでも検知できず 779口座が対象",
-    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002249/",
-    "summary": "IIJの作業ミスとシステム設計欠陥で、SBI証券のFX口座779件に誤ったロスカットが実行された。検知できない処理フローが原因と判明。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "金融システムの運用ミスと再委託管理の失敗は、情シスや経営判断に直結する実務的教訓を含むため掲載価値あり。",
-    "published_at": "2026-10-14 12:15:50",
-    "created_at": "2026-10-15 04:30:30"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "ブックオフ漏えい、退会者21万人も対象 個人情報638万人分の外部送信を確認",
     "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002243/",
     "summary": "ブックオフが会員データ約642万件の外部送信を確認。名寄せで約638万人に相当し、退会者約21万人も含まれると発表。",
@@ -2835,17 +2934,6 @@
     "category": "セキュリティ",
     "reason": "公的インフラ・住民向け通知への侵害で、自治体運用や住民被害に直結する重要インシデント。",
     "published_at": "2026-10-14 08:41:51",
-    "created_at": "2026-10-15 04:30:30"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Character.ai、米連邦破産法11条を申請 Disney系が一部IPのライセンス取得で先行入札",
-    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002238/",
-    "summary": "Character Technologiesが連邦破産法11条を申請。サービスは継続中だが、Disney系が一部IPのライセンス取得で先行入札していると報道。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "著名AIスタートアップの破綻は業界動向と知財移転の示唆があり、投資・事業戦略面で重要。",
-    "published_at": "2026-10-14 08:14:19",
     "created_at": "2026-10-15 04:30:30"
   },
   {
