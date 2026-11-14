@@ -1,5 +1,38 @@
 [
   {
+    "source": "ITmedia AI+",
+    "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
+    "summary": "Microsoft 365の複数サービスで接続障害が発生し、OpenAIのChatGPTやAnthropicのClaude向けMicrosoft 365コネクタも正常稼働しない状態に。両社が影響を報告している。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "大手クラウド系サービスの可用性障害がAI統合機能にも波及し、企業の業務影響が大きいため高い重要度で速報性が必要。",
+    "published_at": "2026-11-14 20:35:45",
+    "created_at": "2026-11-15 04:59:06"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "相次ぐ情報漏えいでアナログ回帰？ ダイソー「パスワード管理ノート」が品薄に 一方でリスクも──IPAに聞いた",
+    "url": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
+    "summary": "ダイソーの紙のパスワード管理ノートが売れ行き急増で品薄。IPAは紙管理を完全には否定しないが、多要素認証やパスキー導入などの対策を改めて推奨している。",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "消費者・企業の認証管理に関する行動変化とIPAの実務的助言は情シスやセキュリティ施策の参考になるため掲載価値あり。",
+    "published_at": "2026-11-14 07:30:00",
+    "created_at": "2026-11-15 04:59:06"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "NVIDIAをつくった男、ジェンスン・フアン “デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
+    "summary": "ジェンスン・フアン氏の生い立ちとNVIDIAを牽引してきた軌跡を紹介。企業戦略やリーダーシップの観点から同社の成長とAI時代での役割を振り返る。",
+    "importance": 1,
+    "category": "半導体",
+    "reason": "業界リーダーの人物史はトレンド理解に役立つが速報性・即時業務影響は限定的のため低めの評価。",
+    "published_at": "2026-11-14 07:30:00",
+    "created_at": "2026-11-15 04:59:06"
+  },
+  {
     "source": "Impress Watch",
     "title": "マネックス証券、口座開設システムに不正アクセス 一部は本人確認書類画像も",
     "url": "https://www.watch.impress.co.jp/docs/news/2156455.html",
@@ -759,17 +792,6 @@
     "created_at": "2026-11-09 04:47:37"
   },
   {
-    "source": "Impress Watch",
-    "title": "Meta、「Muse」で自分専用アプリを作れる新機能「スペース」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2154571.html",
-    "summary": "MetaのパーソナルAIエージェントMuseに、自分専用のアプリを作れる「スペース」機能が追加。カスタムワークフローやデータ接続が可能に。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "主要プラットフォーマのAI機能拡張は業界動向として注目に値するが、現時点では限定的な新機能リリースのため中程度の重要度。",
-    "published_at": "2026-11-07 18:30:00",
-    "created_at": "2026-11-08 04:30:03"
-  },
-  {
     "source": "＠IT",
     "title": "IPA、ランサムウェア被害組織の生の声から得た“11の教訓”を公開",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/07/news008.html",
@@ -800,39 +822,6 @@
     "category": "法規制",
     "reason": "国家レベルでの資金投入と政策決定は企業のセキュリティ投資や規制対応に直接影響するため、業界的に重要。",
     "published_at": "2026-11-07 08:00:00",
-    "created_at": "2026-11-08 04:30:03"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「ChatGPTの回答にリンクがない＝見られていない」 実は違うAIの情報収集",
-    "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
-    "summary": "生成AIが回答に表示するリンクだけでは、実際に参照したウェブサイトを判断できないと解説。企業の情報発信やSEO対策への影響を説明する。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "自社サイトの情報がAIにどう扱われるかを理解することは、マーケティングや企業広報に実務的価値があるため。",
-    "published_at": "2026-11-07 07:00:00",
-    "created_at": "2026-11-08 04:30:03"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AI面接を導入したのに、応募者情報は手入力？ 採用現場の「二度手間」を解消へ",
-    "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
-    "summary": "AI面接導入後も応募者情報の登録や選考結果の転記など手作業が残る課題を指摘。採用業務とHRシステムの連携改善の必要性を論じる。",
-    "importance": 1,
-    "category": "AI",
-    "reason": "企業の採用プロセス改善に関わる実務的な課題で、導入検討中の情シス/HRに示唆を与えるため掲載価値あり。",
-    "published_at": "2026-11-07 07:00:00",
-    "created_at": "2026-11-08 04:30:03"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AIで営業は効率化した、でもなぜ売れない？ 成果を出す人が大切にしていること",
-    "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/",
-    "summary": "提案書作成などでAIは効率化するが、営業成果には人のスキルやプロセス改善が重要である点を指摘。AI運用の現場課題を整理する。",
-    "importance": 1,
-    "category": "AI",
-    "reason": "営業現場向けの運用知見で影響範囲は限定的だが、導入企業の実務判断に資するため選定。",
-    "published_at": "2026-11-07 07:00:00",
     "created_at": "2026-11-08 04:30:03"
   },
   {
@@ -2783,28 +2772,6 @@
     "created_at": "2026-10-16 04:16:10"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "国内WebサイトへのAIエージェント攻撃を観測 「8時間弱」続いた攻撃の推移を公開 国内セキュリティベンダー",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
-    "summary": "ビットフォレストがAIエージェントを使った日本企業Webサイトへの攻撃を観測。複数IPから攻撃が行われ、1つは8時間弱にわたり攻撃手法を変化させ続けたと報告。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "生成AIを使った新たな攻撃パターンの実観測で、防御設計や検知ルール更新の必要性が高い事例のため。",
-    "published_at": "2026-10-15 14:39:29",
-    "created_at": "2026-10-16 04:16:10"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "CTOが「AI導入で生産性を1年で2倍に」掲げた企業のその後 米国が開発者802人の進捗を追跡調査",
-    "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002260/",
-    "summary": "AI導入を義務化したソフトウェア企業の開発者802人を追跡した研究で、現場の生産性やレビュー負荷などに与える影響を分析。企業のAI導入戦略の実務的示唆を示す論文の紹介。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "経営判断や導入計画に直結する実証研究で、企業IT部門が押さえておくべき内容のため。",
-    "published_at": "2026-10-15 12:00:00",
-    "created_at": "2026-10-16 04:16:10"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "メドレーの産婦人科向けシステムに不正アクセス、患者の個人情報漏えいか 最大787の医療機関が対象",
     "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002293/",
@@ -2813,17 +2780,6 @@
     "category": "セキュリティ",
     "reason": "医療情報という高感度データへの侵害であり、被害の深刻度と業界影響が大きいため。",
     "published_at": "2026-10-15 11:16:16",
-    "created_at": "2026-10-16 04:16:10"
-  },
-  {
-    "source": "＠IT",
-    "title": "Webアプリを狙う攻撃急増、優先順位どう付ける？ Microsoftが「11戦術・35テクニック」で対策を体系化",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/15/news022.html",
-    "summary": "Microsoftがクラウドホスト型Webアプリやサーバレスを標的とする「Threat Matrix for Cloud Web Applications」を公開。11の戦術・35のテクニックで対策を整理している。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "クラウド/Webアプリ運用での優先的対策指針を示す実務的フレームワークで、情シス/開発者に有用なため。",
-    "published_at": "2026-10-15 11:00:00",
     "created_at": "2026-10-16 04:16:10"
   },
   {
@@ -2846,39 +2802,6 @@
     "category": "セキュリティ",
     "reason": "行政向けの連絡基盤に関わる漏えいで、公共安全・運用に直接関わるため優先度が高い。",
     "published_at": "2026-10-15 10:37:33",
-    "created_at": "2026-10-16 04:16:10"
-  },
-  {
-    "source": "＠IT",
-    "title": "「一般公開していないから安全」は通用しない JPCERT/CCが示した不正アクセス4つの手口",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/15/news021.html",
-    "summary": "JPCERT/CCが国内組織で発生した不正アクセス事案の痕跡と手口を公表。公開外システムや内部向けツールが侵入経路になった事例など、実務的な対策ポイントを整理している。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "現場での防御対策に直結する具体的手口の公表で、情シス・セキュリティ担当に有益なため。",
-    "published_at": "2026-10-15 08:00:00",
-    "created_at": "2026-10-16 04:16:10"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AIデータセンターの電力問題、答えは「計算処理の引っ越し」か？ 日立など5社、横浜と北九州をつないで実証",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/14/news029.html",
-    "summary": "再生可能エネルギーの余剰を活用するため、AIワークロードを発電状況に応じて別拠点に移す「ワークロードシフト」の実証を日立などが実施。省エネ・需給調整の可能性を検証する。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "AIインフラと電力需給の現実的ソリューションで、データセンター運用や企業のコスト戦略に影響するため。",
-    "published_at": "2026-10-15 08:00:00",
-    "created_at": "2026-10-16 04:16:10"
-  },
-  {
-    "source": "Publickey",
-    "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
-    "url": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-    "summary": "マイクロソフトがWindows 11向けにAIエージェントを隔離実行するMXCを正式リリース。ファイル・ネットワーク境界の柔軟な設定で安全にローカルエージェントを走らせられる。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "開発者・運用がAIエージェントを安全に扱うための基盤技術であり、実務導入の判断に役立つため。",
-    "published_at": "2026-10-15 00:57:19",
     "created_at": "2026-10-16 04:16:10"
   },
   {
