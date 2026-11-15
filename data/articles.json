@@ -1,5 +1,38 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "Googleウォレット、スマートロックのデジタルキーを追加可能に",
+    "url": "https://www.watch.impress.co.jp/docs/news/2156391.html",
+    "summary": "Google WalletがGoogle Homeアプリからスマートロックのデジタルキーを追加できる機能をパブリックプレビューで提供開始。 数週間で全ユーザー向け展開の見込み。",
+    "importance": 2,
+    "category": "ガジェット",
+    "reason": "スマートホームとウォレットの統合は利便性とセキュリティの観点で注目だが、現状はプレビュー段階で影響は限定的。",
+    "published_at": "2026-11-15 08:30:00",
+    "created_at": "2026-11-16 05:26:35"
+  },
+  {
+    "source": "＠IT",
+    "title": "PHP重大脆弱性は「始まり」に過ぎない？ 2年前の兆候が示す“次の危機”",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/15/news001.html",
+    "summary": "PHPの重大脆弱性「php2shell」は2024年時点で兆候があり、修正が進まなかった結果として大きな脅威になった。 AIによる脆弱性発見の高速化が進む中、未修正の組織は重大リスクに直面すると指摘する。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "開発者・情シス向けに即時の対策優先度や運用体制の見直しを促す重要な脆弱性報告であるため。",
+    "published_at": "2026-11-15 08:00:00",
+    "created_at": "2026-11-16 05:26:35"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
+    "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
+    "summary": "NVIDIAのジェンスン・フアン前CEOの復帰を求める署名が11万人超。 イーロン・マスクらも賛同し、米政府や議会の調査が続く。 取締役会への説明要求が業界で波紋を広げている。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "主要半導体／AI企業の経営・ガバナンス問題が市場や事業戦略に影響するため。情勢注視が必要。",
+    "published_at": "2026-11-15 07:15:24",
+    "created_at": "2026-11-16 05:26:35"
+  },
+  {
     "source": "ITmedia AI+",
     "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」",
     "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
@@ -2692,72 +2725,6 @@
     "category": "セキュリティ",
     "reason": "開発者が利用するツールで外部APIキー等が漏れるとサプライチェーン的に即時かつ広範な悪用・連鎖被害が発生するリスクがあり、緊急対応性が高い。",
     "published_at": "2026-10-16 14:41:39",
-    "created_at": "2026-10-17 03:52:09"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html",
-    "summary": "不正アクセスの増加を受け、Gartnerが日本企業向けに短期で実施すべき「7つのアクション」を提示。AI悪用で攻撃速度が速まるリスクに対応する実務的提言を含む。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "経営・情シスレベルで即時検討すべき実務指針であり、多数の企業が短期対応を迫られる情勢判断に資する。",
-    "published_at": "2026-10-16 14:20:00",
-    "created_at": "2026-10-17 03:52:09"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "Meta、「米国製で最高性能」のオープンモデル「Muse Spark Open」発表 Apple Siliconに最適化、Mac Studio×2でローカル動作",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/",
-    "summary": "MetaがオープンウェイトモデルMuse Spark Openを公開。重みの公開によりローカル運用やカスタマイズが可能で、商用利用は条件付きの独自ライセンス。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "オープンモデルの高性能化は研究・開発環境と商業利用の両面で影響が大きく、企業のモデル戦略やオンプレ運用の選択肢を変える可能性がある。",
-    "published_at": "2026-10-16 14:14:11",
-    "created_at": "2026-10-17 03:52:09"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Microsoft、社内エンジニア数万人を対象に「Claude Code」「Copilot CLI」導入の影響を分析 生産性どう変わる",
-    "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/",
-    "summary": "Microsoft社内でコマンドライン型AIコーディング支援（Claude Code、Copilot CLI）を数万人規模で導入した効果を分析した論文を公表。利用傾向や生産性への影響を実データで評価している。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "企業でのAI開発ツール導入がエンジニア生産性に与える具体的な示唆を示すため、開発組織の導入判断に有益。",
-    "published_at": "2026-10-16 12:00:00",
-    "created_at": "2026-10-17 03:52:09"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "AIエージェントに「何を指示するか」より「何をさせないか」――NVIDIAが示す設計の原則",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news032.html",
-    "summary": "NVIDIAがAIエージェントが社内システムを操作する際の設計原則を提言。実行環境でのアクセス制御や権限管理、継続的検証の重要性を強調している。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AIエージェントの実装に伴う具体的なセキュリティ設計指針で、開発者・情シス双方にとって実務的価値が高い。",
-    "published_at": "2026-10-16 11:00:00",
-    "created_at": "2026-10-17 03:52:09"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "TSMCが純利益68.7％増で最高益更新 魏会長「需要は極めて堅調」",
-    "url": "https://www.itmedia.co.jp/business/articles/2610/16/news052.html",
-    "summary": "TSMCの2026年7～9月期決算が過去最高を更新。売上高・純利益とも大幅増で、半導体需要の強さと供給面の優位性が示された。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "業界最大手の業績好調はサプライチェーン、価格、投資動向に直結し、半導体関連企業や顧客企業の戦略判断に影響する。",
-    "published_at": "2026-10-16 10:30:00",
-    "created_at": "2026-10-17 03:52:09"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与 公表に拒否権なし",
-    "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002315/",
-    "summary": "AnthropicはAI評価団体METRに端末やオフィスを提供し常駐評価を開始。社内システムへの従業員並みアクセスを認め、報告の公表拒否は認めない取り決めを導入した。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "外部評価の実態と透明性確保の新しい枠組みは、AI企業ガバナンスや信頼性評価の業界標準化に影響するため注目すべき。",
-    "published_at": "2026-10-16 09:49:28",
     "created_at": "2026-10-17 03:52:09"
   },
   {
