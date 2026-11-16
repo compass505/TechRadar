@@ -15,16 +15,11 @@
       "51953aa7486b",
       "3c702ccef035"
     ],
-    "yesterday_ai": [
-      "505d9d650f15"
-    ],
+    "yesterday_ai": [],
     "yesterday_enterprise_it": [
       "cbe4d55bfb1f",
-      "cd64e591e02b",
-      "2646ee17538e"
+      "cd64e591e02b"
     ],
-    "yesterday_development": [
-      "505d9d650f15"
-    ]
+    "yesterday_development": []
   }
 }

@@ -16090,33 +16090,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "2646ee17538e",
-    "title": "SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明",
-    "published_date": "2026-10-17",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "400社超のSES企業調査で、多くが技術力を掲げる一方で評価・育成の根拠や明文化が不足している実態を指摘。経歴詐称や人材品質問題の背景を探る。",
-    "reason": "エンジニア人材の評価・採用・品質管理に関する実務的課題で、開発現場や調達判断に影響するため。",
-    "published_at": "2026-10-17 13:00:00",
-    "created_at": "2026-10-18 02:52:47",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "cd64e591e02b",
     "title": "タイムズカー、退会後も7年間保管していた免許証画像を全削除へ 約660万アカウント分の漏えい受け",
     "published_date": "2026-10-17",
@@ -16143,34 +16116,6 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": true
-  },
-  {
-    "id": "505d9d650f15",
-    "title": "音声AI「Grok Voice 3.0」 応答1秒未満 テスラにも搭載",
-    "published_date": "2026-10-17",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "xAIが音声対話AIモデル「Grok Voice 3.0」を発表。応答1秒未満をうたう高速性と開発者向けAPI提供、テスラ搭載の報道があり自動車や音声UXでの採用が注目される。",
-    "reason": "低遅延音声AIの実運用導入（自動車含む）とAPI提供は開発者や製品戦略に関わる技術動向として有用。",
-    "published_at": "2026-10-17 08:30:00",
-    "created_at": "2026-10-18 02:52:47",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2148932.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
   },
   {
     "id": "81f8c0fe8cd7",
@@ -22974,5 +22919,403 @@
     "urgency_score": 1,
     "utility_score": 0,
     "has_itmedia_article": false
+  },
+  {
+    "id": "55f632f105a4",
+    "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+    "published_date": "2026-11-16",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "CloudflareがAIエージェント向けの軽量ヘッドレスブラウザ『Kitesurf』をオープンソースで公開。タブや拡張を持たない設計で、エージェント運用を想定している。",
+    "reason": "AIエージェントの自動ブラウジング基盤として開発者・セキュリティの実装選択に影響するため。",
+    "published_at": "2026-11-16 00:30:19",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "8b476c021e46",
+    "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート",
+    "published_date": "2026-11-16",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "Googleの四半期レポートで、攻撃者が複数のAIエージェントを組み合わせて自律的に脆弱性発見から悪用まで行うフレームワークが初確認された。偽プロフィールによる接近や世論工作、LLMジャッキング拡大も報告。",
+    "reason": "自律的な脆弱性発見・悪用が実際に観測され、広範なサイバーリスクと即時対策を要するため。",
+    "published_at": "2026-11-16 23:00:56",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "fe31c68ce719",
+    "title": "NTT、外部AIに依存しない脆弱性解析技術 ソブリン性を確保",
+    "published_date": "2026-11-16",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "NTTがソースコードを外部AIに送らずに行う脆弱性解析AI技術を発表。解析成功率が従来48%から63%に向上したとするベンチマーク成果を示す。",
+    "reason": "外部AI依存を回避する解析技術は、企業の情報流出リスク低減とソブリン性確保に直結するため。",
+    "published_at": "2026-11-16 12:58:20",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2156674.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "9d3720435d0c",
+    "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証",
+    "published_date": "2026-11-16",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIがAIエージェント『dot』による決済機能『ChatGPT Wallet』を発表。店舗にカード番号を渡さず、購入ごとに生体認証を要求する仕組みを米国のPro加入者向けに提供開始。",
+    "reason": "エージェントによる自律的支払いが実用化され始め、決済フローとセキュリティ設計に影響を与えるため。",
+    "published_at": "2026-11-16 09:49:03",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "bd5e31b68342",
+    "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
+    "published_date": "2026-11-16",
+    "importance_score": 3,
+    "category": "開発",
+    "summary": "PostgreSQL 19の正式リリースが延期。β版で多数の新機能が取り下げられ、その背景にAIを用いたコードレビューの影響が指摘されている。",
+    "reason": "主要オープンソースDBのリリース延期は運用・移行計画やソフトウェア互換性に直接影響するため。",
+    "published_at": "2026-11-16 00:31:49",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "552f811d0844",
+    "title": "「Gemini 4 Hydrogen」とは 性能とユースケースまとめ Googleの「誰でも使える」最新モデル",
+    "published_date": "2026-11-16",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "Googleが新AIモデル『Gemini 4 Hydrogen』を発表。性能やユースケース、料金をまとめ、低コストで日常業務を支援することを強調している。",
+    "reason": "主要AIモデルの更新は企業導入や開発・コスト判断に直結するため、把握する価値がある。",
+    "published_at": "2026-11-16 16:17:48",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003229/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "76530b4aeb92",
+    "title": "「うちは小さいから大丈夫」は通用しない ESETが中堅中小企業向けランサムウェア対策を解説",
+    "published_date": "2026-11-16",
+    "importance_score": 2,
+    "category": "セキュリティ",
+    "summary": "ESETが中堅中小企業がランサムウェアの主要標的になっている実態を示し、実践的な対策を解説。早急な対策の必要性を訴える内容。",
+    "reason": "中小企業向けの実務的ガイドで有用だが、対象と影響範囲は限定的のため重要度は控えめ。",
+    "published_at": "2026-11-16 17:15:00",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/16/news046.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "2dcea583c546",
+    "title": "エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ 退職者などアクセス可能な状態、約13年続く",
+    "published_date": "2026-11-16",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "paizaのステージング環境で長期間認証情報が固定運用され、退職者などが最大約90万件の個人情報にアクセス可能な状態が続いていた可能性があると報告。",
+    "reason": "規模と期間が大きく、顧客情報保護と運用管理の観点で深刻な事例のため。",
+    "published_at": "2026-11-16 10:14:23",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "760f91d81f44",
+    "title": "ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？ どうなる今後の半導体業界",
+    "published_date": "2026-11-16",
+    "importance_score": 4,
+    "category": "半導体",
+    "summary": "NVIDIAの創業者兼長年の最高責任者であるジェンスン・フアン氏が退任を表明。企業戦略、製品ロードマップ、半導体市場の評価に与える影響を分析している。",
+    "reason": "NVIDIAはAIハードウェア市場の中心的存在であり、トップ交代は業界と投資判断に重大な影響を与えるため。",
+    "published_at": "2026-11-16 18:05:36",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "ec5242c216d8",
+    "title": "スパコン「富岳」に不正アクセス 理研が明らかに",
+    "published_date": "2026-11-16",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "理化学研究所はスーパーコンピュータ『富岳』に関するシステムが不正アクセスを受けたと公表。利用停止や調査が進行中で、研究やデータの安全性が懸念される。",
+    "reason": "国家的研究インフラへの不正アクセスで影響範囲が広く、迅速な対応と調査が必要なため。",
+    "published_at": "2026-11-16 12:42:48",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "bec8770ea560",
+    "title": "ドコモ「5G SA」今月3度目の障害、約6時間で復旧 原因は同じ「交換機への通信集中」",
+    "published_date": "2026-11-16",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "ドコモの5G SAで今月3回目の通信障害が発生し、約6時間で復旧。原因は交換機への通信集中で、不正アクセスの痕跡は確認されていないと報告。",
+    "reason": "通信事業者の反復障害は可用性とBCP設計に影響するため、企業や情シスが押さえるべき事案である。",
+    "published_at": "2026-11-16 16:46:10",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/16/2000003233/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "09682e87d69b",
+    "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
+    "published_date": "2026-11-16",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "ルール大学ボーフムなどの研究チームがパスキー対応103サイトを調査し、公開されている全サイトに何らかの脆弱性を確認したとする研究報告を発表。",
+    "reason": "パスキー普及に関わる根本的な安全性の問題で、広範なWeb認証設計や導入判断に影響するため。",
+    "published_at": "2026-11-16 12:00:00",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "da54ef01b009",
+    "title": "マネックス証券、免許証画像やマイナカード表面など1592件漏えいか 口座開設システムに不正アクセス",
+    "published_date": "2026-11-16",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "マネックス証券の口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカード表面画像など合計約1592件の個人情報が漏えいした可能性を公表。",
+    "reason": "金融機関での個人情報漏えいは信用と規制対応を伴うが、規模は相対的に限定的なため重要度は一段下げた。",
+    "published_at": "2026-11-16 11:46:01",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1dbd28245e09",
+    "title": "金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
+    "published_date": "2026-11-16",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "Microsoft 365の障害でOutlookの送受信やCopilotが利用不能になり、約36時間にわたり政府機関や企業に広範な影響が出た。事後対応と原因調査が続く。",
+    "reason": "主要SaaSの長時間障害で数多くの組織に業務影響が出ており、SaaS依存のリスクを露呈したため。",
+    "published_at": "2026-11-16 08:05:13",
+    "created_at": "2026-11-17 08:47:12",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/16/2000003209/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 3,
+    "has_itmedia_article": true
   }
 ]
