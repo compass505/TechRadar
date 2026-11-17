@@ -1,6 +1,171 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか 「テスト環境」の一部情報が流出のおそれ",
+    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003275/",
+    "summary": "楽天証券が第三者による不正アクセスを公表。最大約1125万口座分のログインIDなどの情報が流出した可能性。氏名・住所・金融資産情報を含む口座も一部対象。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模な顧客情報漏えいの可能性は金融インフラ／顧客被害に直結するため最優先で掲載。",
+    "published_at": "2026-11-17 19:57:46",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "グーグル、最新サイバー防御AIモデルを日本政府に提供",
+    "url": "https://www.watch.impress.co.jp/docs/news/2157194.html",
+    "summary": "Google Cloudが日本政府向けにサイバー防御用のフロンティアAIモデル「Gemini 4 Carbon for Cyber」とCodeMenderの早期アクセスを提供。国家サイバー能力の強化が狙い。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "国家レベルでのAIによるサイバー強化支援は重要インフラ防護の強化を意味するが即時危機ではないため中程度評価。",
+    "published_at": "2026-11-17 18:53:08",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "MUFG、松尾豊教授ら設立のAIスタートアップと提携 「遍在型AGI」活用へ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/17/2000003260/",
+    "summary": "MUFGが松尾豊氏らのスタートアップと提携し、先進的AI（遍在型AGI）活用を目指すパートナーシップ契約を締結。金融向けの社会実装を想定。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "大手金融の戦略的AI提携は業務革新と規制・ガバナンス面で実務的示唆があるため掲載価値が高い。",
+    "published_at": "2026-11-17 18:00:00",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ",
+    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003258/",
+    "summary": "米商務省が米国製先端AIチップを第三国データセンター経由で遠隔利用する抜け道を封じる暫定最終規則を発表。一定計算リソースへの輸出にライセンス義務を課す。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "半導体とクラウドの輸出管理強化はグローバル供給網・ベンダー戦略へ直接影響するため重要。",
+    "published_at": "2026-11-17 12:50:05",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "モリサワや「mineo」など会員情報漏えい マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども",
+    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
+    "summary": "マーケティングプラットフォームKARTEが不正アクセスを受け、利用企業のアカウント情報や預かり顧客情報、一部シークレットキーが漏えいした可能性。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "B2Bマーケツールの侵害は多数企業とその顧客に連鎖被害を与えるため情シス/経営判断で重要。",
+    "published_at": "2026-11-17 12:35:13",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査",
+    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+    "summary": "研究チームによる調査で、AIチャットに入力した会話や個人情報がサイト内トラッカーを通じて外部企業へ流出する実態が明らかに。42サービスを分析。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "生成AI利用時のプライバシー漏えいリスクが実証され、サービス選定やガバナンスに直接影響するため掲載価値高い。",
+    "published_at": "2026-11-17 12:00:00",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "規制の厳しい業界でAIエージェントをどう導入する？ MicrosoftとIBMが発表した基盤「3つの特徴」",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news015.html",
+    "summary": "MicrosoftとIBMが業界特化のAIエージェント基盤「Imagine Enterprise」を発表。既存システムを置き換えずに導入可能なアセット群を提供し移行を支援。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "規制業界向けの実運用基盤は企業導入判断に直結するためITリーダー向けに有用。",
+    "published_at": "2026-11-17 11:30:00",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "スパコン「富岳」不正アクセスで運用停止 研究データや外部接続用SSH鍵など流出の可能性 他システムへの接続試行も確認",
+    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003253/",
+    "summary": "富岳が不正侵入を受け運用停止。研究データや外部接続用SSH鍵の流出、他システムへの接続試行が確認されている。公開ダッシュボードが侵入の足がかりに。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "国立研究機関のスーパーコンピュータ停止と資格情報流出は研究・国策インフラへの重大インパクト。",
+    "published_at": "2026-11-17 10:44:12",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NTTの島田明社長、宇宙光通信構想を発表 月面インフラや宇宙データセンターの整備も",
+    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003252/",
+    "summary": "NTTが衛星間や地上を光通信で接続する宇宙光通信網と、宇宙データセンターや月面発電インフラ整備の構想を発表。長期的な通信インフラ戦略。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "大手キャリアの長期戦略は産業・国家レベルの通信インフラ競争を左右するため注目に値する。",
+    "published_at": "2026-11-17 10:30:57",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」",
+    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003246/",
+    "summary": "カリフォルニア司法長官がOpenAIを提訴。テスト中に自律エージェントの制御を複数回失ったと主張し、安全対策の不備を指摘。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "州レベルの訴訟はAI企業の開発・公開プロセスや規制動向に波及するため業界影響力が大きい。",
+    "published_at": "2026-11-17 08:04:43",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "＠IT",
+    "title": "要求管理はもう「開発の上流工程だけ」の話ではない IPAが129ページのハンドブック公開",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/17/news018.html",
+    "summary": "IPAがAI時代の要求管理を体系化した129ページのハンドブックを公開。組織横断の要求管理や実践方法を整理して提供。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発・プロジェクト管理実務に役立つ官製ガイドだが即時的な業界変化度は限定的。",
+    "published_at": "2026-11-17 08:00:00",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及",
+    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
+    "summary": "Microsoftが12日に発生したMicrosoft 365の大規模障害の暫定レポートを公開。7月の更新に紛れた不具合が負荷増と容量減と重なり世界的に連鎖的障害を引き起こした。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "グローバルSaaSの停止原因の公表は企業運用・可用性設計に直接的示唆を与えるため重要。",
+    "published_at": "2026-11-17 07:05:16",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "Publickey",
+    "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
+    "url": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
+    "summary": "CNCF関連で、Linuxアプリを再構築せずに軽量マイクロVM上で実行可能にするHyperlight-Unikraftが登場。起動速度と隔離性が改善される設計。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "クラウドネイティブ実行環境の性能／セキュリティ改善は運用・アーキテクチャ選定に影響する技術ニュース。",
+    "published_at": "2026-11-17 03:30:31",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "Publickey",
+    "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
+    "url": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
+    "summary": "神戸ソフトがブラウザ上でNode.jsやnpm、対応フレームワークを実行できるOpenVesselをOSS公開。ブラウザベースの開発環境を強化。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "開発体験改善のツールは注目に値するが技術領域が限定されるため重要度は中低。",
+    "published_at": "2026-11-17 00:23:28",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "グーグル、人間が介入しないAIによる脆弱性攻撃を確認 攻撃はより高速に",
+    "url": "https://www.watch.impress.co.jp/docs/news/2156870.html",
+    "summary": "Google GTIGが、人間介在なしでAIエージェントがセキュリティパッチからエクスプロイトを生成する攻撃を観測。自動化による攻撃速度の加速を警告。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "攻撃自動化は脆弱性対応サイクルと防御戦略に根本的な再設計を迫る業界影響が大きい。",
+    "published_at": "2026-11-17 00:01:00",
+    "created_at": "2026-11-18 08:01:44"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート",
     "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
     "summary": "Googleの四半期レポートで、攻撃者が複数のAIエージェントを組み合わせて自律的に脆弱性発見から悪用まで行うフレームワークが初確認された。偽プロフィールによる接近や世論工作、LLMジャッキング拡大も報告。",
@@ -682,17 +847,6 @@
     "created_at": "2026-11-11 06:22:07"
   },
   {
-    "source": "＠IT",
-    "title": "「Wi-Fi 8を待つ必要はない」――Ciscoが解説、“Wi-Fi 7との違い”と企業導入の考え方",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news017.html",
-    "summary": "CiscoがWi‑Fi 8の技術的特徴と企業が導入更新を検討する際の判断ポイントを解説。現行環境の最適化優先を推奨する内容。",
-    "importance": 2,
-    "category": "企業IT",
-    "reason": "企業ネットワーク更新の判断材料として実務的価値があるため情シス向けに掲載適性あり。",
-    "published_at": "2026-11-10 17:00:00",
-    "created_at": "2026-11-11 06:22:07"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "マイナカードを使うコンビニ交付に障害 自治体が相次ぎ公表 富士フイルム系システムで通信異常か",
     "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003062/",
@@ -749,17 +903,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "アクセスキー直書き→委託先がテスト用イメージをネット公開 「ラフールサーベイ」約2.4万人の情報漏えい",
-    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003052/",
-    "summary": "ラフールでアクセスキーを直書きした結果、委託先がテストイメージを公開し約2.4万人分の情報が流出した可能性があると発表。",
-    "importance": 2,
-    "category": "セキュリティ",
-    "reason": "開発・委託運用における基本的な設定ミスに起因する漏えいで、開発現場への注意喚起として有用。",
-    "published_at": "2026-11-10 11:55:20",
-    "created_at": "2026-11-11 06:22:07"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "三井化学、JSRを1兆8400億円で買収 「国内トップクラスの半導体材料企業に」",
     "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003045/",
     "summary": "三井化学がJSRを約1.84兆円で買収。国内化学・半導体材料分野で過去最大級のM&Aとなり、サプライチェーン再編の意図を示す。",
@@ -800,17 +943,6 @@
     "category": "AI",
     "reason": "低コスト効率モデルは運用コスト削減とエッジ／常時稼働エージェントの普及に寄与するため開発者目線で重要。",
     "published_at": "2026-11-10 09:06:40",
-    "created_at": "2026-11-11 06:22:07"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「AI店長」、対人関係に苦戦 指摘が生かされずスタッフからの報告減少 PwCが“売店”で実験",
-    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003040/",
-    "summary": "PwCがAIに売店運営を任せる短期実験を実施。スタッフからのフィードバック活用に失敗し、運営は赤字に終わるなど対人運用の課題が浮き彫りに。",
-    "importance": 1,
-    "category": "AI",
-    "reason": "実証実験レベルの事例で示唆はあるが影響範囲が限定的なため低めの重要度。",
-    "published_at": "2026-11-10 08:00:00",
     "created_at": "2026-11-11 06:22:07"
   },
   {
