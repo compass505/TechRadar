@@ -2,9 +2,6 @@
   "edition_date": "2026-10-20",
   "surfaces": {
     "top_yesterday": [
-      "00444faeaad6",
-      "6e628665762d",
-      "a4a9a90e13ae",
       "bc99cb69f6bc",
       "0f6277b999fd"
     ],
@@ -18,21 +15,14 @@
       "cd64e591e02b"
     ],
     "yesterday_ai": [
-      "0f6277b999fd",
-      "00444faeaad6",
-      "6828faf50a86",
-      "a4a9a90e13ae"
+      "0f6277b999fd"
     ],
     "yesterday_enterprise_it": [
       "bc99cb69f6bc",
-      "0f6277b999fd",
-      "2bd646071e56",
-      "00444faeaad6",
-      "6828faf50a86"
+      "0f6277b999fd"
     ],
     "yesterday_development": [
-      "0f6277b999fd",
-      "6828faf50a86"
+      "0f6277b999fd"
     ]
   }
 }

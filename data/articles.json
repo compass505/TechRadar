@@ -1,6 +1,226 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」",
+    "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
+    "summary": "楽天証券が本番の顧客データをマスキングせずテスト環境へ保存。最大約1572万口座分が漏えいした可能性があると報告。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "金融機関での大規模個人情報流出、実被害と緊急対応が想定されるため最優先で報道すべき事案。",
+    "published_at": "2026-11-18 20:16:22",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "＠IT",
+    "title": "API、VPN、SaaSが侵入口に――止まらない情報漏えい、その実態と3つの対策",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news036.html",
+    "summary": "最近の大規模漏えい事例を分析し、侵入経路（API/VPN/SaaS）とAIを使った攻撃の変化を整理、対策を解説する。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "事例分析と対策提示により情シス・セキュリティ担当が即実行できる知見を提供するため有用。",
+    "published_at": "2026-11-18 19:45:00",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "＠IT",
+    "title": "日本のCISOが経験した情報漏えいの約9割に「退職した従業員」が関与",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news048.html",
+    "summary": "Proofpointの調査で日本のCISOの多くが内部不正や生成AIのガバナンス課題に直面。69％が1年内の重大攻撃を予想している。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "組織リスクやガバナンスの現状把握に役立つ調査で、経営・情シスの意思決定参考になるため。",
+    "published_at": "2026-11-18 17:15:00",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NewsPicks漏えい、Metabase脆弱性が原因 パッチ適用前日にデータ窃取、JPCERT/CC公表「不審IPアドレス」で攻撃発覚",
+    "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003300/",
+    "summary": "Metabaseの脆弱性が悪用され、修正版適用前に攻撃者が侵入してデータを窃取。JPCERT/CCが不審IPで攻撃を確認したと公表。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "既知脆弱性の「公表→悪用→窃取」という典型的リスク事例で、早急な検出・パッチ管理の教訓になるため重要。",
+    "published_at": "2026-11-18 16:59:01",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "NotionのAIチャット流出おそれ、幹部が日本での対応状況明かす 「心よりおわび」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003299/",
+    "summary": "NotionのAI機能であるNotion AIのチャット記録が漏えいした可能性について、CISOが日本での対応状況を説明し謝罪した。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "主要SaaSのAI機能でチャット記録流出の懸念が生じ、企業のデータガバナンスと利用制限判断に直接影響するため。",
+    "published_at": "2026-11-18 16:56:42",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AI脅威対処へ新枠組み 重要鉱物やエネルギーで連携 首相、ASEANとの首脳会議出席",
+    "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
+    "summary": "訪問先のASEAN首脳会議で、日本はAIの脅威対処のための新たな連携枠組みや重要鉱物・エネルギー分野での協力を確認した。",
+    "importance": 3,
+    "category": "法規制",
+    "reason": "地域的なAI安全保障・資源連携は法規制やサプライチェーン政策に影響し、企業戦略にも関連するため。",
+    "published_at": "2026-11-18 15:10:28",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Copilotを「仕事の新しいOS」に MicrosoftがAI・セキュリティ強化",
+    "url": "https://www.watch.impress.co.jp/docs/news/2157470.html",
+    "summary": "MicrosoftがCopilotの機能拡充やWindowsのセキュリティ強化、AIエージェント向け実行環境などを発表。企業利用を前提にした強化が中心。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "Copilotの企業向け進化は業務プロセスとセキュリティ方針に直結するため、情シスや経営判断で押さえるべき事項。",
+    "published_at": "2026-11-18 15:00:00",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "Gemini、タスクの依頼・遂行が可能に 電話や買い物代行も",
+    "url": "https://www.watch.impress.co.jp/docs/news/2157422.html",
+    "summary": "GoogleのGeminiが電話発信や請求支払いなどの“タスク遂行”機能を提供開始。日本でも利用可能で、実行型AIの範囲が拡大。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AIが外部アクションを実行可能になることで運用・セキュリティ・規約面での検討が必要になるため掲載価値が高い。",
+    "published_at": "2026-11-18 13:06:17",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「JINS」最大約1829万件漏えいの可能性 RIZAPやしまむらも……「KARTE」不正アクセスの影響広がる",
+    "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003287/",
+    "summary": "マーケティングプラットフォームKARTEへの不正アクセスで、JINSを含む多数の導入企業で顧客情報漏えいの可能性が判明。影響範囲が拡大中。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "サプライチェーン型の広範な情報漏えいで複数業種に波及、企業の対応と影響把握が急務。",
+    "published_at": "2026-11-18 11:52:31",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NVIDIA、フアン氏退任後初の決算 取締役会「正式なCEOは急がず適任者を選ぶ」",
+    "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003280/",
+    "summary": "フアン前CEO退任後の初決算でNVIDIAは売上高が前年同期比103％増。取締役会は新CEO選定を慎重に行う方針と表明した。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "業界最大手の経営・ガバナンス不安と好業績の同時発表は市場動向・サプライチェーンに影響するため重要。",
+    "published_at": "2026-11-18 09:38:00",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "「AIによる鍵の不正利用」を生体認証で防ぐ日立の新技術、サイバー攻撃対策にも",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/18/news040.html",
+    "summary": "日立が生体情報から署名用鍵を都度復元する技術PoHDを開発。秘密鍵を保持せずAIによる不正利用を防ぐ狙いでデモを実施。",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "新しい認証・鍵管理アプローチは将来の導入可能性があるが現時点は研究・デモ段階のため中程度の重要度。",
+    "published_at": "2026-11-18 08:30:00",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "＠IT",
+    "title": "paizaで90万件超の個人データにアクセス可能、“13年間認証情報変更なし” マズ過ぎる運用実態",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news012.html",
+    "summary": "paizaの開発環境で最大90万件超の個人データに第三者がアクセス可能な状態が発覚。原因は13年間放置された認証情報と権限管理の不備。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "開発・ステージング環境の運用不備が現実的な漏えいを招く典型例。情シス・開発向けの即時対策情報価値が高い。",
+    "published_at": "2026-11-18 08:00:00",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AI時代に必要なエンジニアのスキルとは？ 開発現場の“品質問題”から読み解く",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003236/",
+    "summary": "ソフトウェア品質に関する調査結果を基に、AI時代にエンジニアが身につけるべきスキルや現場の品質課題を解説する。",
+    "importance": 2,
+    "category": "開発",
+    "reason": "人材育成・採用・現場改善に資する内容で読者の実務的関心は高いが速報性はやや低いため中程度評価。",
+    "published_at": "2026-11-18 08:00:00",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAI、「GPT-6.2」の「Astra」と「Sol」を公開 AI自己改善能力は初の「High」に",
+    "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003279/",
+    "summary": "OpenAIがGPT-6.2 Astra（専門家向け）とSol（汎用）を発表。Astraは自己改善能力で「High」、両者はサイバー能力が問題視され制限が強化された。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "先端モデルの公開は産業利用、リスク評価、規制対応に影響を与える主要ニュース。制限措置も注目点。",
+    "published_at": "2026-11-18 07:47:14",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "GAS×Geminiが一般提供開始 IT管理者が確認すべき権限設定は？",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003256/",
+    "summary": "GASとGeminiの連携でノーコードに近い形でスクリプト作成・デバッグが可能に。管理者は権限設定の見直しが必要と警告。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "業務自動化の敷居が下がる一方で権限誤設定やデータ漏えいリスクが高まるため、開発・IT管理者向けに重要。",
+    "published_at": "2026-11-18 07:00:00",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "Publickey",
+    "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
+    "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+    "summary": "Microsoftが開発者向けの高性能かつ低コストを謳うコーディングAIモデル「MAI Code 2」と廉価版「MAI Code 2 Flash」を発表。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "開発ツールの基盤となるAIモデルの更新は開発生産性とツール選定に直接関わる実務的ニュース。",
+    "published_at": "2026-11-18 06:48:15",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "Publickey",
+    "title": "［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」正式リリース",
+    "url": "https://www.publickey1.jp/blog/26/postgresqlazure_horizondb.html",
+    "summary": "MicrosoftがPostgreSQL互換のミッションクリティカル向けDBサービスAzure HorizonDBを正式リリース。高可用性・運用性を重視した提供。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "エンタープライズDB戦略に直結するクラウドサービスの本格提供で、企業のDB選定やクラウド移行に影響するため。",
+    "published_at": "2026-11-18 06:45:41",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "Publickey",
+    "title": "［速報］AIがOracle DBからPostgreSQLへの移行を支援、「Azure Database Migration Service」プレビュー",
+    "url": "https://www.publickey1.jp/blog/26/aioracle_dbpostgresqlazure_database_migration_service.html",
+    "summary": "Azure Database Migration ServiceにOracle→PostgreSQL移行を支援するAI機能がプレビューで追加され、移行作業の工数削減を狙う。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "大規模DB移行の自動化はクラウド移行計画に影響する実務的な発表のため掲載価値が高い。",
+    "published_at": "2026-11-18 06:40:32",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "＠IT",
+    "title": "フロント側の“隠す”努力はもう徒労 AI時代の「A2B攻撃」が突く、APIと認可の落とし穴",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news015.html",
+    "summary": "クライアント側で情報を隠す対策は通用せず、A2B攻撃に対抗するにはサーバ側の認可設計が不可欠と解説する。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "開発者・アーキテクト向けに具体的な設計上の注意点を示す実務的記事で、事故防止に直結するため。",
+    "published_at": "2026-11-18 05:00:00",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "＠IT",
+    "title": "AIエージェントは増えるが「守れている企業はほとんどない」――“権限と責任”はどうあるべきか",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news018.html",
+    "summary": "自律的に行動するAIエージェントの増加を受け、アクセス権限と責任の所在の明確化、ID管理のあり方を論じる。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業にとってAIエージェント導入時のガバナンスと権限設計は喫緊の課題で、情シス・経営に直接関係するため掲載価値が高い。",
+    "published_at": "2026-11-18 05:00:00",
+    "created_at": "2026-11-19 07:39:18"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか 「テスト環境」の一部情報が流出のおそれ",
     "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003275/",
     "summary": "楽天証券が第三者による不正アクセスを公表。最大約1125万口座分のログインIDなどの情報が流出した可能性。氏名・住所・金融資産情報を含む口座も一部対象。",
@@ -2827,17 +3047,6 @@
     "created_at": "2026-10-21 04:24:41"
   },
   {
-    "source": "＠IT",
-    "title": "Teamsに届く「パスキーを更新してください」――“不正アクセスのわな”だった",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news022.html",
-    "summary": "パスキー更新を促すメッセージが企業へのサイバー攻撃の入口になっている事例をMicrosoftが報告。パスキー関連の案内が不正ログインや情報窃取に利用される手口が確認された。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "パスキー普及の過程で出る新たな攻撃手法は企業の認証設計やセキュリティ教育に直接影響するため重要。",
-    "published_at": "2026-10-19 17:00:00",
-    "created_at": "2026-10-20 05:39:44"
-  },
-  {
     "source": "Impress Watch",
     "title": "BASE子会社の「Eストアー」、2336万人の情報漏えい",
     "url": "https://www.watch.impress.co.jp/docs/news/2149147.html",
@@ -2857,50 +3066,6 @@
     "category": "セキュリティ",
     "reason": "VM境界破りはクラウド事業者・情シスに直接影響する深刻な脆弱性で、早急な対応指針が必要。",
     "published_at": "2026-10-19 11:04:19",
-    "created_at": "2026-10-20 05:39:44"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Google、量子コンピュータの“魔法状態”生成を実機で効率化 エラーを40分の1に",
-    "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002366/",
-    "summary": "Googleが実機で「魔法状態栽培」を実証し、魔法状態生成のエラーを約40分の1に低減。99.99％の忠実度を達成し、表面符号への接ぎ木でリソース削減に道を開く成果を報告。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "量子ハードウェアのエラー低減は長期的な技術・産業インパクトが大きく、研究動向として注目に値するため。",
-    "published_at": "2026-10-19 11:03:41",
-    "created_at": "2026-10-20 05:39:44"
-  },
-  {
-    "source": "＠IT",
-    "title": "「GPUが余っている。だが遅い」はなぜ起こる？ Googleが検証、AI推論の負荷分散",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news021.html",
-    "summary": "Googleが大規模環境でのAI推論におけるGPU資源の非効率利用を検証。複数地域に分散したGPUを有効活用する負荷分散手法を1万7000ノード規模で試験した。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "生成AI運用コストと性能に直結するインフラ技術で、情シス・SRE・クラウド事業者に有益な知見。",
-    "published_at": "2026-10-19 11:00:00",
-    "created_at": "2026-10-20 05:39:44"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "中国DeepSeek、V4.1-Flash新バージョンを公開 一部Astra超えをうたうモデルがオープンに",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/",
-    "summary": "DeepSeekが「DeepSeek-V4.1-Flash-1017」を公開。コーディングエージェント性能の一部でGPT-6 Astraを上回ると主張し、重みをMITライセンスで提供している。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "オープン公開モデルで性能競争に影響を与え、開発者や企業のモデル選定・導入に関わるため注目。",
-    "published_at": "2026-10-19 09:35:40",
-    "created_at": "2026-10-20 05:39:44"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
-    "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
-    "summary": "Anthropic内部の調査でAI稼働時間が人間を大きく上回り、初級技術職の採用比率が急減。AIによる業務自動化認識に関して従業員と一般市民の感覚に差があることも示された。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "雇用・採用戦略とAI導入の実務影響を示す企業データとして、経営・人事・政策議論に有益。",
-    "published_at": "2026-10-19 08:02:13",
     "created_at": "2026-10-20 05:39:44"
   },
   {
