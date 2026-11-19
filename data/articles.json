@@ -1,6 +1,94 @@
 [
   {
     "source": "ITmedia NEWS",
+    "title": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
+    "summary": "MicrosoftのSDKパッケージが侵害され、認証情報を盗む不正パッケージがPyPIに一時公開。自動実行でクラウドやGitHubトークンを外部送信する事象が確認され、削除と資格情報再発行が呼び掛けられている。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "サプライチェーン（PyPI）を介した実害が発生・公開され、認証情報流出のリスクと即時対策が必要なため最高度に近い警戒が妥当。",
+    "published_at": "2026-11-19 14:58:26",
+    "created_at": "2026-11-20 07:42:52"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
+    "summary": "nginxにリモートコード実行の緊急脆弱性が公表され、日本政府や官房長官が利用事業者に対し速やかなアップデート適用を呼び掛け。広範な利用環境で即時対応が求められている。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "世界的に広く使われるWebサーバの重大脆弱性で、運用側に即時対応を迫る影響が大きい。",
+    "published_at": "2026-11-19 14:11:07",
+    "created_at": "2026-11-20 07:42:52"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "楽天証券漏えい、“テスト環境に顧客情報”のマズさ 識者「一般的でない」",
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003312/",
+    "summary": "楽天証券が第三者不正アクセスで最大約1125万口座分のIDなどが漏えいした可能性を発表。テスト環境での顧客情報管理が原因の一端と報じられ、影響規模が極めて大きい可能性がある。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "数百万〜千万人規模の顧客情報漏えいの可能性がある重大インシデントで、即時の対策と社会的影響が極めて大きい。",
+    "published_at": "2026-11-19 12:00:00",
+    "created_at": "2026-11-20 07:42:52"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
+    "summary": "UCSBなどの研究で、エージェントとAIモデルを仲介するAPIルーター経由の悪用手口を調査。中間者が応答を改ざんし資産盗難につなげる具体例を示し、仲介層のリスクを指摘している。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AIサプライチェーンに潜む新たな攻撃経路を示す研究で、AIサービス設計や運用に参考になるため掲載価値が高い。",
+    "published_at": "2026-11-19 12:00:00",
+    "created_at": "2026-11-20 07:42:52"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "ちまたの“格安GPT”、中身は偽物？ 非公式APIのモデル偽装を調査した結果……",
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
+    "summary": "研究論文『Real Money, Fake Models』を基に、非公式のシャドーAPIが公式モデルを偽装している実態を報告。信頼性/精度や課金・課題の扱いでリスクがあると指摘される。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "LLMサービスの信頼性と供給チェーンの透明性に関わる調査で、開発者・導入担当者が留意すべき情報を提供する。",
+    "published_at": "2026-11-19 12:00:00",
+    "created_at": "2026-11-20 07:42:52"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "OpenAIのAIモデル、AMDのGPU回路設計を最大14％改善 独自チップ「ハラペーニョ」でも成果",
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003321/",
+    "summary": "OpenAIがAIモデルで半導体回路設計を最適化し、AMDの次世代GPUの一部で最大14％のPPA改善を達成。自社推論チップでも回路面積削減の成果を報告、EDA連携の拡大を計画。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "AIが半導体設計に与える技術的・戦略的影響を示す実例で、半導体メーカーやEDAベンダーにとって重要なトレンド情報。",
+    "published_at": "2026-11-19 11:09:22",
+    "created_at": "2026-11-20 07:42:52"
+  },
+  {
+    "source": "＠IT",
+    "title": "「人間とは明らかに違う」、15分でシステム深部に入り込むARTEX ログで分かる攻撃の特徴と痕跡",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news014.html",
+    "summary": "自律型AI攻撃基盤「ARTEX」による侵害は、初期アカウントから深部侵入まで最短15分という高い自動化を示す。Google/FBIの調査に基づく攻撃特徴と企業が取るべき対応を解説。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "自律型AIを用いた実効性の高い攻撃が確認されており、企業ネットワーク防御への直接的・差し迫った脅威であるため最上位評価。",
+    "published_at": "2026-11-19 07:45:00",
+    "created_at": "2026-11-20 07:42:52"
+  },
+  {
+    "source": "Publickey",
+    "title": "マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース",
+    "url": "https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html",
+    "summary": "MicrosoftがAI生成アプリを企業内で安全に実行するためのランタイム「Copilot Managed Runtime」を正式リリース。企業向けに実行制御やセキュリティ境界の確保を意図したプラットフォーム提供。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "企業がAI生成アプリを安全に運用するための基盤で、開発・情シス・セキュリティ運用に直接影響する戦略的プロダクトリリース。",
+    "published_at": "2026-11-19 00:58:32",
+    "created_at": "2026-11-20 07:42:52"
+  },
+  {
+    "source": "ITmedia NEWS",
     "title": "楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」",
     "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
     "summary": "楽天証券が本番の顧客データをマスキングせずテスト環境へ保存。最大約1572万口座分が漏えいした可能性があると報告。",
@@ -858,17 +946,6 @@
     "created_at": "2026-11-13 06:52:32"
   },
   {
-    "source": "Impress Watch",
-    "title": "不正アクセス調査を初めて依頼する際の「雛形」を公開 JPCERT",
-    "url": "https://www.watch.impress.co.jp/docs/news/2155647.html",
-    "summary": "JPCERT/CCが不正アクセス調査報告書のチェックリスト（雛形）を公開。初めて調査を依頼する組織向けに必要項目や手順を整理した実務資料。",
-    "importance": 2,
-    "category": "セキュリティ",
-    "reason": "情シス・インシデント対応担当者向けの実用的な資料で、初動対応の品質向上に役立つため掲載価値がある",
-    "published_at": "2026-11-12 09:00:00",
-    "created_at": "2026-11-13 06:52:32"
-  },
-  {
     "source": "＠IT",
     "title": "最大32万人の個人情報流出 SMBC系で漏れた「年収」「保証額」の重過ぎる意味",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/12/news022.html",
@@ -888,28 +965,6 @@
     "category": "AI",
     "reason": "判断特化型AI市場への本格参入で、意思決定自動化やシステム設計に実務的影響を与えるため掲載価値あり",
     "published_at": "2026-11-12 07:03:58",
-    "created_at": "2026-11-13 06:52:32"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「非言語系AI」はLLMの弱点を補えるか？ Gartner「2027年の戦略的テクノロジのトップ・トレンド」",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news089.html",
-    "summary": "Gartnerが2027年のトップトレンドで、自律型エージェント統制や変化に耐える基盤設計を重視。LLMの限界を補う非言語系AIなど、企業の戦略的技術課題を指摘している。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "企業の中長期的な技術戦略とガバナンス設計に関する指針で、経営・情シス向けに示唆が大きい",
-    "published_at": "2026-11-12 07:00:00",
-    "created_at": "2026-11-13 06:52:32"
-  },
-  {
-    "source": "Publickey",
-    "title": "Claude Enterpriseがセキュリティと管理機能を強化 DLP・EDR連携など新機能の全容は",
-    "url": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003082/",
-    "summary": "AnthropicがClaude Enterpriseの管理・セキュリティ機能を拡充。DLPやEDR連携、アカウント遮断など企業のAI統制とシャドーIT対策を強化する新機能を発表。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "企業向けAIの統制・セキュリティ強化は導入拡大に伴う実務的課題であり、情シス向けに有用なアップデートのため掲載",
-    "published_at": "2026-11-12 07:00:00",
     "created_at": "2026-11-13 06:52:32"
   },
   {
@@ -2970,39 +3025,6 @@
     "created_at": "2026-10-21 04:24:41"
   },
   {
-    "source": "Impress Watch",
-    "title": "「最先端モデルも信頼できない」 マイクロソフトが企業AIエージェントの統制強化策",
-    "url": "https://www.watch.impress.co.jp/docs/news/2149546.html",
-    "summary": "マイクロソフトが自律型AIエージェントに対する統制強化の取り組みを発表。企業向けの安全対策やガバナンスに関する方針を提示。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "主要クラウドベンダーのガイドライン更新は企業のAI導入方針に影響するため、経営・情シス向けに重要。",
-    "published_at": "2026-10-20 12:45:58",
-    "created_at": "2026-10-21 04:24:41"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "ネットバンキングにログインしたまま別作業は危険？ 「ChatGPT Atlas」などのAIブラウザ7種でデータ窃取を検証",
-    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002377/",
-    "summary": "研究論文でAIブラウザ（エージェント型ブラウザ）が同一生成元ポリシーを迂回し、メールやネットバンキング等の機密データを悪意あるサイトに窃取されうるリスクを検証。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AIエージェントの新たな脅威モデルを示す研究で、ブラウザ/エージェントの運用に影響を与えるため開発者・情シス向けに有益。",
-    "published_at": "2026-10-20 12:00:00",
-    "created_at": "2026-10-21 04:24:41"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "AWS Transformが機能拡充 Azure Functions用のコードをAWS Lambda用に変換など、Azure→AWSへの移行に対応",
-    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002414/",
-    "summary": "AWSがAzure SDKで書かれた.NETアプリケーションをAWS SDKベースに変換する機能をAWS Transformに追加し、AzureからAWSへの移行を支援。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "クラウド移行を検討する企業や情シスにとって実務的な影響があり、移行コスト/戦略に役立つため掲載。",
-    "published_at": "2026-10-20 11:24:52",
-    "created_at": "2026-10-21 04:24:41"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "メール配信のユミルリンクに不正アクセス メアドなど約900万件漏えいか",
     "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002409/",
@@ -3033,17 +3055,6 @@
     "category": "法規制",
     "reason": "連邦レベルの排除措置で調達・サプライチェーンに影響が出るため、企業のベンダー評価に重要。",
     "published_at": "2026-10-20 07:07:09",
-    "created_at": "2026-10-21 04:24:41"
-  },
-  {
-    "source": "Publickey",
-    "title": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
-    "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
-    "summary": "AWSがLambda上でNext.jsやExpress、HonoなどのNode.jsフレームワークをそのままデプロイして実行できる『AWS Lambda Web Functions』を発表。",
-    "importance": 3,
-    "category": "開発",
-    "reason": "サーバレスやフロントエンドのデプロイ運用に直接関係する開発者向けの重要アップデート。",
-    "published_at": "2026-10-20 00:49:22",
     "created_at": "2026-10-21 04:24:41"
   },
   {
