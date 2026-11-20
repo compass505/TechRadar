@@ -16517,62 +16517,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "b41cc90ff3ed",
-    "title": "OpenAI、「COBOL」など学習リソースの少ない言語でのコーディング能力が大幅向上 COBOL移行の正解率は最大97.9％に",
-    "published_date": "2026-10-21",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "OpenAIの最新モデル『GPT-6 Astra』がCOBOLやFortranなど学習データが少ない古い言語での移行・コーディング能力を大幅向上。COBOL移行で高い正解率を示した。",
-    "reason": "レガシー言語のモダナイゼーションや自動化に影響し、移行計画や開発効率に関する意思決定に役立つため開発者向けに重要。",
-    "published_at": "2026-10-21 10:35:42",
-    "created_at": "2026-10-22 04:23:35",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/21/2000002447/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "df2c7d849772",
-    "title": "PFNとTenstorrentがタッグ、生成AI特化プロセッサ開発へ 超高メモリ帯域幅、光電融合技術を実装",
-    "published_date": "2026-10-21",
-    "importance_score": 3,
-    "category": "半導体",
-    "summary": "Preferred Networksと米Tenstorrentが生成AI向けプロセッサを共同開発。光電融合や高帯域幅設計を取り入れたxPU的アプローチでAIプロセッサの新設計を目指す。",
-    "reason": "AIプロセッサ競争と国内外の半導体技術競争に関わる共同開発で、業界戦略と将来のインフラに影響するため重要。",
-    "published_at": "2026-10-21 07:00:00",
-    "created_at": "2026-10-22 04:23:35",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002438/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "b1839b87caa5",
     "title": "PHP緊急脆弱性「php2shell」パッチ今夜11時公開、その前にできる対策は……GMO系セキュリティ企業が提唱【更新】",
     "published_date": "2026-10-21",
@@ -16623,35 +16567,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
     "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "d11149202d5b",
-    "title": "「政府機関向けGemini」登場 米国政府・自治体と共同開発 データをプライベートクラウドに保持",
-    "published_date": "2026-10-21",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Google Cloudが米政府機関向けの『Gemini for government services』をプレビュー公開。データは機関のプライベート環境に保持し、許可なく学習に使わないと明言。",
-    "reason": "政府向けに設計されたAI提供モデルは規制・データ管理・クラウド戦略に影響するため、公共セクターのIT判断に有用。",
-    "published_at": "2026-10-21 16:41:52",
-    "created_at": "2026-10-22 04:23:35",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002470/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 3,
-    "urgency_score": 0,
-    "utility_score": 1,
     "has_itmedia_article": true
   },
   {
@@ -21879,61 +21794,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "8fc3805e2053",
-    "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミュレータ」正式リリース",
-    "published_date": "2026-11-13",
-    "importance_score": 2,
-    "category": "クラウド",
-    "summary": "AWSがローカル環境で主要APIをエミュレートする公式ツールを正式リリース。ダウンロードしてオフラインで開発・テストが可能になり、AWSアカウント不要で利用できる。",
-    "reason": "ローカルでのクラウドAPIエミュレーションは開発効率とコスト削減に直結するため、開発チームへの実務的利点が大きい。",
-    "published_at": "2026-11-13 00:09:51",
-    "created_at": "2026-11-14 06:28:57",
-    "representative_source": "Publickey",
-    "representative_url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
-    "sources": [
-      "Publickey"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 3,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "94e309d8be0a",
-    "title": "ClaudeがGoogle Meetに参加 議事録や資料作成、質問回答も",
-    "published_date": "2026-11-13",
-    "importance_score": 2,
-    "category": "AI",
-    "summary": "AnthropicのClaudeがビデオ会議参加で議事録作成や質問応答、共同編集を行う「Claude Meetings」ベータを提供開始。まずはGoogle Meet対応、Team/Enterpriseプラン向け。",
-    "reason": "会議支援AIの実運用例は業務生産性に直結するが、現状はベータで限定提供のため重要度は中程度。",
-    "published_at": "2026-11-13 11:48:09",
-    "created_at": "2026-11-14 06:28:57",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2156161.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "20357e8d21d3",
     "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
     "published_date": "2026-11-13",
@@ -21961,33 +21821,6 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
-  },
-  {
-    "id": "350dd9635e60",
-    "title": "Google、Gemini搭載のメガネを米韓で予約開始 395ドルからで12月10日発売へ",
-    "published_date": "2026-11-13",
-    "importance_score": 2,
-    "category": "ガジェット",
-    "summary": "GoogleがGemini搭載スマートグラス「Intelligent Eyewear」を米国と韓国で予約開始。カメラ・マイク搭載で音声対話や周辺情報処理が可能。日本での展開は未定。",
-    "reason": "消費者向けAR機器の実装例として注目だが、現時点では地域限定の製品展開情報に留まるため深掘りは二次的。",
-    "published_at": "2026-11-13 09:30:33",
-    "created_at": "2026-11-14 06:28:57",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2611/13/2000003166/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "8f0bdbcffade",
@@ -22072,34 +21905,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
     "utility_score": 5,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "ae09707b01d7",
-    "title": "NECがデータカタログ1435個を1年で整備 AIによる意思決定支援への挑戦",
-    "published_date": "2026-11-13",
-    "importance_score": 2,
-    "category": "企業IT",
-    "summary": "NECはデータ基盤とカタログ整備を短期間で進め、経営層まで共通のダッシュボードで判断する文化を醸成。AIによる意思決定支援の実用化に向けた課題と対応策を解説。",
-    "reason": "実務的なデータガバナンスとAI活用の取り組み事例として、情シスやDX推進担当者に参考になる。",
-    "published_at": "2026-11-13 08:00:00",
-    "created_at": "2026-11-14 06:28:57",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
     "has_itmedia_article": true
   },
   {
@@ -22247,34 +22052,6 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": true
-  },
-  {
-    "id": "e54c960c32a9",
-    "title": "フィッシング攻撃を“遮断” 物理パスキー「YubiKey」日本で本格展開",
-    "published_date": "2026-11-13",
-    "importance_score": 2,
-    "category": "セキュリティ",
-    "summary": "Yubicoがパスキー対応ハードウェアセキュリティキー「YubiKey」を日本市場で本格展開。価格帯や販売チャネル整備を発表し、国内導入を強化する方針。",
-    "reason": "フィッシング対策としての物理パスキー普及は企業の認証戦略に影響するため、情シス向けの有益な市場情報。",
-    "published_at": "2026-11-13 09:00:00",
-    "created_at": "2026-11-14 06:28:57",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2156008.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
   },
   {
     "id": "67d109f278b3",
@@ -24119,5 +23896,293 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
+  },
+  {
+    "id": "f3051ec940ad",
+    "title": "AIが脆弱性を探し、ランサムウェア構築を支援 5つのAI悪用手口と対策リスト",
+    "published_date": "2026-11-20",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "ESETの分析を基に、生成AIが悪用される主要手口（脆弱性探索、ランサムウェア支援、プロンプトインジェクション等）と具体的対策を整理している。",
+    "reason": "攻撃手法の高度化を踏まえた対策リストは、SOC/開発チームの脅威理解と防御設計に役立つため採用。",
+    "published_at": "2026-11-20 17:15:00",
+    "created_at": "2026-11-21 07:17:01",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news061.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "a56cc1b6fa50",
+    "title": "AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル 初値は公開価格を34％上回る",
+    "published_date": "2026-11-20",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "AI企業AnthropicがNASDAQに上場（ANT）。公開価格から初値が大幅上昇し、IPO調達額は史上最大級に。経営は安全性重視の姿勢を改めて表明した。",
+    "reason": "AI企業の大型上場は資金調達面と市場構造に影響するためビジネス面で注目に値する。",
+    "published_at": "2026-11-20 06:38:41",
+    "created_at": "2026-11-21 07:17:01",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/20/2000003354/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "e0de00fd3b08",
+    "title": "Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携 2029年に衛星打ち上げへ",
+    "published_date": "2026-11-20",
+    "importance_score": 4,
+    "category": "クラウド",
+    "summary": "Googleが軌道上にAIデータセンターを構築する「Project Suncatcher」でBlue Originと提携。2029年第1四半期に大型ロケットで衛星を打ち上げ、宇宙でのAIインフラを目指す。",
+    "reason": "クラウド/AIインフラの次のフロンティアをめぐる大手の戦略提携で、中長期の産業影響が大きい。",
+    "published_at": "2026-11-20 09:25:43",
+    "created_at": "2026-11-21 07:17:01",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "bf62e4143d2b",
+    "title": "Javaに重大な脆弱性、JenkinsやKeycloakも突破口に 影響範囲と暫定対策は？",
+    "published_date": "2026-11-20",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "OpenJDKの重大欠陥「Java4Shell」で認証前のリモートコード実行が実証。JenkinsやKeycloakなど広範な製品で悪用の入口になり得る。影響範囲と応急対応を整理している。",
+    "reason": "PoCや実証が報告されており、認証基盤や開発環境に広範な影響を与えるため最高度評価。",
+    "published_at": "2026-11-20 07:45:00",
+    "created_at": "2026-11-21 07:17:01",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news016.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 1,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "488685feba6b",
+    "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+    "published_date": "2026-11-20",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "MicrosoftがAIによるサイバー攻撃に対抗するAIエージェント型サービス「Microsoft Perception」を発表。自動検知・対処でセキュリティ運用の自動化を狙う。",
+    "reason": "大手がAIで攻撃と防御の一段と高度化を進める発表で、企業のセキュリティ戦略に直結するため重要。",
+    "published_at": "2026-11-20 13:29:35",
+    "created_at": "2026-11-21 07:17:01",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 5,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "8e4b00af824f",
+    "title": "PHP「緊急」脆弱性、サービス一時停止の動き再び ウマ娘やグラブル、イープラスなど緊急メンテ",
+    "published_date": "2026-11-20",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "PHPの緊急脆弱性対応で複数のオンラインサービスが一時停止・緊急メンテナンスを実施。過去の「PHP2Shell」対応と同様の広範な影響が出ている。",
+    "reason": "主要オンラインサービスに波及する緊急対応の動きは事業継続と運用判断に直結するため高評価。",
+    "published_at": "2026-11-20 09:17:02",
+    "created_at": "2026-11-21 07:17:01",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/20/2000003357/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 3,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "3c6419a10126",
+    "title": "SlackやTeamsで情シス問い合わせを自動化 Salesforceの新AI「Paige」とは",
+    "published_date": "2026-11-20",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "Salesforceが実務対応済みのAIエージェント群を国内提供へ。PaigeはSlackやTeams上で情シスへの問い合わせ対応を自動化し、カスタマイズ不要で導入可能とする。",
+    "reason": "情シス業務の自動化は現場負荷削減と運用効率化に直結するため、企業ITの導入検討に有益。",
+    "published_at": "2026-11-20 07:00:00",
+    "created_at": "2026-11-21 07:17:01",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003331/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "a422dd983c04",
+    "title": "テスト環境に本番データを置く危うさ 楽天証券、最大約1125万口座の情報漏えいを報告 どうすれば防げたのか？",
+    "published_date": "2026-11-20",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "楽天証券で最大約1125万口座分の顧客情報がテスト環境から流出した可能性が判明。氏名や住所、年収・金融資産なども含まれる。企業のデータ管理・テスト運用の根本的課題を浮き彫りにしている。",
+    "reason": "金融大手の大規模個人情報流出の可能性は即時の対応と規制・信頼回復を伴い得るため最高度評価。",
+    "published_at": "2026-11-20 12:45:00",
+    "created_at": "2026-11-21 07:17:01",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news018.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "50fe017ec729",
+    "title": "デジ庁、政府機関向けファイル共有サービスで漏えいか 7月末から第三者がアクセス",
+    "published_date": "2026-11-20",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "政府共通業務環境「GSS」のファイル共有で、7月30日以降に正規共有先以外からアクセスがあった可能性をデジタル庁が公表。個人情報含有の可能性を受け個人情報保護委へ報告した。",
+    "reason": "政府機関向けサービスでの長期間にわたる外部アクセスは行政対応と信頼に影響するため高評価。",
+    "published_at": "2026-11-20 21:18:07",
+    "created_at": "2026-11-21 07:17:01",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "81c7859cb3e0",
+    "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
+    "published_date": "2026-11-20",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "MicrosoftがAzureやオンプレ、他社クラウドのデータベースを自動検出・一覧化し、AIで運用監視や推奨対策を行う「Database Hub」を正式リリース。",
+    "reason": "DB管理の自動化は運用負荷削減とセキュリティ管理に直結するため、情シス/DBAに有用な発表。",
+    "published_at": "2026-11-20 00:19:21",
+    "created_at": "2026-11-21 07:17:01",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/database_hubai.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "cloud",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
   }
 ]
