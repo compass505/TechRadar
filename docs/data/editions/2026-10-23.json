@@ -27,30 +27,18 @@
       "660f38cfcdee",
       "2caf91360e9b"
     ],
-    "yesterday_ai": [
-      "1b1189abf7b5",
-      "65ad5e581159",
-      "e507b6815635",
-      "7e9e22c19f29"
-    ],
+    "yesterday_ai": [],
     "yesterday_enterprise_it": [
       "c839a70126fd",
       "6f5609be90db",
       "55336f3bad9a",
       "9276bff37288",
-      "68e1107dec23",
-      "1b1189abf7b5",
-      "7e9e22c19f29",
-      "e04973e36e0a",
-      "4cefdaf9adda"
+      "68e1107dec23"
     ],
     "yesterday_development": [
       "c839a70126fd",
       "6f5609be90db",
-      "9276bff37288",
-      "1b1189abf7b5",
-      "65ad5e581159",
-      "7e9e22c19f29"
+      "9276bff37288"
     ]
   }
 }

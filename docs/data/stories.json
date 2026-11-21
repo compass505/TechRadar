@@ -16570,65 +16570,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "1b1189abf7b5",
-    "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開 OpenSSHの修正にも貢献",
-    "published_date": "2026-10-22",
-    "importance_score": 3,
-    "category": "開発",
-    "summary": "AnthropicがClaudeを用いてOSSの攻撃対象領域を分析・削減する研究を公開。OpenSSHで到達可能なコードを大幅削減し、対策が取り込まれた。",
-    "reason": "AIを使った実務的なセキュリティ改善の実例で、開発者やOSS運用者にとって有益な示唆があるため選出。",
-    "published_at": "2026-10-22 11:48:47",
-    "created_at": "2026-10-23 04:18:15",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "65ad5e581159",
-    "title": "Google Cloudに「Astra」含むOpenAIのモデルが追加 「主要3社のクローズドモデル使える唯一のハイパースケーラー」に",
-    "published_date": "2026-10-22",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "Google CloudのModel GardenにOpenAIのGPT-6系モデル群（Astra等）が追加され、主要クローズドモデルを使えるハイパースケーラーとしての立ち位置を強化。",
-    "reason": "大手クラウドで主要クローズドモデルが利用可能になることは企業のAI選定・運用設計に直接影響する。",
-    "published_at": "2026-10-22 08:59:39",
-    "created_at": "2026-10-23 04:18:15",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "a8b250be1db7",
     "title": "Meta、Cambridge Analytica問題巡る訴訟で250億ドルの支払い命令",
     "published_date": "2026-10-22",
@@ -16647,33 +16588,6 @@
     "article_count": 1,
     "facets": [],
     "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "e507b6815635",
-    "title": "NVIDIA、AIファクトリーをコンテナで届ける「DSX POD」発表 アヒル型ロボット「Microduck」も登壇──GTC Berlin基調講演",
-    "published_date": "2026-10-22",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "NVIDIAがコンテナ化したAI工場設計『DSX POD』や安全なエージェント基盤『OpenShell』などを発表。欧州投資や新モデル、ロボットも紹介された。",
-    "reason": "AIインフラとエッジ／コンテナ戦略は企業IT投資やクラウド・オンプレ構成に影響するため注目度高し。",
-    "published_at": "2026-10-22 10:56:01",
-    "created_at": "2026-10-23 04:18:15",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/22/2000002492/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
     "practical_impact_score": 0,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 0,
@@ -16769,36 +16683,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "7e9e22c19f29",
-    "title": "「光ファイバー価格が最大5倍超」、AIデータセンター建設ラッシュが招く“供給危機”",
-    "published_date": "2026-10-22",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "AIデータセンター需要の拡大で光ファイバーの世界的供給不足が深刻化。価格高騰と供給遅延は少なくとも2028年まで続く見込み。",
-    "reason": "データセンター建設とネットワーク資材の供給制約はクラウド事業・インフラ計画に実務的な影響を与えるため重要。",
-    "published_at": "2026-10-22 13:00:00",
-    "created_at": "2026-10-23 04:18:15",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/22/news030.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
     "id": "68e1107dec23",
     "title": "カプコン、1177万件漏えい 不正アクセスで",
     "published_date": "2026-10-22",
@@ -16818,61 +16702,6 @@
     "facets": [
       "enterprise_it",
       "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "e04973e36e0a",
-    "title": "デジタル庁、公式サイトへの問い合わせ最大1万3000件漏えいか Web制作ツール「Studio」不正アクセスで",
-    "published_date": "2026-10-22",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "デジタル庁は制作ツール『Studio』への不正アクセスで問い合わせフォーム入力情報が最大1万3323件漏えいした可能性を発表。政府サイトのサプライチェーンリスクが浮上。",
-    "reason": "政府機関サイトがサードパーティ制作ツール経由で影響を受けた事例で、自治体・省庁の委託管理に示唆があるため重要。",
-    "published_at": "2026-10-22 14:05:58",
-    "created_at": "2026-10-24 04:22:02",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/23/2000002543/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "4cefdaf9adda",
-    "title": "大阪大、学生など7.8万人の情報漏えい NECが無断で協力会社とデータ共有",
-    "published_date": "2026-10-22",
-    "importance_score": 3,
-    "category": "企業IT",
-    "summary": "大阪大学で学生ら約7.8万人の情報が流出。原因はNECによる協力会社への無断データ共有とされ、機密管理・委託先統制の問題が浮上している。",
-    "reason": "委託先管理と個人情報ガバナンスの失敗事例で、企業の情報共有ルールと統制の見直しにつながるため掲載価値あり。",
-    "published_at": "2026-10-22 10:11:54",
-    "created_at": "2026-10-23 04:18:15",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/22/2000002491/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it"
     ],
     "ai_relevance_score": 0,
     "practical_impact_score": 0,
@@ -22110,34 +21939,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "b29a91d79e9f",
-    "title": "NVIDIAをつくった男、ジェンスン・フアン “デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
-    "published_date": "2026-11-14",
-    "importance_score": 1,
-    "category": "半導体",
-    "summary": "ジェンスン・フアン氏の生い立ちとNVIDIAを牽引してきた軌跡を紹介。企業戦略やリーダーシップの観点から同社の成長とAI時代での役割を振り返る。",
-    "reason": "業界リーダーの人物史はトレンド理解に役立つが速報性・即時業務影響は限定的のため低めの評価。",
-    "published_at": "2026-11-14 07:30:00",
-    "created_at": "2026-11-15 04:59:06",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "11c14ee0e040",
     "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」",
     "published_date": "2026-11-14",
@@ -22165,34 +21966,6 @@
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
     "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "fe30cbda4e27",
-    "title": "相次ぐ情報漏えいでアナログ回帰？ ダイソー「パスワード管理ノート」が品薄に 一方でリスクも──IPAに聞いた",
-    "published_date": "2026-11-14",
-    "importance_score": 2,
-    "category": "セキュリティ",
-    "summary": "ダイソーの紙のパスワード管理ノートが売れ行き急増で品薄。IPAは紙管理を完全には否定しないが、多要素認証やパスキー導入などの対策を改めて推奨している。",
-    "reason": "消費者・企業の認証管理に関する行動変化とIPAの実務的助言は情シスやセキュリティ施策の参考になるため掲載価値あり。",
-    "published_at": "2026-11-14 07:30:00",
-    "created_at": "2026-11-15 04:59:06",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
     "has_itmedia_article": true
   },
   {
@@ -24184,5 +23957,145 @@
     "urgency_score": 0,
     "utility_score": 1,
     "has_itmedia_article": false
+  },
+  {
+    "id": "292e5b324dc3",
+    "title": "AIで成果を出す企業ほど「人を増やす」？ “通説”を否定する調査結果をIDCが発表",
+    "published_date": "2026-11-21",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "IDC調査で、AI投資で高ROIを出す企業ほど今後の増員を見込む割合が高いという結果が示された。AI普及が必ずしも人員削減につながらない理由を考察している。",
+    "reason": "AI導入が組織や人員計画に与える実務的インパクトを示す調査で、経営判断に参考になる。",
+    "published_at": "2026-11-21 09:00:00",
+    "created_at": "2026-11-22 05:56:53",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d6904be835a9",
+    "title": "TikTok、画像・動画のAI生成チェック機能を公開 肖像検出も",
+    "published_date": "2026-11-21",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "TikTokがAI生成コンテンツの透明性確認機能と、無断で肖像が使われた可能性を検出する肖像検出機能を発表。グローバル展開を開始する。",
+    "reason": "プラットフォーム側のAI生成コンテンツ対応は法規制・信頼性・運用に直結する実務的ニュースで、広範な影響を持つ。",
+    "published_at": "2026-11-21 08:30:00",
+    "created_at": "2026-11-22 05:56:53",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2158347.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "cccdf46f584f",
+    "title": "「マルチエージェント設計“15のパターン”」「GoogleのSRE教科書、10年ぶり改訂」 AI時代の新たな常識",
+    "published_date": "2026-11-21",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "＠ITの注目記事から、マルチエージェント設計パターンやGoogleのSRE教科書改訂など、開発・運用領域で重要なトピックをまとめて紹介している。",
+    "reason": "開発・SREの最新知見をまとめて把握できるが、個別深掘り記事の集合のため重要度は中程度。",
+    "published_at": "2026-11-21 08:00:00",
+    "created_at": "2026-11-22 05:56:53",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/21/news002.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "28aee0930257",
+    "title": "パスワード、放置VPN、休眠ID……“初歩的な隙”ばかり？ 重要インフラへの攻撃パターンとその対策",
+    "published_date": "2026-11-21",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "Microsoftのレポートを踏まえ、重要インフラを狙うサイバー攻撃の構造変化を解説。IDを起点とする攻撃や国家主体の長期潜伏型攻撃への対策を提示している。",
+    "reason": "重要インフラを巡る実務的な脅威動向と具体的対策を解説するレポートで、業界・情シスに大きく関わる内容。",
+    "published_at": "2026-11-21 17:15:00",
+    "created_at": "2026-11-22 05:56:53",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/21/news009.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 4,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "408b24aea934",
+    "title": "企業はAIをどう選ぶようになった？ ChatGPT、Copilot、Geminiの勢力図",
+    "published_date": "2026-11-21",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "企業のAI利用は個別サービスの選定から、既存業務環境に組み込まれたAIの活用へと変化している。ChatGPTやCopilot、Geminiの企業内での位置付けを分析。導入判断のポイントを整理している。",
+    "reason": "企業のAI採用とベンダー選定の実務に直結する分析で、情シス・経営判断に有用な記事の代表例。",
+    "published_at": "2026-11-21 14:22:15",
+    "created_at": "2026-11-22 05:56:53",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 4,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
   }
 ]
