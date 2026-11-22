@@ -1,34 +1,5 @@
 [
   {
-    "id": "2552cd9a2411",
-    "title": "「バックアップ先はNAS/テープ」「入り口をふさぐ」だけではもう古い、AI/ランサム時代のインフラの本質",
-    "published_date": "2026-05-23",
-    "importance_score": 4,
-    "category": "セキュリティ",
-    "summary": "＠ITで公開された記事の中から、特に注目を集めた10本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
-    "reason": "ローカル検証用のキーワード判定で選定",
-    "published_at": "2026-05-23 08:00:00",
-    "created_at": "2026-05-24 21:13:52",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/23/news011.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 4,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 3,
-    "has_itmedia_article": false
-  },
-  {
     "id": "b414168684d4",
     "title": "「Gemini」「Claude Code」「Codex」 全社展開・本番実装に役立つ5つのポイント",
     "published_date": "2026-05-24",
@@ -16739,35 +16710,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "1b43f84458e5",
-    "title": "1000万のWebサイトで「生きたAPIキー」が大量に“丸見え”状態？ 大手銀行やインフラの鍵も 米スタンフォード大などが調査",
-    "published_date": "2026-10-23",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "スタンフォード大などの調査で、約1000万サイト上に本来秘匿すべき『生きたAPIキー』が大量露出。大手金融・インフラの鍵も含まれる可能性。",
-    "reason": "開発・運用の現場で起こる設定ミスや秘密管理の弱点を示す調査で、開発者や情シスに注意喚起を促すため有用。",
-    "published_at": "2026-10-23 12:00:00",
-    "created_at": "2026-10-24 04:22:02",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/23/2000002515/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
     "id": "8e488f879798",
     "title": "EOLのPHP 7.4、8.0、8.1にも異例のパッチ JPCERT/CCが警告する「php2shell」の侵害痕跡3つと緊急対策",
     "published_date": "2026-10-23",
@@ -16794,92 +16736,6 @@
     "urgency_score": 3,
     "utility_score": 0,
     "has_itmedia_article": false
-  },
-  {
-    "id": "c8aaf433171f",
-    "title": "「Claude」全機能がGoogle Cloudから利用可能に",
-    "published_date": "2026-10-23",
-    "importance_score": 3,
-    "category": "クラウド",
-    "summary": "AnthropicがGoogle Cloud上で管理運用する形で『Claude』の全機能提供を開始。法人向けにグローバルで利用可能に。",
-    "reason": "主要LLMのクラウド統合は企業AI導入やクラウド戦略に影響するため、企業IT／クラウド担当者に有益。",
-    "published_at": "2026-10-23 19:23:05",
-    "created_at": "2026-10-24 04:22:02",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2150851.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "cloud",
-      "development",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "55cc71d822d2",
-    "title": "「Muse」日本で提供開始 MetaのAIエージェント、メルカリやマネフォ、ぴあと連携へ",
-    "published_date": "2026-10-23",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "MetaのパーソナルAIエージェント『Muse』が日本で提供開始。国内サービス（メルカリ、マネーフォワード、チケットぴあ等）との連携予定を発表。",
-    "reason": "消費者向けAIエージェントの日本展開と主要サービス連携は市場動向・データ連携リスクの両面で注目に値する。",
-    "published_at": "2026-10-23 10:33:41",
-    "created_at": "2026-10-24 04:22:02",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/23/2000002535/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "4cbf17d9e14b",
-    "title": "「エージェント向け1Password」発表 AIにパスワード渡さずアクセス権限付与可能に",
-    "published_date": "2026-10-23",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "1PasswordがAIエージェント向けに、パスワードを直接渡さずにアクセス権を付与できる『1Password for Agents』を発表。エージェント統合を想定。",
-    "reason": "AIエージェントと機密情報の連携に対する実務的な解決策で、導入検討やセキュリティ設計に役立つため掲載。",
-    "published_at": "2026-10-23 15:24:45",
-    "created_at": "2026-10-24 04:22:02",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
   },
   {
     "id": "a7eb2bb4e3d0",
@@ -21969,31 +21825,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "93526ef40e71",
-    "title": "Googleウォレット、スマートロックのデジタルキーを追加可能に",
-    "published_date": "2026-11-15",
-    "importance_score": 2,
-    "category": "ガジェット",
-    "summary": "Google WalletがGoogle Homeアプリからスマートロックのデジタルキーを追加できる機能をパブリックプレビューで提供開始。 数週間で全ユーザー向け展開の見込み。",
-    "reason": "スマートホームとウォレットの統合は利便性とセキュリティの観点で注目だが、現状はプレビュー段階で影響は限定的。",
-    "published_at": "2026-11-15 08:30:00",
-    "created_at": "2026-11-16 05:26:35",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2156391.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
     "id": "c44732841c22",
     "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
     "published_date": "2026-11-15",
@@ -24097,5 +23928,114 @@
     "urgency_score": 0,
     "utility_score": 2,
     "has_itmedia_article": true
+  },
+  {
+    "id": "b2452a9d0417",
+    "title": "AIに必要なのは知識か、企業独自の判断基準か？ 管理職調査で見えたAI活用の盲点",
+    "published_date": "2026-11-22",
+    "importance_score": 2,
+    "category": "企業IT",
+    "summary": "管理職を対象とした調査で、企業内で利用されなくなったAIツールや用途が半数以上あると判明。企業独自の判断基準や運用面の課題が背景にあると分析される。",
+    "reason": "実務導入の落とし穴を示し、経営や情シスのAI導入・運用判断に役立つため採用",
+    "published_at": "2026-11-22 06:00:00",
+    "created_at": "2026-11-23 06:07:07",
+    "representative_source": "ITmedia AI+",
+    "representative_url": "https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/",
+    "sources": [
+      "ITmedia AI+"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 2,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "8999e2f53500",
+    "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
+    "published_date": "2026-11-22",
+    "importance_score": 4,
+    "category": "AI",
+    "summary": "Anthropicの研究者がAI「Claude」と共同でリーマン予想の証明を発表。証明はLeanで1700万行の形式化がなされ、Leanコミュニティが検証の上で「正しい」と認定した。",
+    "reason": "AIと形式検証による高度な学術成果は技術力・信頼性議論やAI応用範囲の評価に直結するため重要",
+    "published_at": "2026-11-22 08:21:31",
+    "created_at": "2026-11-23 06:07:07",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "2c2ea8027ecf",
+    "title": "何枚も撮りたくなる小型カメラ「instax Pal 2」 エフェクトも豊富【ミニレビュー】",
+    "published_date": "2026-11-22",
+    "importance_score": 1,
+    "category": "ガジェット",
+    "summary": "富士フイルムの小型インスタントカメラ「instax Pal 2」を実機レビュー。天面モニターやファインダーなど操作性が向上、価格は25,300円。",
+    "reason": "ガジェット新製品レビューとして読者の購買判断に役立つが技術的影響は限定的",
+    "published_at": "2026-11-22 10:00:00",
+    "created_at": "2026-11-23 06:07:07",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/review/minireview/2156000.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "43c7ecf1af5f",
+    "title": "若手こそ「Linux」を学ぶべきなのはなぜ？ AI時代に「エンジニアとして生き残る方法」",
+    "published_date": "2026-11-22",
+    "importance_score": 1,
+    "category": "開発",
+    "summary": "AI普及で求められるエンジニア像が変化する中、若手がLinuxを学ぶべき理由を複数の調査結果を基に解説。具体的な学習分野や職務への影響も提示する。",
+    "reason": "若手開発者のキャリア指針として有用だが影響範囲は限定的のため低め評価",
+    "published_at": "2026-11-22 08:00:00",
+    "created_at": "2026-11-23 06:07:07",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/22/news001.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "development",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
   }
 ]
