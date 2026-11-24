@@ -1,0 +1,28 @@
+{
+  "edition_date": "2026-11-24",
+  "surfaces": {
+    "top_yesterday": [
+      "4f462cd1ffbd",
+      "9df5b52c2a89",
+      "9a6e2cc0a604"
+    ],
+    "recent_important": [
+      "4f462cd1ffbd",
+      "28aee0930257",
+      "9df5b52c2a89",
+      "8999e2f53500"
+    ],
+    "yesterday_ai": [
+      "4f462cd1ffbd",
+      "9df5b52c2a89"
+    ],
+    "yesterday_enterprise_it": [
+      "4f462cd1ffbd",
+      "9a6e2cc0a604"
+    ],
+    "yesterday_development": [
+      "4f462cd1ffbd",
+      "9df5b52c2a89"
+    ]
+  }
+}
