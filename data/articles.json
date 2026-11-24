@@ -1,5 +1,148 @@
 [
   {
+    "source": "Impress Watch",
+    "title": "京王、最大1108万件の個人情報漏えいの可能性 一部マイナカードの写しも",
+    "url": "https://www.watch.impress.co.jp/docs/news/2158875.html",
+    "summary": "京王電鉄は9月26日のランサムウェア攻撃で最大約1,108万人分の個人情報漏えいの可能性を公表。従業員など12,000人分は漏えいが確認され、一部でマイナンバーカード写しも含む。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模な個人情報漏えい（最大1100万件超）＋マイナンバー関連で被害影響が甚大、即時掲載が必要。",
+    "published_at": "2026-11-24 19:19:47",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "月に3度の障害……揺らぐドコモの信頼 通信品質が安定しない理由は？",
+    "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003405/",
+    "summary": "NTTドコモが短期間に3回の通信障害を発生。総務相から原因究明と再発防止の要請が出ており、通信インフラの信頼性が問題視されている。",
+    "importance": 4,
+    "category": "企業IT",
+    "reason": "通信は重要インフラ／企業顧客への影響が大きく、運用・ガバナンス観点で掲載価値が高い。",
+    "published_at": "2026-11-24 18:20:17",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "アンソロピックはなぜ、OpenAIを差し置いて「史上最大IPO」できたのか “事業展開のうまさ“を識者が語る",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/24/news035.html",
+    "summary": "Anthropicの大型上場成功を受け、同社の事業戦略や市場での強みを識者が解説。資金調達・事業化の巧みさが取り上げられている。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "AI業界の資本市場動向と事業戦略を理解する上で示唆のある分析記事。",
+    "published_at": "2026-11-24 17:00:00",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
+    "source": "＠IT",
+    "title": "国産衛星コンステにも参画 NTTが「宇宙空間を光化」する狙いとは",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/24/news062.html",
+    "summary": "NTTが地上・衛星・月面を光通信で繋ぐ「Space AIOWN」を提唱。国産メガ衛星コンステレーション参画を含め、宇宙を含む単一ネットワーク化を狙う戦略を示した。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "衛星光通信によるネットワーク統合はクラウドと通信インフラの中長期戦略に影響するため注目に値する。",
+    "published_at": "2026-11-24 16:15:00",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "爆増するサイバー攻撃、魔の手はITだけでなく「OT」にも 元米軍のセキュリティ専門家が警鐘",
+    "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003408/",
+    "summary": "工場や上下水道などのOT（制御システム）を狙う攻撃が増加。米DragosのCEOがAIを使った攻撃の実例を挙げ、ITからOTへ標的が移るリスクを警告した。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "OT侵害は物理インフラへの影響を伴い、情シス・経営にとって重要な警鐘となる。",
+    "published_at": "2026-11-24 15:06:51",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "パッチ適用前にLinuxシステムを一時保護する「Shirudo」 OpenAIとCiscoが開発",
+    "url": "https://www.watch.impress.co.jp/docs/news/2158698.html",
+    "summary": "OpenAIとCiscoがオープンソースのランタイム「Shirudo」を発表。パッチ展開前でもLinuxシステムを一時的に保護する仕組みを提供し、ソースはGitHub公開済み。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "パッチ適用のタイムラグ対策として実用的で、運用・インシデント対応に直結する技術リリース。",
+    "published_at": "2026-11-24 13:30:00",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
+    "source": "Impress Watch",
+    "title": "グーグル、AIモードとウォレット・ドライブの連携を拡大 支出や文書を踏まえ回答",
+    "url": "https://www.watch.impress.co.jp/docs/news/2158661.html",
+    "summary": "Googleの検索「AI Mode」が個人情報を踏まえた回答を生成するPersonal Intelligenceの連携先を拡大。Google WalletやGoogle ドライブ、Geminiアプリとの統合を順次実施する。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "個人データを用いるAI回答の拡大はプライバシー・企業利用双方で影響が大きく、監査・導入判断に関わる。",
+    "published_at": "2026-11-24 12:42:14",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SpaceXをオレゴン州とバージニア州が提訴 Grokの性的画像生成で",
+    "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003399/",
+    "summary": "オレゴン州とバージニア州が、AI「Grok」によるCSAMや同意のない性的画像生成を理由にSpaceXらを提訴。州は安全策の無視や消費者への欺瞞を主張している。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "州政府による法的措置はAIサービスの安全対策・規制議論に直接影響する重大案件。",
+    "published_at": "2026-11-24 08:39:38",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "2028年までに「サービス中断」に見舞われるIT部門の共通点は？ Gartner予測",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news023.html",
+    "summary": "GartnerはAI利用拡大に伴い、IT部門の約4割が2028年までに事業に不可欠なサービスの中断を経験すると予測。中断に陥りやすい共通点を分析している。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "AI導入が増える中での運用リスクを示す調査結果で、情シスや経営の意思決定に有用。",
+    "published_at": "2026-11-24 08:00:00",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
+    "source": "＠IT",
+    "title": "1年以内に他社も「もうGitは限界」 1日3万マージに激増のAnthropicが明かす「AIエージェント規模」開発インフラ構築の裏側",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/24/news020.html",
+    "summary": "AnthropicがモノレポをGitから独自のバージョン管理システム「Scion」に移行した経緯と設計思想を解説。大規模AI開発で既存ツールの限界に直面した事例を紹介する。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "大規模AI開発に伴う開発基盤の再設計は開発組織やツール選定に示唆を与えるため有益。",
+    "published_at": "2026-11-24 07:45:00",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+    "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
+    "summary": "CrowdStrikeがネットワークセキュリティ大手Zscalerを約7兆円規模で全株式交換により買収。両社の技術統合でAIエージェント保護と年間経常収益100億ドル超を目指す。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "セキュリティ市場とクラウド・AI保護の再編を示す大型M&Aで業界影響が大きい。",
+    "published_at": "2026-11-24 07:20:30",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
+    "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003397/",
+    "summary": "退任していたジェンスン・フアン氏がNVIDIAの社長兼CEOおよび取締役に復帰。米政府内外のやり取りや大統領の働きかけも報じられ、企業統治と国家安全保障上の議論が続く。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "NVIDIAの経営トップ交代は半導体・AI業界に直結する重大な企業統治・市場インパクトを持つ。",
+    "published_at": "2026-11-24 06:32:46",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
+    "source": "Publickey",
+    "title": "PostgreSQL 19正式リリース。ノンブロッキングなREPACKやI/Oワーカーのオートスケールなど新機能",
+    "url": "https://www.publickey1.jp/blog/26/postgresql_19repackio.html",
+    "summary": "PostgreSQL 19が正式リリース。ノンブロッキングREPACKやI/Oワーカーのオートスケール等、運用性と性能改善に直結する新機能が導入された。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "主要データベースのメジャーアップデートは開発・運用に直接影響するため、技術読者に必須の情報。",
+    "published_at": "2026-11-24 00:45:37",
+    "created_at": "2026-11-25 08:58:32"
+  },
+  {
     "source": "ITmedia NEWS",
     "title": "「Microsoft To Do」、2027年6月にアプリ提供終了 法人向けは「Planner」へ移行、個人向けは代替なし",
     "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003395/",
@@ -671,17 +814,6 @@
     "created_at": "2026-11-18 08:01:44"
   },
   {
-    "source": "＠IT",
-    "title": "要求管理はもう「開発の上流工程だけ」の話ではない IPAが129ページのハンドブック公開",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/17/news018.html",
-    "summary": "IPAがAI時代の要求管理を体系化した129ページのハンドブックを公開。組織横断の要求管理や実践方法を整理して提供。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発・プロジェクト管理実務に役立つ官製ガイドだが即時的な業界変化度は限定的。",
-    "published_at": "2026-11-17 08:00:00",
-    "created_at": "2026-11-18 08:01:44"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及",
     "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
@@ -701,17 +833,6 @@
     "category": "クラウド",
     "reason": "クラウドネイティブ実行環境の性能／セキュリティ改善は運用・アーキテクチャ選定に影響する技術ニュース。",
     "published_at": "2026-11-17 03:30:31",
-    "created_at": "2026-11-18 08:01:44"
-  },
-  {
-    "source": "Publickey",
-    "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
-    "url": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
-    "summary": "神戸ソフトがブラウザ上でNode.jsやnpm、対応フレームワークを実行できるOpenVesselをOSS公開。ブラウザベースの開発環境を強化。",
-    "importance": 2,
-    "category": "開発",
-    "reason": "開発体験改善のツールは注目に値するが技術領域が限定されるため重要度は中低。",
-    "published_at": "2026-11-17 00:23:28",
     "created_at": "2026-11-18 08:01:44"
   },
   {
@@ -2748,17 +2869,6 @@
     "reason": "サプライチェーン経由での脅威は開発現場と運用に直接影響し、即時の検査・対応を要するため高重要度。",
     "published_at": "2026-10-26 07:45:00",
     "created_at": "2026-10-27 05:38:24"
-  },
-  {
-    "source": "＠IT",
-    "title": "“コピー”をやめて工数削減――「データのサイロ化」を解消した2社の選択と、消えない“Excelの呪縛”",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/25/news001.html",
-    "summary": "データがシステムごとに散在する『サイロ化』を解消した2社の事例。手作業やデータコピーを減らす具体策と、根強いExcel依存の課題を示す。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "実運用でのデータ統合・プロセス改善の具体例は情シスや開発、経営判断に直接役立つため掲載価値が高い。",
-    "published_at": "2026-10-25 08:00:00",
-    "created_at": "2026-10-26 03:27:54"
   },
   {
     "source": "ITmedia NEWS",
@@ -9339,17 +9449,6 @@
     "created_at": "2026-05-26 05:46:49"
   },
   {
-    "source": "Impress Watch",
-    "title": "ソフトバンク、AI特化の先端クラウド基盤を提供開始",
-    "url": "https://www.watch.impress.co.jp/docs/news/2111434.html",
-    "summary": "ソフトバンクがAIデータセンター向けソフトウエアスタック『Infrinia AI Cloud OS』搭載のGPUクラウドを10月提供、ベータ開始。",
-    "importance": 4,
-    "category": "クラウド",
-    "reason": "国内大手がAI特化クラウドを投入し、AIインフラ競争と企業導入選択に影響するため。",
-    "published_at": "2026-05-25 19:03:15",
-    "created_at": "2026-05-26 05:46:49"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "金融庁・日銀、金融機関にAIサイバー攻撃の対策要請 対応の優先度決定など9項目",
     "url": "https://www.itmedia.co.jp/news/articles/2605/25/news079.html",
@@ -9358,17 +9457,6 @@
     "category": "法規制",
     "reason": "金融インフラに対する規制的指示で、経営トップの関与や短期的対応が求められる点で業界全体に重大な波及効果があるため。",
     "published_at": "2026-05-25 12:20:00",
-    "created_at": "2026-05-26 05:46:49"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "「控えめに言って100兆円」巨大フィジカルAI市場、日本の勝ち筋は 日立がAnthropicとの提携で示した戦略",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2605/25/2000000021/",
-    "summary": "日立がAnthropicと戦略的パートナーシップを発表。フィジカルAI領域で巨額市場を見据えた日本企業の戦略を提示。",
-    "importance": 4,
-    "category": "ビジネス",
-    "reason": "大手製造・インフラ企業と先端AIベンダーの提携は市場構造と産業応用に大きな影響を与えるため。",
-    "published_at": "2026-05-25 10:33:18",
     "created_at": "2026-05-26 05:46:49"
   },
   {
