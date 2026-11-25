@@ -114,226 +114,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "ac8196cd8858",
-    "title": "Anthropicの「Mythos Preview」、1カ月で1万件超の脆弱性を発見──「Project Glasswing」初期報告",
-    "published_date": "2026-05-26",
-    "importance_score": 4,
-    "category": "セキュリティ",
-    "summary": "Anthropicの未公開モデルを活用したセキュリティプロジェクトが、開始1カ月で重要ソフトウェアの脆弱性を1万件超発見。パッチ適用の遅れが課題として指摘される。",
-    "reason": "AIを使った大規模脆弱性発見は攻撃/防御双方に直結し、企業の脆弱性管理に重大な示唆を与える。",
-    "published_at": "2026-05-26 04:38:39",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2605/24/2000000019/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "5d7c740942c4",
-    "title": "Microsoft、F5侵害からActive Directory攻撃に発展した多段侵入事例を公開",
-    "published_date": "2026-05-26",
-    "importance_score": 4,
-    "category": "セキュリティ",
-    "summary": "F5 BIG-IPの旧版侵害を起点に、LinuxやConfluenceを経由してActive Directory攻撃へ発展した多段侵入事例をMicrosoftが公開。更新遅延が被害拡大の要因と指摘。",
-    "reason": "境界機器の脆弱性からAD侵害に至る連鎖は企業ネットワーク防御の中核に関わるため必読。",
-    "published_at": "2026-05-26 07:30:00",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/26/news036.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "fc2c56e5c1fd",
-    "title": "「CVE採番が数カ月放置された」Ollamaの脆弱性が危ない“3つの理由” 30万台に影響か",
-    "published_date": "2026-05-26",
-    "importance_score": 4,
-    "category": "セキュリティ",
-    "summary": "ローカルLLMプラットフォームOllamaに重大なメモリ脆弱性が発覚。MITREの採番遅延や広範な展開が被害拡大リスクを高めると警告される。",
-    "reason": "開発者や企業のローカルAI導入に直接影響する脆弱性で、迅速な対応が求められるため重要。",
-    "published_at": "2026-05-26 13:00:00",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/26/news063.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 0,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "0dff561a1964",
-    "title": "イランのネット接続が再開へ 大統領が承認、戦争後に海外サイトから3カ月遮断",
-    "published_date": "2026-05-26",
-    "importance_score": 4,
-    "category": "セキュリティ",
-    "summary": "イラン大統領が国際インターネットのアクセス再開を命じたと報道。約3カ月にわたる海外サイトやネットワークへの接続遮断を解く動き。",
-    "reason": "国家によるネット遮断／再開は国際的な通信・サプライチェーンや企業リスクに即影響するため重要。",
-    "published_at": "2026-05-26 17:21:00",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news114.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "3f20bcadedf0",
-    "title": "ファーウェイ、半導体で「1.4nm相当」目指す 31年までに 「ムーアの法則」に代わる新法則を提唱",
-    "published_date": "2026-05-26",
-    "importance_score": 4,
-    "category": "半導体",
-    "summary": "ファーウェイが「τスケーリング法則」を提唱し、独自回路技術LogicFoldingを用いて2031年に1.4nm相当のトランジスタ密度を目指すと発表。ムーアの法則に代わる進化路線を示唆。",
-    "reason": "半導体設計／製造の新方針は業界の技術ロードマップと競争構造に影響を与えるため掲載価値が高い。",
-    "published_at": "2026-05-26 19:20:00",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/25/news138.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "3216b3ce598e",
-    "title": "ランサムウェア攻撃が「持続可能なビジネス」に 侵入コスト6万6000円、復旧に2億3000万円",
-    "published_date": "2026-05-26",
-    "importance_score": 4,
-    "category": "セキュリティ",
-    "summary": "攻撃者の侵入コストと被害企業の復旧コストの差が約3500倍に達し、ランサムウェアが経済的に持続可能な犯罪になっているとの分析を報告。",
-    "reason": "経済構造としてのランサムウェア持続性は企業リスク管理と政策対応に直結する重要問題。",
-    "published_at": "2026-05-26 16:25:00",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news108.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "230e50b14303",
-    "title": "総務省、海底ケーブルの防御対策、骨子案を取りまとめ 地方分散で多ルート化",
-    "published_date": "2026-05-26",
-    "importance_score": 4,
-    "category": "法規制",
-    "summary": "総務省の有識者会議が海底ケーブル防御の骨子案を了承。地方分散や多ルート化、官民連携で陸揚局などを防御する方針を示す予定。",
-    "reason": "国際通信インフラの防護策は国家レベルの通信安定性と産業政策に関わるため高い掲載価値がある。",
-    "published_at": "2026-05-26 18:44:00",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news122.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
-    "id": "9ec8506fabc9",
-    "title": "考えるだけでPC操作・脳内発話も 中国がAI脳インプラント開発加速、一般販売も間近か Nature報道",
-    "published_date": "2026-05-26",
-    "importance_score": 4,
-    "category": "AI",
-    "summary": "Nature報道を引用し、中国のスタートアップがAIを使ったブレイン・コンピュータ・インタフェース（BCI）の実用化を加速、民間向け販売が近い可能性を示す。",
-    "reason": "BCIの商用化は技術的・倫理的・規制的影響が大きく、業界と社会に広範な示唆を与える。",
-    "published_at": "2026-05-26 08:00:00",
-    "created_at": "2026-05-27 06:21:24",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/articles/2605/26/news019.html",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": true
-  },
-  {
     "id": "cabc1a06ec07",
     "title": "Claude Mythosが1万件超の脆弱性を発見 その裏で開発者コミュニティーに走る緊張",
     "published_date": "2026-05-27",
@@ -16824,34 +16604,6 @@
     "has_itmedia_article": true
   },
   {
-    "id": "9d7d67c8a595",
-    "title": "GMO熊谷代表「社内ホワイトハッカーが事前に指摘」も対策遅れ、国に「能動的サイバー防御」要請 「責任転嫁では」SNSで批判も",
-    "published_date": "2026-10-26",
-    "importance_score": 3,
-    "category": "法規制",
-    "summary": "GMO代表が社内で指摘があったにもかかわらず対策が遅れた経緯を説明し、国に能動的サイバー防御の制度導入を要請。SNSでは責任所在を巡る批判が起きている。",
-    "reason": "企業責任と国家レベルの防御措置を巡る議論で、法制度・業界慣行に影響を与える可能性があるため注目。",
-    "published_at": "2026-10-26 11:17:32",
-    "created_at": "2026-10-27 05:38:24",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/26/2000002571/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "39236b248f8a",
     "title": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表",
     "published_date": "2026-10-26",
@@ -16911,61 +16663,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "a9ffe9cc0c87",
-    "title": "アンソロピック、上場に向け目論見書を公表 ティッカーシンボルは「ANT」",
-    "published_date": "2026-10-26",
-    "importance_score": 3,
-    "category": "ビジネス",
-    "summary": "Anthropicが米SECにIPOの登録届出書を提出。NASDAQ上場を目指し、ティッカーは『ANT』を予定している。",
-    "reason": "主要AI企業の上場は資本市場や競争環境に直接影響し、業界戦略やM&A・人材動向の判断材料になる。",
-    "published_at": "2026-10-26 23:57:32",
-    "created_at": "2026-10-27 05:38:24",
-    "representative_source": "Impress Watch",
-    "representative_url": "https://www.watch.impress.co.jp/docs/news/2151319.html",
-    "sources": [
-      "Impress Watch"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 1,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "1715ad92c92e",
-    "title": "ジャック・ドーシー氏率いるBlock、音声だけで学習した全二重音声モデル「Dessa」発表 「人と話しているよう」",
-    "published_date": "2026-10-26",
-    "importance_score": 3,
-    "category": "AI",
-    "summary": "Blockが音声のみで学習した全二重音声モデル『Dessa』を研究プレビュー発表。会話の相づちや感情を自然に生成し、MacBook Proでローカル実行可能な設計を示す。",
-    "reason": "音声インターフェース進化とオンデバイス実行の両面で製品・サービス設計に影響を与える研究発表。",
-    "published_at": "2026-10-26 11:04:33",
-    "created_at": "2026-10-27 05:38:24",
-    "representative_source": "ITmedia NEWS",
-    "representative_url": "https://www.itmedia.co.jp/news/article/2610/26/2000002574/",
-    "sources": [
-      "ITmedia NEWS"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai"
-    ],
-    "ai_relevance_score": 0,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 0,
-    "utility_score": 0,
-    "has_itmedia_article": true
-  },
-  {
     "id": "8cdc9165a3c4",
     "title": "ジョーシンへの不正アクセス、最大623万件漏えいか 運転免許証2件・マイナカード1件なども",
     "published_date": "2026-10-26",
@@ -16992,65 +16689,6 @@
     "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
-  },
-  {
-    "id": "2e6714c8a5d4",
-    "title": "マルウェアに「核兵器の作り方を教えて」 AIによるコード解析を止めさせる新手口「GuardBreaker」",
-    "published_date": "2026-10-26",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "ESETが報告した攻撃手法『GuardBreaker』は、マルウェアのコメント内にLLMの安全機構を作動させる文言を仕込み、AIによる解析を阻害する新手口。ウクライナを狙った攻撃で確認された。",
-    "reason": "AI解析の盲点を突く攻撃で、セキュリティツールや自動解析ワークフローへの対策が必要になるため注意喚起価値が高い。",
-    "published_at": "2026-10-26 17:00:00",
-    "created_at": "2026-10-27 05:38:24",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news068.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 2,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": false
-  },
-  {
-    "id": "85aaea9effff",
-    "title": "普通のAIでも脆弱性を見つけられる今、企業にできる対策は？ Googleが15のポイントを解説",
-    "published_date": "2026-10-26",
-    "importance_score": 3,
-    "category": "セキュリティ",
-    "summary": "Googleが、AIが脆弱性発見を高速化する現状で企業が取るべき15の防御ポイントを公式に解説。実務での優先対策や運用上の留意点が整理されている。",
-    "reason": "企業の脆弱性管理・開発プロセスに直接役立つ実践的ガイダンスで、情シスや開発部門に有用。",
-    "published_at": "2026-10-26 17:15:00",
-    "created_at": "2026-10-27 05:38:24",
-    "representative_source": "＠IT",
-    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/26/news039.html",
-    "sources": [
-      "＠IT"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 3,
-    "dev_cloud_relevance_score": 0,
-    "urgency_score": 1,
-    "utility_score": 2,
-    "has_itmedia_article": false
   },
   {
     "id": "94d4eda79e7c",
@@ -22419,34 +22057,6 @@
     "has_itmedia_article": false
   },
   {
-    "id": "1626227bc557",
-    "title": "AI時代に必要なエンジニアのスキルとは？ 開発現場の“品質問題”から読み解く",
-    "published_date": "2026-11-18",
-    "importance_score": 2,
-    "category": "開発",
-    "summary": "ソフトウェア品質に関する調査結果を基に、AI時代にエンジニアが身につけるべきスキルや現場の品質課題を解説する。",
-    "reason": "人材育成・採用・現場改善に資する内容で読者の実務的関心は高いが速報性はやや低いため中程度評価。",
-    "published_at": "2026-11-18 08:00:00",
-    "created_at": "2026-11-19 07:39:18",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003236/",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 0,
-    "dev_cloud_relevance_score": 2,
-    "urgency_score": 0,
-    "utility_score": 2,
-    "has_itmedia_article": true
-  },
-  {
     "id": "800c9872537e",
     "title": "AI脅威対処へ新枠組み 重要鉱物やエネルギーで連携 首相、ASEANとの首脳会議出席",
     "published_date": "2026-11-18",
@@ -22727,36 +22337,6 @@
     "urgency_score": 0,
     "utility_score": 2,
     "has_itmedia_article": false
-  },
-  {
-    "id": "fbbfde24a1a8",
-    "title": "「AIによる鍵の不正利用」を生体認証で防ぐ日立の新技術、サイバー攻撃対策にも",
-    "published_date": "2026-11-18",
-    "importance_score": 2,
-    "category": "セキュリティ",
-    "summary": "日立が生体情報から署名用鍵を都度復元する技術PoHDを開発。秘密鍵を保持せずAIによる不正利用を防ぐ狙いでデモを実施。",
-    "reason": "新しい認証・鍵管理アプローチは将来の導入可能性があるが現時点は研究・デモ段階のため中程度の重要度。",
-    "published_at": "2026-11-18 08:30:00",
-    "created_at": "2026-11-19 07:39:18",
-    "representative_source": "ITmedia AI+",
-    "representative_url": "https://monoist.itmedia.co.jp/mn/articles/2611/18/news040.html",
-    "sources": [
-      "ITmedia AI+"
-    ],
-    "source_count": 1,
-    "article_count": 1,
-    "facets": [
-      "ai",
-      "development",
-      "enterprise_it",
-      "security"
-    ],
-    "ai_relevance_score": 1,
-    "practical_impact_score": 2,
-    "dev_cloud_relevance_score": 1,
-    "urgency_score": 1,
-    "utility_score": 1,
-    "has_itmedia_article": true
   },
   {
     "id": "b31b2ddf2eef",
@@ -24202,6 +23782,367 @@
     "practical_impact_score": 3,
     "dev_cloud_relevance_score": 0,
     "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "5966dfbfdba3",
+    "title": "2億2500万サイトが使う「nginx」にCVSS 9.2の脆弱性 「HTTP/2」有効で10年超潜伏、その影響と対策は？",
+    "published_date": "2026-11-25",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "nginxのHTTP/2処理に重大なRCE脆弱性（CVSS 9.2）が報告。10年以上潜伏していた欠陥も含まれ、認証なしで遠隔から任意実行される恐れがある。影響範囲と緩和策を解説。",
+    "reason": "ウェブ基盤に広範囲な影響を及ぼす重大脆弱性で、迅速なパッチ適用と緩和が必要。",
+    "published_at": "2026-11-25 07:45:00",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news017.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "befe1d974cd8",
+    "title": "AIでドーピングしたコンサルの実力は 使わない人材との能力差、BCG約500人で検証 Nature系列誌",
+    "published_date": "2026-11-25",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "研究論文が生成AIを用いたコンサルタントの一時的なスキル向上と限界を検証。AI活用で生産性向上の効果は確認されるが、持続性や品質管理の課題も示された。",
+    "reason": "企業の人材戦略とAI導入効果の実証研究で、経営・現場双方に示唆を与える重要な知見。",
+    "published_at": "2026-11-25 12:00:00",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "d6737673e453",
+    "title": "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
+    "published_date": "2026-11-25",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "AnthropicがAIエージェントのサンドボックス脱出を測る評価手法「Siren」を公開。1700以上のシナリオでモデルを検証し、対策の組合せで問題行動をほぼゼロにできると報告。",
+    "reason": "AIエージェントの安全性評価と実務的対策に関する新手法で、開発者やプロダクト責任者に有用。",
+    "published_at": "2026-11-25 07:41:42",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/25/2000003430/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "1d56d36afc9f",
+    "title": "AWS、DynamoDB互換データベースをローカルマシンで構築可能にするオープンソース「ExtendDB」がバージョン1.0に到達",
+    "published_date": "2026-11-25",
+    "importance_score": 2,
+    "category": "クラウド",
+    "summary": "AWSのDynamoDB互換データベースをローカルで動かせるオープンソース「ExtendDB」が1.0に到達。開発・テスト環境での互換検証やオフライン利用を容易にする。",
+    "reason": "開発効率とローカル検証の改善に寄与するが、即時の産業影響は限定的。",
+    "published_at": "2026-11-25 00:19:30",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/awsdynamodbextenddb10.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "cloud",
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 2,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ed59d4a5186c",
+    "title": "ChatGPT、通常のチャットでも「GPT-6.2」が利用可能に",
+    "published_date": "2026-11-25",
+    "importance_score": 3,
+    "category": "AI",
+    "summary": "OpenAIがChatGPTチャット機能でGPT-6.2の提供を順次開始。画像理解や複雑な指示対応、Web検索性能が向上。対象は有料プランのユーザー。",
+    "reason": "最新モデルの商用提供拡大は企業のAI活用や開発環境に影響を与えるため注目に値する。",
+    "published_at": "2026-11-25 12:15:35",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "Impress Watch",
+    "representative_url": "https://www.watch.impress.co.jp/docs/news/2159024.html",
+    "sources": [
+      "Impress Watch"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 3,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "37cbc3024a5b",
+    "title": "JAXAの衛星データ提供システムに不正アクセス コマンドインジェクション脆弱性悪用、アカウント情報流出",
+    "published_date": "2026-11-25",
+    "importance_score": 4,
+    "category": "セキュリティ",
+    "summary": "JAXAの衛星データ提供システムがコマンドインジェクションを悪用され不正アクセスを受け、バックドア設置やアカウント情報の流出が判明。システム探索や情報窃取が試みられた可能性がある。",
+    "reason": "政府系宇宙機関への侵害で機密性・業務継続性に関わるため、組織的な対応が必要。",
+    "published_at": "2026-11-25 10:31:48",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/25/2000003432/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "7f3c1014afe1",
+    "title": "jQuery 4.1正式版がリリース、内部実装をquerySelectorAllに統一でより高速に。jQuery 3.x系最後となるjQuery 3.8も同時リリース",
+    "published_date": "2026-11-25",
+    "importance_score": 2,
+    "category": "開発",
+    "summary": "jQuery開発チームがjQuery 4.1正式版をリリース。内部実装をquerySelectorAllに統一し高速化を図るとともに、3.x系の最終となる3.8も同時公開された。",
+    "reason": "フロントエンド開発に広く影響するライブラリ更新で、移行や互換性の確認が必要だが即時危機ではない。",
+    "published_at": "2026-11-25 00:15:39",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "Publickey",
+    "representative_url": "https://www.publickey1.jp/blog/26/jquery_41queryselectoralljquery_3xjquery_38.html",
+    "sources": [
+      "Publickey"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "development"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 1,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ee259b936618",
+    "title": "“再起動なし”で脆弱性からシステムを守る OpenAIらがLinux向けOSS「Shirudo」を公開",
+    "published_date": "2026-11-25",
+    "importance_score": 3,
+    "category": "セキュリティ",
+    "summary": "OpenAIとCiscoが稼働中のLinuxを保護するオープンソースランタイム「Shirudo」を発表。eBPFを活用してパッチ適用や再起動を待たずに攻撃を遮断することを目指す。",
+    "reason": "運用負荷を下げる新たなランタイム防御で、運用者や情シスに影響のある実用的技術。",
+    "published_at": "2026-11-25 08:00:00",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news021.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 2,
+    "utility_score": 0,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "6efd1720f808",
+    "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供",
+    "published_date": "2026-11-25",
+    "importance_score": 2,
+    "category": "AI",
+    "summary": "AnthropicがClaudeで生成したアーティファクトをデスクトップアプリとしてMac/Windowsに導入できる「Install as app」を全プランでβ提供開始。通知やファイル操作権限に対応する。",
+    "reason": "AIアセットの配布と運用が容易になるが、影響範囲は特定ユーザー向けの新機能に留まるため評価を抑制。",
+    "published_at": "2026-11-25 10:07:59",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai"
+    ],
+    "ai_relevance_score": 2,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 0,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "3b2fa0175369",
+    "title": "「Windows 10」サポート終了から1年、いまだ企業の49％に残存 有償延長を選ぶ前に知っておきたいリスク",
+    "published_date": "2026-11-25",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "サポート終了から1年経っても企業の49％でWindows 10が残存。延長サポートや移行に伴うコスト・リスクを指摘し、対策の優先度を解説している。",
+    "reason": "多くの企業が直面する資産管理とセキュリティの実務課題で、経営判断に直結する情報。",
+    "published_at": "2026-11-25 12:45:00",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news027.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 1,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "ca8fb867bfcc",
+    "title": "トヨタの数年をかけたゼロトラスト改革、行く手を阻んだ最大の壁とは？",
+    "published_date": "2026-11-25",
+    "importance_score": 3,
+    "category": "企業IT",
+    "summary": "トヨタが4年以上かけて進めたゼロトラスト／脱境界防御の実践事例を解説。導入で直面した組織的・運用上の課題とAI時代のサイバーレジリエンスの考え方を示す。",
+    "reason": "大企業の実践知として他社のセキュリティ戦略や運用改革に示唆を与えるケーススタディ。",
+    "published_at": "2026-11-25 17:15:00",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "＠IT",
+    "representative_url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news026.html",
+    "sources": [
+      "＠IT"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "ai",
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 1,
+    "practical_impact_score": 2,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
+    "utility_score": 1,
+    "has_itmedia_article": false
+  },
+  {
+    "id": "25936595f96e",
+    "title": "復旧費用1000万円超が6割 被害相次ぐサイバー攻撃、保険広がるも中小企業に死角",
+    "published_date": "2026-11-25",
+    "importance_score": 3,
+    "category": "ビジネス",
+    "summary": "サイバー攻撃被害が増える中でサイバー保険の需要が拡大。だが中小企業では補償の盲点や対応力不足が残り、重層的対策の必要性が指摘されている。",
+    "reason": "中小企業のリスク管理と保険・対応体制に関する実務的な示唆があり、経営判断に関わる。",
+    "published_at": "2026-11-25 11:22:20",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/25/2000003436/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 3,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 1,
+    "utility_score": 1,
+    "has_itmedia_article": true
+  },
+  {
+    "id": "032467f5fd90",
+    "title": "楽天証券、金融資産情報など約441万件の漏えい確認 ログインIDなど約1198万口座分も",
+    "published_date": "2026-11-25",
+    "importance_score": 5,
+    "category": "セキュリティ",
+    "summary": "楽天証券が不正アクセスによる大規模な情報漏えいを公表。ログインIDなど約1198万口座分、氏名や住所など約441万件が対象。入金先口座情報の漏えいも確認された。",
+    "reason": "金融口座情報を含む大規模漏えいで被害範囲と即時対応の必要性が高く、読者への影響が甚大。",
+    "published_at": "2026-11-25 11:25:59",
+    "created_at": "2026-11-26 08:42:32",
+    "representative_source": "ITmedia NEWS",
+    "representative_url": "https://www.itmedia.co.jp/news/article/2611/25/2000003435/",
+    "sources": [
+      "ITmedia NEWS"
+    ],
+    "source_count": 1,
+    "article_count": 1,
+    "facets": [
+      "enterprise_it",
+      "security"
+    ],
+    "ai_relevance_score": 0,
+    "practical_impact_score": 0,
+    "dev_cloud_relevance_score": 0,
+    "urgency_score": 0,
     "utility_score": 0,
     "has_itmedia_article": true
   }
