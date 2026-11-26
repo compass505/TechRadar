@@ -1,6 +1,127 @@
 [
   {
     "source": "＠IT",
+    "title": "「パスワードを変えてもまだ危ない」 Cookie盗難524億件超え、必要な“もう一つ”の対策",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/26/news049.html",
+    "summary": "NordVPNの調査で情報窃取型マルウェアによる認証Cookie流出が世界で524億件超、日本でも約1.89億件を確認。Cookie窃盗はパスワードやMFAを迂回するリスクがあると警告する。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大規模な認証情報窃盗は企業の認証設計・運用に重大な影響を及ぼすため、対策必須の重要テーマ。",
+    "published_at": "2026-11-26 17:15:00",
+    "created_at": "2026-11-27 08:55:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "KDDI、Xのデータ利用で包括契約 通信品質向上や法人向けサービスに活用へ",
+    "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003480/",
+    "summary": "KDDIとXがデータ連携の包括契約を締結。XのリアルタイムデータとKDDIの人流・属性データを組み合わせて分析し、通信品質や法人向けサービスに活用する方針だと説明。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "通信事業者と大規模SNSのデータ連携は企業向けサービスやマーケティングに影響し、データ利活用方針の参考になる。",
+    "published_at": "2026-11-26 14:11:44",
+    "created_at": "2026-11-27 08:55:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
+    "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+    "summary": "2026年に入って脆弱性発見が急増し、他社製品も含め年間で10万件超に。Microsoftの月次修正も100件台から1000件超に増加。AIが脆弱性発見と悪用を加速している影響と対処法を論じる。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "脆弱性・パッチ運用の負荷が短期で大幅増となり、情シスや開発者の対策方針に直結する業界重要ニュース。",
+    "published_at": "2026-11-26 14:04:44",
+    "created_at": "2026-11-27 08:55:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "Character.AIのチャット履歴競売に41州とワシントンD.C.が異議 未成年者の約210万アカウント分も対象",
+    "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003479/",
+    "summary": "破産処理中のCharacter.AIの資産競売に含まれる2100万件超のチャット履歴の売却に対し、41州とD.C.がデータ保護義務がない点を理由に異議を申し立てている。未成年データも多数含まれると主張。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "AIサービスのデータ保護・破産時取扱いに関する先例になりうる訴訟的展開で規制・プライバシー面に重大影響。",
+    "published_at": "2026-11-26 13:32:50",
+    "created_at": "2026-11-27 08:55:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査",
+    "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
+    "summary": "研究チームがGitHub上のコードやドキュメントに埋め込まれたAI向けの隠しテキストを分析。小型AIエージェントを誘導・操作する目的の手法や攻撃者像を報告している。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "開発リポジトリ経由でAIを悪用する新たな攻撃ベクトルで、開発者・セキュリティ担当が対策を検討すべき研究成果。",
+    "published_at": "2026-11-26 12:00:00",
+    "created_at": "2026-11-27 08:55:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "SpaceXの軌道上データセンター衛星「Starmind」、米FCCが最大100万基を承認",
+    "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003468/",
+    "summary": "FCCが軌道上データセンター衛星群『Starmind』の配備を条件付きで承認。最大100万基規模の軌道コンピュートモジュールという前例のない計画で、宇宙デブリ対策は一部保留。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "宇宙でのクラウド/コンピュート展開という新領域の規制と事業性に関わる大きな技術・ビジネス転換点。",
+    "published_at": "2026-11-26 09:15:54",
+    "created_at": "2026-11-27 08:55:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "M&A検討資料など最大数千社分漏えいか ミロク情報子会社に不正アクセス 役職員の認証情報取得される",
+    "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003467/",
+    "summary": "ミロク情報サービスの子会社でファイアウォール設定改ざんや役職員の認証情報取得を伴う不正アクセスが確認され、M&A検討資料など多数の企業データが漏えいした可能性があると発表した。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "委託先経由での機密ビジネスデータ流出はサプライチェーンリスクとして多くの企業が参考にすべき事案。",
+    "published_at": "2026-11-26 08:35:38",
+    "created_at": "2026-11-27 08:55:30"
+  },
+  {
+    "source": "＠IT",
+    "title": "京王グループ、ランサムウェア攻撃の調査結果を公表 「1.2万人」の漏えい確認、影響は1000万人超に",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/26/news035.html",
+    "summary": "京王電鉄のランサムウェア被害調査で従業員ら約1.2万人の情報漏えいを確認。顧客や取引先など約1063万人分に影響する可能性があると発表された。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大手交通インフラ関連企業での大規模漏えいは事業・信頼・規制対応に重大影響を与えるため格上評価。",
+    "published_at": "2026-11-26 08:00:00",
+    "created_at": "2026-11-27 08:55:30"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "1Password、一部顧客の氏名やメールアドレスが流出 保管庫内のデータに「影響なし」",
+    "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003466/",
+    "summary": "1Passwordを提供するAgileBitsが従業員のGitHubアカウント悪用による不正アクセスを公表。一部顧客の氏名やメールが流出したが、Vault内のパスワードや暗号鍵には影響ないと説明。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "パスワード管理サービスでの流出はフィッシング等二次被害のリスクが高く、企業・ユーザー双方で警戒すべき事案。",
+    "published_at": "2026-11-26 07:01:52",
+    "created_at": "2026-11-27 08:55:30"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "管理職の約7割が黙認するシャドーAIの現実 「相談すると禁止されそう」「承認が遅い」",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/26/2000003428/",
+    "summary": "現場で非公式なAIツール利用（シャドーAI）がまん延し、管理職の約7割が黙認している実態を調査。承認遅延や業務スピード重視が背景で、IT統制の課題が浮き彫りに。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "企業のAIガバナンス構築が急務であり、情シス・経営層の意思決定に役立つ実務知見を示す。",
+    "published_at": "2026-11-26 07:00:00",
+    "created_at": "2026-11-27 08:55:30"
+  },
+  {
+    "source": "Publickey",
+    "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+    "url": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
+    "summary": "AIエージェント向けプロトコルMCPにβ機能『Skills over MCP』が追加。外部ツール接続だけでなく、ツールの使い方や運用スキルをMCP経由で配布・管理できる仕組みを提供する。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "エージェントプラットフォームの標準プロトコル拡張は開発者やサービス設計に直接影響する技術動向。",
+    "published_at": "2026-11-26 00:29:05",
+    "created_at": "2026-11-27 08:55:30"
+  },
+  {
+    "source": "＠IT",
     "title": "トヨタの数年をかけたゼロトラスト改革、行く手を阻んだ最大の壁とは？",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news026.html",
     "summary": "トヨタが4年以上かけて進めたゼロトラスト／脱境界防御の実践事例を解説。導入で直面した組織的・運用上の課題とAI時代のサイバーレジリエンスの考え方を示す。",
@@ -2805,17 +2926,6 @@
     "created_at": "2026-10-28 05:08:50"
   },
   {
-    "source": "Impress Watch",
-    "title": "OpenAI、実務遂行能力を大幅に向上した「GPT-6.1 Terra」",
-    "url": "https://www.watch.impress.co.jp/docs/news/2151433.html",
-    "summary": "OpenAIがコスト効率と実務性能を高めた新モデル「GPT-6.1 Terra」を発表。APIやChatGPT Workでの利用が想定される。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "実務適用が進むモデル更新は開発・導入判断に参考になるが、即時の緊急性は限定的",
-    "published_at": "2026-10-27 12:25:13",
-    "created_at": "2026-10-28 05:08:50"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "政府、サイバー攻撃の「緊急対策パッケージ」来週中に策定へ 高市首相がサイバー閣僚会議の初会合で指示",
     "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002620/",
@@ -2824,17 +2934,6 @@
     "category": "法規制",
     "reason": "政府主導の緊急対策は規制・企業対応基準や公的支援に直結するため幅広い影響あり",
     "published_at": "2026-10-27 12:18:21",
-    "created_at": "2026-10-28 05:08:50"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "メアドを検索→AIで“その人専用フィッシングメール”を生成する手法、クリック率が約2.7倍に 7000人以上で実験",
-    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002550/",
-    "summary": "研究チームがLLMを使った大規模個別化フィッシングの実効性を検証し、生成メールのクリック率が約2.7倍に増加することを報告。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AIによるスピアフィッシングの有効性を実証する研究は企業の対策優先度を高めるため実務的価値がある",
-    "published_at": "2026-10-27 12:00:00",
     "created_at": "2026-10-28 05:08:50"
   },
   {
@@ -9351,28 +9450,6 @@
   },
   {
     "source": "ITmedia NEWS",
-    "title": "富士通が「Claude」全社展開へ Anthropicと戦略提携、最新モデルへの早期アクセスも",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/27/news115.html",
-    "summary": "富士通が米Anthropicと戦略提携を締結。生成AI「Claude」を約10万人の全社展開、重要インフラ向け活用やサイバー防御強化で協業し最新モデルへ早期アクセスを獲得する。",
-    "importance": 4,
-    "category": "AI",
-    "reason": "大手SIerが国外AIベンダーと戦略連携し社内展開・インフラ運用に組み込む点は企業IT戦略とセキュリティに直結するため。",
-    "published_at": "2026-05-27 16:25:00",
-    "created_at": "2026-05-28 06:31:21"
-  },
-  {
-    "source": "＠IT",
-    "title": "「技術負債は解消して」 金融庁・日銀が9つの「最先端AI対策」を要請",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/27/news064.html",
-    "summary": "金融庁と日銀が「フロンティアAIによる脅威変化」を踏まえ、金融機関に対して技術負債解消や経営トップの関与など9項目の短期的対応を提示した。",
-    "importance": 4,
-    "category": "セキュリティ",
-    "reason": "金融セクター向けの公式ガイダンスで、リスク対応や経営判断に直結するため情シス・経営層が押さえるべき内容。",
-    "published_at": "2026-05-27 12:00:00",
-    "created_at": "2026-05-28 06:31:21"
-  },
-  {
-    "source": "ITmedia NEWS",
     "title": "選挙の公正確保を “虚偽”SNS対策が判明、AI生成動画像に改変表示義務付け 与野党案",
     "url": "https://www.itmedia.co.jp/news/articles/2605/27/news072.html",
     "summary": "選挙期間中のSNSでの偽情報対策として、AI生成や改変された動画像への表示義務付けを含む法改正案の骨子が与野党協議で判明した。",
@@ -9380,39 +9457,6 @@
     "category": "法規制",
     "reason": "選挙の情報流通を直接規律する法案で、プラットフォーム運営・政治コミュニケーションに重大な影響を与えるため最高度評価。",
     "published_at": "2026-05-27 10:39:00",
-    "created_at": "2026-05-28 06:31:21"
-  },
-  {
-    "source": "＠IT",
-    "title": "Claude Mythosが1万件超の脆弱性を発見 その裏で開発者コミュニティーに走る緊張",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/27/news055.html",
-    "summary": "AnthropicのClaude Mythosがサイバー防御計画で1万件超の深刻脆弱性を検出。大きな成果だが開発者コミュニティへの波及や濫用リスクも指摘される。",
-    "importance": 4,
-    "category": "セキュリティ",
-    "reason": "AIが大規模に脆弱性を発見する影響はセキュリティ運用と脆弱性管理プロセスに直結するため業界的意義が大きい。",
-    "published_at": "2026-05-27 07:30:00",
-    "created_at": "2026-05-28 06:31:21"
-  },
-  {
-    "source": "＠IT",
-    "title": "ランサムウェア被害は前年比389％増 爆増・爆速化の背景とは？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/27/news050.html",
-    "summary": "フォーティネットのレポートで2025年のランサムウェア被害件数が前年から389％増の7,831件に達したと報告。被害拡大の背景と傾向を分析する。",
-    "importance": 4,
-    "category": "セキュリティ",
-    "reason": "被害の大幅増加は企業の事業継続とセキュリティ対策に深刻な影響を与えるため高い優先度。",
-    "published_at": "2026-05-27 07:00:00",
-    "created_at": "2026-05-28 06:31:21"
-  },
-  {
-    "source": "＠IT",
-    "title": "【最終案内】2026年6月にWindows 11が起動不能に？ 「セキュアブート証明書」の期限切れリスクと対策、起動しなくなった場合の対応策",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/27/news012.html",
-    "summary": "一部Windows 11搭載PCでセキュアブート証明書の15年期限切れにより起動不能になるリスクが指摘される。対策や確認手順、復旧方法を詳説する技術ガイドだ。",
-    "importance": 4,
-    "category": "企業IT",
-    "reason": "多くの企業端末に影響し得る実務上の起動リスクで、情シスが即対応すべきため高評価。",
-    "published_at": "2026-05-27 05:00:00",
     "created_at": "2026-05-28 06:31:21"
   },
   {
