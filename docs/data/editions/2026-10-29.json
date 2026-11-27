@@ -5,8 +5,6 @@
       "5e53d486c260",
       "8bb555b70924",
       "f1ce53cff629",
-      "abee438817bc",
-      "64a4a8a2be1c",
       "9dbf2d0c1224",
       "be88210fa916"
     ],
@@ -32,31 +30,18 @@
     "yesterday_ai": [
       "9dbf2d0c1224",
       "5e53d486c260",
-      "f1ce53cff629",
-      "abee438817bc",
-      "16ec881adc84",
-      "e3e525873bc8",
-      "f7b1b57c7c7d",
-      "d797a1f079e4",
-      "4cd62c6287c5"
+      "f1ce53cff629"
     ],
     "yesterday_enterprise_it": [
       "9dbf2d0c1224",
       "be88210fa916",
       "5e53d486c260",
       "8bb555b70924",
-      "f1ce53cff629",
-      "abee438817bc",
-      "16ec881adc84",
-      "e3e525873bc8",
-      "d797a1f079e4",
-      "4cd62c6287c5"
+      "f1ce53cff629"
     ],
     "yesterday_development": [
       "9dbf2d0c1224",
-      "be88210fa916",
-      "64a4a8a2be1c",
-      "f7b1b57c7c7d"
+      "be88210fa916"
     ]
   }
 }

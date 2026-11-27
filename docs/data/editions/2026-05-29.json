@@ -1,33 +1,12 @@
 {
   "edition_date": "2026-05-29",
   "surfaces": {
-    "top_yesterday": [
-      "4eee4833b9d8",
-      "02dcd8b52737",
-      "8b91c7f53735",
-      "329413225e49"
-    ],
+    "top_yesterday": [],
     "recent_important": [
-      "259ec06422d5",
-      "8b91c7f53735",
-      "329413225e49",
-      "a4e54fe4e07f",
-      "4eee4833b9d8",
-      "02dcd8b52737"
+      "259ec06422d5"
     ],
-    "yesterday_ai": [
-      "329413225e49",
-      "4eee4833b9d8",
-      "02dcd8b52737"
-    ],
-    "yesterday_enterprise_it": [
-      "8b91c7f53735",
-      "329413225e49",
-      "4eee4833b9d8",
-      "02dcd8b52737"
-    ],
-    "yesterday_development": [
-      "8b91c7f53735"
-    ]
+    "yesterday_ai": [],
+    "yesterday_enterprise_it": [],
+    "yesterday_development": []
   }
 }

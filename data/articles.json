@@ -1,6 +1,149 @@
 [
   {
     "source": "＠IT",
+    "title": "従業員家族もマルウェア感染の入り口に 約5億件の分析で判明、情シスが促すべき3つの対策",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news044.html",
+    "summary": "NordVPNの約5億件ログ分析から、情報窃取型マルウェア感染経路に従業員家族が関与する実態を報告。情シス向けに推奨する3つの防御策を提示している。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "被害拡大経路の実態と実務的な防御策提示は企業のセキュリティ運用改善に直接役立つため掲載価値あり。",
+    "published_at": "2026-11-27 17:15:00",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "「AI関連の需要強い」京セラ 5年で設備投資9000億円、データセンター需要狙う",
+    "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003521/",
+    "summary": "京セラが2031年3月期までに5年間で設備投資9000億円、研究開発に6500億円を投資すると発表。AI普及に伴うデータセンター需要や半導体関連市場の取り込みを狙う大規模投資計画。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "主要企業による巨額投資はデータセンター・半導体市場の需給やサプライチェーン戦略に直結するため業界影響が大きい。",
+    "published_at": "2026-11-27 16:19:56",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "止まらないKARTE漏えい 契約終了後「削除されたはず」のデータ流出相次ぐ 「人的オペレーションと管理の不備」",
+    "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003517/",
+    "summary": "プレイドのKARTEで契約終了後にデータが削除されず残存・流出する事例が相次いでいる。原因は人的オペレーションと管理の不備とされる。複数企業で影響が出ており、顧客データ管理の運用リスクが浮き彫りに。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "顧客データが契約終了後も残存・流出する運用上の重大欠陥。複数企業に波及する可能性が高く、情シス/経営判断に直結する。",
+    "published_at": "2026-11-27 14:55:00",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "MCPに新機能「Skills over MCP」登場 ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+    "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003513/",
+    "summary": "AIエージェントと外部ツール接続の業界標準MCPに、スキル提供を行う「Skills over MCP」がβ追加。エージェントの行動やユーザー指示をスキルとして配布・共有できる仕組みを目指す。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AIエージェント連携の標準プロトコルに機能追加は開発者やSIerに影響。エコシステム形成に資する技術動向として重要。",
+    "published_at": "2026-11-27 13:33:51",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "＠IT",
+    "title": "「フィッシング対策訓練」って実効性あるの？ 約1.2万人に模擬メール送り検証、結果は……",
+    "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003502/",
+    "summary": "米パデュー大らの再現研究で、フィッシング対策訓練の効果が限定的であることが示された。模擬メールを用いた大規模実験の結果と、研修設計の見直し議論が提示される。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "従来の教育施策の有効性を疑う研究で、企業の対策方針や訓練設計に影響を与えるため情シス/セキュリティ担当に有益。",
+    "published_at": "2026-11-27 12:00:00",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AIリスク監査の実施、わずか5.7％ 内部監査が追い付かない「もう一つのリスク」とは？",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news037.html",
+    "summary": "調査でAI／生成AIを重要リスクと認識する企業が増える一方、内部監査でAIリスクを既に実施している企業は5.7％にとどまる。内部監査体制の遅れと対策不足が示唆される。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "AI導入が進む中で監査・ガバナンスの整備が遅れている点は、リスク管理やコンプライアンス観点で経営に重要。",
+    "published_at": "2026-11-27 10:50:00",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "三井ショッピングパーク、約312万会員の個人情報漏えい アプリに不正アクセス",
+    "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003510/",
+    "summary": "三井ショッピングパークアプリへの不正アクセスで約311万9000人分の会員情報が漏えい。氏名や住所、連絡先などが含まれるが、クレジットカード情報やパスワードは含まれないとされる。大規模消費者データ漏洩の対応と通知が進行中。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "約300万件超の大規模個人情報漏えい。顧客対応・規制対応・ブランドリスクが大きく、企業IT／経営層に重要。",
+    "published_at": "2026-11-27 10:33:52",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "ITmedia NEWS",
+    "title": "文部科学省の入札システムに不正アクセス 最大16万件漏えいか",
+    "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003508/",
+    "summary": "文部科学省の入札システムが不正アクセスを受け、最大約16万件の情報漏えいの可能性が判明。10月に異常を検知し外部専門機関と連携して調査を実施。政府系システムへの侵害で影響範囲の特定と対策が急務となる。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "政府機関システムへの不正アクセス・漏えいは公共性が高く、早急な対応と監査が必要なため重要度高。",
+    "published_at": "2026-11-27 09:08:04",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "ITmedia AI+",
+    "title": "AIエージェントの行動が「適切か暴走か」をどう見極める？ Googleが明かすテストの盲点",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news035.html",
+    "summary": "GoogleがAIコーディングエージェント向け開発を通じて、実運用での評価の盲点を指摘。最終出力評価や操作テストだけでは検出できないリスクや評価方法の課題を解説。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AIエージェントの安全性評価に関する具体的な盲点は、開発・検証プロセスの改善に直結するため開発者向けに重要。",
+    "published_at": "2026-11-27 08:00:00",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "＠IT",
+    "title": "生成AIコストの暴走を防ぐために今すぐやるべきこと",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news002.html",
+    "summary": "生成AIの利用コストが急増するリスクに対し、管理策やポリシー、技術的対処法を整理。エージェント化でコストが加速することを踏まえた即効性のある対策を提示している。",
+    "importance": 3,
+    "category": "企業IT",
+    "reason": "生成AIのコスト問題は多くの企業で実運用に直結する課題で、情シス／CIOが即実行すべき実務的知見を含むため有用。",
+    "published_at": "2026-11-27 05:00:00",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "＠IT",
+    "title": "脱メインフレームの“本丸”はコードではない AIが苦戦する「40年物のデータ移行」",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news019.html",
+    "summary": "レガシーシステム移行で最大の難所はデータ移行。長年蓄積されたデータの不整合や仕様不明点はAIでも自動化しにくく、人の判断が不可欠な箇所を整理している。",
+    "importance": 3,
+    "category": "開発",
+    "reason": "大規模レガシー移行プロジェクトでの実務的な課題とAI適用の限界を示し、プロジェクト計画やリスク管理に直接役立つ内容。",
+    "published_at": "2026-11-27 05:00:00",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "＠IT",
+    "title": "【Win11新機能】もうインストールメディアは不要？ Windows 11「クラウドリビルド」のメリットと落とし穴",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news020.html",
+    "summary": "Windows 11の回復機能「クラウドリビルド」はWinREからOSイメージとドライバを取得して再インストール可能にする。復旧や機器廃棄時の注意点、実行条件を解説。",
+    "importance": 2,
+    "category": "企業IT",
+    "reason": "PC運用・復旧の手順に影響する実務的な機能で、情シス向けの注意点や導入判断に有用だが影響範囲は限定的。",
+    "published_at": "2026-11-27 05:00:00",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "Publickey",
+    "title": "さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表",
+    "url": "https://www.publickey1.jp/blog/26/post_310.html",
+    "summary": "さくらインターネットがさくらのクラウドで東京リージョンに第三ゾーンを新設、さらに新ネットワーク基盤や新データベースサービスを発表。国内クラウドの堅牢化とマルチゾーン戦略を強化。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "国内クラウド事業者のインフラ強化は障害耐性やデータ主権、マルチクラウド設計に影響するため企業ITとクラウド戦略で重要。",
+    "published_at": "2026-11-27 00:47:22",
+    "created_at": "2026-11-28 08:35:54"
+  },
+  {
+    "source": "＠IT",
     "title": "「パスワードを変えてもまだ危ない」 Cookie盗難524億件超え、必要な“もう一つ”の対策",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/26/news049.html",
     "summary": "NordVPNの調査で情報窃取型マルウェアによる認証Cookie流出が世界で524億件超、日本でも約1.89億件を確認。Cookie窃盗はパスワードやMFAを迂回するリスクがあると警告する。",
@@ -2783,17 +2926,6 @@
     "created_at": "2026-10-29 05:24:06"
   },
   {
-    "source": "ITmedia NEWS",
-    "title": "「対策を後回しにしたサーバが軒並み狙われている」 相次ぐ不正アクセスにラックCTOが警鐘",
-    "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002675/",
-    "summary": "ラックCTOがKDDI SUMMITで、脆弱性対策を先送りにしたサーバ群が攻撃者に狙われていると警告。AIによる攻撃の高速化を踏まえた基本対策の見直しを訴えた。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "実運用での被害傾向と対策優先度に関する実務的な警鐘で、情シス・開発者に役立つ。",
-    "published_at": "2026-10-28 17:19:23",
-    "created_at": "2026-10-29 05:24:06"
-  },
-  {
     "source": "＠IT",
     "title": "「AIで攻撃コード生成はたったの数時間に」 Fortinetが5製品を緊急更新＆警鐘",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/28/news020.html",
@@ -2805,28 +2937,6 @@
     "created_at": "2026-10-29 05:24:06"
   },
   {
-    "source": "ITmedia AI+",
-    "title": "「禁止」するだけでは防げない？ パナソニックグループで約33万人分の個人情報が外部生成AIに",
-    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html",
-    "summary": "パナソニックグループで従業員・元従業員約33万人分の個人情報が社内から外部の生成AIサービスへアップロードされた可能性を公表。禁止ルールだけでは防げない課題を指摘。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "大企業でのデータ流出・ガバナンス失敗は他社のAI利用ポリシー設計に直接の教訓を提供する。",
-    "published_at": "2026-10-28 15:30:00",
-    "created_at": "2026-10-29 05:24:06"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Anthropic、独自の“創薬活動”に着手 社員1人のバイオ企業を買収、小児難病の治療薬研究を進める",
-    "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
-    "summary": "Anthropicが小児希少疾患向けの創薬活動に参入。AI（Claude）を活用して実験機関と連携していた企業を買収し、研究を引き継ぐと発表した。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "AI企業のバイオ領域への直接参入は産業横断的な戦略変化であり、業界動向として重要。",
-    "published_at": "2026-10-28 13:07:50",
-    "created_at": "2026-10-29 05:24:06"
-  },
-  {
     "source": "ITmedia NEWS",
     "title": "顧客も巻き込むサイバー脅迫 GMO攻撃が問う企業の防御と国の対処、被害の連鎖どう断つ",
     "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002660/",
@@ -2835,39 +2945,6 @@
     "category": "セキュリティ",
     "reason": "顧客データを巻き込む大規模事案で影響範囲が広く、業界・国レベルの対応議論を促す。",
     "published_at": "2026-10-28 12:42:31",
-    "created_at": "2026-10-29 05:24:06"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "PFNの国産フラグシップモデル「PLaMo 3.1 Prime」発表 オンプレでDeep Research対応 API無料プランも開始",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/",
-    "summary": "Preferred Networksが国産生成AIモデル「PLaMo 3.1 Prime」を発表。オンプレ展開のDeep Research対応やハルシネーション抑制の機能を打ち出し、API無料プランも開始する。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "国内でオンプレ中心の高性能モデル提供は、企業のAI導入戦略とデータ主権に関わる意義がある。",
-    "published_at": "2026-10-28 11:32:41",
-    "created_at": "2026-10-29 05:24:06"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "Discord、公開サーバの会話をGoogle検索などの対象に プライバシーへの懸念も",
-    "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002656/",
-    "summary": "Discordが一部公開サーバーの会話をWeb検索の対象にすると発表。11月にAI要約公開、12月に投稿本文の検索対応を開始。日本は初期設定でオンとなる点に懸念が出ている。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "公開会話の検索化はプライバシーとAI学習データ利用の問題を直撃し、コミュニティ運用や法令対応に影響する。",
-    "published_at": "2026-10-28 11:07:59",
-    "created_at": "2026-10-29 05:24:06"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "AndurilとQualcomm、米国製PC「BlueChip」を発表 Snapdragon X搭載、2027年に受注開始へ",
-    "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002653/",
-    "summary": "AndurilとQualcommが米国内で製造するPCブランド「BlueChip」を発表。Snapdragon X搭載ノートPCを開発し、筐体や基板組み立てを国内で行い2027年に受注開始予定。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "米国発のオンショア製造・サプライチェーン強化は半導体・ハードウェアの地政学的影響が大きい。",
-    "published_at": "2026-10-28 09:48:10",
     "created_at": "2026-10-29 05:24:06"
   },
   {
@@ -2890,17 +2967,6 @@
     "category": "セキュリティ",
     "reason": "DNSはインフラ基盤であり、回避策がない高危険度脆弱性は幅広い緊急対応を要する。",
     "published_at": "2026-10-28 07:45:00",
-    "created_at": "2026-10-29 05:24:06"
-  },
-  {
-    "source": "ITmedia AI+",
-    "title": "日本取引所、金融市場の取引システム運用監視にAIを導入 精度97％を実現した方法",
-    "url": "https://kn.itmedia.co.jp/kn/article/2610/28/2000002621/",
-    "summary": "JPXと日立が取引システムの運用監視にAIを本格導入し、97％の精度を実現した手法を解説。ハルシネーション対策やミッションクリティカルな運用への適用が焦点。",
-    "importance": 3,
-    "category": "企業IT",
-    "reason": "金融のミッションクリティカル運用へのAI適用事例は、同分野や他業界の採用判断に有益な実務情報を示す。",
-    "published_at": "2026-10-28 07:00:00",
     "created_at": "2026-10-29 05:24:06"
   },
   {
@@ -9392,61 +9458,6 @@
     "reason": "政府の国産LLM調達方針の変更は国内ベンダー戦略と市場形成に直結する重要事項。",
     "published_at": "2026-05-29 02:54:00",
     "created_at": "2026-05-30 06:30:27"
-  },
-  {
-    "source": "Impress Watch",
-    "title": "EU、Temuに370億円の罰金 製品の安全リスク評価に問題",
-    "url": "https://www.watch.impress.co.jp/docs/news/2112718.html",
-    "summary": "欧州委員会がデジタルサービス法(DSA)に基づき、中国系ECのTemuに2億ユーロの課徴金を科す。違法製品のリスク評価や対応が不十分だったと判断された。",
-    "importance": 4,
-    "category": "法規制",
-    "reason": "DSA適用の大規模罰金でプラットフォーム責任とコンプライアンス基準の実務に直接影響する判例的事件。",
-    "published_at": "2026-05-28 23:12:57",
-    "created_at": "2026-05-29 07:17:22"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "「答弁原案も作成」 政府職員10万人が生成AI「源内」利用可能に デジタル庁が大規模実証開始",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news136.html",
-    "summary": "デジタル庁が政府職員向け生成AI「源内」の大規模実証を開始。まず約10万人が利用可能となり、全府省庁への展開を見据える。省庁業務にAIが深く関与する初期的大規模導入事例。",
-    "importance": 4,
-    "category": "法規制",
-    "reason": "政府全体へのAI導入で公的意思決定や責任問題、運用ガバナンスに直結するため重大性が高い。",
-    "published_at": "2026-05-28 18:20:00",
-    "created_at": "2026-05-29 07:17:22"
-  },
-  {
-    "source": "ITmedia NEWS",
-    "title": "“AIの身元”確かめる認証基盤 みずほFGとNECが共同実証、AIエージェントが銀行を使う時代見据え",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/28/news124.html",
-    "summary": "みずほFGとNECが、AIエージェントの代理権や正当性を暗号技術で証明する認証基盤「KYA」の実証を開始。銀行業務でAIエージェントが本人代理で振る舞う将来を見据えた取り組み。",
-    "importance": 4,
-    "category": "セキュリティ",
-    "reason": "金融分野でのAI代理利用に伴う認証・不正利用リスクを直接扱う技術で、業界影響が大きい。",
-    "published_at": "2026-05-28 16:00:00",
-    "created_at": "2026-05-29 07:17:22"
-  },
-  {
-    "source": "＠IT",
-    "title": "「侵入から横展開まで30分」がもはや標準 AIで高速化する攻撃、防御は間に合うのか？",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news068.html",
-    "summary": "ESETがAIを活用する脅威アクターにより、初期侵入から横展開までの時間が平均30分に短縮されたと警告。攻撃の高速化と防御側の課題を分析する。",
-    "importance": 4,
-    "category": "セキュリティ",
-    "reason": "AIにより攻撃のスピードと自動化が進んでおり、検知・対処体制の見直しを迫る重要な警告記事。",
-    "published_at": "2026-05-28 13:00:00",
-    "created_at": "2026-05-29 07:17:22"
-  },
-  {
-    "source": "＠IT",
-    "title": "7-Zipにヒープ破壊を引き起こす深刻な脆弱性 急ぎ対処を",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news045.html",
-    "summary": "GitHub Security Labが7-Zip 26.00のヒープバッファオーバーフロー（CVE-2026-48095）を公表。任意コード実行やクラッシュに繋がる重大脆弱性が報告された。",
-    "importance": 4,
-    "category": "セキュリティ",
-    "reason": "広く使われる圧縮ツールのリモート実行に繋がる脆弱性で、迅速な対処が必要なインシデント性が高い。",
-    "published_at": "2026-05-28 07:30:00",
-    "created_at": "2026-05-29 07:17:22"
   },
   {
     "source": "ITmedia NEWS",
